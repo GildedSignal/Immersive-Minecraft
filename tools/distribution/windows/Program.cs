@@ -233,7 +233,8 @@ static class PrismBridge
     public static async Task ImportLocalControls(string game,PackManifest manifest,ConfigRecipeList recipes,Action<string>? status=null)
     {
         var receipt=Path.Combine(game,".friendpack-controls-import.json");
-        var source=ControlsMigration.FindSource(game,manifest.Files.Where(f=>f.Path.StartsWith("mods/")).Select(f=>f.Path),manifest.ModIds);
+        var source=ControlsMigration.NeedsImport(game)||ModSettings.NeedsImport(game)
+            ?ControlsMigration.FindSource(game,manifest.Files.Where(f=>f.Path.StartsWith("mods/")).Select(f=>f.Path),manifest.ModIds):null;
         var other=WorldMode.Game(manifest.Id==WorldMode.Full?WorldMode.Vanilla:WorldMode.Full);
         if(!string.Equals(Path.GetFullPath(other),Path.GetFullPath(game),StringComparison.OrdinalIgnoreCase)&&File.Exists(Path.Combine(other,"options.txt")))source=other;
         if(ControlsMigration.NeedsImport(game)) {

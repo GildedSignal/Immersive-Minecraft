@@ -1,1 +1,1 @@
-{"required":true,"minVersion":"0.8","package":"mcperf.camera.mixin","compatibilityLevel":"JAVA_25","client":["CameraTickMixin","OldCameraMixin"],"injectors":{"defaultRequire":1}}
+{"required":true,"minVersion":"0.8","package":"mcperf.camera.mixin","compatibilityLevel":"JAVA_25","client":["CameraTickMixin","OldCameraMixin","FlightBodyBankMixin"],"injectors":{"defaultRequire":1}}

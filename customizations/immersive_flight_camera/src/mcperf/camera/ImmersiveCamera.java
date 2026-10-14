@@ -15,7 +15,8 @@ public final class ImmersiveCamera implements ClientModInitializer {
     private static Object player, level;
     private static long pausedAt = -1, pausedNanos;
     @Override public void onInitializeClient() {
-        PerspectiveAPI.runWhenReady("immersive-flight-camera", () -> ready = true);
+        FlightMotion.registerKeys();
+        PerspectiveAPI.runWhenReady("immersive-flight-camera", () -> { FlightMotion.registerModifier();ready = true; });
     }
     public static void tick(Minecraft mc) {
         if (!ready || failed || !PerspectiveAPI.isEnabled()) return;
@@ -32,6 +33,7 @@ public final class ImmersiveCamera implements ClientModInitializer {
                 current = behavior.getSelectedPerspectiveId();
             }
             if (p == null || mc.level == null) return;
+            FlightMotion.tick(mc);
             long now = System.nanoTime();
             if (mc.isPaused()) { if (pausedAt < 0) pausedAt = now; return; }
             if (pausedAt >= 0) { pausedNanos += now - pausedAt; pausedAt = -1; }

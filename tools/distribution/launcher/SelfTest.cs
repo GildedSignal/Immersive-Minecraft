@@ -59,6 +59,26 @@ public static class SelfTest
         var properties=new ConfigRecipe("config/test.properties","properties",JsonNode.Parse("{\"quality\":\"high\",\"keybind\":\"author\"}")!.AsObject());
         var propertyOutput=ConfigRecipes.Merge(properties,"# friend settings\nquality=low\nkeybind=friend\nunknown=yes\n");
         Check(propertyOutput.Contains("quality=high")&&propertyOutput.Contains("keybind=friend")&&propertyOutput.Contains("unknown=yes"),"properties binding/comment preservation");
+        var launchRecipe=new ConfigRecipe("config/launch.json","json",JsonNode.Parse("{\"quality\":3,\"openKey\":65}")!.AsObject());
+        var stablePack=pack with {Files=[modV2]};
+        await File.WriteAllTextAsync(Path.Combine(game,"config/launch.json"),"{\"quality\":1,\"openKey\":90}");
+        await PackEngine.Apply(stablePack,package,game,_=>{},configurations:[launchRecipe]);
+        var stableRecipe=await File.ReadAllTextAsync(Path.Combine(game,"config/launch.json"));
+        var stableOptions=await File.ReadAllTextAsync(Path.Combine(game,"options.txt"));
+        var stableTime=new DateTime(2020,1,2,3,4,5,DateTimeKind.Utc);
+        File.SetLastWriteTimeUtc(Path.Combine(game,"config/launch.json"),stableTime);
+        File.SetLastWriteTimeUtc(Path.Combine(game,"options.txt"),stableTime);
+        var installs=new List<string>();await PackEngine.Apply(stablePack,package,game,installs.Add,configurations:[launchRecipe]);
+        Check(!installs.Any(s=>s.StartsWith("Installing")),"unchanged repeat preparation performs no file replacements");
+        Check(File.GetLastWriteTimeUtc(Path.Combine(game,"config/launch.json"))==stableTime&&File.GetLastWriteTimeUtc(Path.Combine(game,"options.txt"))==stableTime,"unchanged settings/options retain timestamps");
+        Check(await File.ReadAllTextAsync(Path.Combine(game,"config/launch.json"))==stableRecipe&&await File.ReadAllTextAsync(Path.Combine(game,"options.txt"))==stableOptions,"repeat preparation preserves exact settings and options bytes");
+        await File.WriteAllTextAsync(Path.Combine(game,"config/launch.json"),"{\"quality\":1,\"openKey\":88}");
+        await File.WriteAllTextAsync(Path.Combine(game,"options.txt"),"key_jump:key.keyboard.q\nmaxFps:60\n");
+        await PackEngine.Apply(stablePack,package,game,_=>{},configurations:[launchRecipe]);
+        var repaired=JsonNode.Parse(await File.ReadAllTextAsync(Path.Combine(game,"config/launch.json")))!;
+        var repairedOptions=PackEngine.ReadOptions(await File.ReadAllTextAsync(Path.Combine(game,"options.txt")));
+        Check(repaired["quality"]!.GetValue<int>()==3&&repaired["openKey"]!.GetValue<int>()==88,"changed managed setting still repaired and personal mod key retained");
+        Check(repairedOptions["maxFps"]=="180"&&repairedOptions["key_jump"]=="key.keyboard.q","changed managed option still repaired and personal movement key retained");
         Console.WriteLine($"PASS {checks} installer checks. Test files: {root}");
     }
 }

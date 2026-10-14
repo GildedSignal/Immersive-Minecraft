@@ -43,6 +43,10 @@ The 26.2 Recolourful text shader uses existing texture corner markers, removing 
 
 The repairs pass 36 dispatch/storage assertions. Native single/double/Ender chest tests pass 21 clear paths and 21 wall controls, retaining obstruction muffling and the 320-ray/12-bounce reverb settings. Sound Physics worker pools shut down on client exit. Enderman body UVs now match the active Fresh Extensions atlas; native before/after corpse captures confirm the missing body surfaces are opaque. A 25-pig death test reaches the existing 16-corpse cap with vanilla overflow and zero budget-helper failures. Streams Reflowing 2.14.4 includes its author's unsafe-terrain-read fixes. Standalone launcher checks verify 212 full / 180 protected artifacts and preserved player preferences. Natural audible comparisons, live launcher feedback, server tick evidence and the 180 FPS target remain pending. The linked public download site can lag this repository until the author publishes the snapshot.
 
+## Staged improvements
+
+Source now includes arrow-key elytra steering with smooth Leawind follow, camera/player banking and collision-limited pullback. The native equipped-flight test and 174 policy/motion checks pass. Launcher preparation skips unchanged settings/options replacements and repeated source-mod scanning; installer regression suites pass. These improvements are **not yet installed or included in the 2026.10.14.2 payload**. Startup-to-world timing and a new standalone release remain pending. See [validation and limits](docs/flight-and-startup-validation.md) and [TODO](TODO.md).
+
 ## Licensing
 
 Original launcher/addon/helper code is MIT where marked. Third-party code, artwork, libraries and shader modifications retain their own licenses and attribution under `tools/distribution/release/pack/notices` and the matching source folders. The root MIT license does not relicense third-party material. Recolourful assets are fetched from their author; only the original one-line correction and archive reconstruction recipe are included here. This project is unofficial and is not affiliated with Mojang, Microsoft, Fabric, Modrinth or Prism Launcher.

@@ -154,14 +154,20 @@ public static class PackEngine
             if(!recipe.Path.StartsWith("config/",StringComparison.Ordinal)) throw new InvalidDataException("Config recipe outside config folder.");
             if(replacements.ContainsKey(recipe.Path)||manifest.Files.Any(f=>f.Path==recipe.Path))throw new InvalidDataException("Config recipe conflicts with managed file.");
             var target=Resolve(minecraftRoot,recipe.Path); var temp=Resolve(staged,recipe.Path);
-            var merged=ConfigRecipes.Merge(recipe,File.Exists(target)?await File.ReadAllTextAsync(target,cancel):"");
+            var existing=File.Exists(target)?await File.ReadAllTextAsync(target,cancel):null;
+            var merged=ConfigRecipes.Merge(recipe,existing??"");
+            if(existing==merged)continue;
             Directory.CreateDirectory(System.IO.Path.GetDirectoryName(temp)!); await File.WriteAllTextAsync(temp,merged,cancel);
             replacements[recipe.Path]=temp;
         }
         var optionsPath=Resolve(minecraftRoot,"options.txt");
         var optionsTemp=Resolve(staged,"options.txt");
-        await File.WriteAllTextAsync(optionsTemp,MergeOptions(File.Exists(optionsPath)?await File.ReadAllTextAsync(optionsPath,cancel):"",manifest.Options),cancel);
-        replacements["options.txt"]=optionsTemp;
+        var existingOptions=File.Exists(optionsPath)?await File.ReadAllTextAsync(optionsPath,cancel):null;
+        var mergedOptions=MergeOptions(existingOptions??"",manifest.Options);
+        if(existingOptions!=mergedOptions){
+            await File.WriteAllTextAsync(optionsTemp,mergedOptions,cancel);
+            replacements["options.txt"]=optionsTemp;
+        }
         var desired=manifest.Files.ToDictionary(x=>x.Path,x=>x.Sha256,StringComparer.OrdinalIgnoreCase);
         var removed=new List<string>();
         if(previous!=null) foreach(var item in previous.Files) {
