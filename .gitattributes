@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.zip -text
+*.jar -text
+*.png -text
+*.exe -text
+# Manifests record hashes of exact payload and reconstruction-recipe bytes.
+tools/distribution/release/pack/** -text
