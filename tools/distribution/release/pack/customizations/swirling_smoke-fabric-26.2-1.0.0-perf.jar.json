@@ -1,0 +1,3894 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "name": "META-INF/",
+      "source": "META-INF/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "source": "META-INF/MANIFEST.MF",
+      "sha256": "25c757d085b60bae650cff0faddea3ef2b91157a0766a131a356519089752750",
+      "size": 346
+    },
+    {
+      "name": "com/",
+      "source": "com/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/swirlingsmoke/",
+      "source": "com/swirlingsmoke/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/swirlingsmoke/SmokeConfig$Value.class",
+      "source": "com/swirlingsmoke/SmokeConfig$Value.class",
+      "sha256": "a7ec1b815984c61a66fcadfd04a4028204f95b494579d2b437840787663b4fe7",
+      "size": 809
+    },
+    {
+      "name": "com/swirlingsmoke/SmokeConfig.class",
+      "source": "com/swirlingsmoke/SmokeConfig.class",
+      "sha256": "a6517b3f9aa2b88dd9ac06b6de52d562195e90cb4e8e0103dcabf55174567446",
+      "size": 1870
+    },
+    {
+      "name": "com/swirlingsmoke/SwirlingSmoke.class",
+      "source": "com/swirlingsmoke/SwirlingSmoke.class",
+      "sha256": "009c450a5da7a7da7cce8aeb1afdaad6951866309a7032e20fabc0229926ed88",
+      "size": 1914
+    },
+    {
+      "name": "com/swirlingsmoke/client/",
+      "source": "com/swirlingsmoke/client/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/swirlingsmoke/client/ParticleAccess.class",
+      "source": "com/swirlingsmoke/client/ParticleAccess.class",
+      "sha256": "c293ee2176e60b0d4292e5d0257c5b258d5080592a587e46f092f7747d49a72f",
+      "size": 5218,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "2QEAJ2NvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2Vzcw=="
+        },
+        {
+          "copy": [
+            15,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "BwADAQATUGFydGljbGVBY2Nlc3MuamF2YQEAL2NvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2VzcyRSZWFkZXJzBwAGAQAuY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzJFJlYWRlcgcACAEAB1JlYWRlcnMBAAZSZWFkZXI="
+        },
+        {
+          "copy": [
+            42,
+            15
+          ]
+        },
+        {
+          "insert": "DAAMAA0KAAQADgEABHRoaXMBAClMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzOwEAD2ZvckVhY2hQYXJ0aWNsZQEATihMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGVFbmdpbmU7TGphdmEvdXRpbC9mdW5jdGlvbi9Db25zdW1lcjspVgEAeChMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGVFbmdpbmU7TGphdmEvdXRpbC9mdW5jdGlvbi9Db25zdW1lcjxMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGU7PjspVgEALmNvbS9zd2lybGluZ3Ntb2tlL21peGluL1BhcnRpY2xlRW5naW5lQWNjZXNzb3I="
+        },
+        {
+          "copy": [
+            57,
+            2
+          ]
+        },
+        {
+          "insert": "FQ=="
+        },
+        {
+          "copy": [
+            119,
+            49
+          ]
+        },
+        {
+          "insert": "DAAXABg="
+        },
+        {
+          "copy": [
+            168,
+            2
+          ]
+        },
+        {
+          "insert": "FgAZAQANamF2YS91dGlsL01hcA=="
+        },
+        {
+          "copy": [
+            173,
+            2
+          ]
+        },
+        {
+          "insert": "Gw=="
+        },
+        {
+          "copy": [
+            197,
+            36
+          ]
+        },
+        {
+          "insert": "DAAdAB4="
+        },
+        {
+          "copy": [
+            233,
+            2
+          ]
+        },
+        {
+          "insert": "HAAfAQA="
+        },
+        {
+          "copy": [
+            235,
+            1
+          ]
+        },
+        {
+          "insert": "amF2YS91dGlsL0NvbGxlY3Rpb24="
+        },
+        {
+          "copy": [
+            238,
+            2
+          ]
+        },
+        {
+          "insert": "IQ=="
+        },
+        {
+          "copy": [
+            269,
+            36
+          ]
+        },
+        {
+          "insert": "DAAjACQ="
+        },
+        {
+          "copy": [
+            305,
+            2
+          ]
+        },
+        {
+          "insert": "IgAlAQASamF2YS91dGlsL0l0ZXJhdG9y"
+        },
+        {
+          "copy": [
+            310,
+            2
+          ]
+        },
+        {
+          "insert": "Jw=="
+        },
+        {
+          "copy": [
+            339,
+            16
+          ]
+        },
+        {
+          "insert": "DAApACo="
+        },
+        {
+          "copy": [
+            355,
+            2
+          ]
+        },
+        {
+          "insert": "KAAr"
+        },
+        {
+          "copy": [
+            365,
+            30
+          ]
+        },
+        {
+          "copy": [
+            403,
+            2
+          ]
+        },
+        {
+          "insert": "LQAuCw=="
+        },
+        {
+          "copy": [
+            406,
+            2
+          ]
+        },
+        {
+          "insert": "AC8="
+        },
+        {
+          "copy": [
+            450,
+            70
+          ]
+        },
+        {
+          "insert": "DAAxADIKAAIAMwEACWNvbnRhaW5lcg=="
+        },
+        {
+          "copy": [
+            523,
+            3
+          ]
+        },
+        {
+          "copy": [
+            573,
+            18
+          ]
+        },
+        {
+          "insert": "AQAGZW5naW5lAQAuTG5ldC9taW5lY3JhZnQvY2xpZW50L3BhcnRpY2xlL1BhcnRpY2xlRW5naW5lOwEACGNvbnN1bWVyAQBHTGphdmEvdXRpbC9mdW5jdGlvbi9Db25zdW1lcjxMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGU7PjsBAB1MamF2YS91dGlsL2Z1bmN0aW9uL0NvbnN1bWVyOwEAXCg="
+        },
+        {
+          "copy": [
+            592,
+            18
+          ]
+        },
+        {
+          "insert": "TA=="
+        },
+        {
+          "copy": [
+            675,
+            27
+          ]
+        },
+        {
+          "insert": "PExuZXQvbWluZWNyYWZ0L2NsaWVudC8="
+        },
+        {
+          "copy": [
+            709,
+            1
+          ]
+        },
+        {
+          "insert": "YXJ0aWNsZS9QYXJ0aWNsZTs+"
+        },
+        {
+          "copy": [
+            732,
+            3
+          ]
+        },
+        {
+          "insert": "AQASamF2YS9sYW5nL0l0ZXJhYmxlBwA9AQAMcmVhZENvbnRlbnRzAQAmKExqYXZhL2xhbmcvT2JqZWN0OylMamF2YS9sYW5nL09iamVjdDsMAD8AQA=="
+        },
+        {
+          "copy": [
+            735,
+            4
+          ]
+        },
+        {
+          "insert": "QQsAPgAlAQAmbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGUHAEQBABtqYXZhL3V0aWwvZnVuY3Rpb24vQ29uc3VtZXIHAEYBAAZhY2NlcHQBABUoTGphdmEvbGFuZy9PYmplY3Q7KVY="
+        },
+        {
+          "copy": [
+            740,
+            2
+          ]
+        },
+        {
+          "insert": "SABJCwBHAEoBAAV2YWx1ZQEAJmphdmEvbGFuZy9SZWZsZWN0aXZlT3BlcmF0aW9uRXhjZXB0aW9uBwBNAQAISU5TVEFOQ0UBADFMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzJFJlYWRlcnM="
+        },
+        {
+          "copy": [
+            744,
+            1
+          ]
+        },
+        {
+          "insert": "DABPAFAJAAcAUQ=="
+        },
+        {
+          "copy": [
+            745,
+            33
+          ]
+        },
+        {
+          "insert": "DABTAFQKAAQAVQEAA2dldAEAJShMamF2YS9sYW5nL0NsYXNzOylMamF2YS9sYW5nL09iamVjdDsMAFcAWAoABwBZ"
+        },
+        {
+          "copy": [
+            781,
+            3
+          ]
+        },
+        {
+          "insert": "bWV0aG9kAQAaTGphdmEvbGFuZy9yZWZsZWN0L01ldGhvZDsMAFsAXAkACQBdAQAYamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9k"
+        },
+        {
+          "copy": [
+            790,
+            2
+          ]
+        },
+        {
+          "insert": "XwEABmludm9rZQEAOQ=="
+        },
+        {
+          "copy": [
+            836,
+            12
+          ]
+        },
+        {
+          "insert": "T2JqZWN0"
+        },
+        {
+          "copy": [
+            854,
+            13
+          ]
+        },
+        {
+          "insert": "T2JqZWN0"
+        },
+        {
+          "copy": [
+            872,
+            13
+          ]
+        },
+        {
+          "insert": "T2JqZWN0OwwAYQBiCgBgAGMBAA0="
+        },
+        {
+          "copy": [
+            887,
+            1
+          ]
+        },
+        {
+          "insert": "aWVsZFJlc29sdmVkAQABWgwAZQBmCQAJAGcBABRyZWFkQ29udGVudHNVbmNhYw=="
+        },
+        {
+          "copy": [
+            896,
+            1
+          ]
+        },
+        {
+          "insert": "ZWQMAGkAQAoAAgBqAQARcmVhZEZpZWxkVW5jYWNoZWQMAGwAQAoAAgBtAQAFZmllbGQBABlMamF2YS9sYW5nL3JlZmxlY3QvRmllbA=="
+        },
+        {
+          "copy": [
+            898,
+            2
+          ]
+        },
+        {
+          "insert": "DABvAHAJAAkAcQEAF2phdmEvbGFuZy9yZWZsZWN0L0ZpZWxkBwBzDABXAEA="
+        },
+        {
+          "copy": [
+            900,
+            2
+          ]
+        },
+        {
+          "insert": "dAB1AQAMaWdub3JlZEFnYWluAQAoTGphdmEvbGFuZy9SZWZsZWN0aXZlT3BlcmF0aW9u"
+        },
+        {
+          "copy": [
+            902,
+            1
+          ]
+        },
+        {
+          "insert": "eGNlcHRpb247AQAGcmVhZGVyAQAwTGNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2VzcyRSZWFkZXI7AQADYWdlAQArKExuZXQvbWluZWNyYQ=="
+        },
+        {
+          "copy": [
+            928,
+            1
+          ]
+        },
+        {
+          "insert": "dC9jbGllbnQvcGFydGljbGUvUGFydGljbGU="
+        },
+        {
+          "copy": [
+            989,
+            2
+          ]
+        },
+        {
+          "insert": "SQEAKGNvbS9zd2lybGluZ3Ntb2tlL21peGluL1BhcnRpY2xlQWNjZXNzb3I="
+        },
+        {
+          "copy": [
+            1009,
+            2
+          ]
+        },
+        {
+          "insert": "fQ=="
+        },
+        {
+          "copy": [
+            1341,
+            29
+          ]
+        },
+        {
+          "insert": "DAB/AIA="
+        },
+        {
+          "copy": [
+            1370,
+            2
+          ]
+        },
+        {
+          "insert": "fgCBAQAIcGFydGljbGUBAChMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGU7AQACeGQBACsoTG5ldC9taW5lY3JhZnQvY2xpZW50L3BhcnRpY2xlL1BhcnRpY2xlOylE"
+        },
+        {
+          "copy": [
+            1380,
+            28
+          ]
+        },
+        {
+          "insert": "DACHAIg="
+        },
+        {
+          "copy": [
+            1408,
+            2
+          ]
+        },
+        {
+          "insert": "fgCJAQACemQ="
+        },
+        {
+          "copy": [
+            1418,
+            22
+          ]
+        },
+        {
+          "insert": "DACMAIg="
+        },
+        {
+          "copy": [
+            1440,
+            2
+          ]
+        },
+        {
+          "insert": "fgCNAQABeQEAEnN3aXJsaW5nU21va2UkZ2V0WQ=="
+        },
+        {
+          "copy": [
+            1445,
+            2
+          ]
+        },
+        {
+          "insert": "kACICwB+AJEBAAhwb3NpdGlvbgEASShMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGU7KUw="
+        },
+        {
+          "copy": [
+            1477,
+            29
+          ]
+        },
+        {
+          "insert": "OwEAHW5ldC9taW5lY3JhZnQvd29ybGQvcGh5cy9WZWMzBwCVAQASc3dpcmxpbmdTbW9rZSRnZXRYDACXAIg="
+        },
+        {
+          "copy": [
+            1506,
+            2
+          ]
+        },
+        {
+          "insert": "fgCYAQASc3dpcmxpbmdTbW9rZSRnZXRa"
+        },
+        {
+          "copy": [
+            1511,
+            2
+          ]
+        },
+        {
+          "insert": "mgCI"
+        },
+        {
+          "copy": [
+            1537,
+            2
+          ]
+        },
+        {
+          "insert": "fgCb"
+        },
+        {
+          "copy": [
+            1578,
+            9
+          ]
+        },
+        {
+          "copy": [
+            1592,
+            2
+          ]
+        },
+        {
+          "copy": [
+            1631,
+            2
+          ]
+        },
+        {
+          "insert": "nQoAlgCe"
+        },
+        {
+          "copy": [
+            2885,
+            121
+          ]
+        },
+        {
+          "insert": "E3N3aXJsaW5nU21va2Ukc2V0WGQBAAQoRClWDACkAKULAH4ApgEAE3N3aXJsaW5nU21va2UkZ2V0WWQMAKgAiAsAfgCpAQATc3dpcmxpbmdTbW9rZSRzZXRZZAwAqwClCwB+AKwBABNzd2lybGluZ1Ntb2tlJHNldFpkDACuAKULAH4ArwEA"
+        },
+        {
+          "copy": [
+            3006,
+            10
+          ]
+        },
+        {
+          "insert": "AQAGZ2V0QWxsCAC0AQAPamF2YS9sYW5nL0NsYXNzBwC2AQAJZ2V0TWV0aG9kAQBAKExqYXZhL2xhbmcvU3RyaW5nO1tMamF2YS9sYW5nL0NsYXNzOylMamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9kOwwAuAC5CgC3ALoBAAdpZ25vcmVkAQAeamF2YS9sYW5nL05vU3VjaEZpZWxkRXhjZXB0aW9uBwC9AQAJcGFydGljbGVzCAC/AQAQZ2V0RGVjbGFyZWRGaWVsZAEALShMamF2YS9sYW5nL1N0cmluZzspTGphdmEvbGFuZy9yZWZsZWN0L0ZpZWxkOwwAwQDCCgC3AMMBAA1zZXRBY2Nlc3NpYmxlAQAEKFopVgwAxQDGCgB0AMcBAA1nZXRTdXBlcmNsYXNzDADJAFQKALcAygEAIExqYXZhL2xhbmcvTm9TdWNoRmllbGRFeGNlcHRpb247AQAEdHlwZQEAFExqYXZhL2xhbmcvQ2xhc3M8Kj47AQARTGphdmEvbGFuZy9DbGFzczsBAARDb2RlAQAPTGluZU51bWJlclRhYmxlAQASTG9jYWxWYXJpYWJsZVRhYmxlAQANU3RhY2tNYXBUYWJsZQEAFkxvY2FsVmFyaWFibGVUeXBlVGFibGUBAAlTaWduYXR1cmUBAAxJbm5lckNsYXNzZXM="
+        },
+        {
+          "copy": [
+            3016,
+            15
+          ]
+        },
+        {
+          "insert": "C05lc3RNZW1iZXJz"
+        },
+        {
+          "copy": [
+            3051,
+            3
+          ]
+        },
+        {
+          "copy": [
+            3056,
+            2
+          ]
+        },
+        {
+          "insert": "BAAAAAAADA=="
+        },
+        {
+          "copy": [
+            3063,
+            3
+          ]
+        },
+        {
+          "insert": "DAANAAEA0A=="
+        },
+        {
+          "copy": [
+            3073,
+            15
+          ]
+        },
+        {
+          "insert": "Dw=="
+        },
+        {
+          "copy": [
+            3089,
+            6
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            3096,
+            15
+          ]
+        },
+        {
+          "insert": "0g=="
+        },
+        {
+          "copy": [
+            3112,
+            11
+          ]
+        },
+        {
+          "insert": "EAAR"
+        },
+        {
+          "copy": [
+            3126,
+            5
+          ]
+        },
+        {
+          "insert": "EgAT"
+        },
+        {
+          "copy": [
+            3134,
+            3
+          ]
+        },
+        {
+          "insert": "0A=="
+        },
+        {
+          "copy": [
+            3138,
+            15
+          ]
+        },
+        {
+          "insert": "Fg=="
+        },
+        {
+          "copy": [
+            3154,
+            2
+          ]
+        },
+        {
+          "insert": "Gg=="
+        },
+        {
+          "copy": [
+            3157,
+            4
+          ]
+        },
+        {
+          "insert": "IA=="
+        },
+        {
+          "copy": [
+            3162,
+            4
+          ]
+        },
+        {
+          "insert": "Jg=="
+        },
+        {
+          "copy": [
+            3167,
+            6
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            3174,
+            8
+          ]
+        },
+        {
+          "insert": "MA=="
+        },
+        {
+          "copy": [
+            3183,
+            7
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            3191,
+            9
+          ]
+        },
+        {
+          "insert": "0w=="
+        },
+        {
+          "copy": [
+            3281,
+            11
+          ]
+        },
+        {
+          "insert": "KA=="
+        },
+        {
+          "copy": [
+            3293,
+            4
+          ]
+        },
+        {
+          "insert": "0QAAABIABAAAABMAJAAUACkAFQAsABYA0gAAACAAAwAkAAUANQA2AAMAAAAtADcAOAAAAAAALQA5ADsAAQDUAAAADAABAAAALQA5ADoAAQDV"
+        },
+        {
+          "copy": [
+            3298,
+            5
+          ]
+        },
+        {
+          "insert": "FA=="
+        },
+        {
+          "copy": [
+            3304,
+            3
+          ]
+        },
+        {
+          "insert": "MQAy"
+        },
+        {
+          "copy": [
+            3310,
+            3
+          ]
+        },
+        {
+          "insert": "0A=="
+        },
+        {
+          "copy": [
+            3314,
+            17
+          ]
+        },
+        {
+          "insert": "Pg=="
+        },
+        {
+          "copy": [
+            3332,
+            6
+          ]
+        },
+        {
+          "insert": "Qg=="
+        },
+        {
+          "copy": [
+            3339,
+            4
+          ]
+        },
+        {
+          "insert": "Pg=="
+        },
+        {
+          "copy": [
+            3344,
+            6
+          ]
+        },
+        {
+          "insert": "Pg=="
+        },
+        {
+          "copy": [
+            3351,
+            2
+          ]
+        },
+        {
+          "insert": "Qw=="
+        },
+        {
+          "copy": [
+            3354,
+            6
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            3361,
+            8
+          ]
+        },
+        {
+          "insert": "MA=="
+        },
+        {
+          "copy": [
+            3370,
+            8
+          ]
+        },
+        {
+          "insert": "RQ=="
+        },
+        {
+          "copy": [
+            3379,
+            8
+          ]
+        },
+        {
+          "insert": "RQ=="
+        },
+        {
+          "copy": [
+            3388,
+            2
+          ]
+        },
+        {
+          "insert": "Sw=="
+        },
+        {
+          "copy": [
+            3391,
+            11
+          ]
+        },
+        {
+          "insert": "0w=="
+        },
+        {
+          "copy": [
+            3513,
+            11
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3525,
+            5
+          ]
+        },
+        {
+          "insert": "KA=="
+        },
+        {
+          "copy": [
+            3531,
+            5
+          ]
+        },
+        {
+          "insert": "0QAAACYACQAAABk="
+        },
+        {
+          "copy": [
+            3539,
+            3
+          ]
+        },
+        {
+          "insert": "GgAJABsADgAdABUAHgAwAB8AOAAgAEMAIgBGACQA0gAAACoABAAwABMATAA2AAQAAABHADUANgAAAAAARwA5ADsAAQACAEUAHQA2AAIA1AAAAAwAAQAAAEcAOQA6AAEA1QAAAAIAPA=="
+        },
+        {
+          "copy": [
+            3543,
+            3
+          ]
+        },
+        {
+          "insert": "PwBAAAEA0AAAAPU="
+        },
+        {
+          "copy": [
+            3557,
+            3
+          ]
+        },
+        {
+          "insert": "AwAAAFOyAFI="
+        },
+        {
+          "copy": [
+            3565,
+            3
+          ]
+        },
+        {
+          "insert": "Vg=="
+        },
+        {
+          "copy": [
+            3575,
+            2
+          ]
+        },
+        {
+          "insert": "WsAACQ=="
+        },
+        {
+          "copy": [
+            3578,
+            2
+          ]
+        },
+        {
+          "insert": "tABexgAUK7QAXg=="
+        },
+        {
+          "copy": [
+            3580,
+            4
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3585,
+            2
+          ]
+        },
+        {
+          "insert": "ZA=="
+        },
+        {
+          "copy": [
+            3588,
+            1
+          ]
+        },
+        {
+          "insert": "TacADyu0AGiaAAgquABrsCu0AGiaAAgquABusCu0AHLHAAUBsCu0AHI="
+        },
+        {
+          "copy": [
+            3590,
+            3
+          ]
+        },
+        {
+          "insert": "drA="
+        },
+        {
+          "copy": [
+            3594,
+            1
+          ]
+        },
+        {
+          "insert": "AbAAAgAV"
+        },
+        {
+          "copy": [
+            3597,
+            2
+          ]
+        },
+        {
+          "insert": "ACI="
+        },
+        {
+          "copy": [
+            3603,
+            2
+          ]
+        },
+        {
+          "insert": "AEcATwBQAA=="
+        },
+        {
+          "copy": [
+            3605,
+            1
+          ]
+        },
+        {
+          "insert": "AAMA0wAAABoABv8AIgACBwA="
+        },
+        {
+          "copy": [
+            3607,
+            1
+          ]
+        },
+        {
+          "insert": "BwAJAAEHAA=="
+        },
+        {
+          "copy": [
+            3617,
+            1
+          ]
+        },
+        {
+          "copy": [
+            3632,
+            1
+          ]
+        },
+        {
+          "copy": [
+            3744,
+            1
+          ]
+        },
+        {
+          "insert": "Cwg="
+        },
+        {
+          "copy": [
+            3844,
+            3
+          ]
+        },
+        {
+          "insert": "TgDRAAAAOgAOAAAAXAAOAF0AFQBfACIAYAAjAGEAJgBiAC0AYwAyAGYAOQBnAD4AaABFAGkARwBsAFAAbQBRAG4A0gAAACAAAwBRAA=="
+        },
+        {
+          "copy": [
+            3848,
+            2
+          ]
+        },
+        {
+          "insert": "dwB4AAIAAABTADUANgAAAA4ARQB5AHoAAQA="
+        },
+        {
+          "copy": [
+            3850,
+            2
+          ]
+        },
+        {
+          "insert": "ewB8AAEA0A=="
+        },
+        {
+          "copy": [
+            3859,
+            15
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            3875,
+            2
+          ]
+        },
+        {
+          "insert": "gg=="
+        },
+        {
+          "copy": [
+            3878,
+            8
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            3887,
+            11
+          ]
+        },
+        {
+          "insert": "0g=="
+        },
+        {
+          "copy": [
+            3899,
+            11
+          ]
+        },
+        {
+          "insert": "gwCE"
+        },
+        {
+          "copy": [
+            3913,
+            5
+          ]
+        },
+        {
+          "insert": "hQCGAAEA0A=="
+        },
+        {
+          "copy": [
+            3925,
+            15
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            3941,
+            2
+          ]
+        },
+        {
+          "insert": "ig=="
+        },
+        {
+          "copy": [
+            3944,
+            8
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            3953,
+            11
+          ]
+        },
+        {
+          "insert": "0g=="
+        },
+        {
+          "copy": [
+            3965,
+            11
+          ]
+        },
+        {
+          "insert": "gwCE"
+        },
+        {
+          "copy": [
+            3979,
+            5
+          ]
+        },
+        {
+          "insert": "iwCGAAEA0A=="
+        },
+        {
+          "copy": [
+            3991,
+            15
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            4007,
+            2
+          ]
+        },
+        {
+          "insert": "jg=="
+        },
+        {
+          "copy": [
+            4010,
+            8
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            4019,
+            11
+          ]
+        },
+        {
+          "insert": "0g=="
+        },
+        {
+          "copy": [
+            4031,
+            11
+          ]
+        },
+        {
+          "insert": "gwCE"
+        },
+        {
+          "copy": [
+            4045,
+            5
+          ]
+        },
+        {
+          "insert": "jwCGAAEA0A=="
+        },
+        {
+          "copy": [
+            4057,
+            15
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            4073,
+            2
+          ]
+        },
+        {
+          "insert": "kg=="
+        },
+        {
+          "copy": [
+            4076,
+            8
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            4085,
+            11
+          ]
+        },
+        {
+          "insert": "0g=="
+        },
+        {
+          "copy": [
+            4097,
+            11
+          ]
+        },
+        {
+          "insert": "gwCE"
+        },
+        {
+          "copy": [
+            4111,
+            5
+          ]
+        },
+        {
+          "insert": "kwCUAAEA0A=="
+        },
+        {
+          "copy": [
+            4123,
+            15
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            4139,
+            3
+          ]
+        },
+        {
+          "insert": "lg=="
+        },
+        {
+          "copy": [
+            4143,
+            4
+          ]
+        },
+        {
+          "insert": "mQ=="
+        },
+        {
+          "copy": [
+            4148,
+            5
+          ]
+        },
+        {
+          "insert": "kg=="
+        },
+        {
+          "copy": [
+            4154,
+            5
+          ]
+        },
+        {
+          "insert": "nA=="
+        },
+        {
+          "copy": [
+            4160,
+            4
+          ]
+        },
+        {
+          "insert": "nw=="
+        },
+        {
+          "copy": [
+            4165,
+            6
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            4172,
+            31
+          ]
+        },
+        {
+          "insert": "0g=="
+        },
+        {
+          "copy": [
+            4204,
+            11
+          ]
+        },
+        {
+          "insert": "gwCE"
+        },
+        {
+          "copy": [
+            4218,
+            7
+          ]
+        },
+        {
+          "insert": "oACh"
+        },
+        {
+          "copy": [
+            4228,
+            5
+          ]
+        },
+        {
+          "insert": "ogCjAAEA0A=="
+        },
+        {
+          "copy": [
+            4240,
+            15
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            4256,
+            8
+          ]
+        },
+        {
+          "insert": "ig=="
+        },
+        {
+          "copy": [
+            4265,
+            6
+          ]
+        },
+        {
+          "insert": "pw=="
+        },
+        {
+          "copy": [
+            4272,
+            8
+          ]
+        },
+        {
+          "insert": "qg=="
+        },
+        {
+          "copy": [
+            4281,
+            6
+          ]
+        },
+        {
+          "insert": "rQ=="
+        },
+        {
+          "copy": [
+            4288,
+            8
+          ]
+        },
+        {
+          "insert": "jg=="
+        },
+        {
+          "copy": [
+            4297,
+            7
+          ]
+        },
+        {
+          "insert": "sAMAsQAAAAIA0QAAABYABQAAAFQABgBVABYAVgAmAFcANwBYANIAAAA0AAUAAAA4AIMAhAAAAAAAOACxALIAAQAAADgAjwCyAAMAAAA4ALMAsgAFAAYAMgCgAKEABwAKAGkAQAABANAAAAB8AAMAAgAAAB4qtgBWErUDvQC3tgC7TCsqA70ABLYAZLBMKrgAbrAAAQAAABcAGABOAAMA0wAAAAYAAVgHAE4A0QAAABIABAAAAHUADgB2ABgAdwAZAHgA0gAAACAAAwAOAAoAWwBcAAEAGQAFALwAeAABAAAAHgA1ADYAAAAKAGwAQAABANAAAADcAAIAAwAAACkqtgBWTCvGACErEsC2AMRNLAS2AMgsKrYAdrBNK7YAy0yn/+RNAbABsAACAAkAGgAbAL4ACQAaACQATgAEANMAAAARAAT8AAUHALdVBwC+SAcATgIA0QAAAC4ACwAAAH0ABQB/AAkAgQAQAIIAFQCDABsAhAAcAA=="
+        },
+        {
+          "copy": [
+            4304,
+            1
+          ]
+        },
+        {
+          "insert": "ACEAiAAkAIYAJQCHACcAiwDSAAAANAAFABAACwBvAHAAAgAcAAUAdwDMAAIAJQACAHcAeAACAAAAKQA1ADYAAAAFACQAzQDPAAEA1AAAAAwAAQAFACQAzQDOAAEA"
+        },
+        {
+          "copy": [
+            4305,
+            2
+          ]
+        },
+        {
+          "insert": "1gAAABI="
+        },
+        {
+          "copy": [
+            4310,
+            3
+          ]
+        },
+        {
+          "insert": "BwACAAoAGAAJAAIACwAYANcAAAAC"
+        },
+        {
+          "copy": [
+            4318,
+            3
+          ]
+        },
+        {
+          "insert": "2AAA"
+        },
+        {
+          "copy": [
+            4324,
+            3
+          ]
+        },
+        {
+          "insert": "Ag=="
+        },
+        {
+          "copy": [
+            4396,
+            3
+          ]
+        },
+        {
+          "insert": "CQ=="
+        }
+      ]
+    },
+    {
+      "name": "com/swirlingsmoke/client/SmokeWindHandler.class",
+      "source": "com/swirlingsmoke/client/SmokeWindHandler.class",
+      "sha256": "d20fc5ee6bf070ff6b374242405fbb658329b3ccc83dcdf95201efad32707bb0",
+      "size": 6614,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "OwEAKWNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9TbW9rZVdpbmRIYW5kbGVy"
+        },
+        {
+          "copy": [
+            15,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "Bw=="
+        },
+        {
+          "copy": [
+            52,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            196,
+            2
+          ]
+        },
+        {
+          "copy": [
+            228,
+            16
+          ]
+        },
+        {
+          "insert": "LmphdmEBADhjb20vc3dpcmxpbmdzbW9rZS9jbGllbnQvU21va2VXaW5kSGFuZGxlciRTbW9rZU5hbWVDYWNoZQcABgEAI2NvbS9zd2lybGluZ3Ntb2tlL1Ntb2tlQ29uZmlnJFZhbHVlBwAIAQAdY29tL3N3aXJsaW5nc21va2UvU21va2VDb25maWcHAAoBAAVWYWx1ZQEALmNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9UZXJyYWluV2luZCRMb2NhbFdpbmQHAA0BACRjb20vc3dpcmxpbmdzbW9rZS9jbGllbnQvVGVycmFpbldpbmQHAA8BAAlMb2NhbFdpbmQBACVqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwBwASAQAeamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzBwAUAQAGTG9va3VwAQAOU21va2VOYW1lQ2FjaGU="
+        },
+        {
+          "copy": [
+            244,
+            52
+          ]
+        },
+        {
+          "copy": [
+            415,
+            56
+          ]
+        },
+        {
+          "insert": "AQANU1BBV05fSEVJR0hUUwEAD0xqYXZhL3V0aWwvTWFwOwEAS0xqYXZhL3V0aWwvTWFwPExuZXQvbWluZWNyYWZ0L2NsaWVudC9wYXJ0aWNsZS9QYXJ0aWNsZTtMamF2YS9sYW5nL0RvdWJsZTs+OwEABjxpbml0PgEAAygpVgwAHwAg"
+        },
+        {
+          "copy": [
+            471,
+            2
+          ]
+        },
+        {
+          "insert": "BAAhAQAEdGhpcwEAK0xjb20vc3dpcmxpbmdzbW9rZS9jbGllbnQvU21va2VXaW5kSGFuZGxlcjsBAAxvbkNsaWVudFRpY2sBACMoTG5ldC9taW5lY3JhZnQvY2xpZW50L01pbmVjcmFmdDspVgEAHm5ldC9taW5lY3JhZnQvY2xpZW50L01pbmVjcmFmdAcAJwEABWxldmVsAQAuTG5ldC9taW5lY3JhZnQvY2xpZW50L211bHRpcGxheWVyL0NsaWVudExldmVsOwwAKQAqCQAoACsBAAhpc1BhdXNlZAEAAygpWgwALQAuCgAoAC8BACxuZXQvbWluZWNyYWZ0L2NsaWVudC9tdWx0aXBsYXllci9DbGllbnRMZXZlbAcAMQwAGAAZCQACADMBAA=="
+        },
+        {
+          "copy": [
+            473,
+            1
+          ]
+        },
+        {
+          "insert": "Y29tL3N3aXJsaW5nc21va2UvY2xpZW50L1dvcmxkV2luZA=="
+        },
+        {
+          "copy": [
+            476,
+            2
+          ]
+        },
+        {
+          "insert": "NQEABHRpY2sBADEoTG5ldC9taW5lY3JhZnQvY2xpZW50L211bHRpcGxheWVyL0NsaWVudExldmVsOylWDAA3ADgKADYAOQwAGgAb"
+        },
+        {
+          "copy": [
+            518,
+            2
+          ]
+        },
+        {
+          "insert": "AgA7CgAQADk="
+        },
+        {
+          "copy": [
+            528,
+            66
+          ]
+        },
+        {
+          "insert": "DAA+AD8JACgAQAEAFShMamF2YS9sYW5nL09iamVjdDs="
+        },
+        {
+          "copy": [
+            598,
+            1
+          ]
+        },
+        {
+          "insert": "VhAAQgEACWFwcGx5V2luZAEAKyhMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGU7KVY="
+        },
+        {
+          "copy": [
+            599,
+            2
+          ]
+        },
+        {
+          "insert": "RABFCgACAEYPBgBHEABFAQAiamF2YS9sYW5nL2ludm9rZS9MYW1iZGFNZXRhZmFjdG9yeQcASgEAC21ldGFmYWN0b3J5AQDMKExqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwO0xqYXZhL2xhbmcvU3RyaW5nO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTtMamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTspTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7DABMAE0KAEsATg8GAE8="
+        },
+        {
+          "copy": [
+            604,
+            43
+          ]
+        },
+        {
+          "insert": "DABRAFISAAAAUwEAJ2NvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2Vzcw=="
+        },
+        {
+          "copy": [
+            652,
+            2
+          ]
+        },
+        {
+          "insert": "VQ=="
+        },
+        {
+          "copy": [
+            702,
+            99
+          ]
+        },
+        {
+          "insert": "DABXAFg="
+        },
+        {
+          "copy": [
+            801,
+            2
+          ]
+        },
+        {
+          "insert": "VgBZAQAJbWluZWNyYWZ0AQAgTG5ldC9taW5lY3JhZnQvY2xpZW50L01pbmVjcmFmdDs="
+        },
+        {
+          "copy": [
+            811,
+            64
+          ]
+        },
+        {
+          "copy": [
+            883,
+            2
+          ]
+        },
+        {
+          "insert": "XQBeCgACAF8="
+        },
+        {
+          "copy": [
+            920,
+            63
+          ]
+        },
+        {
+          "copy": [
+            991,
+            2
+          ]
+        },
+        {
+          "insert": "YQBiCQALAGM="
+        },
+        {
+          "copy": [
+            1034,
+            29
+          ]
+        },
+        {
+          "insert": "DABlAGYKAAkAZw=="
+        },
+        {
+          "copy": [
+            1066,
+            20
+          ]
+        },
+        {
+          "insert": "BwBp"
+        },
+        {
+          "copy": [
+            1096,
+            15
+          ]
+        },
+        {
+          "insert": "DABrAC4="
+        },
+        {
+          "copy": [
+            1111,
+            2
+          ]
+        },
+        {
+          "insert": "agBs"
+        },
+        {
+          "copy": [
+            1121,
+            61
+          ]
+        },
+        {
+          "insert": "DABuAG8="
+        },
+        {
+          "copy": [
+            1182,
+            2
+          ]
+        },
+        {
+          "insert": "AgBw"
+        },
+        {
+          "copy": [
+            1192,
+            52
+          ]
+        },
+        {
+          "insert": "DAByAHMKAFYAdA=="
+        },
+        {
+          "copy": [
+            1244,
+            9
+          ]
+        },
+        {
+          "copy": [
+            1266,
+            19
+          ]
+        },
+        {
+          "insert": "BwB4"
+        },
+        {
+          "copy": [
+            1285,
+            43
+          ]
+        },
+        {
+          "insert": "DAB6AHsKAHkAfA=="
+        },
+        {
+          "copy": [
+            1328,
+            9
+          ]
+        },
+        {
+          "copy": [
+            1350,
+            17
+          ]
+        },
+        {
+          "insert": "BwCA"
+        },
+        {
+          "copy": [
+            1367,
+            13
+          ]
+        },
+        {
+          "insert": "DACCAIMKAIEAhA=="
+        },
+        {
+          "copy": [
+            1380,
+            9
+          ]
+        },
+        {
+          "copy": [
+            1399,
+            20
+          ]
+        },
+        {
+          "copy": [
+            1424,
+            2
+          ]
+        },
+        {
+          "insert": "iABiCQALAIk="
+        },
+        {
+          "copy": [
+            1429,
+            61
+          ]
+        },
+        {
+          "insert": "DACLAIwKAAIAjQ=="
+        },
+        {
+          "copy": [
+            1490,
+            9
+          ]
+        },
+        {
+          "insert": "AQAmbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGUHAJE="
+        },
+        {
+          "copy": [
+            1509,
+            22
+          ]
+        },
+        {
+          "copy": [
+            1536,
+            2
+          ]
+        },
+        {
+          "insert": "kwBiCQALAJQ="
+        },
+        {
+          "copy": [
+            1541,
+            51
+          ]
+        },
+        {
+          "insert": "DACWAJc="
+        },
+        {
+          "copy": [
+            1592,
+            2
+          ]
+        },
+        {
+          "insert": "KACY"
+        },
+        {
+          "copy": [
+            1602,
+            192
+          ]
+        },
+        {
+          "insert": "DACaAJs="
+        },
+        {
+          "copy": [
+            1794,
+            2
+          ]
+        },
+        {
+          "insert": "EACc"
+        },
+        {
+          "copy": [
+            1856,
+            10
+          ]
+        },
+        {
+          "insert": "DACeAJ8="
+        },
+        {
+          "copy": [
+            1866,
+            2
+          ]
+        },
+        {
+          "insert": "DgCgAQABeg=="
+        },
+        {
+          "copy": [
+            1871,
+            2
+          ]
+        },
+        {
+          "insert": "ogCf"
+        },
+        {
+          "copy": [
+            1880,
+            2
+          ]
+        },
+        {
+          "insert": "DgCj"
+        },
+        {
+          "copy": [
+            1890,
+            18
+          ]
+        },
+        {
+          "insert": "DAClAJ8="
+        },
+        {
+          "copy": [
+            1908,
+            2
+          ]
+        },
+        {
+          "insert": "DgCmAQAIc3RyZW5ndGg="
+        },
+        {
+          "copy": [
+            1913,
+            2
+          ]
+        },
+        {
+          "insert": "qACfCgA2AKk="
+        },
+        {
+          "copy": [
+            1929,
+            11
+          ]
+        },
+        {
+          "insert": "NgCj"
+        },
+        {
+          "copy": [
+            1943,
+            11
+          ]
+        },
+        {
+          "insert": "NgCg"
+        },
+        {
+          "copy": [
+            1957,
+            9
+          ]
+        },
+        {
+          "copy": [
+            1976,
+            72
+          ]
+        },
+        {
+          "insert": "DACzALQ="
+        },
+        {
+          "copy": [
+            2048,
+            2
+          ]
+        },
+        {
+          "insert": "AgC1AQALbmF0dXJhbFdpbmQBADBMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1RlcnJhaW5XaW5kJExvY2FsV2luZDsBAAhwYXJ0aWNsZQEAKExuZXQvbWluZWNyYWZ0L2NsaWVudC9wYXJ0aWNsZS9QYXJ0aWNsZTsBAAFEAQAFcGhhc2UBAARzd2F5AQALdHVyYnVsZW5jZVgBAAt0dXJidWxlbmNl"
+        },
+        {
+          "copy": [
+            2050,
+            1
+          ]
+        },
+        {
+          "insert": "AQA="
+        },
+        {
+          "copy": [
+            2053,
+            1
+          ]
+        },
+        {
+          "insert": "bmF0dXJhbFdpbmRYAQAMbmF0dXJhbFdpbmRaAQATbmF0dXJhbEhlaWdodEZhY3RvcgEAEnRlcnJhaW5Nb3Rpb25TY2FsZQEADm5hdHVyYWxUYXJnZXRYAQAObmF0dXJhbFRhcmdldFo="
+        },
+        {
+          "copy": [
+            2058,
+            7
+          ]
+        },
+        {
+          "insert": "DADGAIMKAIEAxw=="
+        },
+        {
+          "copy": [
+            2065,
+            9
+          ]
+        },
+        {
+          "copy": [
+            2084,
+            5
+          ]
+        },
+        {
+          "insert": "DADLAG8="
+        },
+        {
+          "copy": [
+            2089,
+            2
+          ]
+        },
+        {
+          "insert": "VgDM"
+        },
+        {
+          "copy": [
+            2099,
+            5
+          ]
+        },
+        {
+          "insert": "DADOAG8="
+        },
+        {
+          "copy": [
+            2104,
+            2
+          ]
+        },
+        {
+          "insert": "VgDP"
+        },
+        {
+          "copy": [
+            2114,
+            14
+          ]
+        },
+        {
+          "insert": "DADRALQKAFYA0gEA"
+        },
+        {
+          "copy": [
+            2128,
+            1
+          ]
+        },
+        {
+          "insert": "dGFyZ2V0WAEAB3RhcmdldFoBAAhyZXNwb25zZQEAC3RhcmdldFNwZWVkAQAKZGlyZWN0aW9uWAEACmRpcmVjdGlvbloBABBjdXJyZW50QWxvbmdXaW5kAQAKY29ycmVjdGlvbgEACXdvcmxkV2luZAEAJigpTGNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9Xb3JsZFdpbmQ7"
+        },
+        {
+          "copy": [
+            2131,
+            48
+          ]
+        },
+        {
+          "insert": "3g=="
+        },
+        {
+          "copy": [
+            2180,
+            54
+          ]
+        },
+        {
+          "insert": "BwDgAQAISU5TVEFOQ0UBADpMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1Ntb2tlV2luZEhhbmRsZXIkU21va2VOYW1lQ2FjaGU7"
+        },
+        {
+          "copy": [
+            2239,
+            2
+          ]
+        },
+        {
+          "insert": "4gDjCQAHAOQ="
+        },
+        {
+          "copy": [
+            2244,
+            33
+          ]
+        },
+        {
+          "insert": "DADmAOc="
+        },
+        {
+          "copy": [
+            2277,
+            2
+          ]
+        },
+        {
+          "insert": "BADoAQAlKEw="
+        },
+        {
+          "copy": [
+            2293,
+            15
+          ]
+        },
+        {
+          "copy": [
+            2477,
+            2
+          ]
+        },
+        {
+          "insert": "TGphdmEvbGFuZy9PYmplY3Q7DABlAOo="
+        },
+        {
+          "copy": [
+            2491,
+            2
+          ]
+        },
+        {
+          "insert": "BwDr"
+        },
+        {
+          "copy": [
+            2496,
+            2
+          ]
+        },
+        {
+          "insert": "HAAdCQACAO0BACY="
+        },
+        {
+          "copy": [
+            2515,
+            12
+          ]
+        },
+        {
+          "insert": "T2JqZWN0"
+        },
+        {
+          "copy": [
+            2539,
+            2
+          ]
+        },
+        {
+          "insert": "TGphdmEvbGFuZy9PYmplY3Q7EADvAQAVbGFtYmRhJGhlaWdodEZhY3RvciQwAQBkKExuZXQvbWluZWNyYWZ0L2NsaWVudC9wYXJ0aWNsZS9QYXJ0aWNsZTtMbmV0L21pbmVjcmFmdC9jbGllbnQvcGFydGljbGUvUGFydGljbGU7KUxqYXZhL2xhbmcvRG91YmxlOw=="
+        },
+        {
+          "copy": [
+            2547,
+            2
+          ]
+        },
+        {
+          "insert": "8QDyCgACAPMPBgD0AQA8KExuZXQvbWluZWNyYWZ0L2NsaWVudC9wYXJ0aWNsZS8="
+        },
+        {
+          "copy": [
+            2556,
+            1
+          ]
+        },
+        {
+          "insert": "YXJ0aWNsZTsp"
+        },
+        {
+          "copy": [
+            2571,
+            6
+          ]
+        },
+        {
+          "insert": "bGFuZy9Ebw=="
+        },
+        {
+          "copy": [
+            2577,
+            1
+          ]
+        },
+        {
+          "insert": "Ymxl"
+        },
+        {
+          "copy": [
+            2585,
+            1
+          ]
+        },
+        {
+          "insert": "EAD2"
+        },
+        {
+          "copy": [
+            2596,
+            82
+          ]
+        },
+        {
+          "copy": [
+            2686,
+            2
+          ]
+        },
+        {
+          "insert": "+AD5EgABAPo="
+        },
+        {
+          "copy": [
+            2691,
+            16
+          ]
+        },
+        {
+          "insert": "BwD8"
+        },
+        {
+          "copy": [
+            2707,
+            88
+          ]
+        },
+        {
+          "insert": "DAD+AP8LAP0BAA=="
+        },
+        {
+          "copy": [
+            2798,
+            19
+          ]
+        },
+        {
+          "insert": "BwEC"
+        },
+        {
+          "copy": [
+            2827,
+            14
+          ]
+        },
+        {
+          "copy": [
+            2846,
+            1
+          ]
+        },
+        {
+          "insert": "AQQAnwoBAwEF"
+        },
+        {
+          "copy": [
+            2851,
+            21
+          ]
+        },
+        {
+          "insert": "DAEHAGIJAAsBCA=="
+        },
+        {
+          "copy": [
+            2872,
+            9
+          ]
+        },
+        {
+          "copy": [
+            2891,
+            20
+          ]
+        },
+        {
+          "copy": [
+            2916,
+            1
+          ]
+        },
+        {
+          "insert": "AQwAYgkACwEN"
+        },
+        {
+          "copy": [
+            2921,
+            14
+          ]
+        },
+        {
+          "insert": "DAEPARA="
+        },
+        {
+          "copy": [
+            2935,
+            2
+          ]
+        },
+        {
+          "insert": "gQERAQABeQ=="
+        },
+        {
+          "copy": [
+            2940,
+            1
+          ]
+        },
+        {
+          "insert": "ARMAbw=="
+        },
+        {
+          "copy": [
+            2949,
+            2
+          ]
+        },
+        {
+          "insert": "VgEUAQAWbmV0L21pbmVjcmFmdC91dGlsL010aA=="
+        },
+        {
+          "copy": [
+            2954,
+            1
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            2964,
+            1
+          ]
+        },
+        {
+          "copy": [
+            2987,
+            17
+          ]
+        },
+        {
+          "insert": "DAEYARkKARcBGgEABnNwYXduWQEABXN0YXJ0AQAEZnVsbA=="
+        },
+        {
+          "copy": [
+            3004,
+            24
+          ]
+        },
+        {
+          "insert": "AQAEc2FsdAEAAUkBAARoYXNo"
+        },
+        {
+          "copy": [
+            3038,
+            34
+          ]
+        },
+        {
+          "insert": "DAEnASg="
+        },
+        {
+          "copy": [
+            3072,
+            1
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            3076,
+            1
+          ]
+        },
+        {
+          "insert": "ASkBAAdpZ25vcmVkAQAIPGNsaW5pdD4="
+        },
+        {
+          "copy": [
+            3077,
+            2
+          ]
+        },
+        {
+          "insert": "NgAhCgAQACE="
+        },
+        {
+          "copy": [
+            3085,
+            24
+          ]
+        },
+        {
+          "insert": "BwEv"
+        },
+        {
+          "copy": [
+            3109,
+            1
+          ]
+        },
+        {
+          "insert": "ATAAIQ=="
+        },
+        {
+          "copy": [
+            3114,
+            14
+          ]
+        },
+        {
+          "copy": [
+            3206,
+            46
+          ]
+        },
+        {
+          "copy": [
+            3405,
+            14
+          ]
+        },
+        {
+          "insert": "AQAMSW5uZXI="
+        },
+        {
+          "copy": [
+            3458,
+            2
+          ]
+        },
+        {
+          "insert": "YXNzZXM="
+        },
+        {
+          "copy": [
+            4236,
+            15
+          ]
+        },
+        {
+          "copy": [
+            4275,
+            17
+          ]
+        },
+        {
+          "insert": "AQALTmVzdE1lbWJlcnMAIQACAAQAAAADABoAGAAZAAAAGgAaABsAAAAaABwAHQAB"
+        },
+        {
+          "copy": [
+            4293,
+            2
+          ]
+        },
+        {
+          "insert": "AAAAAgAeAA=="
+        },
+        {
+          "copy": [
+            4323,
+            2
+          ]
+        },
+        {
+          "copy": [
+            4863,
+            2
+          ]
+        },
+        {
+          "copy": [
+            4879,
+            4
+          ]
+        },
+        {
+          "insert": "AQEz"
+        },
+        {
+          "copy": [
+            4912,
+            15
+          ]
+        },
+        {
+          "insert": "Ig=="
+        },
+        {
+          "copy": [
+            4928,
+            5
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            4935,
+            14
+          ]
+        },
+        {
+          "insert": "ATU="
+        },
+        {
+          "copy": [
+            4951,
+            11
+          ]
+        },
+        {
+          "insert": "IwAk"
+        },
+        {
+          "copy": [
+            4965,
+            5
+          ]
+        },
+        {
+          "insert": "JQAmAAEBMw=="
+        },
+        {
+          "copy": [
+            4977,
+            15
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            4993,
+            8
+          ]
+        },
+        {
+          "insert": "MA=="
+        },
+        {
+          "copy": [
+            5002,
+            6
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            5009,
+            3
+          ]
+        },
+        {
+          "insert": "Og=="
+        },
+        {
+          "copy": [
+            5013,
+            2
+          ]
+        },
+        {
+          "insert": "PA=="
+        },
+        {
+          "copy": [
+            5016,
+            3
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            5020,
+            3
+          ]
+        },
+        {
+          "insert": "QQ=="
+        },
+        {
+          "copy": [
+            5024,
+            2
+          ]
+        },
+        {
+          "insert": "VA=="
+        },
+        {
+          "copy": [
+            5027,
+            4
+          ]
+        },
+        {
+          "insert": "Wg=="
+        },
+        {
+          "copy": [
+            5032,
+            5
+          ]
+        },
+        {
+          "insert": "ATY="
+        },
+        {
+          "copy": [
+            5103,
+            10
+          ]
+        },
+        {
+          "insert": "ADIAATQAAAAeAAcAAAAWAAUAFwAQABgAEQAbABgAHAAfAB0AKwAeATUAAAAWAA=="
+        },
+        {
+          "copy": [
+            5114,
+            3
+          ]
+        },
+        {
+          "insert": "ACwAWwBcAAAABQAnACkAKgABAA=="
+        },
+        {
+          "copy": [
+            5117,
+            1
+          ]
+        },
+        {
+          "insert": "AEQARQABATM="
+        },
+        {
+          "copy": [
+            5126,
+            15
+          ]
+        },
+        {
+          "insert": "YA=="
+        },
+        {
+          "copy": [
+            5142,
+            6
+          ]
+        },
+        {
+          "insert": "ZA=="
+        },
+        {
+          "copy": [
+            5149,
+            2
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            5152,
+            2
+          ]
+        },
+        {
+          "insert": "ag=="
+        },
+        {
+          "copy": [
+            5155,
+            2
+          ]
+        },
+        {
+          "insert": "bQ=="
+        },
+        {
+          "copy": [
+            5158,
+            6
+          ]
+        },
+        {
+          "insert": "cQ=="
+        },
+        {
+          "copy": [
+            5165,
+            8
+          ]
+        },
+        {
+          "insert": "dQ=="
+        },
+        {
+          "copy": [
+            5174,
+            3
+          ]
+        },
+        {
+          "insert": "dg=="
+        },
+        {
+          "copy": [
+            5178,
+            4
+          ]
+        },
+        {
+          "insert": "fQ=="
+        },
+        {
+          "copy": [
+            5183,
+            7
+          ]
+        },
+        {
+          "insert": "fg=="
+        },
+        {
+          "copy": [
+            5191,
+            6
+          ]
+        },
+        {
+          "insert": "hQ=="
+        },
+        {
+          "copy": [
+            5198,
+            2
+          ]
+        },
+        {
+          "insert": "hg=="
+        },
+        {
+          "copy": [
+            5201,
+            11
+          ]
+        },
+        {
+          "insert": "ig=="
+        },
+        {
+          "copy": [
+            5213,
+            2
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            5216,
+            2
+          ]
+        },
+        {
+          "insert": "ag=="
+        },
+        {
+          "copy": [
+            5219,
+            2
+          ]
+        },
+        {
+          "insert": "bQ=="
+        },
+        {
+          "copy": [
+            5222,
+            8
+          ]
+        },
+        {
+          "insert": "jg=="
+        },
+        {
+          "copy": [
+            5231,
+            2
+          ]
+        },
+        {
+          "insert": "jw=="
+        },
+        {
+          "copy": [
+            5234,
+            8
+          ]
+        },
+        {
+          "insert": "jg=="
+        },
+        {
+          "copy": [
+            5243,
+            2
+          ]
+        },
+        {
+          "insert": "jw=="
+        },
+        {
+          "copy": [
+            5246,
+            17
+          ]
+        },
+        {
+          "insert": "lbYAaMAA"
+        },
+        {
+          "copy": [
+            5263,
+            3
+          ]
+        },
+        {
+          "insert": "bQ=="
+        },
+        {
+          "copy": [
+            5273,
+            5
+          ]
+        },
+        {
+          "insert": "mQ=="
+        },
+        {
+          "copy": [
+            5279,
+            2
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            5282,
+            9
+          ]
+        },
+        {
+          "insert": "PA=="
+        },
+        {
+          "copy": [
+            5292,
+            5
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            5298,
+            2
+          ]
+        },
+        {
+          "insert": "nQ=="
+        },
+        {
+          "copy": [
+            5301,
+            6
+          ]
+        },
+        {
+          "insert": "oQ=="
+        },
+        {
+          "copy": [
+            5308,
+            6
+          ]
+        },
+        {
+          "insert": "pA=="
+        },
+        {
+          "copy": [
+            5315,
+            6
+          ]
+        },
+        {
+          "insert": "pw=="
+        },
+        {
+          "copy": [
+            5322,
+            4
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            5327,
+            2
+          ]
+        },
+        {
+          "insert": "qg=="
+        },
+        {
+          "copy": [
+            5330,
+            2
+          ]
+        },
+        {
+          "insert": "qw=="
+        },
+        {
+          "copy": [
+            5333,
+            15
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            5349,
+            2
+          ]
+        },
+        {
+          "insert": "rQ=="
+        },
+        {
+          "copy": [
+            5352,
+            15
+          ]
+        },
+        {
+          "insert": "rg=="
+        },
+        {
+          "copy": [
+            5368,
+            7
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            5376,
+            2
+          ]
+        },
+        {
+          "insert": "sA=="
+        },
+        {
+          "copy": [
+            5379,
+            16
+          ]
+        },
+        {
+          "insert": "rg=="
+        },
+        {
+          "copy": [
+            5396,
+            10
+          ]
+        },
+        {
+          "insert": "sQ=="
+        },
+        {
+          "copy": [
+            5407,
+            2
+          ]
+        },
+        {
+          "insert": "tg=="
+        },
+        {
+          "copy": [
+            5410,
+            5
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            5494,
+            1
+          ]
+        },
+        {
+          "copy": [
+            5681,
+            16
+          ]
+        },
+        {
+          "insert": "AJI="
+        },
+        {
+          "copy": [
+            5699,
+            13
+          ]
+        },
+        {
+          "insert": "AJI="
+        },
+        {
+          "copy": [
+            5714,
+            11
+          ]
+        },
+        {
+          "insert": "ATQAAABuABsAAAAhAAcAIgAIACUAIAAmADgAJwBCACgARQApAEgAKgBXACsAYwAsAG8ALwByADAAdQAxAHgAMgB7ADMAigA0AJIANQCXADYApQA3AKwAOACzADkAugA6AMcAOwDOAEAA6QBCAQUARAEQAEYBNQAAAI4ADgClACkAtwC4ABQAkgA8ACkAKgATAAABEQC5ALoAAAAgAPEAbgC7AAEAOADZALwAuwADAEIAzwC9ALsABQBFAMwAvgC7AAcASADJAL8AuwAJAHIAnwDAALsACwB1AJwAwQC7AA0AeACZAMIAuwAPAHsAlgDDALsAEQDpACgAxAC7ABMBBQAMAMUAuwAV"
+        },
+        {
+          "copy": [
+            5725,
+            3
+          ]
+        },
+        {
+          "insert": "swC0AAEBMw=="
+        },
+        {
+          "copy": [
+            5735,
+            21
+          ]
+        },
+        {
+          "insert": "yA=="
+        },
+        {
+          "copy": [
+            5757,
+            6
+          ]
+        },
+        {
+          "insert": "yQ=="
+        },
+        {
+          "copy": [
+            5764,
+            20
+          ]
+        },
+        {
+          "insert": "zQ=="
+        },
+        {
+          "copy": [
+            5785,
+            6
+          ]
+        },
+        {
+          "insert": "0A=="
+        },
+        {
+          "copy": [
+            5792,
+            30
+          ]
+        },
+        {
+          "insert": "0w=="
+        },
+        {
+          "copy": [
+            5823,
+            5
+          ]
+        },
+        {
+          "insert": "ATY="
+        },
+        {
+          "copy": [
+            5972,
+            10
+          ]
+        },
+        {
+          "insert": "ATQAAAAm"
+        },
+        {
+          "copy": [
+            5982,
+            2
+          ]
+        },
+        {
+          "insert": "AAAASQAMAEoAFQBLABYATgAcAE8AIgBQADMAUQA9AFIATABTATUAAABcAAkAAABNALkAugAAAAAATQDUALsAAQAAAE0A1QC7AAMAAABNANYAuwAFAAwAQQDXALsABwAcADEA2AC7AAkAIgArANkAuwALADMAGgDaALsADQA9ABAA2wC7AA8ACQDcAN0AAQEz"
+        },
+        {
+          "copy": [
+            5992,
+            14
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            6007,
+            5
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            6014,
+            13
+          ]
+        },
+        {
+          "insert": "XQBeAAEBMwAAAFw="
+        },
+        {
+          "copy": [
+            6038,
+            3
+          ]
+        },
+        {
+          "insert": "AQAAACE="
+        },
+        {
+          "copy": [
+            6046,
+            3
+          ]
+        },
+        {
+          "insert": "3w=="
+        },
+        {
+          "copy": [
+            6050,
+            2
+          ]
+        },
+        {
+          "insert": "Gw=="
+        },
+        {
+          "copy": [
+            6053,
+            3
+          ]
+        },
+        {
+          "insert": "4ZoAFLIA5Sq2AOm2AOzAAGq2AG2s"
+        },
+        {
+          "copy": [
+            6060,
+            2
+          ]
+        },
+        {
+          "insert": "AAAAAwE2AAAAAwABHwE0AAA="
+        },
+        {
+          "copy": [
+            6088,
+            2
+          ]
+        },
+        {
+          "insert": "AAMAAABeAA4AXwAfAGEBNQAAAAwAAQAAACEAuQA="
+        },
+        {
+          "copy": [
+            6092,
+            1
+          ]
+        },
+        {
+          "insert": "AAAACgBuAG8AAQEzAAAAoAAG"
+        },
+        {
+          "copy": [
+            6113,
+            5
+          ]
+        },
+        {
+          "copy": [
+            6221,
+            3
+          ]
+        },
+        {
+          "insert": "7g=="
+        },
+        {
+          "copy": [
+            6225,
+            4
+          ]
+        },
+        {
+          "insert": "+w=="
+        },
+        {
+          "copy": [
+            6230,
+            3
+          ]
+        },
+        {
+          "insert": "AQE="
+        },
+        {
+          "copy": [
+            6235,
+            3
+          ]
+        },
+        {
+          "insert": "AQM="
+        },
+        {
+          "copy": [
+            6240,
+            1
+          ]
+        },
+        {
+          "insert": "AQY="
+        },
+        {
+          "copy": [
+            6243,
+            2
+          ]
+        },
+        {
+          "insert": "AQk="
+        },
+        {
+          "copy": [
+            6247,
+            2
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            6250,
+            1
+          ]
+        },
+        {
+          "insert": "AQM="
+        },
+        {
+          "copy": [
+            6253,
+            1
+          ]
+        },
+        {
+          "insert": "AQY="
+        },
+        {
+          "copy": [
+            6256,
+            3
+          ]
+        },
+        {
+          "insert": "AQo="
+        },
+        {
+          "copy": [
+            6261,
+            2
+          ]
+        },
+        {
+          "insert": "AQ4="
+        },
+        {
+          "copy": [
+            6265,
+            2
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            6268,
+            1
+          ]
+        },
+        {
+          "insert": "AQM="
+        },
+        {
+          "copy": [
+            6271,
+            1
+          ]
+        },
+        {
+          "insert": "AQY="
+        },
+        {
+          "copy": [
+            6274,
+            1
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            6277,
+            4
+          ]
+        },
+        {
+          "insert": "ARU="
+        },
+        {
+          "copy": [
+            6283,
+            12
+          ]
+        },
+        {
+          "insert": "ARs="
+        },
+        {
+          "copy": [
+            6297,
+            5
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            6304,
+            22
+          ]
+        },
+        {
+          "insert": "ATU="
+        },
+        {
+          "copy": [
+            6328,
+            10
+          ]
+        },
+        {
+          "insert": "ALkAug=="
+        },
+        {
+          "copy": [
+            6342,
+            7
+          ]
+        },
+        {
+          "insert": "HAC7AAEAIwApAR0AuwADADkAEwEeALsABQA="
+        },
+        {
+          "copy": [
+            6351,
+            2
+          ]
+        },
+        {
+          "insert": "iwCMAAEBMwAAAI8ABA=="
+        },
+        {
+          "copy": [
+            6362,
+            3
+          ]
+        },
+        {
+          "insert": "AAA="
+        },
+        {
+          "copy": [
+            6365,
+            1
+          ]
+        },
+        {
+          "copy": [
+            6396,
+            3
+          ]
+        },
+        {
+          "insert": "fQ=="
+        },
+        {
+          "copy": [
+            6400,
+            5
+          ]
+        },
+        {
+          "insert": "dRMBHw=="
+        },
+        {
+          "copy": [
+            6408,
+            5
+          ]
+        },
+        {
+          "insert": "EwEg"
+        },
+        {
+          "copy": [
+            6415,
+            11
+          ]
+        },
+        {
+          "insert": "EwEh"
+        },
+        {
+          "copy": [
+            6428,
+            16
+          ]
+        },
+        {
+          "insert": "ASI="
+        },
+        {
+          "copy": [
+            6446,
+            8
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            6456,
+            15
+          ]
+        },
+        {
+          "insert": "EAByABgAcwAfAHQAJQ=="
+        },
+        {
+          "copy": [
+            6484,
+            3
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            6488,
+            2
+          ]
+        },
+        {
+          "insert": "ATU="
+        },
+        {
+          "copy": [
+            6492,
+            9
+          ]
+        },
+        {
+          "insert": "OQC5ALoAAAAAADkBJAEl"
+        },
+        {
+          "copy": [
+            6516,
+            5
+          ]
+        },
+        {
+          "insert": "NAEmASU="
+        },
+        {
+          "copy": [
+            6526,
+            4
+          ]
+        },
+        {
+          "insert": "APEA8gABATM="
+        },
+        {
+          "copy": [
+            6538,
+            14
+          ]
+        },
+        {
+          "insert": "ARU="
+        },
+        {
+          "copy": [
+            6554,
+            1
+          ]
+        },
+        {
+          "insert": "ASo="
+        },
+        {
+          "copy": [
+            6557,
+            5
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            6564,
+            10
+          ]
+        },
+        {
+          "insert": "ATU="
+        },
+        {
+          "copy": [
+            6576,
+            10
+          ]
+        },
+        {
+          "insert": "ALkAugAAAAAA"
+        },
+        {
+          "copy": [
+            6587,
+            2
+          ]
+        },
+        {
+          "insert": "KwC6AAE="
+        },
+        {
+          "copy": [
+            6594,
+            4
+          ]
+        },
+        {
+          "insert": "ACAAAQEz"
+        },
+        {
+          "copy": [
+            6612,
+            14
+          ]
+        },
+        {
+          "insert": "Ng=="
+        },
+        {
+          "copy": [
+            6627,
+            2
+          ]
+        },
+        {
+          "insert": "AS0="
+        },
+        {
+          "copy": [
+            6631,
+            2
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            6634,
+            2
+          ]
+        },
+        {
+          "insert": "EA=="
+        },
+        {
+          "copy": [
+            6637,
+            2
+          ]
+        },
+        {
+          "insert": "AS4="
+        },
+        {
+          "copy": [
+            6641,
+            2
+          ]
+        },
+        {
+          "insert": "PA=="
+        },
+        {
+          "copy": [
+            6644,
+            1
+          ]
+        },
+        {
+          "insert": "ATA="
+        },
+        {
+          "copy": [
+            6647,
+            2
+          ]
+        },
+        {
+          "insert": "ATGzAO6xAAAAAQE0AAAADgADAAAADgAKAA8AFAAQAAQBNwAAACIABAAJAAsADAAZAA4AEAARABkAEwAVABYAGQAHAAIAFwAYATgAAAACAAUBOQAAABYAAgBQAAMAQwBIAEkAUAADAPA="
+        },
+        {
+          "copy": [
+            6649,
+            2
+          ]
+        },
+        {
+          "insert": "APcBOgAAAAQAAQAH"
+        }
+      ]
+    },
+    {
+      "name": "com/swirlingsmoke/client/TerrainWind$Exposure.class",
+      "source": "com/swirlingsmoke/client/TerrainWind$Exposure.class",
+      "sha256": "ddedee68b719c8d145ad8a577add000800ea6d295397d176ddc82117f5dbdd57",
+      "size": 548
+    },
+    {
+      "name": "com/swirlingsmoke/client/TerrainWind$LocalWind.class",
+      "source": "com/swirlingsmoke/client/TerrainWind$LocalWind.class",
+      "sha256": "34dd4ef10bf120655185d3fc09b78d5cfce5b5b123de0a16e87fe5ae5114a7e4",
+      "size": 874
+    },
+    {
+      "name": "com/swirlingsmoke/client/TerrainWind.class",
+      "source": "com/swirlingsmoke/client/TerrainWind.class",
+      "sha256": "74331641c099dd3bc03d5943828577963482c9855cb94013381a33d91af45121",
+      "size": 7338
+    },
+    {
+      "name": "com/swirlingsmoke/client/WindCommands.class",
+      "source": "com/swirlingsmoke/client/WindCommands.class",
+      "sha256": "c634027f9ba6b1170a098577d75074c298592997284e3611df9e1955c09414fd",
+      "size": 7571
+    },
+    {
+      "name": "com/swirlingsmoke/client/WorldWind$WindType.class",
+      "source": "com/swirlingsmoke/client/WorldWind$WindType.class",
+      "sha256": "b4bbbda772e100c9782518d673469aa77e211861e25196dd91fa46e82fa3687f",
+      "size": 1958
+    },
+    {
+      "name": "com/swirlingsmoke/client/WorldWind.class",
+      "source": "com/swirlingsmoke/client/WorldWind.class",
+      "sha256": "1238026c53e802a46261474e24fcbb9e83280a1a78b10bf1b5fdf2e639c5754d",
+      "size": 4745
+    },
+    {
+      "name": "com/swirlingsmoke/mixin/",
+      "source": "com/swirlingsmoke/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/swirlingsmoke/mixin/ParticleAccessor.class",
+      "source": "com/swirlingsmoke/mixin/ParticleAccessor.class",
+      "sha256": "079b0df07d103953a497f1363041096751e7238e67e8c70ff4c4099246c708ff",
+      "size": 869
+    },
+    {
+      "name": "com/swirlingsmoke/mixin/ParticleEngineAccessor.class",
+      "source": "com/swirlingsmoke/mixin/ParticleEngineAccessor.class",
+      "sha256": "fc83b9b326a5f1f0ed510b1094f0e316511f30dce1b2e267378904d2daf4f8ee",
+      "size": 497
+    },
+    {
+      "name": "fabric.mod.json",
+      "source": "fabric.mod.json",
+      "sha256": "0b54a47d0f249bd36bbd1bed5e683a4afadb845e6e9a2dbd1c25b5f5a2e9155f",
+      "size": 543
+    },
+    {
+      "name": "swirling_smoke.mixins.json",
+      "source": "swirling_smoke.mixins.json",
+      "sha256": "2ff5624c7432273702b31e122b405d7e4ae47ce67e5badfbcd15e38f4a64a887",
+      "size": 216
+    },
+    {
+      "name": "assets/",
+      "source": "assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/swirling_smoke/",
+      "source": "assets/swirling_smoke/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/swirling_smoke/lang/",
+      "source": "assets/swirling_smoke/lang/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/swirling_smoke/lang/en_us.json",
+      "source": "assets/swirling_smoke/lang/en_us.json",
+      "sha256": "19ef96709a1b28b02f95447ae66879c8de02a48bcfb11bdd14364fbd43a6aaee",
+      "size": 127
+    },
+    {
+      "name": "com/swirlingsmoke/client/ParticleAccess$Reader.class",
+      "source": null,
+      "sha256": "75aed77bc45e7a3f304f7e119a614a41bc8ee3ac5c312fa21a0def3f00610f00",
+      "size": 702,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAIgoAAgADBwAEDAAFAAYBABBqYXZhL2xhbmcvT2JqZWN0AQAGPGluaXQ+AQADKClWCQAIAAkHAAoMAAsADAEALmNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2VzcyRSZWFkZXIBAAZtZXRob2QBABpMamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9kOwkACAAODAAPABABAAVmaWVsZAEAGUxqYXZhL2xhbmcvcmVmbGVjdC9GaWVsZDsJAAgAEgwAEwAUAQANZmllbGRSZXNvbHZlZAEAAVoBADcoTGphdmEvbGFuZy9yZWZsZWN0L01ldGhvZDtMamF2YS9sYW5nL3JlZmxlY3QvRmllbGQ7WilWAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEAEkxvY2FsVmFyaWFibGVUYWJsZQEABHRoaXMBADBMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzJFJlYWRlcjsBAApTb3VyY2VGaWxlAQATUGFydGljbGVBY2Nlc3MuamF2YQEACE5lc3RIb3N0BwAfAQAnY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzAQAMSW5uZXJDbGFzc2VzAQAGUmVhZGVyADAACAACAAAAAwAQAAsADAAAABAADwAQAAAAEAATABQAAAABAAAABQAVAAEAFgAAAGwAAgAEAAAAFCq3AAEqK7UAByostQANKh21ABGxAAAAAgAXAAAAFgAFAAAALQAEAC4ACQAvAA4AMAATADEAGAAAACoABAAAABQAGQAaAAAAAAAUAAsADAABAAAAFAAPABAAAgAAABQAEwAUAAMAAwAbAAAAAgAcAB0AAAACAB4AIAAAAAoAAQAIAB4AIQAY"
+        }
+      ]
+    },
+    {
+      "name": "com/swirlingsmoke/client/ParticleAccess$Readers.class",
+      "source": null,
+      "sha256": "094ba3c9d8c06f4dda33c1efa26a1cb846fcc807062dfe4eced3e6b787165a02",
+      "size": 2331,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAVwoAAgADBwAEDAAFAAYBABRqYXZhL2xhbmcvQ2xhc3NWYWx1ZQEABjxpbml0PgEAAygpVggACAEABmdldEFsbAcACgEAD2phdmEvbGFuZy9DbGFzcwoACQAMDAANAA4BAAlnZXRNZXRob2QBAEAoTGphdmEvbGFuZy9TdHJpbmc7W0xqYXZhL2xhbmcvQ2xhc3M7KUxqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7BwAQAQAmamF2YS9sYW5nL1JlZmxlY3RpdmVPcGVyYXRpb25FeGNlcHRpb24HABIBABpqYXZhL2xhbmcvUnVudGltZUV4Y2VwdGlvbgcAFAEALmNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2VzcyRSZWFkZXIKABMAFgwABQAXAQA3KExqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7TGphdmEvbGFuZy9yZWZsZWN0L0ZpZWxkO1opVggAGQEACXBhcnRpY2xlcwoACQAbDAAcAB0BABBnZXREZWNsYXJlZEZpZWxkAQAtKExqYXZhL2xhbmcvU3RyaW5nOylMamF2YS9sYW5nL3JlZmxlY3QvRmllbGQ7BwAfAQAeamF2YS9sYW5nL05vU3VjaEZpZWxkRXhjZXB0aW9uCgAJACEMACIAIwEADWdldFN1cGVyY2xhc3MBABMoKUxqYXZhL2xhbmcvQ2xhc3M7CgAlACYHACcMACgAKQEAF2phdmEvbGFuZy9yZWZsZWN0L0ZpZWxkAQANc2V0QWNjZXNzaWJsZQEABChaKVYKACsALAcALQwALgAvAQAvY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzJFJlYWRlcnMBAAxjb21wdXRlVmFsdWUBAEMoTGphdmEvbGFuZy9DbGFzczspTGNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2VzcyRSZWFkZXI7CgArAAMJACsAMgwAMwA0AQAISU5TVEFOQ0UBADFMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzJFJlYWRlcnM7AQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEAEkxvY2FsVmFyaWFibGVUYWJsZQEABHRoaXMBAAZtZXRob2QBABpMamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9kOwEAAWUBAChMamF2YS9sYW5nL1JlZmxlY3RpdmVPcGVyYXRpb25FeGNlcHRpb247AQAcTGphdmEvbGFuZy9SdW50aW1lRXhjZXB0aW9uOwEABWZpZWxkAQAZTGphdmEvbGFuZy9yZWZsZWN0L0ZpZWxkOwEAIExqYXZhL2xhbmcvTm9TdWNoRmllbGRFeGNlcHRpb247AQANY29udGFpbmVyVHlwZQEAEUxqYXZhL2xhbmcvQ2xhc3M7AQAEdHlwZQEAFkxvY2FsVmFyaWFibGVUeXBlVGFibGUBABRMamF2YS9sYW5nL0NsYXNzPCo+OwEADVN0YWNrTWFwVGFibGUHAEgBABhqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2QBAAlTaWduYXR1cmUBAEYoTGphdmEvbGFuZy9DbGFzczwqPjspTGNvbS9zd2lybGluZ3Ntb2tlL2NsaWVudC9QYXJ0aWNsZUFjY2VzcyRSZWFkZXI7AQAlKExqYXZhL2xhbmcvQ2xhc3M7KUxqYXZhL2xhbmcvT2JqZWN0OwEAEE1ldGhvZFBhcmFtZXRlcnMBAAg8Y2xpbml0PgEASExqYXZhL2xhbmcvQ2xhc3NWYWx1ZTxMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1BhcnRpY2xlQWNjZXNzJFJlYWRlcjs+OwEAClNvdXJjZUZpbGUBABNQYXJ0aWNsZUFjY2Vzcy5qYXZhAQAITmVzdEhvc3QHAFMBACdjb20vc3dpcmxpbmdzbW9rZS9jbGllbnQvUGFydGljbGVBY2Nlc3MBAAxJbm5lckNsYXNzZXMBAAZSZWFkZXIBAAdSZWFkZXJzADAAKwACAAAAAQAYADMANAAAAAQAAAAFAAYAAQA1AAAALwABAAEAAAAFKrcAAbEAAAACADYAAAAGAAEAAAA0ADcAAAAMAAEAAAAFADgANAAAAAQALgAvAAIANQAAAeEABQAGAAAAdSsSBwO9AAm2AAtNpwAVTgFNpwAPTrsAE1kBAQO3ABWwK04txgBHLRIYtgAaOgSnABo6BS22ACBOp//qOgW7ABNZLAEDtwAVsBkEBLYAJKcAEDoFuwATWSwBA7cAFbC7ABNZLBkEBLcAFbC7ABNZLAEEtwAVsAAFAAAACwAOAA8AAAALABQAEQAmAC4AMQAeACYALgA7ABEASABOAFEAEQAEADYAAABaABYAAAA7AAsAQAAOADwADwA9ABEAQAAUAD4AFQA/ACAAQgAiAEMAJgBGAC4ATAAxAEcAMwBIADgASQA7AEoAPQBLAEgATwBOAFIAUQBQAFMAUQBeAFQAagBXADcAAACEAA0ACwADADkAOgACAA8AAgA7ADwAAwARAAMAOQA6AAIAFQALADsAPQADAC4AAwA+AD8ABAAzAAgAOwBAAAUAPQALADsAPQAFAFMACwA7AD0ABQBIACIAPgA/AAQAAAB1ADgANAAAAAAAdQBBAEIAAQAgAFUAOQA6AAIAIgBTAEMAQgADAEQAAAAWAAIAAAB1AEEARQABACIAUwBDAEUAAwBGAAAALAAKTgcAD0UHABH8AAsHAEf8AAEHAAlOBwAeSQcAEfwADAcAJUgHABEM+gALAEkAAAACAEoQRAAuAEsAAgA1AAAAMAACAAIAAAAGKiu2ACqwAAAAAgA2AAAABgABAAAANAA3AAAADAABAAAABgA4ADQAAABMAAAABQEAABAAAAgATQAGAAEANQAAACMAAgAAAAAAC7sAK1m3ADCzADGxAAAAAQA2AAAABgABAAAANQAEAEkAAAACAE4ATwAAAAIAUABRAAAAAgBSAFQAAAASAAIAEwBSAFUAGAArAFIAVgAY"
+        }
+      ]
+    },
+    {
+      "name": "com/swirlingsmoke/client/SmokeWindHandler$SmokeNameCache.class",
+      "source": null,
+      "sha256": "2c4b4d6a7bb5732c4aa8fd8f07bd594511c2ed7f8915872ee27850dc1bd83598",
+      "size": 1522,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUASwoAAgADBwAEDAAFAAYBABRqYXZhL2xhbmcvQ2xhc3NWYWx1ZQEABjxpbml0PgEAAygpVgoACAAJBwAKDAALAAwBAA9qYXZhL2xhbmcvQ2xhc3MBAAdnZXROYW1lAQAUKClMamF2YS9sYW5nL1N0cmluZzsKAAgADgwADwAMAQANZ2V0U2ltcGxlTmFtZQoAEQASBwATDAAUAAwBABBqYXZhL2xhbmcvU3RyaW5nAQALdG9Mb3dlckNhc2UIABYBAA5uZXQubWluZWNyYWZ0LgoAEQAYDAAZABoBAApzdGFydHNXaXRoAQAVKExqYXZhL2xhbmcvU3RyaW5nOylaCAAcAQAFc21va2UKABEAHgwAHwAgAQAIY29udGFpbnMBABsoTGphdmEvbGFuZy9DaGFyU2VxdWVuY2U7KVoKACIAIwcAJAwAJQAmAQARamF2YS9sYW5nL0Jvb2xlYW4BAAd2YWx1ZU9mAQAWKFopTGphdmEvbGFuZy9Cb29sZWFuOwoAKAApBwAqDAArACwBADhjb20vc3dpcmxpbmdzbW9rZS9jbGllbnQvU21va2VXaW5kSGFuZGxlciRTbW9rZU5hbWVDYWNoZQEADGNvbXB1dGVWYWx1ZQEAJihMamF2YS9sYW5nL0NsYXNzOylMamF2YS9sYW5nL0Jvb2xlYW47CgAoAAMJACgALwwAMAAxAQAISU5TVEFOQ0UBADpMY29tL3N3aXJsaW5nc21va2UvY2xpZW50L1Ntb2tlV2luZEhhbmRsZXIkU21va2VOYW1lQ2FjaGU7AQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEAEkxvY2FsVmFyaWFibGVUYWJsZQEABHRoaXMBAAR0eXBlAQARTGphdmEvbGFuZy9DbGFzczsBAAljbGFzc05hbWUBABJMamF2YS9sYW5nL1N0cmluZzsBAApzaW1wbGVOYW1lAQAWTG9jYWxWYXJpYWJsZVR5cGVUYWJsZQEAFExqYXZhL2xhbmcvQ2xhc3M8Kj47AQANU3RhY2tNYXBUYWJsZQEACVNpZ25hdHVyZQEAKShMamF2YS9sYW5nL0NsYXNzPCo+OylMamF2YS9sYW5nL0Jvb2xlYW47AQAlKExqYXZhL2xhbmcvQ2xhc3M7KUxqYXZhL2xhbmcvT2JqZWN0OwEAEE1ldGhvZFBhcmFtZXRlcnMBAAg8Y2xpbml0PgEAK0xqYXZhL2xhbmcvQ2xhc3NWYWx1ZTxMamF2YS9sYW5nL0Jvb2xlYW47PjsBAApTb3VyY2VGaWxlAQAVU21va2VXaW5kSGFuZGxlci5qYXZhAQAITmVzdEhvc3QHAEgBACljb20vc3dpcmxpbmdzbW9rZS9jbGllbnQvU21va2VXaW5kSGFuZGxlcgEADElubmVyQ2xhc3NlcwEADlNtb2tlTmFtZUNhY2hlADAAKAACAAAAAQAYADAAMQAAAAQAAAAFAAYAAQAyAAAALwABAAEAAAAFKrcAAbEAAAACADMAAAAGAAEAAABSADQAAAAMAAEAAAAFADUAMQAAAAQAKwAsAAIAMgAAAJ0AAgAEAAAAKCu2AAdNK7YADbYAEE4sEhW2ABeZABAtEhu2AB2ZAAcEpwAEA7gAIbAAAAAEADMAAAAOAAMAAABXAAUAWAANAFkANAAAACoABAAAACgANQAxAAAAAAAoADYANwABAAUAIwA4ADkAAgANABsAOgA5AAMAOwAAAAwAAQAAACgANgA8AAEAPQAAAA0AAv0AIwcAEQcAEUABAD4AAAACAD8QRAArAEAAAgAyAAAAMAACAAIAAAAGKiu2ACewAAAAAgAzAAAABgABAAAAUgA0AAAADAABAAAABgA1ADEAAABBAAAABQEAABAAAAgAQgAGAAEAMgAAACMAAgAAAAAAC7sAKFm3AC2zAC6xAAAAAQAzAAAABgABAAAAUwAEAD4AAAACAEMARAAAAAIARQBGAAAAAgBHAEkAAAAKAAEAKABHAEoAGA=="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "target": "shaderpacks/Sundial Lite v1.1.0 (no mob shadows, gpu-opt).zip",
+  "target_hashes": {
+    "sha1": "f18420ec8fd0654723fff3297b4d9289d2555cf2",
+    "sha256": "6b9efd9a77ca88f1c66a236edb77d674274a9d4887c74c2dfbad358494f7470b",
+    "sha512": "eb3dc6e8b78ce5b1dc7095f86453c5ba661565f13ac811d973d289b01e505b5bbab84fe83d62f18dd193d918c89ba2bb77f192ba0547d54a61cddaf86088180d"
+  },
+  "status": "local_shader_original_and_delta",
+  "original": {
+    "local_source": "shaderpacks/Sundial Lite v1.1.0.zip",
+    "hashes": {
+      "sha1": "50b52a84477e3fc1c54f16659aeeb4c227f17a14",
+      "sha256": "9853d76852ef8a0783a9e2187cfce3faf824186387857bc2ac6be23e51c4b0e8",
+      "sha512": "13acab3f27747b12465f1414cd18221f449aeacd8c02fb21db60e30c0e00c9861895aa243cfc9664734ba1743b0edcc51a68acaac7538f04ac960677ce14538c"
+    },
+    "size": 1503328,
+    "downloads": [
+      "https://cdn.modrinth.com/data/2cbOUuF5/versions/wmkJLjfZ/Sundial%20Lite%20v1.1.0.zip"
+    ],
+    "metadata": {
+      "source": "local-modrinth-sqlite",
+      "project_id": "2cbOUuF5",
+      "version_id": "wmkJLjfZ",
+      "project": {
+        "slug": "sundial-lite",
+        "title": "Sundial Lite",
+        "client_side": "required",
+        "server_side": "unsupported",
+        "license": {
+          "id": "GPL-3.0-or-later",
+          "name": "GNU General Public License v3.0 or later",
+          "url": null
+        },
+        "source_url": "https://github.com/GeForceLegend/Sundial-Lite",
+        "issues_url": "https://github.com/GeForceLegend/Sundial-Lite/issues"
+      },
+      "cached_metadata_matches_disk": true,
+      "cached_version": {
+        "version_number": "1.1.0",
+        "game_versions": [
+          "1.8.9",
+          "1.12.2",
+          "1.14.4",
+          "1.15",
+          "1.15.1",
+          "1.15.2",
+          "1.16",
+          "1.16.1",
+          "1.16.2",
+          "1.16.3",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "1.17.1",
+          "1.18",
+          "1.18.1",
+          "1.18.2",
+          "1.19",
+          "1.19.1",
+          "1.19.2",
+          "1.19.3",
+          "1.19.4",
+          "1.20",
+          "1.20.1",
+          "1.20.2",
+          "1.20.3",
+          "1.20.4",
+          "1.20.5",
+          "1.20.6",
+          "1.21",
+          "1.21.1",
+          "1.21.2",
+          "1.21.3",
+          "1.21.4",
+          "1.21.5",
+          "1.21.6",
+          "1.21.7",
+          "1.21.8",
+          "1.21.9",
+          "1.21.10",
+          "1.21.11",
+          "26.1",
+          "26.1.1",
+          "26.1.2",
+          "26.2",
+          "26.3"
+        ],
+        "loaders": [
+          "iris",
+          "optifine"
+        ]
+      },
+      "exact_downloads": [
+        {
+          "url": "https://cdn.modrinth.com/data/2cbOUuF5/versions/wmkJLjfZ/Sundial%20Lite%20v1.1.0.zip",
+          "filename": "Sundial Lite v1.1.0.zip",
+          "hashes": {
+            "sha1": "50b52a84477e3fc1c54f16659aeeb4c227f17a14",
+            "sha512": "13acab3f27747b12465f1414cd18221f449aeacd8c02fb21db60e30c0e00c9861895aa243cfc9664734ba1743b0edcc51a68acaac7538f04ac960677ce14538c"
+          },
+          "size": 1503328
+        }
+      ]
+    }
+  },
+  "archive_delta": {
+    "changed_entries": [
+      "shaders/composite13.fsh",
+      "shaders/programs/deferred/Deferred11.frag",
+      "shaders/programs/deferred/Deferred99.frag",
+      "shaders/shaders.properties"
+    ],
+    "added_entries": [],
+    "removed_entries": [],
+    "identical_entry_count": 347
+  },
+  "notes": "GPL v3 license text is present. This inventory records source/provenance for redistribution review; it does not make a permission determination."
+}

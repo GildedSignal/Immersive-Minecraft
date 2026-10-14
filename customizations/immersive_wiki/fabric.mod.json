@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "immersive_wiki",
+  "version": "0.1.0+26.2",
+  "name": "Immersive Wiki Fieldbook",
+  "description": "Minecraft Wiki articles parsed into a native two-page fieldbook, with chapters, bookmarks, offline copies and paper sounds.",
+  "authors": ["Local modpack customization"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {"client": ["mcperf.wiki.ImmersiveWiki"]},
+  "jars": [{"file": "META-INF/jars/fieldbook-jsoup-1.23.2.jar"}],
+  "depends": {"fabricloader": ">=0.19.5", "minecraft": "26.2", "java": ">=25", "fabric-api": "*"}
+}

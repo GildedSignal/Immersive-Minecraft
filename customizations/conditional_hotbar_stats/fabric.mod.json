@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "conditional_hotbar_stats",
+  "version": "1.0.0+26.2",
+  "name": "Conditional Hotbar Stats",
+  "description": "Show non-full health and hunger alongside an AutoHUD hotbar reveal, using its native animations and timers.",
+  "environment": "client",
+  "authors": ["Local modpack customization"],
+  "license": "MIT",
+  "mixins": ["conditional-hotbar-stats.mixins.json"],
+  "depends": {"minecraft": "26.2", "java": ">=25", "fabricloader": ">=0.19.5", "autohud": "9.0"}
+}

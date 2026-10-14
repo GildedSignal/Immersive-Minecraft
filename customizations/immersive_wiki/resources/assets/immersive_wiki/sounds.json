@@ -1,0 +1,6 @@
+{
+  "book_open": {"sounds": [{"name": "minecraft:item.book.put", "type": "event"}]},
+  "page_turn": {"sounds": [{"name": "minecraft:item.book.page_turn", "type": "event"}]},
+  "book_close": {"sounds": [{"name": "minecraft:item.book.put", "type": "event"}]},
+  "bookmark": {"sounds": [{"name": "minecraft:block.chiseled_bookshelf.insert", "type": "event"}]}
+}

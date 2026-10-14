@@ -1,0 +1,157 @@
+[
+  {
+    "path": "mods/BetterGrassify-1.8.7+fabric.26.2-perf.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/m5T5xmUy/versions/r4yqxYQl/BetterGrassify-1.8.7%2Bfabric.26.2.jar",
+    "originalSha256": "823e14c7b41c0656d66948eb9e00cced829cdfac19a92d64f4b830df05a2ddf9",
+    "installedSha256": "51ebd8afa475391c7e3a7dce9b9b5092bc9e0711f6150d9f4e90119fb0972752",
+    "reconstructedSha256": "44a618a1bfc74d65aeacbebab2e38f242eaf729e13dbc934e3f22b35afd4d627",
+    "entryContentsIdentical": true,
+    "localEditBytes": 5119
+  },
+  {
+    "path": "mods/entity_texture_features-7.2.5-26.2-fabric-perf.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/b9RlCI9F/entity_texture_features-7.2.5-26.2-fabric.jar",
+    "originalSha256": "ac66cf294fbd2b1eb1576bdc2396cb096abcd54d9f8f39ecb1973abbc4e00488",
+    "installedSha256": "00b2f01acda9e86e0f96954dfbd99927add45d3be6c8f68cea87ea6aae5ab95f",
+    "reconstructedSha256": "7e0245c4671f9fe2d2d876285e25e8ab3819b796be88496246b3bf7a9b476570",
+    "entryContentsIdentical": true,
+    "localEditBytes": 13219
+  },
+  {
+    "path": "mods/immersive-storms-1.7.3+26.2-perf2.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/SdJDElEu/versions/3Box8PS5/immersive-storms-1.7.3%2B26.2.jar",
+    "originalSha256": "4f76868dc6a28ff645354000f0233b5168c24f2ba3a0189e9f91591c10ff4d33",
+    "installedSha256": "0ea551230a93fca4096c51e6f4bf7f1a77c817a61597fc2a59760d3581ba0419",
+    "reconstructedSha256": "c0ced4dcaeef51a08b49653b5b7a48c5257af10aee8777058c62ae392371191f",
+    "entryContentsIdentical": true,
+    "localEditBytes": 9280
+  },
+  {
+    "path": "mods/litematica-fabric-26.2-0.28.8-fencefix.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/bEpr0Arc/versions/CuniXtbo/litematica-fabric-26.2-0.28.8.jar",
+    "originalSha256": "6de0774f78aee1698154dc7e7fa3c3afb19201e3d9474ddaf073fa4f4309a064",
+    "installedSha256": "07a68e5e5919dc364fe72e14ff9f67029073ce4107057de7f6b0effce293b93e",
+    "reconstructedSha256": "67b8fd9be99eb93a2926a5ad54d63354fdb6fcb632db3ccdd864e56ab98f4d93",
+    "entryContentsIdentical": true,
+    "localEditBytes": 6835
+  },
+  {
+    "path": "mods/particle_core-0.3.3+26.2-perf-async-pr2.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/RSeLon5O/versions/VFv6uQKM/particle_core-0.3.3%2B26.2.jar",
+    "originalSha256": "1f07d37347e1e9b8a54e65c5aea90c358b567ac34bed0624d66c401e2b736ef8",
+    "installedSha256": "f3910240881ee9f7d4b911cd3f3ba6ecc602428fe2e3f63e27c4c75810f4b2d8",
+    "reconstructedSha256": "23746916c5394afd3a48fa75cc51233ad75487a9c28f0278756255568ad9a0b5",
+    "entryContentsIdentical": true,
+    "localEditBytes": 128785
+  },
+  {
+    "path": "mods/particlerain-4.0.0-beta.11+26.2-fabric-perf2.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/nrikgvxm/versions/oPqk9oQ8/particlerain-4.0.0-beta.11%2B26.2-fabric.jar",
+    "originalSha256": "8a0a76888abb939ed9a9bf1b45cf3849970024918e418a7b08e993d1bf003f4e",
+    "installedSha256": "22a568f3b0d3ee258e46182f143b49d0c3d505da98e204bc65d258ce320e5e9a",
+    "reconstructedSha256": "ae46e4738db4b0165b9ea99a607ababc32ca1b6d2687746bb9de4924ac858b60",
+    "entryContentsIdentical": true,
+    "localEditBytes": 21939
+  },
+  {
+    "path": "mods/physics-mod-3.2.4-mc-26.2-fabric.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/NmnAHHdB/physics-mod-3.2.4-mc-26.2-fabric.jar",
+    "originalSha256": "423801027870ad8f3309d52d2ceb5f09cee42dee1f8c9cec31b11a0d136ed6b4",
+    "installedSha256": "7b9e6bd17f626847cf921490ed484ae0cacf8d0926fac487af8dd2c45576acd7",
+    "reconstructedSha256": "3757d241afad2a34f380809c52338cee9cff9c0127d0bcfd10becfd512dbfa3d",
+    "entryContentsIdentical": true,
+    "localEditBytes": 120516
+  },
+  {
+    "path": "mods/Ripple-1.2.3-26.2-perf2.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/5hOgUfig/versions/FUG1A2Eh/Ripple-1.2.3-26.2.jar",
+    "originalSha256": "523cd243312fe1ec00306f9b0978bb61e1e71f2f6f7c813c613f904ca8563a2e",
+    "installedSha256": "2dedad362153179085fefdc80b27f79fac61a417287350227c3a9b65f0530372",
+    "reconstructedSha256": "ecee9d7fa076216201783a030d272c5165019637be4d08b083b19c0c332b39e6",
+    "entryContentsIdentical": true,
+    "localEditBytes": 13175
+  },
+  {
+    "path": "mods/softimprints-fabric-26.2-2.8.0-perf.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/UhxJgB1o/versions/z2PtGMFc/softimprints-fabric-26.2-2.8.0.jar",
+    "originalSha256": "833050fe4d36db4eb8634980c2bfa06e08fc7886e7ded8b4ee77c36b8732859d",
+    "installedSha256": "b515907372e0fc6ad9cac0d94a9d1098a5344fa5d9784b35d1ea5fee5da8aafb",
+    "reconstructedSha256": "f9a6b8982907d8249b64cd3bb2203998bd9f91cf004584873dc4e70a6b4b4436",
+    "entryContentsIdentical": true,
+    "localEditBytes": 5856
+  },
+  {
+    "path": "mods/swirling_smoke-fabric-26.2-1.0.0-perf.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/sty93Scj/versions/VcQuTKkN/swirling_smoke-fabric-26.2-1.0.0.jar",
+    "originalSha256": "561f0d2c7f723021af50423eed9244c96ecd813f09e0212860944e886b8b207b",
+    "installedSha256": "e304bab2d73effd74460d09bda3bf56e525a9c9eca5145a0a060a7524470c767",
+    "reconstructedSha256": "f4bb50b4e56778a267525997fb25429309ecf445e7d62306c7fd4d130ab9dd79",
+    "entryContentsIdentical": true,
+    "localEditBytes": 12098
+  },
+  {
+    "path": "mods/ultimate-biome-blend-26.2-2.1.0-fabric-perf.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/a751WKaV/versions/aVXwEJuE/ultimate-biome-blend-26.2-2.1.0-fabric.jar",
+    "originalSha256": "03283886c72a8ccf9a4ba6a55d2f36eabda380f6b0256af6eb001a554f670020",
+    "installedSha256": "3bba60eeac8b649208de567ba19faab48d8980d4ba1f4839990a3d0a4dd59635",
+    "reconstructedSha256": "0a43b5f103c2b640050a2d9c31a68e9180b3afbd2f54ad24049b61b78671ad9d",
+    "entryContentsIdentical": true,
+    "localEditBytes": 9743
+  },
+  {
+    "path": "mods/voxy-0.2.19-beta-perf.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/fxxUqruK/versions/LzyXnE51/voxy-0.2.19-beta.jar",
+    "originalSha256": "a06e4d93db88dc22d6cde6dfe1e58d8428ae271d1f432bbb430735336f4b5c12",
+    "installedSha256": "25136ce6beea3ae12d6f910f64b13b28bf4ad476ba0148b7c6afd1ae40aecca9",
+    "reconstructedSha256": "60e072c00d6018ffa6a76c5424ffba3ec75a4cffb504b3dbba21c9aea4b6a73e",
+    "entryContentsIdentical": true,
+    "localEditBytes": 7085
+  },
+  {
+    "path": "mods/wintery-atmosphere-2.0.0-perf3.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/cDeqYJrP/versions/r2uXeVs9/wintery-atmosphere-2.0.0.jar",
+    "originalSha256": "81672dec56118e32bf3da45da272f00c2961749b67f73f42687666a19be83786",
+    "installedSha256": "92ad3ede4c1c29ad7151c6b723a261ec67ebce7197283300b363ad39767ca7ea",
+    "reconstructedSha256": "6630aa1d77fa93fd75920099efd7ef66ce7fc1ab5ae80a18f85612ea9db1b59d",
+    "entryContentsIdentical": true,
+    "localEditBytes": 29350
+  },
+  {
+    "path": "resourcepacks/FaithfulPBR_64x_26.2.zip",
+    "originalUrl": "https://mediafilez.forgecdn.net/files/5140/612/FaithfulPBR_64_1.12p.zip",
+    "originalSha256": "6bb7086bdbc683460e50eba95c9d9ac5be07a64680d3741e599392d562b93170",
+    "installedSha256": "ff0a6324f02a7b41301c03044e86d7a231ff162fd78396201184bc953f35a0e7",
+    "reconstructedSha256": "8f6dd58e0fa0a32f0bf93358aac63e72c982a967fbfcee175861f3c97c59d2cb",
+    "entryContentsIdentical": true,
+    "localEditBytes": 70
+  },
+  {
+    "path": "mods/interactivestuff-0.7.0-26.2.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/KDfqMm8K/versions/raOGca21/interactivestuff-0.7.0-26.2.jar",
+    "originalSha256": "32ed3ba76adc3584e44dee9f62c6f8a8be89e4b4ab245ffc7fe1b5220d4702db",
+    "installedSha256": "6fff7b8db35ca71583834cc754af26eecd71fb394ac2ef45254e2a2f1035b122",
+    "reconstructedSha256": "e084092d90ade6142b6b59b5509f881bd965fa1e5e668b204032ecfbd223eb0d",
+    "entryContentsIdentical": true,
+    "localEditBytes": 7171
+  },
+  {
+    "path": "mods/sound_physics_perfected-1.17.5+26.1-fabric-racefix.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/Ggyhlyvm/sound_physics_perfected-1.17.5%2B26.1-fabric.jar",
+    "originalSha256": "ed03b2f411e08dd4e9e81c63f01069f0f4927761453ec806ebc103edf57aef47",
+    "installedSha256": "b0ad98cb775e078002877fd341d8f8bcde0dcfeac15725a64d7dd3b9b9d57103",
+    "reconstructedSha256": "975783c8d961248625953feed41a9ec32f00a3d73b7728516a04e1d42bbb6b80",
+    "entryContentsIdentical": true,
+    "localEditBytes": 38312
+  },
+  {
+    "path": "resourcepacks/Recolourful Containers 3.1.4 (1.19.4+).zip",
+    "originalUrl": "https://cdn.modrinth.com/data/lewweaHO/versions/aQ7jLjk8/Recolourful%20Containers%203.1.4%20%281.19.4%2B%29.zip",
+    "originalSha256": "2a9a32f68bdaf825374f58e8b7cdc6bb1c7e378540ef558c7c5ccbcd0d4811d1",
+    "reconstructedSha256": "2271ebcacb1129e0902ec7031f73a387fc0ee093bc3f5ecc06b23f2b45652991",
+    "entryContentsIdentical": true,
+    "changedEntries": [
+      "26.1-26.2/assets/minecraft/shaders/core/text.vsh"
+    ],
+    "edit": "Enable existing USE_RED_CHANNEL code for texture corner markers; no textures modified"
+  }
+]

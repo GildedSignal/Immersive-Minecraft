@@ -1,0 +1,9 @@
+# Immersive Flight Camera
+
+Client addon for the exact installed Minecraft 26.2 / AutoThirdPerson 1.0.0+26.x / Perspective API 1.5.0-beta combination. Removes the old airborne-with-elytra heuristic through a required Mixin and supplies a separate policy.
+
+Only real fall-flying, excluding levitation and climbable blocks, starts the three-second timer. Pausing suspends the timer. Existing immediate mounted third person remains. Short flights cancel the timer. The configured Leawind perspective is selected through the Perspective Switcher behavior, preserving its 260 ms camera transition and active selection; no direct vanilla CameraType writes occur. Normal POV controls take priority for the rest of the flight. A new press of the jump binding (normally Space) toggles first/third while already gliding, without consuming flight input. The takeoff press is ignored. Space changes are flight-only: landing restores the pre-flight perspective, avoiding Leawind's ground shoulder view when the trip began in first person. A choice made through the normal POV key/wheel remains after landing.
+
+Build: bundled Python `build.py`. 142 policy assertions and Java verifier pass. Compiles against the exact installed game and Perspective API. The initial startup crash was caused by putting the entrypoint inside the reserved Mixin package; Mixins now live separately in `mcperf.camera.mixin`, with a build-time isolation check. The repaired addon loads successfully in the complete pack. The user confirmed the flight delay and camera controls work; the subsequent Space landing restoration correction needs gameplay confirmation. Removing this addon restores the original AutoThirdPerson behavior.
+
+This addon contains original MIT-licensed source and no copied Perspective API or AutoThirdPerson classes. Reference decompilations are development material, not bundled.

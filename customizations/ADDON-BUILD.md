@@ -1,0 +1,1 @@
+Original addon source is in the matching id directory. Compile Java 25 source against the installed Minecraft/Fabric/mod dependencies with annotation processing disabled; retain the included fabric.mod.json, mixin JSON and resources. The build.py helper demonstrates dependency extraction, javac argument files and jar replacement. No Minecraft binaries are included.

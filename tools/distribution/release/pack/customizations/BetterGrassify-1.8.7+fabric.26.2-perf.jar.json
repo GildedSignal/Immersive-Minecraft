@@ -1,0 +1,1504 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "source": "META-INF/MANIFEST.MF",
+      "sha256": "f9f8b66991f54105790316bce19c861e200b939907bbeb38ed582e8241dda9fd",
+      "size": 346
+    },
+    {
+      "name": "META-INF/",
+      "source": "META-INF/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/",
+      "source": "dev/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/",
+      "source": "dev/ultimatchamp/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/",
+      "source": "dev/ultimatchamp/bettergrass/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/BetterGrassify.class",
+      "source": "dev/ultimatchamp/bettergrass/BetterGrassify.class",
+      "sha256": "bf6bb3bbb82ec8aa38ce09cb6568cd8c54c90ce7a9ab2579a9248989935d9b57",
+      "size": 9396
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/compat/",
+      "source": "dev/ultimatchamp/bettergrass/compat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/compat/WilderWildCompat.class",
+      "source": "dev/ultimatchamp/bettergrass/compat/WilderWildCompat.class",
+      "sha256": "74a07b5b29d408666f603b41c0174b4ed22a3f1dcc9538b366159e5ce0e666c9",
+      "size": 487
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/",
+      "source": "dev/ultimatchamp/bettergrass/config/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$BetterGrassMode.class",
+      "source": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$BetterGrassMode.class",
+      "sha256": "8d114139ee6aa90935260a155a5f5541c0a655613ceaf002888f902fb784de59",
+      "size": 2035
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$BetterSnowConfig.class",
+      "source": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$BetterSnowConfig.class",
+      "sha256": "7a7ed0a8bb1beb7d80dc3ebde9b0516987863b083ed3245600d1884636e7ece6",
+      "size": 1543
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$BetterSnowMode.class",
+      "source": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$BetterSnowMode.class",
+      "sha256": "65b81483224198d41e9a9d8d80057ca41d73c19c6a9826640f2904d389d100cf",
+      "size": 2080
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$GeneralConfig$BlocksConfig.class",
+      "source": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$GeneralConfig$BlocksConfig.class",
+      "sha256": "e959cb1f9804659b8163acb078c240920a400509870ad29db6a6ba9a4e14cceb",
+      "size": 1163
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$GeneralConfig.class",
+      "source": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig$GeneralConfig.class",
+      "sha256": "d47ef73856f1d5777ae0214a51c2fb1b71bb3427dcfe98d6b75b135adb7946ca",
+      "size": 1069
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig.class",
+      "source": "dev/ultimatchamp/bettergrass/config/BetterGrassifyConfig.class",
+      "sha256": "138c975ee5a7abd81fff42eb29d474b16ec51084c077ae7c19d16724979b5ee5",
+      "size": 6826
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/ModMenuAPIImpl.class",
+      "source": "dev/ultimatchamp/bettergrass/config/ModMenuAPIImpl.class",
+      "sha256": "d787cce01252292a8aff8c9f607674dfb425cdf7c33e9e380760c21071e2113c",
+      "size": 1252
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/NoClothConfigWarning.class",
+      "source": "dev/ultimatchamp/bettergrass/config/NoClothConfigWarning.class",
+      "sha256": "45b33941bdc6475512270731ec554c6eb708824c8bae2ffbf9300da3048dee24",
+      "size": 3447
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/OptionsScreen.class",
+      "source": "dev/ultimatchamp/bettergrass/config/OptionsScreen.class",
+      "sha256": "2903e990f17fe83ad20112f409e4f7b5d425c9552aee050f59ede0d0e623d66b",
+      "size": 16976
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/SodiumOptionsScreenBuilder.class",
+      "source": "dev/ultimatchamp/bettergrass/config/SodiumOptionsScreenBuilder.class",
+      "sha256": "8c85244aa6b57eb9c9ef12b8471b8e04110c3ff29a38385e7b9858debd5536e8",
+      "size": 17469
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/SodiumOptionsStorage.class",
+      "source": "dev/ultimatchamp/bettergrass/config/SodiumOptionsStorage.class",
+      "sha256": "8a3622d8556c6ab84b9668c771a91b845be42df9c79bb9bf71e4022504c8021b",
+      "size": 855
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/config/TranslatableOption.class",
+      "source": "dev/ultimatchamp/bettergrass/config/TranslatableOption.class",
+      "sha256": "5793fcf0799d10b0b98a164fd781c7a1be36d4c649d17a38b358bbdb0151f67a",
+      "size": 578
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/mixin/",
+      "source": "dev/ultimatchamp/bettergrass/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/mixin/SectionCompilerMixin.class",
+      "source": "dev/ultimatchamp/bettergrass/mixin/SectionCompilerMixin.class",
+      "sha256": "477d69de671e2ecda49ca92169eb9cd5d615495d3356a6ecd1baba5f7c2b5611",
+      "size": 6329
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/mixin/VideoSettingsScreenMixin.class",
+      "source": "dev/ultimatchamp/bettergrass/mixin/VideoSettingsScreenMixin.class",
+      "sha256": "49af59e1ebc2ec7ce14178c9666b7b8eeca5caecca459dd74cbfdc92c797ab88",
+      "size": 4466
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/mixin/sodium/",
+      "source": "dev/ultimatchamp/bettergrass/mixin/sodium/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/mixin/sodium/ChunkBuilderMeshingTaskMixin.class",
+      "source": "dev/ultimatchamp/bettergrass/mixin/sodium/ChunkBuilderMeshingTaskMixin.class",
+      "sha256": "29c1c590f61b657d1d60607ef772c404899ec25e416faa88fe6116a5579ba120",
+      "size": 5931
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/model/",
+      "source": "dev/ultimatchamp/bettergrass/model/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/model/BetterGrassifyBlockStateModel.class",
+      "source": "dev/ultimatchamp/bettergrass/model/BetterGrassifyBlockStateModel.class",
+      "sha256": "bb1406541aa57537e08ecee2eceee8b2e2b898ed44a13238de6b5b67178f7b04",
+      "size": 11354
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/model/BetterGrassifyUnbakedRootBlockStateModel.class",
+      "source": "dev/ultimatchamp/bettergrass/model/BetterGrassifyUnbakedRootBlockStateModel.class",
+      "sha256": "a56aa1708c74a0d7a245e019e9d7343b679a6fb1d0ad0dbe5f10c24145ef3fec",
+      "size": 2213
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/",
+      "source": "dev/ultimatchamp/bettergrass/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/BetterGrassifyCacheUtils.class",
+      "source": "dev/ultimatchamp/bettergrass/util/BetterGrassifyCacheUtils.class",
+      "sha256": "3d4757553a9cbdd4319d7d88c6698be1189cb58cd3bc8585b6a7951820d69410",
+      "size": 4788
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/BetterSnowPredicateUtils.class",
+      "source": "dev/ultimatchamp/bettergrass/util/BetterSnowPredicateUtils.class",
+      "sha256": "7adf29b4cbb239ace0056bbfe5e69047679c533363674587e385aa8d2199ebb6",
+      "size": 5543
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/BetterSnowUtils$1.class",
+      "source": "dev/ultimatchamp/bettergrass/util/BetterSnowUtils$1.class",
+      "sha256": "f7644a535fadd0c00286b09ce81dafdb02969a16c767bda280fe73de358b1380",
+      "size": 1023
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/BetterSnowUtils.class",
+      "source": "dev/ultimatchamp/bettergrass/util/BetterSnowUtils.class",
+      "sha256": "b96fef51fa6cf3aa1eda7df5a99748f1ffbee63f13041feb5ceaa6d24fb83957",
+      "size": 6514,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "HAEAMWRldi91bHRpbWF0Y2hhbXAvYmV0dGVyZ3Jhc3MvdXRpbC9CZXR0ZXJTbm93VXRpbHMHAAE="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "BwADAQAUQmV0dGVyU25vd1V0aWxzLmphdmEBADNkZXYvdWx0aW1hdGNoYW1wL2JldHRlcmdyYXNzL3V0aWwvQmV0dGVyU25vd1V0aWxzJDEHAAYBAElkZXYvdWx0aW1hdGNoYW1wL2JldHRlcmdyYXNzL2NvbmZpZy9CZXR0ZXJHcmFzc2lmeUNvbmZpZyRCZXR0ZXJTbm93Q29uZmlnBwAIAQA4ZGV2L3VsdGltYXRjaGFtcC9iZXR0ZXJncmFzcy9jb25maWcvQmV0dGVyR3Jhc3NpZnlDb25maWcHAAoBABBCZXR0ZXJTbm93Q29uZmlnAQBHZGV2L3VsdGltYXRjaGFtcC9iZXR0ZXJncmFzcy9jb25maWcvQmV0dGVyR3Jhc3NpZnlDb25maWckQmV0dGVyU25vd01vZGUHAA0BAA5CZXR0ZXJTbm93TW9kZQEAIW5ldC9taW5lY3JhZnQvY29yZS9EaXJlY3Rpb24kQXhpcwcAEAEAHG5ldC9taW5lY3JhZnQvY29yZS9EaXJlY3Rpb24HABIBAARBeGlz"
+        },
+        {
+          "copy": [
+            42,
+            15
+          ]
+        },
+        {
+          "insert": "DAAVABY="
+        },
+        {
+          "copy": [
+            57,
+            2
+          ]
+        },
+        {
+          "insert": "BAAXAQAEdGhpcwEAM0xkZXYvdWx0aW1hdGNoYW1wL2JldHRlcmdyYXNzL3V0aWwvQmV0dGVyU25vd1V0aWxzOwEAFGlzTGF5ZXJOZWlnaGJvdXJTbm93AQBYKExuZXQvbWluZWNyYWZ0L2NsaWVudC9yZW5kZXJlci9ibG9jay9CbG9ja0FuZFRpbnRHZXR0ZXI7TG5ldC9taW5lY3JhZnQvY29yZS9CbG9ja1BvczspWgEAEWdldExheWVyTmVpZ2hib3VyAQCJKExuZXQvbWluZWNyYWZ0L2NsaWVudC9yZW5kZXJlci9ibG9jay9CbG9ja0FuZFRpbnRHZXR0ZXI7TG5ldC9taW5lY3JhZnQvY29yZS9CbG9ja1BvczspTG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvYmxvY2svc3RhdGUvQmxvY2tTdGF0ZTsMAB0AHgoAAgAfAQAmbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9ibG9jay9CbG9ja3MHACEBAARTTk9XAQAnTG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvYmxvY2svQmxvY2s7DAAjACQ="
+        },
+        {
+          "copy": [
+            61,
+            1
+          ]
+        },
+        {
+          "insert": "ACIAJQEAMG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvYmxvY2svc3RhdGUvQmxvY2tTdGF0ZQcAJwEAAmlzAQAVKExqYXZhL2xhbmcvT2JqZWN0OylaDAApACo="
+        },
+        {
+          "copy": [
+            64,
+            1
+          ]
+        },
+        {
+          "insert": "ACgAKwEAClNOT1dfQkxPQ0s="
+        },
+        {
+          "copy": [
+            65,
+            2
+          ]
+        },
+        {
+          "insert": "LQAkCQAiAC4BAA=="
+        },
+        {
+          "copy": [
+            67,
+            1
+          ]
+        },
+        {
+          "insert": "UE9XREVSX1NOT1cMADAAJAkAIgAxAQAFd29ybGQBADhMbmV0L21pbmVjcmFmdC9jbGllbnQvcmVuZGVyZXIvYmxvY2svQmxvY2tBbmRUaW50R2V0dGVyOwEAB3NlbGZQb3MBAB1MbmV0L21pbmVjcmFmdC9jb3JlL0Jsb2NrUG9zOwEADmxheWVyTmVpZ2hib3VyAQAyTG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvYmxvY2svc3RhdGUvQmxvY2tTdGF0ZTsBABVjYW5IYXZlR2hvc3RTbm93TGF5ZXIBABFjYW5IYXZlR2hvc3RMYXllcgw="
+        },
+        {
+          "copy": [
+            71,
+            2
+          ]
+        },
+        {
+          "insert": "ABwKAAIAOwwAGwAcCgACAD0BAARsb2FkAQA8KClM"
+        },
+        {
+          "copy": [
+            73,
+            29
+          ]
+        },
+        {
+          "insert": "Y29uZmln"
+        },
+        {
+          "copy": [
+            106,
+            16
+          ]
+        },
+        {
+          "insert": "b25maWc7DAA/AEAKAAsAQQEACmJldHRlclNub3cBAEtMZGV2L3VsdGltYXQ="
+        },
+        {
+          "copy": [
+            123,
+            2
+          ]
+        },
+        {
+          "insert": "YW1wL2JldHRlcmdyYXNzL2NvbmZpZy9CZXR0ZXJHcmFzc2lmeUNvbmZpZyRCZXR0ZXJTbm93Q29uZmlnOwwAQwBECQALAEUBAA5iZXR0ZXJTbm93TW9kZQEASUxkZXYvdWx0aW1hdGNoYW1wL2JldHRlcmdyYXNzL2NvbmZpZy9CZXR0ZXJHcmFzc2lmeUNvbmZpZyRCZXR0ZXJTbm93TW9kZTsMAEcASAkACQBJAQADT0ZGDABLAEgJAA4ATAEAJG5ldC9mYWJyaWNtYy9sb2FkZXIvYXBpL0ZhYnJpY0xvYWRlcgcATgEAC2dldEluc3RhbmNlAQAoKClMbmV0L2ZhYnJpY21jL2xvYWRlci9hcGkvRmFicmljTG9hZGVyOwwAUABRCwBPAFIBAAp3aWxkZXJ3aWxkCABUAQALaXNNb2RMb2FkZWQBABUoTGphdmEvbGFuZy9TdHJpbmc7KVoMAFYAVwsATwBYAQA0ZGV2L3VsdGltYXRjaGFtcC9iZXR0ZXJncmFzcy9jb21wYXQvV2lsZGVyV2lsZENvbXBhdAcAWgEAD2lzU25vd2xvZ2dpbmdPbgEAAygpWgwAXABdCgBbAF4BADZuZXQvbWluZWNyYWZ0L2NsaWVudC9yZW5kZXJlci9ibG9jay9CbG9ja0FuZFRpbnRHZXR0ZXIHAGABAA1nZXRCbG9ja1N0YXRlAQBRKExuZXQvbWluZWNyYWZ0L2NvcmUvQmxvY2tQb3M7KUxuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL2Jsb2NrL3N0YXRlL0Jsb2NrU3RhdGU7DABiAGMLAGEAZAEACGdldFNoYXBlAQByKExuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL0Jsb2NrR2V0dGVyO0xuZXQvbWluZWNyYWZ0L2NvcmUvQmxvY2tQb3M7KUxuZXQvbWluZWNyYWZ0L3dvcmxkL3BoeXMvc2hhcGVzL1ZveGVsU2hhcGU7DABmAGcKACgAaAEABERPV04BAB5MbmV0L21pbmVjcmFmdC9jb3JlL0RpcmVjdGlvbjsMAGoAawkAEwBsAQAqbmV0L21pbmVjcmFmdC93b3JsZC9waHlzL3NoYXBlcy9Wb3hlbFNoYXBlBwBuAQAMZ2V0RmFjZVNoYXBlAQBMKExuZXQvbWluZWNyYWZ0L2NvcmUvRGlyZWN0aW9uOylMbmV0L21pbmVjcmFmdC93b3JsZC9waHlzL3NoYXBlcy9Wb3hlbFNoYXBlOwwAcABxCgBvAHIBAAFZAQAjTG5ldC9taW5lY3JhZnQvY29yZS9EaXJlY3Rpb24kQXhpczsMAHQAdQkAEQB2AQADbWF4AQAmKExuZXQvbWluZWNyYWZ0L2NvcmUvRGlyZWN0aW9uJEF4aXM7KUQMAHgAeQoAbwB6AQADbWluDAB8AHkKAG8AfQEAOmRldi91bHRpbWF0Y2hhbXAvYmV0dGVyZ3Jhc3MvdXRpbC9CZXR0ZXJTbm93UHJlZGljYXQ="
+        },
+        {
+          "copy": [
+            125,
+            6
+          ]
+        },
+        {
+          "insert": "BwB/AQASaXNCbG9ja1doaXRlbGlzdGVkAQA1KExuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL2Jsb2NrL3N0YXRlL0Jsb2NrU3RhdGU7KVoMAIEAgg=="
+        },
+        {
+          "copy": [
+            133,
+            1
+          ]
+        },
+        {
+          "insert": "AIAAgwEABWlzQWlyDACFAF0KACgAhgEABVdBVEVSDACIACQJACIAiQEADmhhc0Jsb2NrRW50aXR5DACLAF0KACgAjAEAAVgMAI4AdQkAEQCPAQABWgwAkQB1CQARAJIGP8AAAAAAAAABABtuZXQvbWluZWNyYWZ0L2NvcmUvQmxvY2tQb3MHAJYBAAViZWxvdwEAHygpTG5ldC9taW5lY3JhZnQvY29yZS9CbG9ja1BvczsMAJgAmQoAlwCaAQACVVAMAJwAawkAEwCdAQAMaXNGYWNlU3R1cmR5AQBlKExuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL0Jsb2NrR2V0dGVyO0xuZXQvbWluZWNyYWZ0L2NvcmUvQmxvY2tQb3M7TG5ldC9taW5lY3JhZnQvY29yZS9EaXJlY3Rpb247KVoMAJ8AoAoAKAChAQAQaXNUYWdXaGl0ZWxpc3RlZAwAowCCCgCAAKQBAA1pc1doaXRlbGlzdE9uDACmAF0KAIAApwEAD2lzQmxvY2tFeGNsdWRlZAwAqQCCCgCAAKoBAA1pc1RhZ0V4Y2x1ZGVkDACsAIIKAIAArQEABHNlbGYBAAxvdXRsaW5lU2hhcGUBACxMbmV0L21pbmVjcmFmdC93b3JsZC9waHlzL3NoYXBlcy9Wb3hlbFNoYXBlOwEACmJvdHRvbUZhY2UBAAZoZWlnaHQBAAFEAQASaXNXaGl0ZWxpc3RlZEJsb2NrAQAHaXNMYXllcgEAEGlzV2hpdGVsaXN0ZWRUYWcBAA9pc0V4Y2x1ZGVkQmxvY2sBAA1pc0V4Y2x1ZGVkVGFnAQA6ZGV2L3VsdGltYXRjaGFtcC9iZXR0ZXJncmFzcy91dGlsL0JldHRlckdyYXNzaWZ5"
+        },
+        {
+          "copy": [
+            138,
+            5
+          ]
+        },
+        {
+          "insert": "VXRpbHMHALoBAAppbml0Q2FjaGVz"
+        },
+        {
+          "copy": [
+            149,
+            2
+          ]
+        },
+        {
+          "insert": "vAAWCgC7AL0="
+        },
+        {
+          "copy": [
+            154,
+            39
+          ]
+        },
+        {
+          "copy": [
+            201,
+            2
+          ]
+        },
+        {
+          "insert": "vwDACQC7AME="
+        },
+        {
+          "copy": [
+            206,
+            17
+          ]
+        },
+        {
+          "insert": "BwDD"
+        },
+        {
+          "copy": [
+            223,
+            36
+          ]
+        },
+        {
+          "insert": "DADFAMY="
+        },
+        {
+          "copy": [
+            259,
+            2
+          ]
+        },
+        {
+          "insert": "xADH"
+        },
+        {
+          "copy": [
+            272,
+            21
+          ]
+        },
+        {
+          "insert": "BwDJ"
+        },
+        {
+          "copy": [
+            293,
+            10
+          ]
+        },
+        {
+          "insert": "DADLAF0="
+        },
+        {
+          "copy": [
+            309,
+            2
+          ]
+        },
+        {
+          "insert": "ygDM"
+        },
+        {
+          "copy": [
+            319,
+            30
+          ]
+        },
+        {
+          "insert": "DADOAM8LAMoA0A=="
+        },
+        {
+          "copy": [
+            352,
+            42
+          ]
+        },
+        {
+          "insert": "0gEABW5vcnRoDADUAJk="
+        },
+        {
+          "copy": [
+            425,
+            2
+          ]
+        },
+        {
+          "insert": "lwDVAQAFc291dGg="
+        },
+        {
+          "copy": [
+            430,
+            2
+          ]
+        },
+        {
+          "insert": "1wCZ"
+        },
+        {
+          "copy": [
+            477,
+            2
+          ]
+        },
+        {
+          "insert": "lwDYAQAEZWFzdA=="
+        },
+        {
+          "copy": [
+            482,
+            2
+          ]
+        },
+        {
+          "insert": "2gCZ"
+        },
+        {
+          "copy": [
+            495,
+            2
+          ]
+        },
+        {
+          "insert": "lwDb"
+        },
+        {
+          "copy": [
+            522,
+            7
+          ]
+        },
+        {
+          "copy": [
+            537,
+            2
+          ]
+        },
+        {
+          "insert": "3QCZCgCXAN4BAAZlcXVhbHMMAOAAKgoABADhAQARamF2YS91dGlsL08="
+        },
+        {
+          "copy": [
+            575,
+            1
+          ]
+        },
+        {
+          "insert": "amVjdHMHAOMBAA5yZXF1aXJlTm9uTnVsbAEAJg=="
+        },
+        {
+          "copy": [
+            618,
+            2
+          ]
+        },
+        {
+          "insert": "amF2YS9sYW5nL09iamVjdA=="
+        },
+        {
+          "copy": [
+            647,
+            3
+          ]
+        },
+        {
+          "copy": [
+            773,
+            17
+          ]
+        },
+        {
+          "insert": "DADlAOYKAOQA5wEACE9QVElGSU5FDADpAEg="
+        },
+        {
+          "copy": [
+            792,
+            2
+          ]
+        },
+        {
+          "insert": "DgDqAQAGTEFNQkRB"
+        },
+        {
+          "copy": [
+            800,
+            2
+          ]
+        },
+        {
+          "insert": "7ABI"
+        },
+        {
+          "copy": [
+            914,
+            2
+          ]
+        },
+        {
+          "copy": [
+            1452,
+            1
+          ]
+        },
+        {
+          "insert": "AO0="
+        },
+        {
+          "copy": [
+            1649,
+            49
+          ]
+        },
+        {
+          "insert": "BwDv"
+        },
+        {
+          "copy": [
+            1708,
+            75
+          ]
+        },
+        {
+          "copy": [
+            1791,
+            2
+          ]
+        },
+        {
+          "insert": "8QDyCgDTAPM="
+        },
+        {
+          "copy": [
+            1796,
+            72
+          ]
+        },
+        {
+          "insert": "BwD1"
+        },
+        {
+          "copy": [
+            1868,
+            85
+          ]
+        },
+        {
+          "copy": [
+            1958,
+            2
+          ]
+        },
+        {
+          "insert": "9wD4CQD2APk="
+        },
+        {
+          "copy": [
+            1963,
+            103
+          ]
+        },
+        {
+          "insert": "DAD7APw="
+        },
+        {
+          "copy": [
+            2066,
+            2
+          ]
+        },
+        {
+          "insert": "KAD9"
+        },
+        {
+          "copy": [
+            2079,
+            21
+          ]
+        },
+        {
+          "insert": "BwD/"
+        },
+        {
+          "copy": [
+            2100,
+            12
+          ]
+        },
+        {
+          "insert": "DAEBAF0="
+        },
+        {
+          "copy": [
+            2112,
+            1
+          ]
+        },
+        {
+          "insert": "AQABAg=="
+        },
+        {
+          "copy": [
+            2125,
+            20
+          ]
+        },
+        {
+          "insert": "BwEE"
+        },
+        {
+          "copy": [
+            2145,
+            35
+          ]
+        },
+        {
+          "insert": "DAEGAQc="
+        },
+        {
+          "copy": [
+            2180,
+            1
+          ]
+        },
+        {
+          "insert": "AQUBCA=="
+        },
+        {
+          "copy": [
+            2190,
+            115
+          ]
+        },
+        {
+          "copy": [
+            2310,
+            1
+          ]
+        },
+        {
+          "insert": "AQoBCwoAKAEM"
+        },
+        {
+          "copy": [
+            2315,
+            17
+          ]
+        },
+        {
+          "copy": [
+            2340,
+            1
+          ]
+        },
+        {
+          "insert": "AQ4A+AkA9gEPAQAzWw=="
+        },
+        {
+          "copy": [
+            2507,
+            50
+          ]
+        },
+        {
+          "insert": "BwE="
+        },
+        {
+          "copy": [
+            2569,
+            1
+          ]
+        },
+        {
+          "copy": [
+            4322,
+            5
+          ]
+        },
+        {
+          "insert": "BwETAQAE"
+        },
+        {
+          "copy": [
+            4335,
+            1
+          ]
+        },
+        {
+          "insert": "b2RlAQAP"
+        },
+        {
+          "copy": [
+            4359,
+            1
+          ]
+        },
+        {
+          "insert": "aW5lTnVt"
+        },
+        {
+          "copy": [
+            4390,
+            1
+          ]
+        },
+        {
+          "insert": "ZXI="
+        },
+        {
+          "copy": [
+            4404,
+            1
+          ]
+        },
+        {
+          "insert": "YWJsZQEAEkxvY2FsVmFyaWFibGVUYWJsZQ=="
+        },
+        {
+          "copy": [
+            4425,
+            16
+          ]
+        },
+        {
+          "copy": [
+            4495,
+            3
+          ]
+        },
+        {
+          "insert": "SW5uZXJDbGFzc2Vz"
+        },
+        {
+          "copy": [
+            4657,
+            15
+          ]
+        },
+        {
+          "copy": [
+            4695,
+            12
+          ]
+        },
+        {
+          "insert": "ACEAAg=="
+        },
+        {
+          "copy": [
+            4759,
+            2
+          ]
+        },
+        {
+          "copy": [
+            4771,
+            9
+          ]
+        },
+        {
+          "insert": "FQAWAAEBFQ=="
+        },
+        {
+          "copy": [
+            4787,
+            15
+          ]
+        },
+        {
+          "insert": "GA=="
+        },
+        {
+          "copy": [
+            4803,
+            5
+          ]
+        },
+        {
+          "insert": "ARY="
+        },
+        {
+          "copy": [
+            4810,
+            10
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            4822,
+            11
+          ]
+        },
+        {
+          "insert": "GQAa"
+        },
+        {
+          "copy": [
+            4836,
+            5
+          ]
+        },
+        {
+          "insert": "GwAcAAEBFQAAAIkAAg=="
+        },
+        {
+          "copy": [
+            4849,
+            2
+          ]
+        },
+        {
+          "insert": "AAAALior"
+        },
+        {
+          "copy": [
+            4860,
+            2
+          ]
+        },
+        {
+          "insert": "IA=="
+        },
+        {
+          "copy": [
+            4871,
+            2
+          ]
+        },
+        {
+          "insert": "xgAlLLIAJrYALJoAFyyyAC+2ACyaAA0ssgAytgAsmQAHBKcABAOsAAAAAwEYAAAACwAD/AAoBwAoA0ABARYAAAASAAQAAABDAAYARAAOAEUALQBEARcAAAAgAAMAAAAuADMANAAAAAAALgA1ADYAAQAGACgANwA4AAIACQA5ABwAAQEVAAAAVQACAAIAAAAWKiu4ADyZAA8qK7gAPpkABwSnAAQDrAAAAAMBGAAAAAUAAhRAAQEWAAAABgABAAAASQEXAAAAFgACAAAAFgAzADQAAAAAABYANQA2AAEACQA6ABwAAQEVAAACNwAEAAwAAAEXuABCtABGtABKsgBNpgAFA6y4AFMSVQ=="
+        },
+        {
+          "copy": [
+            4873,
+            2
+          ]
+        },
+        {
+          "insert": "WQIAmQALuABfmQAFA6wqK7kAZQIATSwqK7YAaU4tsgBttgBzOgQtsgB3tgB7LbIAd7YAfmc5BSy4AIQ2BxUHmgBaLLYAh5oAUSyyAIq2ACyaAEcstgCNmgBAGQSyAJC2AH4Ol54AMxkEsgCQtgB7D5icACYZBLIAk7YAfg6XngAZGQSyAJO2AHsPmJwADBgFFACUmJ0ABQOsKiu4ACDGAAcEpwAEAzYIFQiZABsqK7YAm7kAZQIAKiu2AJuyAJ62AKKaAAUDrCy4AKU2CbgAqJkAExUHmgAIFQmZAAcEpwAEA6wsuACrNgosuACuNgsVCpoADBULmgAHBKcABAOsAAAAAwEYAAAANAAOERT/AIgABwcAYQcAlwcAKAcAbwcAbwMBAAABC0AB/AAeAQH8ABUBA0ABAP0AGQEBQAEB"
+        },
+        {
+          "copy": [
+            4875,
+            1
+          ]
+        },
+        {
+          "insert": "AAAAXgAXAAAATQAPAE4AEQBPACYAUQAuAFMANQBUAD4AVQBPAFcAVQBYAFoAWQB3AFoAhABbAJEAXACeAF0ArwBgALEAYwDAAGQA3QBlAN8AZwDlAGkA+wBrAQEAbAEHAG4BFwAAAHAACwAAARcAMwA0AAAAAAEXADUANgABAC4A6QCvADgAAgA1AOIAsACxAAMAPgDZALIAsQAEAE8AyACzALQABQBVAMIAtQCRAAcAwABXALYAkQAIAOUAMgC3AJEACQEBABYAuACRAAoBBwAQALkAkQALAAkAHQAeAAEBFQAAAycABQAKAAABxrgAvgFNsgDCuQDIAQBOLbkAzQ=="
+        },
+        {
+          "copy": [
+            4876,
+            4
+          ]
+        },
+        {
+          "insert": "sC25ANEBAMAA0zoE"
+        },
+        {
+          "copy": [
+            4881,
+            1
+          ]
+        },
+        {
+          "insert": "xwA8"
+        },
+        {
+          "copy": [
+            4891,
+            3
+          ]
+        },
+        {
+          "insert": "KA=="
+        },
+        {
+          "copy": [
+            4895,
+            2
+          ]
+        },
+        {
+          "insert": "Kg=="
+        },
+        {
+          "copy": [
+            4897,
+            3
+          ]
+        },
+        {
+          "insert": "1rkAZQIA"
+        },
+        {
+          "copy": [
+            4901,
+            3
+          ]
+        },
+        {
+          "insert": "Kg=="
+        },
+        {
+          "copy": [
+            4904,
+            3
+          ]
+        },
+        {
+          "insert": "2bkAZQIA"
+        },
+        {
+          "copy": [
+            4908,
+            3
+          ]
+        },
+        {
+          "insert": "Kg=="
+        },
+        {
+          "copy": [
+            4911,
+            3
+          ]
+        },
+        {
+          "insert": "3LkAZQIA"
+        },
+        {
+          "copy": [
+            4915,
+            3
+          ]
+        },
+        {
+          "insert": "Kg=="
+        },
+        {
+          "copy": [
+            4918,
+            3
+          ]
+        },
+        {
+          "insert": "37kAZQIA"
+        },
+        {
+          "copy": [
+            4922,
+            1
+          ]
+        },
+        {
+          "insert": "TQ=="
+        },
+        {
+          "copy": [
+            4925,
+            13
+          ]
+        },
+        {
+          "insert": "RCw="
+        },
+        {
+          "copy": [
+            4942,
+            3
+          ]
+        },
+        {
+          "copy": [
+            4950,
+            8
+          ]
+        },
+        {
+          "insert": "GQQ="
+        },
+        {
+          "copy": [
+            4959,
+            2
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            4962,
+            2
+          ]
+        },
+        {
+          "insert": "JBkE"
+        },
+        {
+          "copy": [
+            4966,
+            2
+          ]
+        },
+        {
+          "insert": "Jg=="
+        },
+        {
+          "copy": [
+            4969,
+            2
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            4972,
+            7
+          ]
+        },
+        {
+          "insert": "Lw=="
+        },
+        {
+          "copy": [
+            4980,
+            2
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            4983,
+            7
+          ]
+        },
+        {
+          "insert": "Mg=="
+        },
+        {
+          "copy": [
+            4991,
+            2
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            4994,
+            14
+          ]
+        },
+        {
+          "insert": "vLgAQrQARrQASrgA6MAADjoGGQY="
+        },
+        {
+          "copy": [
+            5009,
+            2
+          ]
+        },
+        {
+          "insert": "66YAKQ=="
+        },
+        {
+          "copy": [
+            5052,
+            31
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            5084,
+            1
+          ]
+        },
+        {
+          "insert": "Ngc="
+        },
+        {
+          "copy": [
+            5085,
+            2
+          ]
+        },
+        {
+          "insert": "UBkGsgDupgBF"
+        },
+        {
+          "copy": [
+            5088,
+            59
+          ]
+        },
+        {
+          "copy": [
+            5151,
+            3
+          ]
+        },
+        {
+          "insert": "B6cA"
+        },
+        {
+          "copy": [
+            5154,
+            1
+          ]
+        },
+        {
+          "copy": [
+            5172,
+            2
+          ]
+        },
+        {
+          "insert": "Bw=="
+        },
+        {
+          "copy": [
+            5175,
+            1
+          ]
+        },
+        {
+          "insert": "Bw=="
+        },
+        {
+          "copy": [
+            5203,
+            2
+          ]
+        },
+        {
+          "insert": "hQ=="
+        },
+        {
+          "copy": [
+            6214,
+            5
+          ]
+        },
+        {
+          "insert": "B6IAfCwVCDI6CRkEwQDw"
+        },
+        {
+          "copy": [
+            6219,
+            2
+          ]
+        },
+        {
+          "insert": "HxkJsgAvtgAsmgAOGQmyADK2ACyZAAkZBLYA9LAZCRkEtgAsmQBCGQmyAPq2AP62AQOZABMZCbIA+ge4AQm2AQ3AACiwGQmyARC2AP62AQOZABMZCbIBEAe4AQm2AQ3AACiwGQmwhAgBp/+Ep/5NAbAAAAACARgAAADPAA=="
+        },
+        {
+          "copy": [
+            6221,
+            1
+          ]
+        },
+        {
+          "insert": "/QAOBwESBwDK/ABQBwDT/QAHBwEUAf8AOgAIBwBhBwCXBwESBwDKBwDTBwEUAQcAKAA="
+        },
+        {
+          "copy": [
+            6230,
+            1
+          ]
+        },
+        {
+          "insert": "BwEUAf8A"
+        },
+        {
+          "copy": [
+            6246,
+            1
+          ]
+        },
+        {
+          "copy": [
+            6263,
+            2
+          ]
+        },
+        {
+          "insert": "BwBhBwCXBwESBwDKBwDTBwEUAQcAKAACBwEUAf8AAAAIBwBhBwCXBwESBwDKBwDTBwEUAQcAKAA="
+        },
+        {
+          "copy": [
+            6274,
+            1
+          ]
+        },
+        {
+          "insert": "BwEUAQH6AA=="
+        },
+        {
+          "copy": [
+            6421,
+            1
+          ]
+        },
+        {
+          "copy": [
+            6433,
+            2
+          ]
+        },
+        {
+          "insert": "NAAHBwBhBwCXBwESBwDKBwDTBwEUBwA="
+        },
+        {
+          "copy": [
+            6441,
+            2
+          ]
+        },
+        {
+          "insert": "AA=="
+        },
+        {
+          "copy": [
+            6573,
+            3
+          ]
+        },
+        {
+          "insert": "BBUNDQ0DQAEE/AACAfwABwH8ACkHACgFJx0C+QAF/wACAAQHAGEHAJcHARIHAMoAAAEWAAAAegAeAAAAFAADABcABQ=="
+        },
+        {
+          "copy": [
+            6578,
+            2
+          ]
+        },
+        {
+          "insert": "ACIAGgAmABsAXwAdAGQAHwBtACAAcwAhAKgAHwCuACMAvwAlAMcAJgDtACcA9QAoATcAKgE6ACwBPwAtAUgALgFOAC8BbAAwAXIAMwF8ADQBigA1AZoAOAGoADkBuAA8AbsALQHBAA=="
+        },
+        {
+          "copy": [
+            6582,
+            2
+          ]
+        },
+        {
+          "insert": "xABC"
+        },
+        {
+          "copy": [
+            6584,
+            3
+          ]
+        },
+        {
+          "copy": [
+            6593,
+            1
+          ]
+        },
+        {
+          "insert": "AAAAIg=="
+        },
+        {
+          "copy": [
+            6598,
+            3
+          ]
+        },
+        {
+          "insert": "Bw=="
+        },
+        {
+          "copy": [
+            6614,
+            7
+          ]
+        },
+        {
+          "copy": [
+            6627,
+            2
+          ]
+        },
+        {
+          "insert": "CwAMAAkADgALAA8="
+        },
+        {
+          "copy": [
+            6634,
+            3
+          ]
+        },
+        {
+          "insert": "EQATABQ="
+        },
+        {
+          "copy": [
+            6642,
+            2
+          ]
+        },
+        {
+          "insert": "ARoAAAACAAUBGwAAAAQAAQAH"
+        }
+      ]
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/SpriteCalculator$ReloadListener.class",
+      "source": "dev/ultimatchamp/bettergrass/util/SpriteCalculator$ReloadListener.class",
+      "sha256": "36d992715e4b613c2411cc869d25b5e390cf471716d6ea6dbbc4ef00cf3ea9a6",
+      "size": 1329
+    },
+    {
+      "name": "dev/ultimatchamp/bettergrass/util/SpriteCalculator.class",
+      "source": "dev/ultimatchamp/bettergrass/util/SpriteCalculator.class",
+      "sha256": "5a4580f9e9d2ef88805c88a42efefb53e707c1d8ec84f8de02c7cbd4a744e95a",
+      "size": 3723
+    },
+    {
+      "name": "bettergrass.mixins.json",
+      "source": "bettergrass.mixins.json",
+      "sha256": "191912e4b8a5cc39506a3bd047d3c7f0b3621aa330d8d3b6d12a7e5c7a4c2841",
+      "size": 330
+    },
+    {
+      "name": "fabric.mod.json",
+      "source": "fabric.mod.json",
+      "sha256": "5a7440400d0caca39e210fa408fd51b87a5ede3f0e386ae41b9d3071660508dd",
+      "size": 1342
+    },
+    {
+      "name": "assets/",
+      "source": "assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/bettergrass/",
+      "source": "assets/bettergrass/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/bettergrass/icon.png",
+      "source": "assets/bettergrass/icon.png",
+      "sha256": "af9ad7f6ad8936c19b716d697e57fb58a27b30076f1ee5ba6da2824d00ab1c36",
+      "size": 11720
+    },
+    {
+      "name": "assets/bettergrass/lang/",
+      "source": "assets/bettergrass/lang/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/bettergrass/lang/de_de.json",
+      "source": "assets/bettergrass/lang/de_de.json",
+      "sha256": "931a555b787d051e6bc4a9807d76dc4d28739d8d50bfb5c81c3a010e64c28683",
+      "size": 3673
+    },
+    {
+      "name": "assets/bettergrass/lang/en_us.json",
+      "source": "assets/bettergrass/lang/en_us.json",
+      "sha256": "9056b2c5d1f063c0000458a15772d6f1c676faa92d3ccca0bba3170699f33765",
+      "size": 3356
+    },
+    {
+      "name": "assets/bettergrass/lang/et_ee.json",
+      "source": "assets/bettergrass/lang/et_ee.json",
+      "sha256": "feef208724bc51cba5c3cc7d9937774959f49d347641964a82639fe2c9879230",
+      "size": 3432
+    },
+    {
+      "name": "assets/bettergrass/lang/it_it.json",
+      "source": "assets/bettergrass/lang/it_it.json",
+      "sha256": "b66ceb7ea77e5d6f76684334e8594bf7d77f27b84af439be48216bc1239262b3",
+      "size": 3704
+    },
+    {
+      "name": "assets/bettergrass/lang/pt_br.json",
+      "source": "assets/bettergrass/lang/pt_br.json",
+      "sha256": "f3960249e5c4360c77b2d6f05bbd780bc7dbd7563d2a27e9285fb60c9e296335",
+      "size": 3766
+    },
+    {
+      "name": "assets/bettergrass/lang/ru_ru.json",
+      "source": "assets/bettergrass/lang/ru_ru.json",
+      "sha256": "5dc2975c4c360c49ab944b6f4e589e3ff60e61e296dd0feb2499089ab8c16f41",
+      "size": 4712
+    },
+    {
+      "name": "assets/bettergrass/lang/tr_tr.json",
+      "source": "assets/bettergrass/lang/tr_tr.json",
+      "sha256": "77a72c589dd09268c9f7f6f3b6961da0dde3715a3c891ffefaa38380e2094e70",
+      "size": 3717
+    },
+    {
+      "name": "assets/bettergrass/lang/uk_ua.json",
+      "source": "assets/bettergrass/lang/uk_ua.json",
+      "sha256": "ad72825d118e8b02703e64072266e2f49d7d7f1d213b804929cfaba5b170644f",
+      "size": 5093
+    },
+    {
+      "name": "assets/bettergrass/lang/zh_cn.json",
+      "source": "assets/bettergrass/lang/zh_cn.json",
+      "sha256": "eac35cd6ea1b876bfc5dc415f4b684dbe2cfe8f257ef5665f900c5c09f81d8b5",
+      "size": 3283
+    },
+    {
+      "name": "assets/bettergrass/lang/zh_tw.json",
+      "source": "assets/bettergrass/lang/zh_tw.json",
+      "sha256": "eedb48b0b175f6473f9b83a42ddf08625530e32bf7cbecedff87f72b1873fa1c",
+      "size": 3247
+    },
+    {
+      "name": "assets/bettergrass/textures/",
+      "source": "assets/bettergrass/textures/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/bettergrass/textures/gui/",
+      "source": "assets/bettergrass/textures/gui/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/bettergrass/textures/gui/icon.png",
+      "source": "assets/bettergrass/textures/gui/icon.png",
+      "sha256": "af9ad7f6ad8936c19b716d697e57fb58a27b30076f1ee5ba6da2824d00ab1c36",
+      "size": 11720
+    }
+  ]
+}

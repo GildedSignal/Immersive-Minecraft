@@ -1,0 +1,121 @@
+--- stock/shaders/composite13.fsh
++++ custom/shaders/composite13.fsh
+@@ -1,6 +1,7 @@
+ #version 330 compatibility
+ 
+ const float shadowDistanceRenderMul = 1.0;
++const float entityShadowDistanceMul = 0.5;
+ const bool shadowHardwareFiltering0 = true;
+ 
+ #include "/programs/composite/Composite13.frag"
+--- stock/shaders/programs/deferred/Deferred11.frag
++++ custom/shaders/programs/deferred/Deferred11.frag
+@@ -79,20 +79,25 @@
+ 
+             float avgOcclusionDepth = 0.0;
+             float depthSum = 0.0;
+-            float depthSampleRadius = (0.5 + noise.y) * 2.0;
+-            float offsetX = -depthSampleRadius;
+-            for (int i = -1; i <= 1; i++) {
+-                float offsetY = -depthSampleRadius;
+-                for (int j = -1; j <= 1; j++) {
+-                    vec3 sampleCoord = distortShadowCoord(basicShadowCoordNoDistort + offsetX * offsetDirection1 + offsetY * offsetDirection2);
+-                    float sampleDepth = textureLod(shadowtex1, sampleCoord.st, 0.0).r;
+-                    depthSum += sampleDepth;
+-                    avgOcclusionDepth += clamp(sampleCoord.z - sampleDepth, 0.0, 1.0);
+-                    offsetY += depthSampleRadius;
+-                }
+-                offsetX += depthSampleRadius;
+-            }
+-            if (depthSum < 8.9999 && all(lessThan(abs(basicShadowCoord - vec3(vec2(0.75), 0.5)), vec3(vec2(0.249), 0.5)))) {
++            // [GPU-OPT-B] The blocker search result is only consumed inside the shadow map. Test the
++            // (unchanged) in-map condition first and skip the 9 distorted shadowtex1 taps when outside.
++            bool insideShadowMap = all(lessThan(abs(basicShadowCoord - vec3(vec2(0.75), 0.5)), vec3(vec2(0.249), 0.5)));
++            if (insideShadowMap) {
++                float depthSampleRadius = (0.5 + noise.y) * 2.0;
++                float offsetX = -depthSampleRadius;
++                for (int i = -1; i <= 1; i++) {
++                    float offsetY = -depthSampleRadius;
++                    for (int j = -1; j <= 1; j++) {
++                        vec3 sampleCoord = distortShadowCoord(basicShadowCoordNoDistort + offsetX * offsetDirection1 + offsetY * offsetDirection2);
++                        float sampleDepth = textureLod(shadowtex1, sampleCoord.st, 0.0).r;
++                        depthSum += sampleDepth;
++                        avgOcclusionDepth += clamp(sampleCoord.z - sampleDepth, 0.0, 1.0);
++                        offsetY += depthSampleRadius;
++                    }
++                    offsetX += depthSampleRadius;
++                }
++            }
++            if (insideShadowMap && depthSum < 8.9999) {
+                 float filterRadius = min(avgOcclusionDepth * 80.0 / 9.0, 4.0) + 0.02 * shadowDistance / distortFactor;
+ 
+                 vec3 waterShadowCoord = basicShadowCoord - vec3(0.0, 0.5, 0.0);
+@@ -307,6 +312,16 @@
+         finalColor.rgb *= gbufferData.albedo.rgb;
+ 
+         #ifdef SHADOW_AND_SKY
++            float NdotL = clamp(dot(gbufferData.normal, viewShadowDirection), 0.0, 1.0);
++            #ifdef PCSS
++            // [GPU-OPT-A] With PCSS, when NdotL == 0 (so normalFactor = pow(0, k > 0) == 0), the material is not
++            // subsurface (porosity <= 64.5/255) and weatherStrength < 0.999, every branch of
++            // percentageCloserSoftShadow() multiplies both 'shadow' and 'subsurfaceScattering' by exactly 0, so the
++            // whole direct-sunlight term adds exactly 0 to finalColor. Skip the SSS ray-march, cloud shadow,
++            // specular and PCSS work for such pixels (sun-facing-away, non-SSS surfaces).
++            if (!(NdotL == 0.0 && !(gbufferData.porosity > 64.5 / 255.0) && weatherStrength < 0.999))
++            #endif
++            {
+             vec3 f0 = vec3(0.04);
+             vec3 f82 = vec3(1.0);
+             #ifdef LABPBR_F0
+@@ -321,7 +336,6 @@
+             vec3 diffuseAbsorption = (1.0 - gbufferData.metalness) * diffuseAbsorptionWeight(NdotV, gbufferData.smoothness, f0, f82);
+ 
+             vec3 shadow = sunColor * basicSunlight;
+-            float NdotL = clamp(dot(gbufferData.normal, viewShadowDirection), 0.0, 1.0);
+             vec3 shadowDiffuse = gbufferData.albedo.rgb * diffuseAbsorption;
+             vec3 shadowSpecular =
+                 sunlightSpecular(viewDir, viewShadowDirection, gbufferData.normal, gbufferData.smoothness * 0.995, NdotL, NdotV, f0, f82) *
+@@ -348,6 +362,7 @@
+             #endif
+             shadow += subsurfaceScattering;
+             finalColor.rgb += shadow;
++            } // [GPU-OPT-A]
+         }
+         else {
+             vec3 worldDir = normalize(worldPos);
+--- stock/shaders/programs/deferred/Deferred99.frag
++++ custom/shaders/programs/deferred/Deferred99.frag
+@@ -29,10 +29,20 @@
+ void main() {
+     ivec2 texel = ivec2(gl_FragCoord.st);
+     vec4 trasnparent = texelFetch(colortex16, texel, 0);
+-    float overlay = clamp(trasnparent.w * 1e+3, 0.0, 1.0) * float(texelFetch(depthtex1, texel, 0).r == 1.0);
+-    texBuffer0 = mix(texelFetch(colortex0, texel, 0), trasnparent, overlay);
+-    texBuffer1 = mix(texelFetch(colortex1, texel, 0), texelFetch(colortex17, texel, 0), overlay);
+-    texBuffer2 = mix(texelFetch(colortex2, texel, 0), texelFetch(colortex18, texel, 0), overlay);
++    // [GPU-OPT-C] mix(x, y, 0.0) == x exactly for finite unorm y, so only fetch depthtex1 / colortex17 / colortex18
++    // where a Voxy translucent texel exists. Every pixel is still written (keeps Iris ping-pong buffers identical).
++    float overlay = clamp(trasnparent.w * 1e+3, 0.0, 1.0);
++    if (overlay > 0.0) {
++        overlay *= float(texelFetch(depthtex1, texel, 0).r == 1.0);
++    }
++    texBuffer0 = texelFetch(colortex0, texel, 0);
++    texBuffer1 = texelFetch(colortex1, texel, 0);
++    texBuffer2 = texelFetch(colortex2, texel, 0);
++    if (overlay > 0.0) {
++        texBuffer0 = mix(texBuffer0, trasnparent, overlay);
++        texBuffer1 = mix(texBuffer1, texelFetch(colortex17, texel, 0), overlay);
++        texBuffer2 = mix(texBuffer2, texelFetch(colortex18, texel, 0), overlay);
++    }
+ }
+ 
+ /* DRAWBUFFERS:012 */
+--- stock/shaders/shaders.properties
++++ custom/shaders/shaders.properties
+@@ -1,3 +1,6 @@
++shadowEntities=false
++shadowPlayer=true
++shadowBlockEntities=true
+ clouds = off
+ oldLighting = false
+ underwaterOverlay = false

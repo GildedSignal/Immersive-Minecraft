@@ -1,0 +1,4876 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "source": "META-INF/MANIFEST.MF",
+      "sha256": "3a6d21439b3eff1e63c3e1a25907aea5518f35a6d2c974f249327e30a456ad26",
+      "size": 345
+    },
+    {
+      "name": "META-INF/",
+      "source": "META-INF/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/",
+      "source": "me/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/",
+      "source": "me/cortex/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/",
+      "source": "me/cortex/voxy/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/",
+      "source": "me/cortex/voxy/client/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/ClientImportManager$ClientImportTask.class",
+      "source": "me/cortex/voxy/client/ClientImportManager$ClientImportTask.class",
+      "sha256": "2f3cb7fcc3979910141d86190003ed4fa66110ea5656c29060cf2f98af1d0aa3",
+      "size": 5282
+    },
+    {
+      "name": "me/cortex/voxy/client/ClientImportManager.class",
+      "source": "me/cortex/voxy/client/ClientImportManager.class",
+      "sha256": "10f9363af2aa2b807c92e85a2ef148f54dcd5bf2e782b54267d56a90a2015279",
+      "size": 942
+    },
+    {
+      "name": "me/cortex/voxy/client/ClientSessionEvents.class",
+      "source": "me/cortex/voxy/client/ClientSessionEvents.class",
+      "sha256": "3c872f69715736c7d2d290d0bdfe825eb343358c887cd055d7cdc0bb6fddc971",
+      "size": 1166
+    },
+    {
+      "name": "me/cortex/voxy/client/DebugEntries$1.class",
+      "source": "me/cortex/voxy/client/DebugEntries$1.class",
+      "sha256": "f21089ca0d54cd40038245d7d4f51fe9452712cd5c3baccd250d5cca6104104f",
+      "size": 2578
+    },
+    {
+      "name": "me/cortex/voxy/client/DebugEntries$2.class",
+      "source": "me/cortex/voxy/client/DebugEntries$2.class",
+      "sha256": "8d4fbe87c3c6a103addcee3721343137726fe53caa2271fdb2e694e576e9c721",
+      "size": 1110
+    },
+    {
+      "name": "me/cortex/voxy/client/DebugEntries.class",
+      "source": "me/cortex/voxy/client/DebugEntries.class",
+      "sha256": "df7cf1b788c151b16447c6cb2483b078e7e11e45ec3bf054da47f735a94c7336",
+      "size": 2733
+    },
+    {
+      "name": "me/cortex/voxy/client/GPUSelectorWindows2$AdapterInfo.class",
+      "source": "me/cortex/voxy/client/GPUSelectorWindows2$AdapterInfo.class",
+      "sha256": "c0c9b7d7ccf2af5fb2ea3df713478bd9b1901d15581d1020b8b87480d58d0b3f",
+      "size": 2870
+    },
+    {
+      "name": "me/cortex/voxy/client/GPUSelectorWindows2$PCIDeviceId.class",
+      "source": "me/cortex/voxy/client/GPUSelectorWindows2$PCIDeviceId.class",
+      "sha256": "0e354599cb257887742b9216a39633adb5e2acd756948ba050c69e4499531d7f",
+      "size": 2233
+    },
+    {
+      "name": "me/cortex/voxy/client/GPUSelectorWindows2.class",
+      "source": "me/cortex/voxy/client/GPUSelectorWindows2.class",
+      "sha256": "4a36e44d01227dc63a01ec680ac9187d5d3544e3a3c0e7d6db6a0b82ddb6eb3a",
+      "size": 13107
+    },
+    {
+      "name": "me/cortex/voxy/client/ICheekyClientChunkCache.class",
+      "source": "me/cortex/voxy/client/ICheekyClientChunkCache.class",
+      "sha256": "32c8e502a2190da2d5fb0316bbcf6239f74c45dc527e3aeeb0e46d64ef749067",
+      "size": 314
+    },
+    {
+      "name": "me/cortex/voxy/client/LoadException.class",
+      "source": "me/cortex/voxy/client/LoadException.class",
+      "sha256": "db5b1fa41790af68e129baeab5a69b66c774eea2f452dd7cdb80d0351eaf5753",
+      "size": 442
+    },
+    {
+      "name": "me/cortex/voxy/client/RenderStatistics.class",
+      "source": "me/cortex/voxy/client/RenderStatistics.class",
+      "sha256": "c4a8e454e2d77527fa61cc309e5b4e62bce9fedb236ada28ea166583abd7ef8f",
+      "size": 2848
+    },
+    {
+      "name": "me/cortex/voxy/client/TimingStatistics$TimeSampler.class",
+      "source": "me/cortex/voxy/client/TimingStatistics$TimeSampler.class",
+      "sha256": "5c0234af4dea1e5413c46965931e90042a5bf1e0f5a0a756fe7b0266b2145b85",
+      "size": 1905
+    },
+    {
+      "name": "me/cortex/voxy/client/TimingStatistics.class",
+      "source": "me/cortex/voxy/client/TimingStatistics.class",
+      "sha256": "6a360e769c5ae0cb1ef4d2d5c767359e5137edbdc5a0000e06273a710ae1c4a0",
+      "size": 2150
+    },
+    {
+      "name": "me/cortex/voxy/client/VoxyClient.class",
+      "source": "me/cortex/voxy/client/VoxyClient.class",
+      "sha256": "f5e03f5fda5f0104becf4253e17308ff7ed992fc155e74897d08d83fef6a7be1",
+      "size": 6420
+    },
+    {
+      "name": "me/cortex/voxy/client/VoxyClientInstance$Config.class",
+      "source": "me/cortex/voxy/client/VoxyClientInstance$Config.class",
+      "sha256": "b29ec8c40802756335238bd8b42e01dc41801e470eb5bf8950a68d70ebb4bb19",
+      "size": 618
+    },
+    {
+      "name": "me/cortex/voxy/client/VoxyClientInstance.class",
+      "source": "me/cortex/voxy/client/VoxyClientInstance.class",
+      "sha256": "8acfaff69f1919c77d08c4e8160024097fe0d1c5e3ea1f9f69020f13836348bf",
+      "size": 7798
+    },
+    {
+      "name": "me/cortex/voxy/client/VoxyCommands.class",
+      "source": "me/cortex/voxy/client/VoxyCommands.class",
+      "sha256": "e8231091be62fe46ac5a4ad15fa3907230efcded573a45a62b5286b24c49aebd",
+      "size": 16871
+    },
+    {
+      "name": "me/cortex/voxy/client/VoxyDebugScreenEntry.class",
+      "source": "me/cortex/voxy/client/VoxyDebugScreenEntry.class",
+      "sha256": "0087a1819e15fdb33d8693405209cd97bc8ff73730a10534f92ced15e347d580",
+      "size": 2355
+    },
+    {
+      "name": "me/cortex/voxy/client/compat/",
+      "source": "me/cortex/voxy/client/compat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/compat/FlashbackCompat.class",
+      "source": "me/cortex/voxy/client/compat/FlashbackCompat.class",
+      "sha256": "21bfa99b63975d5c281e977feb9beb59d4ddfda5f3ecb5720e93688d407dc44f",
+      "size": 1918
+    },
+    {
+      "name": "me/cortex/voxy/client/compat/IFlashbackMeta.class",
+      "source": "me/cortex/voxy/client/compat/IFlashbackMeta.class",
+      "sha256": "cb1bd99160f5a42b0959a9d191362dce35c42bc2787977c56baa18a258fb4b4f",
+      "size": 221
+    },
+    {
+      "name": "me/cortex/voxy/client/compat/SemaphoreBlockImpersonator.class",
+      "source": "me/cortex/voxy/client/compat/SemaphoreBlockImpersonator.class",
+      "sha256": "db6b3e2fd674af2843928cc58f7306aaafb8c249875c405cc267549614e67961",
+      "size": 1194
+    },
+    {
+      "name": "me/cortex/voxy/client/config/",
+      "source": "me/cortex/voxy/client/config/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/config/ModMenuIntegration.class",
+      "source": "me/cortex/voxy/client/config/ModMenuIntegration.class",
+      "sha256": "c1a5e85bc3cb75b0c70118f0e7195ff900ace4a07436558ba1e3166edbce6a5b",
+      "size": 3148
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$BoolOption.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$BoolOption.class",
+      "sha256": "7cffec9c95341720863b791b51044ea762245b44d502b2679ee43a1af6d4805f",
+      "size": 2836
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$BuildCtx.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$BuildCtx.class",
+      "sha256": "5d01e8ae90f4bf7a5d40c7ae6b2178ec626e470baaa24581f69bfdf830654baf",
+      "size": 764
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$Enableable.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$Enableable.class",
+      "sha256": "ea9ac71109d52bf4c76af19233afa0560b4befb04d0141b6372f6608a001a0b2",
+      "size": 6366
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$Enabler.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$Enabler.class",
+      "sha256": "3f38e732b5ea9a26bcc78101374b44d78c7f0cffb469cd9be7921a2476a5e0bd",
+      "size": 4281
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$EnumOption.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$EnumOption.class",
+      "sha256": "7bebd2caf3f277c20881fa39c314cb5893bc200d7832ae9aaa49e977bfff9333",
+      "size": 6422
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$Group.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$Group.class",
+      "sha256": "9b48581c1be21f9efb6c10fd056038b8439aa4e91bbfc9f51347729828cc94cb",
+      "size": 2482
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$IntOption.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$IntOption.class",
+      "sha256": "fc087073db8db8b62fd9683f47b61f2e9faebdbc9969bb935c7f68e5eb145d15",
+      "size": 7922
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$Option.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$Option.class",
+      "sha256": "2ea635425d2cc127c503e6ebcd33341e74e01edb603a661589e33f3870ee4883",
+      "size": 10587
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$Page.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$Page.class",
+      "sha256": "4b61dec02cb8e4a102494df0593b9e650d37887a4fdbdb7eddcca90530daf7a7",
+      "size": 2739
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$PostApplyOps$Hook.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$PostApplyOps$Hook.class",
+      "sha256": "679750fceee91444111d33b55a532d554f8dc0f6c34c901708ff5664c28ba525",
+      "size": 2538
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder$PostApplyOps.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder$PostApplyOps.class",
+      "sha256": "878ac49f1280f50a4c0a3519ec17ebb8c96ad449f9ef9592fb6d4147424a3eea",
+      "size": 4185
+    },
+    {
+      "name": "me/cortex/voxy/client/config/SodiumConfigBuilder.class",
+      "source": "me/cortex/voxy/client/config/SodiumConfigBuilder.class",
+      "sha256": "86cda610a89074edf702c8644e222e5ff10302d956e0607a4e0576703d6bdf6a",
+      "size": 5769
+    },
+    {
+      "name": "me/cortex/voxy/client/config/VoxyConfig.class",
+      "source": "me/cortex/voxy/client/config/VoxyConfig.class",
+      "sha256": "39447370de7830cccca66a5a18726b65e08fe19676bdd2ea32834ebbae3013af",
+      "size": 5760
+    },
+    {
+      "name": "me/cortex/voxy/client/config/VoxyConfigMenu.class",
+      "source": "me/cortex/voxy/client/config/VoxyConfigMenu.class",
+      "sha256": "32d948a57f2ac731c7009099bc2b9159606e187a0fa32893bcb3da4f66bae9c1",
+      "size": 15735
+    },
+    {
+      "name": "me/cortex/voxy/client/core/",
+      "source": "me/cortex/voxy/client/core/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/AbstractRenderPipeline.class",
+      "source": "me/cortex/voxy/client/core/AbstractRenderPipeline.class",
+      "sha256": "2d8b5cdfb82692cee4a3a27c9f9a2861baefc05ac9c65be958ddab47c9b81d3d",
+      "size": 10591
+    },
+    {
+      "name": "me/cortex/voxy/client/core/IVoxyRenderSystemHolder.class",
+      "source": "me/cortex/voxy/client/core/IVoxyRenderSystemHolder.class",
+      "sha256": "59c74698e8130615505bac6b12f6944f49f19b8327fdfe1ffce1ffb7880adfa9",
+      "size": 913
+    },
+    {
+      "name": "me/cortex/voxy/client/core/IrisVoxyRenderPipeline.class",
+      "source": "me/cortex/voxy/client/core/IrisVoxyRenderPipeline.class",
+      "sha256": "49b0501001934afd3aa8143455bd40c8a97399c98a79d7ce03d660e90b282134",
+      "size": 13514
+    },
+    {
+      "name": "me/cortex/voxy/client/core/NormalRenderPipeline$FogMode.class",
+      "source": "me/cortex/voxy/client/core/NormalRenderPipeline$FogMode.class",
+      "sha256": "69fb1035f053827acaf22f1345ecf13e502a38ba3998e953c396b484cdf9e989",
+      "size": 1710
+    },
+    {
+      "name": "me/cortex/voxy/client/core/NormalRenderPipeline.class",
+      "source": "me/cortex/voxy/client/core/NormalRenderPipeline.class",
+      "sha256": "ff8bff217f62d4f32dcc5bd268b54fa7872e2b60a6fae2780f7f9915861eed4b",
+      "size": 9534
+    },
+    {
+      "name": "me/cortex/voxy/client/core/RenderPipelineFactory.class",
+      "source": "me/cortex/voxy/client/core/RenderPipelineFactory.class",
+      "sha256": "81d341afc9d9a86ede159bc5ae7f1344f862398c73233a1af8d03bc656e8e29f",
+      "size": 3649
+    },
+    {
+      "name": "me/cortex/voxy/client/core/RenderProperties.class",
+      "source": "me/cortex/voxy/client/core/RenderProperties.class",
+      "sha256": "a064a97e26309f28d0d89b0ab6ea4c75c9a54ee24df2e5105cff11f04c1ac508",
+      "size": 5033
+    },
+    {
+      "name": "me/cortex/voxy/client/core/RenderResourceReuse.class",
+      "source": "me/cortex/voxy/client/core/RenderResourceReuse.class",
+      "sha256": "16785242e36a0d3f75fb1f0ac5bfba10a1a40c2d7ee6af178e21583e3839e51e",
+      "size": 5711
+    },
+    {
+      "name": "me/cortex/voxy/client/core/SSAO$SSAOMode.class",
+      "source": "me/cortex/voxy/client/core/SSAO$SSAOMode.class",
+      "sha256": "41407545b388c4f4399c273b56b55b2da0db6393d50cf2c60ac3a08c2c4fcab1",
+      "size": 1357
+    },
+    {
+      "name": "me/cortex/voxy/client/core/SSAO.class",
+      "source": "me/cortex/voxy/client/core/SSAO.class",
+      "sha256": "d16724668d4d3b93060621336a6763e542833700337c881cfae26c7de4cdd450",
+      "size": 8493
+    },
+    {
+      "name": "me/cortex/voxy/client/core/VoxyRenderSystem.class",
+      "source": "me/cortex/voxy/client/core/VoxyRenderSystem.class",
+      "sha256": "428239feae8fcba470ae40f91cfd464ac3a5fe21d9f43c7d609edce681c1b5fd",
+      "size": 24748
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/",
+      "source": "me/cortex/voxy/client/core/gl/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/Capabilities.class",
+      "source": "me/cortex/voxy/client/core/gl/Capabilities.class",
+      "sha256": "9e2afea83cd29ea4407429a5885fff5c5630ee332cd717109a1e3766d970945f",
+      "size": 7088
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlBuffer.class",
+      "source": "me/cortex/voxy/client/core/gl/GlBuffer.class",
+      "sha256": "d71d634d892c5341f481048e6df7fd5f628b66c788ceb201a24f1d3697ec4888",
+      "size": 3106
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlDebug.class",
+      "source": "me/cortex/voxy/client/core/gl/GlDebug.class",
+      "sha256": "9fb021913447344340de9c5a0a038906d1796c74a2c7e3eb88ce7e45d4cce21e",
+      "size": 2607
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlFence.class",
+      "source": "me/cortex/voxy/client/core/gl/GlFence.class",
+      "sha256": "349226240fd5bc19e180e0d93fcabf97e413fc007c6c811c441dceabdbf79a3a",
+      "size": 1628
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlFramebuffer.class",
+      "source": "me/cortex/voxy/client/core/gl/GlFramebuffer.class",
+      "sha256": "eecfb7ab61618b6f2da9678dc57718ec4c92883e98a6636ad409279e68d95455",
+      "size": 3165
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlPersistentMappedBuffer.class",
+      "source": "me/cortex/voxy/client/core/gl/GlPersistentMappedBuffer.class",
+      "sha256": "d5b0e151165dc52931bf76644349ed522441e1da61c2d4d3e41d9aed4f0abcdd",
+      "size": 1463
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlRenderBuffer.class",
+      "source": "me/cortex/voxy/client/core/gl/GlRenderBuffer.class",
+      "sha256": "6b2ce15e6cc5bce01ab11781f9f5cc78b73967c370750adda0660e8b0b393463",
+      "size": 731
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlTexture.class",
+      "source": "me/cortex/voxy/client/core/gl/GlTexture.class",
+      "sha256": "acc44c9dd80684c3711a9a33869201f60c1d3a18a8df6260b33f9bb062b8e6f5",
+      "size": 4046
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/GlVertexArray.class",
+      "source": "me/cortex/voxy/client/core/gl/GlVertexArray.class",
+      "sha256": "21bc1aee109358cab4717b69f21acf4cbd69259bbefa6a1b581fb4cdb52f79a0",
+      "size": 2420
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/",
+      "source": "me/cortex/voxy/client/core/gl/shader/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/AutoBindingShader$BufferBinding.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/AutoBindingShader$BufferBinding.class",
+      "sha256": "3b9a38291876dae6e2ea0829e108d0cbb04f6e63acf19a86f850c7985e3fdbf4",
+      "size": 2306
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/AutoBindingShader$TextureBinding.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/AutoBindingShader$TextureBinding.class",
+      "sha256": "220e942d34ffcefde6717b3bb3e9bb92d351ad02ecf2450ff9d538f24eae5dc8",
+      "size": 2055
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/AutoBindingShader.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/AutoBindingShader.class",
+      "sha256": "2b0461f78940fd72e41ef525384c428d90bbbcbe1707ac0064eb17eaab74a2f3",
+      "size": 6367
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/IShaderProcessor.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/IShaderProcessor.class",
+      "sha256": "30a42091666b6564253e7f22a84831823cfe03b38064ab8c3903079c0a4ccfe6",
+      "size": 258
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/PrintfInjector.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/PrintfInjector.class",
+      "sha256": "f6e0de58279eb87092eab9ab7616baf16704fa7cb7ac1049658872729cd29c01",
+      "size": 9471
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/Shader$Builder$IShaderObjectConstructor.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/Shader$Builder$IShaderObjectConstructor.class",
+      "sha256": "fc238d5da0a0b7db64a2b9cc37cdcda0aba3b6c72049199f59e600ee53f6eab0",
+      "size": 648
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/Shader$Builder.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/Shader$Builder.class",
+      "sha256": "59f19f3b181f73390d064321bf6f735cbaf342c3184c100d0b856424c0057141",
+      "size": 12042
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/Shader.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/Shader.class",
+      "sha256": "b0c25da3d358b084b1562a2d0e164b3248137eb2372552e93e4f9b6e59a14b81",
+      "size": 5544
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/ShaderLoader$ShaderLoadingParser.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/ShaderLoader$ShaderLoadingParser.class",
+      "sha256": "d89f73a2a2a9ea651858d5889845877ee6b98401499e94eb85e4f63fdea2a859",
+      "size": 4391
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/ShaderLoader.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/ShaderLoader.class",
+      "sha256": "558f717a9125a4ecb370635e9dade031cabb883ebb33d6d98e0f324bbaf9549e",
+      "size": 1434
+    },
+    {
+      "name": "me/cortex/voxy/client/core/gl/shader/ShaderType.class",
+      "source": "me/cortex/voxy/client/core/gl/shader/ShaderType.class",
+      "sha256": "eb43283214351b62e0876fc8ce0305d2f86705441503be4dab31aa2dd98aca6c",
+      "size": 1590
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/",
+      "source": "me/cortex/voxy/client/core/model/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ColourDepthTextureData.class",
+      "source": "me/cortex/voxy/client/core/model/ColourDepthTextureData.class",
+      "sha256": "69660c915642761116ca6651947d409ed49f316641cce4d0e74d9694d88f54a4",
+      "size": 2533
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/IdNotYetComputedException.class",
+      "source": "me/cortex/voxy/client/core/model/IdNotYetComputedException.class",
+      "sha256": "8996023cb907ffad4fb474202ba61da5ac238aca84864c0c473073ee20c84607",
+      "size": 577
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/MipGen$Cache.class",
+      "source": "me/cortex/voxy/client/core/model/MipGen$Cache.class",
+      "sha256": "67ba44a5b20c7a54be34d5382f43491fda8ed1a304533a66756c67ff19c951fe",
+      "size": 2013
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/MipGen.class",
+      "source": "me/cortex/voxy/client/core/model/MipGen.class",
+      "sha256": "c67a67a5b7be513184a2a21d49b781cf778629d7efa73dfdfb025198a09db7ab",
+      "size": 5179
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelBakerySubsystem.class",
+      "source": "me/cortex/voxy/client/core/model/ModelBakerySubsystem.class",
+      "sha256": "0082400d24f8617e776217b8fb457a7bae496f12bd5fc4938c3d527752af1535",
+      "size": 5666
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$1.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$1.class",
+      "sha256": "8c0f71c471c99c2187c6e53a2225c31acf79250ac42b2ab331adb913e2f966dd",
+      "size": 2959
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$2.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$2.class",
+      "sha256": "57df80dda73cadac356088ddc47a8c5ad9226daf82595de6f17974e6da8635b1",
+      "size": 2743
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$BiomeUploadResult.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$BiomeUploadResult.class",
+      "sha256": "e388cfd7d818f5e5640bc308317e407d7713e20bc661109251d29a6d445b5efd",
+      "size": 2148
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$BlockBake.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$BlockBake.class",
+      "sha256": "a02d282b8bc4581790fe84fd0481347d7ab6ac6beb29276f4fae10acfe250b75",
+      "size": 1866
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$ModelBakeResultUpload.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$ModelBakeResultUpload.class",
+      "sha256": "dbd4356c886bfdf932ddfda12bb15cb4c1db57b1aa5937f78217d90a146dd7c6",
+      "size": 3000
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$ModelBlockStatePair.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$ModelBlockStatePair.class",
+      "sha256": "05fe15db7639c4dac3eea5a9a0093bb4c3df9f7339c91f2069b2da52b2a3afba",
+      "size": 1922
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$ModelEntry.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$ModelEntry.class",
+      "sha256": "919ab3c35edc2773b33a7b9eb110b715722261a260e6d4d90db9929ce408561b",
+      "size": 3215
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory$ResultUploader.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory$ResultUploader.class",
+      "sha256": "0bf6073976c255a5586c0697f792ee69c55872a3402329badc96df1d84f01d85",
+      "size": 360
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelFactory.class",
+      "source": "me/cortex/voxy/client/core/model/ModelFactory.class",
+      "sha256": "b808411cab1dfb584507d1433178588c0f04c1225a2a0b50496a273e15fcd7cc",
+      "size": 26210
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelQueries.class",
+      "source": "me/cortex/voxy/client/core/model/ModelQueries.class",
+      "sha256": "49d366006546ac9e3697649ed7ff97155b132c591ef1baecd68122ce7f561339",
+      "size": 2312
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/ModelStore.class",
+      "source": "me/cortex/voxy/client/core/model/ModelStore.class",
+      "sha256": "bfe32283edd8ff77f8d53a080d18de7ac803ba980e1eb94bdae642d4d9d84cd9",
+      "size": 3677
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/TextureUtils.class",
+      "source": "me/cortex/voxy/client/core/model/TextureUtils.class",
+      "sha256": "45fc230db32804207fd74358c8d4c2a52265ea8d887308519eefb550c5cca3ad",
+      "size": 5793
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/bakery/",
+      "source": "me/cortex/voxy/client/core/model/bakery/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/bakery/ReuseVertexConsumer.class",
+      "source": "me/cortex/voxy/client/core/model/bakery/ReuseVertexConsumer.class",
+      "sha256": "f2d1a3af433f2cf5b1695b0fc510f1a9a107baa90f672c8902805aef5e802bc7",
+      "size": 6917
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/bakery/SoftwareModelTextureBakery$1.class",
+      "source": "me/cortex/voxy/client/core/model/bakery/SoftwareModelTextureBakery$1.class",
+      "sha256": "90b9acd76ff3df38c7e91dfd0f3f7d654897d1c11723d36d34541756df20aee6",
+      "size": 3831
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/bakery/SoftwareModelTextureBakery.class",
+      "source": "me/cortex/voxy/client/core/model/bakery/SoftwareModelTextureBakery.class",
+      "sha256": "6ddc839bf14968c8355bac957b3263c6733467c948bd5ceee52485b2e04285cc",
+      "size": 13752
+    },
+    {
+      "name": "me/cortex/voxy/client/core/model/bakery/SoftwareRasterizer.class",
+      "source": "me/cortex/voxy/client/core/model/bakery/SoftwareRasterizer.class",
+      "sha256": "5e3e07cf21a8e7df34f58a23c1bd754d644fb1e574efb520cef0e818701c198a",
+      "size": 9883
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/",
+      "source": "me/cortex/voxy/client/core/rendering/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/GeometryCache.class",
+      "source": "me/cortex/voxy/client/core/rendering/GeometryCache.class",
+      "sha256": "ac61c65faf5a523a1f5e1ba80095d3ca0b690cf0a2a40ccd33c8f14e87c17883",
+      "size": 3042
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/ISectionWatcher.class",
+      "source": "me/cortex/voxy/client/core/rendering/ISectionWatcher.class",
+      "sha256": "fbaa674de4590a341de1eba720767956428e5008abd827d03d7440d6de3ebe93",
+      "size": 844
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/RenderDistanceTracker.class",
+      "source": "me/cortex/voxy/client/core/rendering/RenderDistanceTracker.class",
+      "sha256": "5329788da92762996c3a0ba23b4c19fd7295ce7816141aec0c00254ffc28e62c",
+      "size": 2981
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/SectionUpdateRouter$IChildUpdate.class",
+      "source": "me/cortex/voxy/client/core/rendering/SectionUpdateRouter$IChildUpdate.class",
+      "sha256": "c285fd6ee795690ec28158a3a8d0dab7d10c60e62350e1ee76618acbd39b6100",
+      "size": 361
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/SectionUpdateRouter.class",
+      "source": "me/cortex/voxy/client/core/rendering/SectionUpdateRouter.class",
+      "sha256": "101610197fc71d745e2bf9f93292fcf12a355aa609d6f1452ce6b47c6257980f",
+      "size": 5112
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/Viewport.class",
+      "source": "me/cortex/voxy/client/core/rendering/Viewport.class",
+      "sha256": "5d723e5f9501cdeab5e435e247a4544ea747921785722146398e4f049dd304b7",
+      "size": 5134
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/ViewportSelector.class",
+      "source": "me/cortex/voxy/client/core/rendering/ViewportSelector.class",
+      "sha256": "1768a98dcb9bce2c273a33643651327790049ad7d88b505ee1a95ee5362a7928",
+      "size": 3913
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/BoundRenderer.class",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/BoundRenderer.class",
+      "sha256": "46f89ee25eacec861e8cadbdf8ebefe10c0a63ef641257692088d881c760648e",
+      "size": 7914
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/ChunkBoundStore.class",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/ChunkBoundStore.class",
+      "sha256": "1853e31e24e95f7997760dc53c19b151c424a89bce44ed932b613e85e6e6d9b4",
+      "size": 5459
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/ColumnStreamedBoundStore.class",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/ColumnStreamedBoundStore.class",
+      "sha256": "cea2c7693f53a518d310111372456ea4e8ba53971a2cd1dae26a4a6c1d3c0542",
+      "size": 5445
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/ExactBoundStore.class",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/ExactBoundStore.class",
+      "sha256": "446d08a3739a7807d7383eaf0171f6ddd9f85c2a2a96b9b266b0e69127041a9d",
+      "size": 5605
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/IBoundStore.class",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/IBoundStore.class",
+      "sha256": "f035364db918a45d1854cd7bdf716ff8ef7db5de6e834ca383deff3510f2c5b4",
+      "size": 986
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/bounding/StreamedBoundStore.class",
+      "source": "me/cortex/voxy/client/core/rendering/bounding/StreamedBoundStore.class",
+      "sha256": "129c51665d01cd6fec2b995cb492716805227a1484d4ccf4a417e36cbcbb3612",
+      "size": 2397
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/",
+      "source": "me/cortex/voxy/client/core/rendering/building/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/BuiltSection.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/BuiltSection.class",
+      "sha256": "1e78a9ec69b930fcde1a7c4fa147900a75bbdb5def755410c9c1a0cd00399d9b",
+      "size": 2672
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/OccupancySet.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/OccupancySet.class",
+      "sha256": "f309d4bef0ac43fadd6800eba16b671ac211bd8a46cceb0cbe0a3a0efd184a32",
+      "size": 2952
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/OccupancySet2.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/OccupancySet2.class",
+      "sha256": "815e1d884870251508ed34c2876ba0637c3295e88ebfdaab4f68bfa6202ae518",
+      "size": 2802
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/RenderDataFactory$Mesher.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/RenderDataFactory$Mesher.class",
+      "sha256": "76fa003fb85150db20c4d584e49228b095c59bb284295a7c0c21cbad7d950406",
+      "size": 3885
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/RenderDataFactory.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/RenderDataFactory.class",
+      "sha256": "486aa968e019269e00fc4d2ee4937e9d875e8957fb23575fc413233b5180cb84",
+      "size": 29534
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/RenderGenerationService$BuildTask.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/RenderGenerationService$BuildTask.class",
+      "sha256": "999308ead0a7299b83ac0e9367bebaa4fb2538cc33421fcda094bdc0fc1770ab",
+      "size": 1405
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/building/RenderGenerationService.class",
+      "source": "me/cortex/voxy/client/core/rendering/building/RenderGenerationService.class",
+      "sha256": "cf071b69890f2805cfc12bb24fe6d18993e7a69e7ef6d72504d12e244065b996",
+      "size": 11997
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager$1.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager$1.class",
+      "sha256": "7383312f2c4941f4bbfe80feb69058b4d34193d3e123fc510caa65c5186726bd",
+      "size": 1660
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager$ComputeMemoryCopy.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager$ComputeMemoryCopy.class",
+      "sha256": "e35826d6455ce36d698cb04df88ec78a947681fb1b7ca9f75fb87d595618974c",
+      "size": 4571
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager$SyncResults.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager$SyncResults.class",
+      "sha256": "a965f694defd7af91587a3581cd5c67bc08f05686a2e3182226c317f1b2c4f36",
+      "size": 3360
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/AsyncNodeManager.class",
+      "sha256": "f6c66fae43efd11776bac6251aa2366b0c00227d01b5fad7f5714325d41a002c",
+      "size": 26656
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/DebugRenderer.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/DebugRenderer.class",
+      "sha256": "906252925086e7fb4c7d4b58ee323340ba1f47367243fe52d3b9a2e229c48bcf",
+      "size": 4723
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/HierarchicalOcclusionTraverser.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/HierarchicalOcclusionTraverser.class",
+      "sha256": "df10610050f0c329e3f637cd681340a047455ab1fd93aa3473c03689beccaaa9",
+      "size": 15834
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/NodeChildRequest.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/NodeChildRequest.class",
+      "sha256": "5b1a1bb3289161370523647700d05c7d4dba92e1bc6c0445007f61ed7f10b932",
+      "size": 2875
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/NodeCleaner.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/NodeCleaner.class",
+      "sha256": "a7b3be5a1fc9b3e13a2aba4336b5b37e255f10e96a3cf04f2b724088c838cfbd",
+      "size": 7066
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/NodeManager$ICleaner.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/NodeManager$ICleaner.class",
+      "sha256": "3f3bb8f6a7ccc0cae339ea7f10a0ddc609f0fecb427a72a023892a3000754922",
+      "size": 349
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/NodeManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/NodeManager.class",
+      "sha256": "a25d91c817cbeebfa5ac4ab6b47d4d61f47e6ac4b1f675b571aeaf2cf0211835",
+      "size": 33077
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/NodeStore.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/NodeStore.class",
+      "sha256": "65bbeec14f1ed25face2688ab093da69952d72ecfcccf1e03b017fda832bb828",
+      "size": 8675
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/SingleNodeRequest.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/SingleNodeRequest.class",
+      "sha256": "21626f93286d36cbed8ac3082ff2bf0fd0a3a9192a6e0c9b03109b7b395eed17",
+      "size": 1353
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$CleanerImp.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$CleanerImp.class",
+      "sha256": "54cfd63d84d37e7777bad43e71a4a5503ec7ebc599316385497a9516e13e2bb7",
+      "size": 1266
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$MemoryGeometryManager$Entry.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$MemoryGeometryManager$Entry.class",
+      "sha256": "39dc471756c504674af5f65abd06cd9c4cd5a3a488d7291ea26d443e2decc298",
+      "size": 2032
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$MemoryGeometryManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$MemoryGeometryManager.class",
+      "sha256": "fad99f8117dd4c1850e1e38f19d790d5840f77c1ecd6bfd1844373a605b658fd",
+      "size": 4524
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$Node.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$Node.class",
+      "sha256": "7f709bb3a1a543579c83764b0add29e9f97b18d19a4d4cad1a772bf2edcf9488",
+      "size": 734
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$TestBase.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$TestBase.class",
+      "sha256": "8aac5bc1d210c784db2c226830529df720e7a15aa994429cc75174268c8a93ee",
+      "size": 5000
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$Watcher.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager$Watcher.class",
+      "sha256": "e44cca5a93f1ac0b32b1636dc5d4efb617ed44a17feeb9d5441b6fe2772b62e3",
+      "size": 2855
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/hierachical/TestNodeManager.class",
+      "sha256": "dc6d8bb8e7ee9dc495992b46cb4bf5cdf1a859de2b11c81f5d01b2218e9ce482",
+      "size": 12677
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/post/",
+      "source": "me/cortex/voxy/client/core/rendering/post/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/post/FullscreenBlit.class",
+      "source": "me/cortex/voxy/client/core/rendering/post/FullscreenBlit.class",
+      "sha256": "626262c1f25aa57ecba53ca54fc37b2a2732d269ec4b5357c44f005a4fa48fef",
+      "size": 4795
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/",
+      "source": "me/cortex/voxy/client/core/rendering/section/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/IUsesMeshlets.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/IUsesMeshlets.class",
+      "sha256": "b79fffa36baa0898607e8a1177e3024eb9975df5e8ceedaf953931370b2fa5ed",
+      "size": 152
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/AbstractSectionRenderer$Factory.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/AbstractSectionRenderer$Factory.class",
+      "sha256": "95d29547c6332ad3632e826f3b1168027a879d74d485adae336ced732d35345c",
+      "size": 7878
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/AbstractSectionRenderer$FactoryConstructor.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/AbstractSectionRenderer$FactoryConstructor.class",
+      "sha256": "fc66b3c9a57d33ba05155503672a0864f375ff0377448f51a3878ed9c0a17da6",
+      "size": 1023
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/AbstractSectionRenderer.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/AbstractSectionRenderer.class",
+      "sha256": "7d5dcd2af41b55a961d7df4d0da92426ac3e8444f35ad882ea2c0ee745b2b00a",
+      "size": 5226
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/mdic/",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/mdic/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/mdic/MDICSectionRenderer.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/mdic/MDICSectionRenderer.class",
+      "sha256": "9efd66fe2577b878a1882a66f40a85c97dd6ee586a3221ddf3ef502f03f1af27",
+      "size": 17021
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/backend/mdic/MDICViewport.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/backend/mdic/MDICViewport.class",
+      "sha256": "1e01f1341f2c66f6de7735de5eeca9c51d1272a0319879fa33f7c873ed0bb91c",
+      "size": 1671
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/AbstractSectionGeometryManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/AbstractSectionGeometryManager.class",
+      "sha256": "be51e35036ecd9f0bd0df4a5330f97ab22a2a43a81ec840907316ee2b04ea48d",
+      "size": 1613
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/BasicAsyncGeometryManager$SectionMeta.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/BasicAsyncGeometryManager$SectionMeta.class",
+      "sha256": "155877169cbc9c8e1cd3297a4549a02e782350fc72d9d353117cb93023a952b8",
+      "size": 3105
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/BasicAsyncGeometryManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/BasicAsyncGeometryManager.class",
+      "sha256": "b39ae0b231383f629c0221480ca585fb3fe029c616e2b0a1ae7be3679f0cba03",
+      "size": 7095
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/BasicSectionGeometryData.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/BasicSectionGeometryData.class",
+      "sha256": "2489df5e7f56c5df415d2dc85c6244df8295675257f2726e7c76a410c8190fbd",
+      "size": 5470
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/BasicSectionGeometryManager$SectionMeta.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/BasicSectionGeometryManager$SectionMeta.class",
+      "sha256": "f1bee4e26d94606315d41c8f0fe0ecb7e2665300e2f8cac5f92aac4f2b211761",
+      "size": 2961
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/BasicSectionGeometryManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/BasicSectionGeometryManager.class",
+      "sha256": "9a59a400e944463136ceab8aeb1dc45bd455efb6481f3cac6fc7c88b46684e63",
+      "size": 7652
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/IGeometryData.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/IGeometryData.class",
+      "sha256": "ff3f29ac8a54ada3db3f4ee17cef100721d0926c5ca651e10a29cf483748cca8",
+      "size": 245
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/section/geometry/IGeometryManager.class",
+      "source": "me/cortex/voxy/client/core/rendering/section/geometry/IGeometryManager.class",
+      "sha256": "b912c97b605c2d3ce601ad71785fc36444bc2574edbb6ac077322138c83223c5",
+      "size": 568
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/",
+      "source": "me/cortex/voxy/client/core/rendering/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/BufferArena.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/BufferArena.class",
+      "sha256": "e8f3f3b5da34580ce4a4f7ce6b70797c6b9c2d1efa267e6f9a7df4c4943a5d93",
+      "size": 3906
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/DepthFramebuffer.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/DepthFramebuffer.class",
+      "sha256": "220c4ce40b4995e122c9ffef341220a8feb6de13da021fafaac8e5338199d505",
+      "size": 2868
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/DownloadStream$DownloadData.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/DownloadStream$DownloadData.class",
+      "sha256": "8a2c8b93302206f642550e4b847cabb73749ca79f2a239853a5425b157907343",
+      "size": 2732
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/DownloadStream$DownloadFrame.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/DownloadStream$DownloadFrame.class",
+      "sha256": "1b5aaccb2a9aa8042ff0dcc6ab22476058f027675cb2904b9f1e4c23ddf480aa",
+      "size": 2821
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/DownloadStream$DownloadResultConsumer.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/DownloadStream$DownloadResultConsumer.class",
+      "sha256": "1dd5060e8a077a4c33e138ea33674946a68604e45a13021a41bc1ab3319f07bd",
+      "size": 337
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/DownloadStream.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/DownloadStream.class",
+      "sha256": "2743fd634e7a400014bf4e4fe7f4c1a504b9586edbe7dab293291bf36645450e",
+      "size": 8359
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/HiZBuffer.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/HiZBuffer.class",
+      "sha256": "069f8307fe31dd7e0903dcee6495de5fc871ff9af227f62dac6ae44a31186c6e",
+      "size": 5971
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/HiZBuffer2.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/HiZBuffer2.class",
+      "sha256": "2fa507a0372b905ad2cfc6267d414c06c06541e8ade31beab77d2a37728f06e5",
+      "size": 4896
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/LightMapHelper.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/LightMapHelper.class",
+      "sha256": "566c51396a74364e5498206a2012b271e92dfe040d4e145907ed0f34c9f13141",
+      "size": 1443
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/PrintfDebugUtil$1.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/PrintfDebugUtil$1.class",
+      "sha256": "2eb34b1212bbfaff7efe4ba039ec9c828903fbf927e19c5ff5aaa73ffb2e4ce9",
+      "size": 970
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/PrintfDebugUtil.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/PrintfDebugUtil.class",
+      "sha256": "d12d0ecb7faccd2ab99a996fd1d81dbdd2ea0ff9aa674d5cd8ef79c3b6caaf35",
+      "size": 3032
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream$DownloadFragment.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream$DownloadFragment.class",
+      "sha256": "65e6bdceeb37d93392824dab2a9e0e04c8179441c60d5205d33a84e9b31b1062",
+      "size": 2252
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream$DownloadFrame.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream$DownloadFrame.class",
+      "sha256": "01d8c2422459adc70078ae00884350811c8aa0ba7c4ddcbc276972cbbb9876f3",
+      "size": 2299
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream$IDownloadCompletedCallback.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream$IDownloadCompletedCallback.class",
+      "sha256": "ed3380199041f89584252d34ac33f505d39906079c1522526bd5769c96deffeb",
+      "size": 352
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/RawDownloadStream.class",
+      "sha256": "75faeb41ce1007ecacc70e9f381e26515df2aad31c77cc7f060b920315bad5db",
+      "size": 5135
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/SharedIndexBuffer.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/SharedIndexBuffer.class",
+      "sha256": "47d6c613f3eb5ddc7d08eb91d90471ea207440a6e8b05eaeb65c0d50b3290ce9",
+      "size": 4830
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/UploadStream$UploadData.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/UploadStream$UploadData.class",
+      "sha256": "d239be8d8ee8ac7b20fa270b49d2316b109c21278fdbe00f82fb5375879be845",
+      "size": 2178
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/UploadStream$UploadFrame.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/UploadStream$UploadFrame.class",
+      "sha256": "8cff5139470384066aa6c7fa227ed9d688b2da34511a434edc30341756fe1da1",
+      "size": 2039
+    },
+    {
+      "name": "me/cortex/voxy/client/core/rendering/util/UploadStream.class",
+      "source": "me/cortex/voxy/client/core/rendering/util/UploadStream.class",
+      "sha256": "f2d44b1553fbee5c26e245abe6706a53c7c9eea577e86c050574415a02c065b8",
+      "size": 7125
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/",
+      "source": "me/cortex/voxy/client/core/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/ExpandingObjectAllocationList.class",
+      "source": "me/cortex/voxy/client/core/util/ExpandingObjectAllocationList.class",
+      "sha256": "5148f6355f61ffabe8d0109d9339a0d7b9668c2604a89372120d5e3673c445f7",
+      "size": 3249
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/GPUTiming$GlTimestampQuerySet$InflightRequest.class",
+      "source": "me/cortex/voxy/client/core/util/GPUTiming$GlTimestampQuerySet$InflightRequest.class",
+      "sha256": "7f5bdf5db7eba10b7993fc9f9eee3b8b6d36086d2755ddb509e810be1ac94ca5",
+      "size": 3750
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/GPUTiming$GlTimestampQuerySet.class",
+      "source": "me/cortex/voxy/client/core/util/GPUTiming$GlTimestampQuerySet.class",
+      "sha256": "3d7569557939d400ec72d6aa709d418ceab5b0386a2aad5bd91b994bbc92f85a",
+      "size": 3776
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/GPUTiming$TimingDataConsumer.class",
+      "source": "me/cortex/voxy/client/core/util/GPUTiming$TimingDataConsumer.class",
+      "sha256": "774e5e662e66e225ff1598525a642fb155f35c44830d0b727101a7f306a4f4b1",
+      "size": 393
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/GPUTiming.class",
+      "source": "me/cortex/voxy/client/core/util/GPUTiming.class",
+      "sha256": "91a6b3952c28580bd5313b6154affa4d6d50a46455010965d1a85cc26228aeca",
+      "size": 4074
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/IrisUtil$CapturedViewportParameters.class",
+      "source": "me/cortex/voxy/client/core/util/IrisUtil$CapturedViewportParameters.class",
+      "sha256": "11432529649f6bb15812681b7fc7a329dc66afe5c23c7231094cccc836a0caea",
+      "size": 3542
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/IrisUtil.class",
+      "source": "me/cortex/voxy/client/core/util/IrisUtil.class",
+      "sha256": "8e1f0bd769f3d079e5c97f7907a1788f0c2322977fc30e9d9e540227fb716881",
+      "size": 2859
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/RingTracker$IUpdateConsumer.class",
+      "source": "me/cortex/voxy/client/core/util/RingTracker$IUpdateConsumer.class",
+      "sha256": "4bc26dbfacc992a80d87208a7e0c3b4f307df26d69fcc3fce8f5efaac258fb63",
+      "size": 293
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/RingTracker.class",
+      "source": "me/cortex/voxy/client/core/util/RingTracker.class",
+      "sha256": "37963473572df1f5aac9caa58a1b63c782101b9e174ae35bd4172b8715183b35",
+      "size": 7859
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/ScanMesher2D$1.class",
+      "source": "me/cortex/voxy/client/core/util/ScanMesher2D$1.class",
+      "sha256": "67738a52ca3c340c73319c0f72b6b1e69ef6961d078e0a58bc6e0e2ad37ae297",
+      "size": 898
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/ScanMesher2D$2.class",
+      "source": "me/cortex/voxy/client/core/util/ScanMesher2D$2.class",
+      "sha256": "36dce3b47a4bc4cf90f3cea163cf98d1aff732cbf6be965c5402946cba8af3a7",
+      "size": 1208
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/ScanMesher2D$3.class",
+      "source": "me/cortex/voxy/client/core/util/ScanMesher2D$3.class",
+      "sha256": "c4d09454f82953526f6c1e87adfc6142356c0aa327ab9603e0d64a7b56f2153d",
+      "size": 1085
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/ScanMesher2D$4.class",
+      "source": "me/cortex/voxy/client/core/util/ScanMesher2D$4.class",
+      "sha256": "fa3de6d78f05c5c01f3f0bb2e9c3b52f32c01ea0289e13d09e554dd1f8bf208e",
+      "size": 1084
+    },
+    {
+      "name": "me/cortex/voxy/client/core/util/ScanMesher2D.class",
+      "source": "me/cortex/voxy/client/core/util/ScanMesher2D.class",
+      "sha256": "dfa88f63c7fd7c349f4b3aacf3e00d1180de955ed628f60ba5bf784413954089",
+      "size": 5114
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/",
+      "source": "me/cortex/voxy/client/iris/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IGetIrisVoxyPipelineData.class",
+      "source": "me/cortex/voxy/client/iris/IGetIrisVoxyPipelineData.class",
+      "sha256": "45470670223ba16ecb45eadb5703842cddf1710d87ba37f934d391d87feae6a0",
+      "size": 247
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IGetVoxyPatchData.class",
+      "source": "me/cortex/voxy/client/iris/IGetVoxyPatchData.class",
+      "sha256": "b49a4d19fb9f3db5851a94d549d74e6b0e305689e4ee421a66c1d474fe33204f",
+      "size": 219
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisShaderPatch$BlendState.class",
+      "source": "me/cortex/voxy/client/iris/IrisShaderPatch$BlendState.class",
+      "sha256": "6e6efeac88f8933e0359ac8c49594435ba74d00a26a12bdf6dbd3008837794ca",
+      "size": 2295
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisShaderPatch$BlendStateDeserializer.class",
+      "source": "me/cortex/voxy/client/iris/IrisShaderPatch$BlendStateDeserializer.class",
+      "sha256": "b8286849e8cb17d1eec33f5c1e477dd82e8109e9570c70801ed90952760eb1e2",
+      "size": 7068
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisShaderPatch$PatchGson.class",
+      "source": "me/cortex/voxy/client/iris/IrisShaderPatch$PatchGson.class",
+      "sha256": "a9485bc24d52c5f1647176fa307afbccda07e941a95588f362f34eb2122f1d4b",
+      "size": 3535
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisShaderPatch$SSBODeserializer.class",
+      "source": "me/cortex/voxy/client/iris/IrisShaderPatch$SSBODeserializer.class",
+      "sha256": "5f518a8cc4d3b8f2798ef407da79b51af79c8d77526a3bec6f85cf6a910285cb",
+      "size": 2848
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisShaderPatch$SamplerDeserializer.class",
+      "source": "me/cortex/voxy/client/iris/IrisShaderPatch$SamplerDeserializer.class",
+      "sha256": "1ec674521d4d459cab7c800195624af854f2b56b1df5f9847776df5f53eb3677",
+      "size": 3548
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisShaderPatch.class",
+      "source": "me/cortex/voxy/client/iris/IrisShaderPatch.class",
+      "sha256": "584d529448712f5a49a88108774af8464578dc0f98873a2261d2a0b04df598e8",
+      "size": 11686
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$1.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$1.class",
+      "sha256": "3ab83255694c1129c8734cd8cbd273cdb8d67aa546e4fbfcfb58dbb08f7f7261",
+      "size": 11700
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$2.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$2.class",
+      "sha256": "f16420e2d91df9048563a42f129dfae54b5e49691d6b822b535549ca506ca505",
+      "size": 5593
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$3.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$3.class",
+      "sha256": "87adc2d5c9a7e3e92e57dd9bdb9dac96ee033c5138ced719adc015c332518b97",
+      "size": 1297
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$4.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$4.class",
+      "sha256": "0f1d8bc022ca9fc868461653f140d6beb6cf379ec98abb0b503cde9cccdb7341",
+      "size": 1205
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$ImageSet.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$ImageSet.class",
+      "sha256": "c1353ab77ab42faeed90f6d76724d9882e6d21f8a8fd6f516e918ada1c61ed57",
+      "size": 1920
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$SSBOBinding.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$SSBOBinding.class",
+      "sha256": "f5e589111ec6853bd099ae3512c5b7ec1eeddb615afe7f6887dbe263c94f8e1a",
+      "size": 1803
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$SSBOSet.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$SSBOSet.class",
+      "sha256": "da8ab207dc480c961d6ce11ffad64bb0e43230734836ec194a059ea456f1d0b7",
+      "size": 1914
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$StructLayout.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$StructLayout.class",
+      "sha256": "bd3963167ab09f27ceb19f9c0a7175446611773423bcb6e6fa36c5b3dec3be9c",
+      "size": 2058
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$TextureWSampler.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$TextureWSampler.class",
+      "sha256": "686ab821b9217223e9c8bfba0050dcf1810b6e1126bb8672384fcbbddda095ba",
+      "size": 2102
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$UniformWritingHolder.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData$UniformWritingHolder.class",
+      "sha256": "7a58498cbe52a0cd2e0602c20f9d716ddacceadefd8199c25be120053b1d85fb",
+      "size": 2718
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData.class",
+      "source": "me/cortex/voxy/client/iris/IrisVoxyRenderPipelineData.class",
+      "sha256": "a6f8c42f78c5dba0d30759df7bbdfb06c77d1bf14142ea0bbf2509b7d9cfc14e",
+      "size": 30958
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/ShaderLoadError.class",
+      "source": "me/cortex/voxy/client/iris/ShaderLoadError.class",
+      "sha256": "04e41d869654bb5c9647cf16a7f06fe2c4fc832df54e3f0a8c7cd5805fc956a3",
+      "size": 616
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/VoxySamplers.class",
+      "source": "me/cortex/voxy/client/iris/VoxySamplers.class",
+      "sha256": "714fcea1ad718344b4ba287ccd6dabd81aa08d9231b47fbcafc9a8425c48b783",
+      "size": 3733
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/VoxyUniforms$Inverted.class",
+      "source": "me/cortex/voxy/client/iris/VoxyUniforms$Inverted.class",
+      "sha256": "cdd791ab60d134032b8febfd444cd983a310cad9456d6d0900f51425c7b09bc5",
+      "size": 2389
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/VoxyUniforms$PreviousMat.class",
+      "source": "me/cortex/voxy/client/iris/VoxyUniforms$PreviousMat.class",
+      "sha256": "cae6babaa66865bbd05ec8bd4c250e41af1af47bf7abf81fa6c1de2d0c0aa409",
+      "size": 1255
+    },
+    {
+      "name": "me/cortex/voxy/client/iris/VoxyUniforms.class",
+      "source": "me/cortex/voxy/client/iris/VoxyUniforms.class",
+      "sha256": "93c09447687beffbf2518346f7544e2ab28f63de1cf27844bcf35ed6276a4b10",
+      "size": 3650
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/",
+      "source": "me/cortex/voxy/client/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/flashback/",
+      "source": "me/cortex/voxy/client/mixin/flashback/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/flashback/MixinFlashbackMeta.class",
+      "source": "me/cortex/voxy/client/mixin/flashback/MixinFlashbackMeta.class",
+      "sha256": "ef1894418869fb31165e09bc0478bf984f2bc09d9f9c7203c06f621e1f4fdd80",
+      "size": 2949
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/flashback/MixinFlashbackRecorder.class",
+      "source": "me/cortex/voxy/client/mixin/flashback/MixinFlashbackRecorder.class",
+      "sha256": "d299e0f5007dc1ba698907bcf671135070cf94c02f1dffe9aeb3a978594dca37",
+      "size": 1811
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/",
+      "source": "me/cortex/voxy/client/mixin/iris/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/CustomUniformsAccessor.class",
+      "source": "me/cortex/voxy/client/mixin/iris/CustomUniformsAccessor.class",
+      "sha256": "3862da3f699ba1016552000ef08d3a10b0b54d356795854016a9440cb9cf20f2",
+      "size": 624
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/IrisRenderingPipelineAccessor.class",
+      "source": "me/cortex/voxy/client/mixin/iris/IrisRenderingPipelineAccessor.class",
+      "sha256": "99a3341850820fc0025cc302f381dd3c20b923e8aa04eabc5f90dd1282bb5c0a",
+      "size": 503
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinIris.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinIris.class",
+      "sha256": "969b0ad1700d172a1f391b68aa21173efe8d85ec62bc1fd22d5cd0617df42bc6",
+      "size": 1668
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinIrisRenderingPipeline.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinIrisRenderingPipeline.class",
+      "sha256": "e2fe4e65c74b66b6a45aa0badda518d399bbc119c14d0ba12ffdb74182e7da69",
+      "size": 4215
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinIrisSamplers.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinIrisSamplers.class",
+      "sha256": "9b0cb1eaf835e71de5ab815b979a1c54e7315304719807edb5ac87c22b4556d8",
+      "size": 2227
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinLevelRenderer.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinLevelRenderer.class",
+      "sha256": "23d49302846136c65c0bda5e16e817270b3acfc3e33f18f5456b454e8cbf45e2",
+      "size": 3613
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinMatrixUniforms.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinMatrixUniforms.class",
+      "sha256": "de0f08bf94c61ea21fa3bb48adc823022a92b5983d75b42977bc430e5bcba2d8",
+      "size": 1786
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinProgramSet.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinProgramSet.class",
+      "sha256": "818700106b72f274e630f9cce133f6b8c9e6369cc18a3317adeddf4fafff94c9",
+      "size": 3199
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinShaderPackSourceNames.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinShaderPackSourceNames.class",
+      "sha256": "3687a6b738ee7180ea101c2c193a6eef7a994e0c3705e48dbe18f4c146b2ed05",
+      "size": 2181
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/iris/MixinStandardMacros.class",
+      "source": "me/cortex/voxy/client/mixin/iris/MixinStandardMacros.class",
+      "sha256": "b50941788799e1ecc1fdcfd74fcef81b598b1c44e1a57ce5b53619d72e5ed0d0",
+      "size": 2995
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/",
+      "source": "me/cortex/voxy/client/mixin/minecraft/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinClientChunkCache.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinClientChunkCache.class",
+      "sha256": "8624ac6f0a01b3feb4de39c76a99acdebd7fc78fa8fd1ead617e339f918d9a41",
+      "size": 2741
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinClientLevel.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinClientLevel.class",
+      "sha256": "cf41923a8893b1d2bdcf86a0a2ac70adda4bcd7372f21443d50600c8f759baca",
+      "size": 6511
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinDebugScreenEntryList.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinDebugScreenEntryList.class",
+      "sha256": "d6c5922f9b754f95033b6a969b20295fec05953782d61692d7389e793c58fa30",
+      "size": 2013
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinFogRenderer.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinFogRenderer.class",
+      "sha256": "df8dd3c3e9125110d1a9c0c98d20de2a82b9f7a20e726f4a334d08d61ef5c2e0",
+      "size": 3059
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinLevelExtractor.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinLevelExtractor.class",
+      "sha256": "96e825a9049e27693bcfbda45229408a8d6cfb8e2019974e6a3adacd933f61b1",
+      "size": 1749,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "OQEAOW1lL2NvcnRleC92b3h5L2NsaWVudC9taXhpbi9taW5lY3JhZnQvTWl4aW5MZXZlbEV4dHJhY3Rvcg=="
+        },
+        {
+          "copy": [
+            15,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "BwADAQAYTWl4aW5MZXZlbEV4dHJhY3Rvci5qYXZhAQAjTG9yZy9zcG9uZ2Vwb3dlcmVkL2FzbS9taXhpbi9NaXhpbjsBAAV2YWx1ZQEANkxuZXQvbWluZWNyYWZ0L2NsaWVudC9yZW5kZXJlci9leHRyYWN0L0xldmVsRXh0cmFjdG9yOwEADWxldmVsUmVuZGVyZXIBAC1MbmV0L21pbmVjcmFmdC9jbGllbnQvcmVuZGVyZXIvTGV2ZWxSZW5kZXJlcjsBACRMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL1NoYWRvdzsBACNMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL0ZpbmFsOw=="
+        },
+        {
+          "copy": [
+            42,
+            15
+          ]
+        },
+        {
+          "insert": "DAANAA4="
+        },
+        {
+          "copy": [
+            64,
+            1
+          ]
+        },
+        {
+          "insert": "AAQADwEABHRoaXMBADtM"
+        },
+        {
+          "copy": [
+            73,
+            57
+          ]
+        },
+        {
+          "copy": [
+            193,
+            1
+          ]
+        },
+        {
+          "insert": "AQAP"
+        },
+        {
+          "copy": [
+            263,
+            5
+          ]
+        },
+        {
+          "insert": "b25TZXRMZXZlbAEAbg=="
+        },
+        {
+          "copy": [
+            279,
+            16
+          ]
+        },
+        {
+          "insert": "Y2xpZW50L211bHRpcGxheWVyL0NsaWVudExldmVsO0xvcmcvc3BvbmdlcG8="
+        },
+        {
+          "copy": [
+            295,
+            1
+          ]
+        },
+        {
+          "insert": "ZXJlZC9hc20vbWl4aW4vaW5qZWN0aW9uL2NhbGxiYWNrL0NhbGxiYWNrSW5mbw=="
+        },
+        {
+          "copy": [
+            312,
+            3
+          ]
+        },
+        {
+          "insert": "AQAuTG9yZy9zcG9uZ2Vwb3dlcmVkL2FzbS9taXhpbi9pbmplY3Rpb24vSW5qZWN0OwE="
+        },
+        {
+          "copy": [
+            323,
+            2
+          ]
+        },
+        {
+          "insert": "bWV0"
+        },
+        {
+          "copy": [
+            334,
+            1
+          ]
+        },
+        {
+          "insert": "b2QBAAhzZXRMZXZlbAEAAmF0AQAqTG9yZy9zcG9uZ2Vw"
+        },
+        {
+          "copy": [
+            338,
+            2
+          ]
+        },
+        {
+          "insert": "ZXJlZC9hc20vbWl4aW4vaW5qZWN0aW9uLw=="
+        },
+        {
+          "copy": [
+            398,
+            1
+          ]
+        },
+        {
+          "insert": "dA=="
+        },
+        {
+          "copy": [
+            447,
+            1
+          ]
+        },
+        {
+          "copy": [
+            986,
+            7
+          ]
+        },
+        {
+          "insert": "DAAJAAoJAAIAGwEAMm1lL2NvcnRleC92b3h5L2NsaWVudC9jb3JlL0lWb3h5UmVuZGVyU3lzdGVtSG9sZGVyBwAdAQAN"
+        },
+        {
+          "copy": [
+            996,
+            5
+          ]
+        },
+        {
+          "insert": "c2V0V29ybGQBACQ="
+        },
+        {
+          "copy": [
+            1010,
+            2
+          ]
+        },
+        {
+          "insert": "bmV0L21pbmVjcmFmdC8="
+        },
+        {
+          "copy": [
+            1024,
+            1
+          ]
+        },
+        {
+          "insert": "b3JsZC9sZXZlbC9MZXZlbA=="
+        },
+        {
+          "copy": [
+            1071,
+            3
+          ]
+        },
+        {
+          "insert": "DAAfACALAB4AIQEABWxldmVsAQAuTG5ldC9taW5lY3JhZnQvY2xpZW50L211bHRpcGxheWVyL0NsaWVudExldmVsOwEAA2NpcgEAPUxvcmcvc3BvbmdlcG93ZXJlZC9hc20vbWl4aW4vaW5qZWN0aW9uL2NhbGxiYWNrL0NhbGxiYWNrSW5mbzsBAAt2b3h5JHJlbG9hZAEAQChMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL2luamVjdGlvbi9jYWxsYmFjay9DYWxsYmFja0luZm87KVY="
+        },
+        {
+          "copy": [
+            1074,
+            15
+          ]
+        },
+        {
+          "insert": "FXZveHkkc2h1dGRvd25SZW5kZXJlcgwAKgAOCwAeACsBACptZS9jb3J0ZXgvdm94eS9jbGllbnQvY29yZS9Wb3h5UmVsb2FkRGVmZXIHAC0BABZjcmVhdGVSZW5kZXJlck9uUmVsb2FkAQA3KExtZS9jb3J0ZXgvdm94eS9jbGllbnQvY29yZS9JVm94eVJlbmRlclN5c3RlbUhvbGRlcjspVgwALwAwCgAuADEBABlSdW50aW1lVmlzaWJsZUFubm90YXRpb25zAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEAEkxvY2FsVmFyaWFibGVUYWJsZQEA"
+        },
+        {
+          "copy": [
+            1089,
+            11
+          ]
+        },
+        {
+          "copy": [
+            1127,
+            30
+          ]
+        },
+        {
+          "copy": [
+            1252,
+            3
+          ]
+        },
+        {
+          "insert": "AgAEAAAAAQACAAkACgABADMAAAAK"
+        },
+        {
+          "copy": [
+            1262,
+            5
+          ]
+        },
+        {
+          "insert": "AAA="
+        },
+        {
+          "copy": [
+            1267,
+            2
+          ]
+        },
+        {
+          "copy": [
+            1285,
+            6
+          ]
+        },
+        {
+          "insert": "DQAOAAEANA=="
+        },
+        {
+          "copy": [
+            1298,
+            15
+          ]
+        },
+        {
+          "insert": "EA=="
+        },
+        {
+          "copy": [
+            1314,
+            6
+          ]
+        },
+        {
+          "insert": "NQ=="
+        },
+        {
+          "copy": [
+            1321,
+            11
+          ]
+        },
+        {
+          "insert": "Ng=="
+        },
+        {
+          "copy": [
+            1333,
+            11
+          ]
+        },
+        {
+          "insert": "EQASAAAAAgATABQAAgA0"
+        },
+        {
+          "copy": [
+            1359,
+            15
+          ]
+        },
+        {
+          "insert": "HA=="
+        },
+        {
+          "copy": [
+            1375,
+            2
+          ]
+        },
+        {
+          "insert": "Hg=="
+        },
+        {
+          "copy": [
+            1378,
+            3
+          ]
+        },
+        {
+          "insert": "Ig=="
+        },
+        {
+          "copy": [
+            1382,
+            8
+          ]
+        },
+        {
+          "insert": "NQAAAAoAAgAAABYADQAXADYAAAAgAAMAAAAOABEAEgAAAAAADgAjACQAAQAAAA4AJQAmAAIAMwAAAA=="
+        },
+        {
+          "copy": [
+            1390,
+            2
+          ]
+        },
+        {
+          "insert": "AQAVAAI="
+        },
+        {
+          "copy": [
+            1399,
+            2
+          ]
+        },
+        {
+          "insert": "WwABcw=="
+        },
+        {
+          "copy": [
+            1403,
+            3
+          ]
+        },
+        {
+          "insert": "GFsAAUA="
+        },
+        {
+          "copy": [
+            1443,
+            3
+          ]
+        },
+        {
+          "insert": "AQAHcwAaAAI="
+        },
+        {
+          "copy": [
+            1451,
+            3
+          ]
+        },
+        {
+          "copy": [
+            1456,
+            1
+          ]
+        },
+        {
+          "insert": "AAIANAAAAFMAAQACAAAAFw=="
+        },
+        {
+          "copy": [
+            1500,
+            3
+          ]
+        },
+        {
+          "insert": "HA=="
+        },
+        {
+          "copy": [
+            1504,
+            2
+          ]
+        },
+        {
+          "insert": "Hg=="
+        },
+        {
+          "copy": [
+            1507,
+            2
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            1510,
+            5
+          ]
+        },
+        {
+          "insert": "HMAAHrgAMrEAAAACADUAAAAOAAMAAAAbAAwAHAAWAB0ANgAAABYAAgAAABcAEQASAAAAAAAXACUAJgABADMAAAAdAAEAFQACABZbAAFzACkAGFsAAUAAGQABAA=="
+        },
+        {
+          "copy": [
+            1515,
+            1
+          ]
+        },
+        {
+          "insert": "cwAaAAIANwAAAAIABQA4"
+        },
+        {
+          "copy": [
+            1531,
+            5
+          ]
+        },
+        {
+          "insert": "AQAGAAEABw=="
+        },
+        {
+          "copy": [
+            1591,
+            3
+          ]
+        },
+        {
+          "insert": "YwAI"
+        }
+      ]
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinLevelRenderer.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinLevelRenderer.class",
+      "sha256": "c4ecd33750f4402028d3ea7642914c377ee6a6fbc6b11fa59b82fef20d2e65e4",
+      "size": 4461,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "qgEAOG1lL2NvcnRleC92b3h5L2NsaWVudC9taXhpbi9taW5lY3JhZnQvTWl4aW5MZXZlbFJlbmRlcmVy"
+        },
+        {
+          "copy": [
+            15,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "BwADAQAybWUvY29ydGV4L3ZveHkvY2xpZW50L2NvcmUvSVZveHlSZW5kZXJTeXN0ZW1Ib2xkZXIHAAUBABdNaXhpbkxldmVsUmVuZGVyZXIuamF2YQEAI0xvcmcvc3BvbmdlcG93ZXJlZC9hc20vbWl4aW4vTWl4aW47AQAFdmFsdWUBAC1MbmV0L21pbmVjcmFmdC9jbGllbnQvcmVuZGVyZXIvTGV2ZWxSZW5kZXJlcjsBAAppZGVudGlmaWVyAQArTG1lL2NvcnRleC92b3h5L2NvbW1vbkltcGwvV29ybGRJZGVudGlmaWVyOwEAJExvcmcvc3BvbmdlcG93ZXJlZC9hc20vbWl4aW4vVW5pcXVlOwEAJExvcmcvamV0YnJhaW5zL2Fubm90YXRpb25zL051bGxhYmxlOwEACHJlbmRlcmVyAQAtTG1lL2NvcnRleC92b3h5L2NsaWVudC9jb3JlL1ZveHlSZW5kZXJTeXN0ZW07"
+        },
+        {
+          "copy": [
+            42,
+            15
+          ]
+        },
+        {
+          "insert": "DAARABIKAAQAEwEABHRoaXMBADpMbWUvY29ydGV4L3ZveHkvY2xpZW50L21peGluL21pbmVjcmFmdC9NaXhpbkxldmVsUmVuZGVyZXI7AQAUdm94eSRnZXRSZW5kZXJTeXN0ZW0BAC8oKUxtZS9jb3J0ZXgvdm94eS9jbGllbnQvY29yZS9Wb3h5UmVuZGVyU3lzdGVtOwwADwAQ"
+        },
+        {
+          "copy": [
+            57,
+            2
+          ]
+        },
+        {
+          "insert": "AgAZAQAQdm94eSRpbmplY3RDbG9zZQEAQChMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL2luamVjdGlvbi9jYWxsYmFjay9DYWxsYmFja0lu"
+        },
+        {
+          "copy": [
+            108,
+            1
+          ]
+        },
+        {
+          "insert": "bzsp"
+        },
+        {
+          "copy": [
+            171,
+            1
+          ]
+        },
+        {
+          "insert": "AQAuTG9yZy9zcG9uZ2Vwb3dlcmVkL2FzbS9taXhpbi9pbmplY3Rpb24vSW5qZWN0"
+        },
+        {
+          "copy": [
+            187,
+            1
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            196,
+            2
+          ]
+        },
+        {
+          "insert": "bWV0aG9kAQAFY2xvc2UBAAJhdAEAKkxvcmcvc3BvbmdlcG93ZXJlZC9hc20vbWl4aW4vaW5qZWN0aW9uL0F0OwEABEhFQUQ="
+        },
+        {
+          "copy": [
+            198,
+            24
+          ]
+        },
+        {
+          "insert": "DAAjABI="
+        },
+        {
+          "copy": [
+            222,
+            2
+          ]
+        },
+        {
+          "insert": "AgAkAQACY2kBAD1Mb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL2luamVjdGlvbi9jYWxsYmFjay9DYWxsYmFja0luZm87AQArbWUvY29ydGV4L3ZveHkvY2xpZW50L2NvcmUvVm94eVJlbmRlclN5c3RlbQ=="
+        },
+        {
+          "copy": [
+            227,
+            2
+          ]
+        },
+        {
+          "insert": "KA=="
+        },
+        {
+          "copy": [
+            281,
+            11
+          ]
+        },
+        {
+          "insert": "DAAqABI="
+        },
+        {
+          "copy": [
+            292,
+            2
+          ]
+        },
+        {
+          "insert": "KQArAQANdm94eSRzZXRXb3JsZAEAJChMbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9MZXZlbDspVgEAKW1lL2NvcnRleC92b3h5L2NvbW1vbkltcGwvV29ybGRJZGVudGlmaWVy"
+        },
+        {
+          "copy": [
+            297,
+            2
+          ]
+        },
+        {
+          "insert": "Lw=="
+        },
+        {
+          "copy": [
+            349,
+            86
+          ]
+        },
+        {
+          "insert": "DAAxADIKADAAMwwACwAM"
+        },
+        {
+          "copy": [
+            435,
+            2
+          ]
+        },
+        {
+          "insert": "AgA1"
+        },
+        {
+          "copy": [
+            517,
+            20
+          ]
+        },
+        {
+          "insert": "BwA3"
+        },
+        {
+          "copy": [
+            537,
+            51
+          ]
+        },
+        {
+          "insert": "DAA5ADoKADgAOwEABWxldmVsAQAhTG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvTGV2ZWw7AQATdm94eSRjcmVhdGVSZW5kZXJlcg=="
+        },
+        {
+          "copy": [
+            591,
+            34
+          ]
+        },
+        {
+          "insert": "BwBA"
+        },
+        {
+          "copy": [
+            628,
+            33
+          ]
+        },
+        {
+          "insert": "CABC"
+        },
+        {
+          "copy": [
+            671,
+            24
+          ]
+        },
+        {
+          "insert": "DAARAEQKAEEARQEAJ21lL2NvcnRleC92b3h5L2NsaWVudC9jb25maWcvVm94eUNvbmZpZw=="
+        },
+        {
+          "copy": [
+            700,
+            2
+          ]
+        },
+        {
+          "insert": "Rw=="
+        },
+        {
+          "copy": [
+            750,
+            53
+          ]
+        },
+        {
+          "insert": "DABJAEo="
+        },
+        {
+          "copy": [
+            803,
+            2
+          ]
+        },
+        {
+          "insert": "SABLAQAHZW5hYmxlZAEAAVo="
+        },
+        {
+          "copy": [
+            808,
+            2
+          ]
+        },
+        {
+          "insert": "TQBOCQBIAE8="
+        },
+        {
+          "copy": [
+            830,
+            40
+          ]
+        },
+        {
+          "insert": "CABRAQAcbWUvY29ydGV4L3ZveHkvY29tbW9uL0xvZ2dlcg=="
+        },
+        {
+          "copy": [
+            875,
+            2
+          ]
+        },
+        {
+          "insert": "Uw=="
+        },
+        {
+          "copy": [
+            914,
+            49
+          ]
+        },
+        {
+          "insert": "DABVAFY="
+        },
+        {
+          "copy": [
+            963,
+            2
+          ]
+        },
+        {
+          "insert": "VABX"
+        },
+        {
+          "copy": [
+            973,
+            27
+          ]
+        },
+        {
+          "insert": "DABZAFoKAEgAWwEAL05vdCBjcmVhdGluZyByZW5kZXJlciBkdWUgdG8gZGlzYWJsZWQgcmVuZGVyaW5n"
+        },
+        {
+          "copy": [
+            1000,
+            2
+          ]
+        },
+        {
+          "insert": "XQ=="
+        },
+        {
+          "copy": [
+            1056,
+            47
+          ]
+        },
+        {
+          "insert": "CABfAQAkbWUvY29ydGV4L3ZveHkvY29tbW9uSW1wbC9Wb3h5Q29tbW9u"
+        },
+        {
+          "copy": [
+            1108,
+            2
+          ]
+        },
+        {
+          "insert": "YQ=="
+        },
+        {
+          "copy": [
+            1155,
+            59
+          ]
+        },
+        {
+          "insert": "DABjAGQKAGIAZQEAKG1lL2NvcnRleC92b3h5L2NsaWVudC9Wb3h5Q2xpZW50SW5zdGFuY2U="
+        },
+        {
+          "copy": [
+            1214,
+            2
+          ]
+        },
+        {
+          "insert": "Zw=="
+        },
+        {
+          "copy": [
+            1263,
+            45
+          ]
+        },
+        {
+          "insert": "CABp"
+        },
+        {
+          "copy": [
+            1318,
+            67
+          ]
+        },
+        {
+          "insert": "DABrAGwKADAAbQ=="
+        },
+        {
+          "copy": [
+            1388,
+            43
+          ]
+        },
+        {
+          "insert": "CABv"
+        },
+        {
+          "copy": [
+            1441,
+            32
+          ]
+        },
+        {
+          "insert": "DABxAHI="
+        },
+        {
+          "copy": [
+            1473,
+            2
+          ]
+        },
+        {
+          "insert": "VABzAQAnbWUvY29ydGV4L3ZveHkvY29tbW9uL3dvcmxkL1dvcmxkRW5naW5lBwB1"
+        },
+        {
+          "copy": [
+            1483,
+            73
+          ]
+        },
+        {
+          "insert": "DAB3AHgKAAIAeQEACGluc3RhbmNlAQAqTG1lL2NvcnRleC92b3h5L2NsaWVudC9Wb3h5Q2xpZW50SW5zdGFuY2U7AQAFd29ybGQBAClMbWUvY29ydGV4L3ZveHkvY29tbW9uL3dvcmxkL1dvcmxkRW5naW5lOwEAGmphdmEvbGFuZy9SdW50aW1lRXhjZXB0aW9uBwB/AQAqbWUvY29ydGV4L3ZveHkvY2xpZW50L2NvcmUvVm94eVJlbG9hZERlZmVyBwCBAQALc2hvdWxkRGVmZXIBACwoTG1lL2NvcnRleC92b3h5L2NvbW1vbi93b3JsZC9Xb3JsZEVuZ2luZTspWgwAgwCECgCCAIUBAAppbnN0YW5jZUluAQAoTG1lL2NvcnRleC92b3h5L2NvbW1vbkltcGwvVm94eUluc3RhbmNlOwwAhwCI"
+        },
+        {
+          "copy": [
+            1556,
+            2
+          ]
+        },
+        {
+          "insert": "dgCJCgBBABMBACZtZS9jb3J0ZXgvdm94eS9jb21tb25JbXBsL1ZveHlJbnN0YW5jZQ=="
+        },
+        {
+          "copy": [
+            1561,
+            2
+          ]
+        },
+        {
+          "insert": "jA=="
+        },
+        {
+          "copy": [
+            1726,
+            70
+          ]
+        },
+        {
+          "insert": "DACOAI8="
+        },
+        {
+          "copy": [
+            1796,
+            2
+          ]
+        },
+        {
+          "insert": "jQCQ"
+        },
+        {
+          "copy": [
+            1806,
+            92
+          ]
+        },
+        {
+          "insert": "DAARAJIKACkAkwEAKG1lL2NvcnRleC92b3h5L2NsaWVudC9jb3JlL3V0aWwvSXJpc1V0aWw="
+        },
+        {
+          "copy": [
+            1898,
+            2
+          ]
+        },
+        {
+          "insert": "lQ=="
+        },
+        {
+          "copy": [
+            1986,
+            24
+          ]
+        },
+        {
+          "insert": "DACXAFo="
+        },
+        {
+          "copy": [
+            2010,
+            2
+          ]
+        },
+        {
+          "insert": "lgCY"
+        },
+        {
+          "copy": [
+            2020,
+            21
+          ]
+        },
+        {
+          "insert": "DACaABI="
+        },
+        {
+          "copy": [
+            2041,
+            2
+          ]
+        },
+        {
+          "insert": "lgCb"
+        },
+        {
+          "copy": [
+            2051,
+            25
+          ]
+        },
+        {
+          "insert": "DACdABIKAI0AngEAAWUBABxMamF2YS9sYW5nLw=="
+        },
+        {
+          "copy": [
+            2114,
+            1
+          ]
+        },
+        {
+          "insert": "dW50aW1lRXhjZXB0aW9uOw=="
+        },
+        {
+          "copy": [
+            2132,
+            30
+          ]
+        },
+        {
+          "copy": [
+            2201,
+            30
+          ]
+        },
+        {
+          "copy": [
+            2270,
+            80
+          ]
+        },
+        {
+          "copy": [
+            2777,
+            16
+          ]
+        },
+        {
+          "copy": [
+            3057,
+            11
+          ]
+        },
+        {
+          "copy": [
+            3180,
+            3
+          ]
+        },
+        {
+          "insert": "AgAEAAEABgACAAIACwAMAAMAogAAAAYAAQANAAAAowAAAAYAAQAOAAAApAAAAA=="
+        },
+        {
+          "copy": [
+            3183,
+            2
+          ]
+        },
+        {
+          "insert": "ARMAAA4AAAA="
+        },
+        {
+          "copy": [
+            3185,
+            2
+          ]
+        },
+        {
+          "insert": "DwAQ"
+        },
+        {
+          "copy": [
+            3198,
+            3
+          ]
+        },
+        {
+          "insert": "og=="
+        },
+        {
+          "copy": [
+            3202,
+            7
+          ]
+        },
+        {
+          "insert": "DQAAAKM="
+        },
+        {
+          "copy": [
+            3214,
+            7
+          ]
+        },
+        {
+          "insert": "DgAAAKQ="
+        },
+        {
+          "copy": [
+            3226,
+            9
+          ]
+        },
+        {
+          "insert": "Dg=="
+        },
+        {
+          "copy": [
+            3282,
+            7
+          ]
+        },
+        {
+          "insert": "EQASAAEApQ=="
+        },
+        {
+          "copy": [
+            3296,
+            15
+          ]
+        },
+        {
+          "insert": "FA=="
+        },
+        {
+          "copy": [
+            3312,
+            6
+          ]
+        },
+        {
+          "insert": "pg=="
+        },
+        {
+          "copy": [
+            3319,
+            11
+          ]
+        },
+        {
+          "insert": "pw=="
+        },
+        {
+          "copy": [
+            3331,
+            11
+          ]
+        },
+        {
+          "insert": "FQAWAAAAAQAXABgAAQCl"
+        },
+        {
+          "copy": [
+            3357,
+            15
+          ]
+        },
+        {
+          "insert": "Gg=="
+        },
+        {
+          "copy": [
+            3373,
+            6
+          ]
+        },
+        {
+          "insert": "pg=="
+        },
+        {
+          "copy": [
+            3380,
+            11
+          ]
+        },
+        {
+          "insert": "pw=="
+        },
+        {
+          "copy": [
+            3392,
+            11
+          ]
+        },
+        {
+          "insert": "FQAW"
+        },
+        {
+          "copy": [
+            3406,
+            5
+          ]
+        },
+        {
+          "insert": "GwAc"
+        },
+        {
+          "copy": [
+            3414,
+            3
+          ]
+        },
+        {
+          "insert": "pQ=="
+        },
+        {
+          "copy": [
+            3418,
+            15
+          ]
+        },
+        {
+          "insert": "JQ=="
+        },
+        {
+          "copy": [
+            3434,
+            6
+          ]
+        },
+        {
+          "insert": "pg=="
+        },
+        {
+          "copy": [
+            3441,
+            15
+          ]
+        },
+        {
+          "insert": "pw=="
+        },
+        {
+          "copy": [
+            3457,
+            11
+          ]
+        },
+        {
+          "insert": "FQAW"
+        },
+        {
+          "copy": [
+            3471,
+            7
+          ]
+        },
+        {
+          "insert": "JgAnAAEAog=="
+        },
+        {
+          "copy": [
+            3485,
+            7
+          ]
+        },
+        {
+          "insert": "HQ=="
+        },
+        {
+          "copy": [
+            3493,
+            3
+          ]
+        },
+        {
+          "insert": "Hg=="
+        },
+        {
+          "copy": [
+            3497,
+            5
+          ]
+        },
+        {
+          "insert": "HwAg"
+        },
+        {
+          "copy": [
+            3505,
+            5
+          ]
+        },
+        {
+          "insert": "IQABAAlzACIAAQAjABIAAQCl"
+        },
+        {
+          "copy": [
+            3528,
+            15
+          ]
+        },
+        {
+          "insert": "Gg=="
+        },
+        {
+          "copy": [
+            3544,
+            6
+          ]
+        },
+        {
+          "insert": "GrYALCoBtQAasQAAAAMAqAAAAAMAARMApgAAABIABAAAACgA"
+        },
+        {
+          "copy": [
+            3550,
+            1
+          ]
+        },
+        {
+          "insert": "ACkADgA="
+        },
+        {
+          "copy": [
+            3554,
+            1
+          ]
+        },
+        {
+          "copy": [
+            3584,
+            5
+          ]
+        },
+        {
+          "insert": "pw=="
+        },
+        {
+          "copy": [
+            3590,
+            11
+          ]
+        },
+        {
+          "insert": "FQAWAAAAAQAtAC4AAQCl"
+        },
+        {
+          "copy": [
+            3625,
+            23
+          ]
+        },
+        {
+          "insert": "NA=="
+        },
+        {
+          "copy": [
+            3649,
+            4
+          ]
+        },
+        {
+          "insert": "Ng=="
+        },
+        {
+          "copy": [
+            3654,
+            3
+          ]
+        },
+        {
+          "insert": "PA=="
+        },
+        {
+          "copy": [
+            3658,
+            7
+          ]
+        },
+        {
+          "insert": "JQ=="
+        },
+        {
+          "copy": [
+            3666,
+            4
+          ]
+        },
+        {
+          "insert": "Ng=="
+        },
+        {
+          "copy": [
+            3671,
+            6
+          ]
+        },
+        {
+          "insert": "qA=="
+        },
+        {
+          "copy": [
+            3744,
+            10
+          ]
+        },
+        {
+          "insert": "MA=="
+        },
+        {
+          "copy": [
+            3755,
+            5
+          ]
+        },
+        {
+          "insert": "MACmAAAA"
+        },
+        {
+          "copy": [
+            3760,
+            2
+          ]
+        },
+        {
+          "insert": "BQAAADcADQA4ABkAOQAdADoAIgA7AKcAAAAgAAMAAAAjABUAFgAAAAAAIwA9AD4AAQANABYACwAMAAIAAQA/ABIAAQCl"
+        },
+        {
+          "copy": [
+            3771,
+            15
+          ]
+        },
+        {
+          "insert": "Gg=="
+        },
+        {
+          "copy": [
+            3787,
+            5
+          ]
+        },
+        {
+          "insert": "QQ=="
+        },
+        {
+          "copy": [
+            3793,
+            2
+          ]
+        },
+        {
+          "insert": "Qw=="
+        },
+        {
+          "copy": [
+            3796,
+            2
+          ]
+        },
+        {
+          "insert": "Rg=="
+        },
+        {
+          "copy": [
+            3799,
+            3
+          ]
+        },
+        {
+          "insert": "TA=="
+        },
+        {
+          "copy": [
+            3803,
+            2
+          ]
+        },
+        {
+          "insert": "UA=="
+        },
+        {
+          "copy": [
+            3806,
+            6
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3813,
+            3
+          ]
+        },
+        {
+          "insert": "Ug=="
+        },
+        {
+          "copy": [
+            3817,
+            3
+          ]
+        },
+        {
+          "insert": "WA=="
+        },
+        {
+          "copy": [
+            3821,
+            4
+          ]
+        },
+        {
+          "insert": "TA=="
+        },
+        {
+          "copy": [
+            3826,
+            2
+          ]
+        },
+        {
+          "insert": "XA=="
+        },
+        {
+          "copy": [
+            3829,
+            6
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3836,
+            3
+          ]
+        },
+        {
+          "insert": "Xg=="
+        },
+        {
+          "copy": [
+            3840,
+            3
+          ]
+        },
+        {
+          "insert": "WA=="
+        },
+        {
+          "copy": [
+            3844,
+            5
+          ]
+        },
+        {
+          "insert": "Ng=="
+        },
+        {
+          "copy": [
+            3850,
+            6
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3857,
+            3
+          ]
+        },
+        {
+          "insert": "YA=="
+        },
+        {
+          "copy": [
+            3861,
+            3
+          ]
+        },
+        {
+          "insert": "WA=="
+        },
+        {
+          "copy": [
+            3865,
+            4
+          ]
+        },
+        {
+          "insert": "Zg=="
+        },
+        {
+          "copy": [
+            3870,
+            2
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            3873,
+            8
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3882,
+            3
+          ]
+        },
+        {
+          "insert": "ag=="
+        },
+        {
+          "copy": [
+            3886,
+            3
+          ]
+        },
+        {
+          "insert": "WA=="
+        },
+        {
+          "copy": [
+            3890,
+            5
+          ]
+        },
+        {
+          "insert": "Ng=="
+        },
+        {
+          "copy": [
+            3896,
+            3
+          ]
+        },
+        {
+          "insert": "bg=="
+        },
+        {
+          "copy": [
+            3900,
+            8
+          ]
+        },
+        {
+          "insert": "BA=="
+        },
+        {
+          "copy": [
+            3909,
+            3
+          ]
+        },
+        {
+          "insert": "cA=="
+        },
+        {
+          "copy": [
+            3913,
+            3
+          ]
+        },
+        {
+          "insert": "dA=="
+        },
+        {
+          "copy": [
+            3917,
+            5
+          ]
+        },
+        {
+          "insert": "eg=="
+        },
+        {
+          "copy": [
+            3923,
+            6
+          ]
+        },
+        {
+          "insert": "qA=="
+        },
+        {
+          "copy": [
+            4056,
+            15
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            4072,
+            5
+          ]
+        },
+        {
+          "insert": "dgCmAAAAUgAUAAAAPwARAEAAGgBBACcAQgAoAEQAMQBFAD4ARgA/AEgARgBJAFMASgBUAEwAWwBNAA=="
+        },
+        {
+          "copy": [
+            4077,
+            2
+          ]
+        },
+        {
+          "insert": "TwBsAFAAbQBSAHYAUwB6AFQAhgBVAIcAVwCMAFgApwAAACAAAwAAAI0AFQAWAAAAWwAyAHsAfAABAHYAFwB9AH4A"
+        },
+        {
+          "copy": [
+            4079,
+            2
+          ]
+        },
+        {
+          "copy": [
+            4085,
+            2
+          ]
+        },
+        {
+          "insert": "dwB4AAIApQAAANA="
+        },
+        {
+          "copy": [
+            4092,
+            7
+          ]
+        },
+        {
+          "insert": "QCu4AIaZAASx"
+        },
+        {
+          "copy": [
+            4100,
+            3
+          ]
+        },
+        {
+          "insert": "ig=="
+        },
+        {
+          "copy": [
+            4104,
+            7
+          ]
+        },
+        {
+          "insert": "QQ=="
+        },
+        {
+          "copy": [
+            4112,
+            3
+          ]
+        },
+        {
+          "insert": "iw=="
+        },
+        {
+          "copy": [
+            4116,
+            4
+          ]
+        },
+        {
+          "insert": "KQ=="
+        },
+        {
+          "copy": [
+            4121,
+            5
+          ]
+        },
+        {
+          "insert": "kQ=="
+        },
+        {
+          "copy": [
+            4127,
+            2
+          ]
+        },
+        {
+          "insert": "lA=="
+        },
+        {
+          "copy": [
+            4130,
+            2
+          ]
+        },
+        {
+          "insert": "Gg=="
+        },
+        {
+          "copy": [
+            4133,
+            6
+          ]
+        },
+        {
+          "insert": "mQ=="
+        },
+        {
+          "copy": [
+            4140,
+            5
+          ]
+        },
+        {
+          "insert": "nA=="
+        },
+        {
+          "copy": [
+            4146,
+            8
+          ]
+        },
+        {
+          "insert": "nw=="
+        },
+        {
+          "copy": [
+            4155,
+            4
+          ]
+        },
+        {
+          "insert": "GQApACwAgA=="
+        },
+        {
+          "copy": [
+            4166,
+            3
+          ]
+        },
+        {
+          "insert": "qAAAABY="
+        },
+        {
+          "copy": [
+            4180,
+            2
+          ]
+        },
+        {
+          "insert": "CA=="
+        },
+        {
+          "copy": [
+            4272,
+            2
+          ]
+        },
+        {
+          "insert": "EA=="
+        },
+        {
+          "copy": [
+            4275,
+            2
+          ]
+        },
+        {
+          "insert": "jQ=="
+        },
+        {
+          "copy": [
+            4278,
+            3
+          ]
+        },
+        {
+          "insert": "gA=="
+        },
+        {
+          "copy": [
+            4282,
+            5
+          ]
+        },
+        {
+          "insert": "gA=="
+        },
+        {
+          "copy": [
+            4288,
+            4
+          ]
+        },
+        {
+          "insert": "pgAAACoACgAIAFwADQBdABkAXwApAGYALABgAC0AYQAzAGIAOQBkADsAZwA/AGgApwAAACoABAAtAA4AoAChAAMACAA4ABUAFgAAAAgAOAA="
+        },
+        {
+          "copy": [
+            4292,
+            2
+          ]
+        },
+        {
+          "insert": "fgABAA0AMwB7AIgAAgCiAA=="
+        },
+        {
+          "copy": [
+            4294,
+            6
+          ]
+        },
+        {
+          "insert": "DQ=="
+        },
+        {
+          "copy": [
+            4301,
+            5
+          ]
+        },
+        {
+          "insert": "qQ=="
+        },
+        {
+          "copy": [
+            4307,
+            5
+          ]
+        },
+        {
+          "insert": "BwCj"
+        },
+        {
+          "copy": [
+            4315,
+            7
+          ]
+        },
+        {
+          "insert": "CAABAAk="
+        },
+        {
+          "copy": [
+            4327,
+            5
+          ]
+        },
+        {
+          "insert": "Cg=="
+        }
+      ]
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/MixinRenderSystem.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/MixinRenderSystem.class",
+      "sha256": "aeb5d7d81d546be64180cb380bf5991095c4b6729d809c2f408e931e31b8b814",
+      "size": 1104
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/session/",
+      "source": "me/cortex/voxy/client/mixin/minecraft/session/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/session/MixinClientPacketListener.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/session/MixinClientPacketListener.class",
+      "sha256": "5166f19daf01fbd0b5640c1b23f24f40a0710f638a7bdf64e3280fa528dabead",
+      "size": 1396
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/session/MixinMinecraft.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/session/MixinMinecraft.class",
+      "sha256": "76bafb2b4d7a72f7370d3cf73eaefb4ad003507e5d364cf1a4b958f95fcaeacd",
+      "size": 1092
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/util/",
+      "source": "me/cortex/voxy/client/mixin/minecraft/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/util/MixinBlockableEventLoop.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/util/MixinBlockableEventLoop.class",
+      "sha256": "77e085cad89251fd8e884ddc0ef104c019062c584e71f6eb20e4462b4dd1afdd",
+      "size": 1437
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/util/MixinClientCommonPacketListenerImpl.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/util/MixinClientCommonPacketListenerImpl.class",
+      "sha256": "80658a6ab191489868b9febc08cdbb3cada1e637a0722944d28effe720c260ff",
+      "size": 1792
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/util/MixinGPUSelect.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/util/MixinGPUSelect.class",
+      "sha256": "c807ea734f7190c4655950c9cb8ec6d83ca84b7f1b69fb6a8b6f3dca6fafc5ea",
+      "size": 1726
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/minecraft/util/MixinGlDebug.class",
+      "source": "me/cortex/voxy/client/mixin/minecraft/util/MixinGlDebug.class",
+      "sha256": "b1ac4b4c938aa95d83e3ef4f7517da18602a4cd2746da263e65cae613891eaa9",
+      "size": 3971
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/nvidium/",
+      "source": "me/cortex/voxy/client/mixin/nvidium/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/nvidium/MixinRenderPipeline.class",
+      "source": "me/cortex/voxy/client/mixin/nvidium/MixinRenderPipeline.class",
+      "sha256": "e5d0115619404c7d8ce2687b20fd7b7517f8c463fadd04b9a4ac32355383423d",
+      "size": 2876
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/",
+      "source": "me/cortex/voxy/client/mixin/sodium/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/AccessorChunkTracker.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/AccessorChunkTracker.class",
+      "sha256": "44a592ba21e8322932121a24e8ed5033579462b77c16d9090fe3770e150b5e89",
+      "size": 502
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/AccessorSodiumWorldRenderer.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/AccessorSodiumWorldRenderer.class",
+      "sha256": "dbee11e1efa9e64ecf6d316aa944dd24d1f6339bb6618f5b2df4c2b9f61fad9b",
+      "size": 542
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinChunkJobQueue.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinChunkJobQueue.class",
+      "sha256": "797f2c9702221dfcd45f6150b12bbf6401e9e8ff77bffe33769d244ebc14b12d",
+      "size": 2607
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinDefaultChunkRenderer.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinDefaultChunkRenderer.class",
+      "sha256": "287e36ee955c703f74330a7acfa27ab68b7441f2bca190e8d14fb7f78dcf9a05",
+      "size": 5900
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinFallbackVisibleChunkCollector.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinFallbackVisibleChunkCollector.class",
+      "sha256": "af5cf41e3aae5c8fa74e276eb11fa0c601c278c082f20192ddd980a8f6a4489d",
+      "size": 2991
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinRenderRegionManager.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinRenderRegionManager.class",
+      "sha256": "4b16233d2b2854b45d87c3edcebb4f7e90be01cbc3165de68f83d11b8f86f657",
+      "size": 1758
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinRenderSectionManager.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinRenderSectionManager.class",
+      "sha256": "f4ae1e3057884d8f26b1e1c1627c539d49de53cbd9dd8eee1b9edb3d5bcc7590",
+      "size": 8942
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinSodiumWorldRenderer.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinSodiumWorldRenderer.class",
+      "sha256": "910fb152d09882cc16e12bbeeadc2a3a4f19df2c168097c0c1b6b5f2a339ca09",
+      "size": 1271
+    },
+    {
+      "name": "me/cortex/voxy/client/mixin/sodium/MixinVisibleChunkCollector.class",
+      "source": "me/cortex/voxy/client/mixin/sodium/MixinVisibleChunkCollector.class",
+      "sha256": "e62ee1e88d7598e63cab0c0c7d7c7610c95048514edc1da6654dbc6e310aeaf2",
+      "size": 2836
+    },
+    {
+      "name": "me/cortex/voxy/client/taskbar/",
+      "source": "me/cortex/voxy/client/taskbar/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/client/taskbar/Taskbar$ITaskbar.class",
+      "source": "me/cortex/voxy/client/taskbar/Taskbar$ITaskbar.class",
+      "sha256": "1b9197b00debd3cd3f9a04dcafb12b1c8154cba4fa9f39e874b884e76273b71f",
+      "size": 364
+    },
+    {
+      "name": "me/cortex/voxy/client/taskbar/Taskbar$NoopTaskbar.class",
+      "source": "me/cortex/voxy/client/taskbar/Taskbar$NoopTaskbar.class",
+      "sha256": "29fa058d0c7b3d4c61196d7fd751c04ecd23e368aec66ea1f478f762c100f662",
+      "size": 915
+    },
+    {
+      "name": "me/cortex/voxy/client/taskbar/Taskbar.class",
+      "source": "me/cortex/voxy/client/taskbar/Taskbar.class",
+      "sha256": "d98ce61b8ecc60caed296ccf3a6108e2da009e3fa01d1198f7acf9ebee331aba",
+      "size": 1436
+    },
+    {
+      "name": "me/cortex/voxy/client/taskbar/WindowsTaskbar.class",
+      "source": "me/cortex/voxy/client/taskbar/WindowsTaskbar.class",
+      "sha256": "d018fc266e46bae058349a17eb5effc09d97c219fc85349d3209a19784645558",
+      "size": 3739
+    },
+    {
+      "name": "me/cortex/voxy/common/",
+      "source": "me/cortex/voxy/common/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/DebugUtils.class",
+      "source": "me/cortex/voxy/common/DebugUtils.class",
+      "sha256": "54fff5bc589ee5b3d298bec27c2b9ea7e05759dca77a23cc11c2d5e802f6504e",
+      "size": 6426
+    },
+    {
+      "name": "me/cortex/voxy/common/Logger.class",
+      "source": "me/cortex/voxy/common/Logger.class",
+      "sha256": "9eb5bda01527b3fca61e392dfe127a672f98a584c8e363c17db141fe4da52531",
+      "size": 5717
+    },
+    {
+      "name": "me/cortex/voxy/common/StorageConfigUtil.class",
+      "source": "me/cortex/voxy/common/StorageConfigUtil.class",
+      "sha256": "db6caff4a42e2e709fd7d3caf25f679a782c6963fb086bb7bcd5b9659071da4f",
+      "size": 4643
+    },
+    {
+      "name": "me/cortex/voxy/common/WorldConfigStorage$1.class",
+      "source": "me/cortex/voxy/common/WorldConfigStorage$1.class",
+      "sha256": "9e058ec57c5bd5a32865dddbef9d0ff1c3bab495688d84c6898cc67024bd8325",
+      "size": 6124
+    },
+    {
+      "name": "me/cortex/voxy/common/WorldConfigStorage$InnerHolder.class",
+      "source": "me/cortex/voxy/common/WorldConfigStorage$InnerHolder.class",
+      "sha256": "87392b467f0c919291929f773c5edf275fab05180c6389f65063c876b887232e",
+      "size": 819
+    },
+    {
+      "name": "me/cortex/voxy/common/WorldConfigStorage.class",
+      "source": "me/cortex/voxy/common/WorldConfigStorage.class",
+      "sha256": "a832a1808144e1595ffbdad4ecd33981703e1f93fcfe48ee7009fc5835b8b5a9",
+      "size": 6208
+    },
+    {
+      "name": "me/cortex/voxy/common/config/",
+      "source": "me/cortex/voxy/common/config/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/ConfigBuildCtx.class",
+      "source": "me/cortex/voxy/common/config/ConfigBuildCtx.class",
+      "sha256": "4b2a73f2225dc442e672d5df0b9720e5b31cc58b159eb77f92ad045c4914e7fb",
+      "size": 4498
+    },
+    {
+      "name": "me/cortex/voxy/common/config/IMappingStorage.class",
+      "source": "me/cortex/voxy/common/config/IMappingStorage.class",
+      "sha256": "8a47802a9b8d2fca514e15d3ed6c95cb171f2efae6948ff279debf69ab427d56",
+      "size": 391
+    },
+    {
+      "name": "me/cortex/voxy/common/config/IStoredSectionPositionIterator.class",
+      "source": "me/cortex/voxy/common/config/IStoredSectionPositionIterator.class",
+      "sha256": "ee4d11a06ed7f8433364ca28130d8294d9441a523947d6bd2ff6d53c5aecbc34",
+      "size": 237
+    },
+    {
+      "name": "me/cortex/voxy/common/config/Serialization$GsonConfigSerialization$1.class",
+      "source": "me/cortex/voxy/common/config/Serialization$GsonConfigSerialization$1.class",
+      "sha256": "8426ff4c54c8c46e4a055e9772c82bd678a74b3ec074e0e01684ec268d787fb1",
+      "size": 2284
+    },
+    {
+      "name": "me/cortex/voxy/common/config/Serialization$GsonConfigSerialization.class",
+      "source": "me/cortex/voxy/common/config/Serialization$GsonConfigSerialization.class",
+      "sha256": "e8ad6cc6fd921f3e44da583cf9e6861a4f1b2a17b7075bbc2f1c72661daae675",
+      "size": 6089
+    },
+    {
+      "name": "me/cortex/voxy/common/config/Serialization.class",
+      "source": "me/cortex/voxy/common/config/Serialization.class",
+      "sha256": "050e8395a5a90671d19c58db0e9abcf554b0ed7c6386b615200d1ac2ce3cd6af",
+      "size": 9720
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/",
+      "source": "me/cortex/voxy/common/config/compressors/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/CompressorConfig.class",
+      "source": "me/cortex/voxy/common/config/compressors/CompressorConfig.class",
+      "sha256": "9f8c98a2a52299a91f47409181851f48119ac0faf75fbeb84c5f747ade35d01d",
+      "size": 696
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/LZ4Compressor$Config.class",
+      "source": "me/cortex/voxy/common/config/compressors/LZ4Compressor$Config.class",
+      "sha256": "355434afab4d7738508b2b345696edf4a87dd972b126247f44941b2e0ce5ff6f",
+      "size": 864
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/LZ4Compressor.class",
+      "source": "me/cortex/voxy/common/config/compressors/LZ4Compressor.class",
+      "sha256": "9fd41df3f38c332a397519ffb9e6e5d214d7353ea1637e207c4d52297b7572e5",
+      "size": 2457
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/StorageCompressor.class",
+      "source": "me/cortex/voxy/common/config/compressors/StorageCompressor.class",
+      "sha256": "ddca3703c074beff4bbeec6b1ccf381b4d093d7439112e1abe48c38fe7a0b896",
+      "size": 305
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/ZSTDCompressor$Config.class",
+      "source": "me/cortex/voxy/common/config/compressors/ZSTDCompressor$Config.class",
+      "sha256": "fb9fb6c8f3950bd20eeef39dee4b00a68d3a5f9b48d4be2fc352482a229c0a3d",
+      "size": 926
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/ZSTDCompressor$Ref.class",
+      "source": "me/cortex/voxy/common/config/compressors/ZSTDCompressor$Ref.class",
+      "sha256": "b96340823d8935865f95a485c3e6e5c66d66b72dd88554ad4d84c3450bbf0333",
+      "size": 1602
+    },
+    {
+      "name": "me/cortex/voxy/common/config/compressors/ZSTDCompressor.class",
+      "source": "me/cortex/voxy/common/config/compressors/ZSTDCompressor.class",
+      "sha256": "7b7e0fb5fa8061bf2788131f63dfe5e35c072a32db8182ca2a8d953257291fdc",
+      "size": 4103
+    },
+    {
+      "name": "me/cortex/voxy/common/config/section/",
+      "source": "me/cortex/voxy/common/config/section/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/section/SectionSerializationStorage$Config.class",
+      "source": "me/cortex/voxy/common/config/section/SectionSerializationStorage$Config.class",
+      "sha256": "b5c0b48c7d243c52f79cad1a166ccaa972447725cce1a3ce850f1c6f4f73a806",
+      "size": 1232
+    },
+    {
+      "name": "me/cortex/voxy/common/config/section/SectionSerializationStorage.class",
+      "source": "me/cortex/voxy/common/config/section/SectionSerializationStorage.class",
+      "sha256": "ef6d0575910581a67a17c30a3129f5bc62445aa9bf42b6c0ae8f6ff4c8670533",
+      "size": 3929
+    },
+    {
+      "name": "me/cortex/voxy/common/config/section/SectionStorage.class",
+      "source": "me/cortex/voxy/common/config/section/SectionStorage.class",
+      "sha256": "cc9ec6421bda12d0d3b6af5aa2ff34fd451be79ef24780aa4754766adf6a037c",
+      "size": 600
+    },
+    {
+      "name": "me/cortex/voxy/common/config/section/SectionStorageConfig.class",
+      "source": "me/cortex/voxy/common/config/section/SectionStorageConfig.class",
+      "sha256": "59994b58f1aa54f48140f26e45f52ab9a2387d744979e7ee720392526ec7e119",
+      "size": 693
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/",
+      "source": "me/cortex/voxy/common/config/storage/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/StorageBackend.class",
+      "source": "me/cortex/voxy/common/config/storage/StorageBackend.class",
+      "sha256": "df0c29681ca4a75d59c0eadc33ac6a96f023e1bb6d691c47c572210adcefe45f",
+      "size": 1594
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/StorageConfig.class",
+      "source": "me/cortex/voxy/common/config/storage/StorageConfig.class",
+      "sha256": "1006705f586c657a7fb53fb451d68db144a6114baf22905db2f5a4f746862594",
+      "size": 1524
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/inmemory/",
+      "source": "me/cortex/voxy/common/config/storage/inmemory/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/inmemory/MemoryStorageBackend$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/inmemory/MemoryStorageBackend$Config.class",
+      "sha256": "39c5bb4cbccaf7075747bafd1704511b57698a77768b4c30312e6efc7eac7faa",
+      "size": 896
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/inmemory/MemoryStorageBackend.class",
+      "source": "me/cortex/voxy/common/config/storage/inmemory/MemoryStorageBackend.class",
+      "sha256": "4a2d61e9051918d02181f9b8f9d6458d8b92b71f5b3426c3bcd38d9d73ac70ae",
+      "size": 7651
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/Cursor.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/Cursor.class",
+      "sha256": "f8286fcdf66a915b1e65ba1803e64e70351ed71fb98124906983902fb0cf5f7d",
+      "size": 1022
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/LMDBInterface$Builder.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/LMDBInterface$Builder.class",
+      "sha256": "ab60e1ca6fcb7557856bc112e3ce82f51d72d799cb98a451257724318bce78ba",
+      "size": 1841
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/LMDBInterface$Database.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/LMDBInterface$Database.class",
+      "sha256": "7cc702f088c5119545aa40d1fab84bebf0d661f300ffa7a0ccad23f2d9e183e2",
+      "size": 4368
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/LMDBInterface.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/LMDBInterface.class",
+      "sha256": "70bba3e2f74abf686c6bbea9e0916d3a4c8d4da23d013faa5dedaf16071748bf",
+      "size": 5020
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/LMDBStorageBackend$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/LMDBStorageBackend$Config.class",
+      "sha256": "a508e2fef21558747543f922ef459c06b2c00e5de874766b7345196e6b0d982b",
+      "size": 1087
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/LMDBStorageBackend.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/LMDBStorageBackend.class",
+      "sha256": "c719f329dfd667e9f493ab2aebcd9efea8161732aead3b87373a37fb2e69cace",
+      "size": 11806
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/TransactionCallback.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/TransactionCallback.class",
+      "sha256": "60e48d690b6dda635702317d9bfc01eaf280025293c790111f182ddf06f8d489",
+      "size": 340
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/TransactionWrappedCallback.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/TransactionWrappedCallback.class",
+      "sha256": "47c93b6deb7b7a0576ceef601154788b414c3c99ae918b4ecf3ac868e22e2134",
+      "size": 416
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/lmdb/TransactionWrapper.class",
+      "source": "me/cortex/voxy/common/config/storage/lmdb/TransactionWrapper.class",
+      "sha256": "beeff9908bf00d8e053f3d0538941b1290e8833ab69530f9888888c8041628bc",
+      "size": 3553
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/",
+      "source": "me/cortex/voxy/common/config/storage/other/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/BasicPathInsertionConfig.class",
+      "source": "me/cortex/voxy/common/config/storage/other/BasicPathInsertionConfig.class",
+      "sha256": "4aa6bcb958858dc8eaeffaa1676cded9eb5cdc2e522fbc129a0356dcbea98ceb",
+      "size": 1292
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/CompressionStorageAdaptor$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/other/CompressionStorageAdaptor$Config.class",
+      "sha256": "2199f939b2cb38eaf724fa61bee06cc7b326841e91fc6eef93176ac78cf3c412",
+      "size": 1491
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/CompressionStorageAdaptor.class",
+      "source": "me/cortex/voxy/common/config/storage/other/CompressionStorageAdaptor.class",
+      "sha256": "f8890212c84c94e811c7c7cdcd62d69c86502140ac29f8953a45f361349faa19",
+      "size": 1907
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/ConditionalStorageBackendConfig.class",
+      "source": "me/cortex/voxy/common/config/storage/other/ConditionalStorageBackendConfig.class",
+      "sha256": "3dd658808df50123f4733218be19d7f1914507159f7d14b32bf4df26114a93e5",
+      "size": 843
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/DelegateStorageConfig.class",
+      "source": "me/cortex/voxy/common/config/storage/other/DelegateStorageConfig.class",
+      "sha256": "cb453da38ebe99f786414557d90b788793ae0906fe01d023d7bd3ebc8cebdc82",
+      "size": 771
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/DelegatingStorageAdaptor.class",
+      "source": "me/cortex/voxy/common/config/storage/other/DelegatingStorageAdaptor.class",
+      "sha256": "b07d8e3a104f72909f468567c3597c7a09fbe10b15a4948dd3925fec80694c7a",
+      "size": 2186
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor$Config.class",
+      "sha256": "839b0c497716cc547aab4c7e4f3e0061b0b2f5c0a22339d513e46fff9b38c99d",
+      "size": 1790
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor$Config2.class",
+      "source": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor$Config2.class",
+      "sha256": "250013626c59c81b2516bece4ac21b3a08214b6f7793079562e50777cab415dc",
+      "size": 2459
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor$EqualingArray.class",
+      "source": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor$EqualingArray.class",
+      "sha256": "d527cfe321c2f1d4ccfa606797ce2cb29b0bdd73513acb65909631303bdc18b5",
+      "size": 1638
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor.class",
+      "source": "me/cortex/voxy/common/config/storage/other/FragmentedStorageBackendAdaptor.class",
+      "sha256": "580e0b39005ce1d924963f1920113a44dc723c1e64141fae16c577d0e95d48e1",
+      "size": 6689
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/ReadonlyCachingLayer$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/other/ReadonlyCachingLayer$Config.class",
+      "sha256": "1821e74b74a6268fbe81ed21b4b6b21b7e1bfed2a6219485f65813b60a1e0f37",
+      "size": 1453
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/other/ReadonlyCachingLayer.class",
+      "source": "me/cortex/voxy/common/config/storage/other/ReadonlyCachingLayer.class",
+      "sha256": "a73d63eb367a96cf9c6f33f341689a65e8dd563009e65d2c1eb66dbce39058bc",
+      "size": 2403
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/redis/",
+      "source": "me/cortex/voxy/common/config/storage/redis/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/redis/RedisStorageBackend$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/redis/RedisStorageBackend$Config.class",
+      "sha256": "0fd66e9f3c69f1c95259d78918577463333d02549bf815843e7ed214fb2cca75",
+      "size": 1167
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/redis/RedisStorageBackend.class",
+      "source": "me/cortex/voxy/common/config/storage/redis/RedisStorageBackend.class",
+      "sha256": "034b88ccbc4348b82bbf7b3cca3ee7f2fb5663bce01c3fbb2e6862ae9b444c30",
+      "size": 6611
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/rocksdb/",
+      "source": "me/cortex/voxy/common/config/storage/rocksdb/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/rocksdb/RocksDBStorageBackend$Config.class",
+      "source": "me/cortex/voxy/common/config/storage/rocksdb/RocksDBStorageBackend$Config.class",
+      "sha256": "70fb4f8cb6c68e0c57b91087b8d05af6924a30a5aa15fc54e3d469cf4fce325f",
+      "size": 1111
+    },
+    {
+      "name": "me/cortex/voxy/common/config/storage/rocksdb/RocksDBStorageBackend.class",
+      "source": "me/cortex/voxy/common/config/storage/rocksdb/RocksDBStorageBackend.class",
+      "sha256": "41df4b2d911a59efe29869e945546a05106946f93a177b98207315bcbb8e6b14",
+      "size": 11316
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/",
+      "source": "me/cortex/voxy/common/thread/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/MultiThreadPrioritySemaphore$Block.class",
+      "source": "me/cortex/voxy/common/thread/MultiThreadPrioritySemaphore$Block.class",
+      "sha256": "ce5cafb923ddd2dd216bc1b5ec8713854ac5b042cd8d751c9ecc7dd60de8ff38",
+      "size": 1888
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/MultiThreadPrioritySemaphore.class",
+      "source": "me/cortex/voxy/common/thread/MultiThreadPrioritySemaphore.class",
+      "sha256": "9e4ef2f43af6733481adc9e91d124c7baefb795140b23730ccc53fe68b3cb850",
+      "size": 2822
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/PerThreadContextExecutor$ThreadContext.class",
+      "source": "me/cortex/voxy/common/thread/PerThreadContextExecutor$ThreadContext.class",
+      "sha256": "9518703d9820e926e1b05459cc31a5003e69278050b1315dea67026071af278e",
+      "size": 1197
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/PerThreadContextExecutor$ThreadObj.class",
+      "source": "me/cortex/voxy/common/thread/PerThreadContextExecutor$ThreadObj.class",
+      "sha256": "3d94f226a43259341172da6fd3dd681c72fba9a66d398af93225cf3b5ed2100d",
+      "size": 2039
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/PerThreadContextExecutor.class",
+      "source": "me/cortex/voxy/common/thread/PerThreadContextExecutor.class",
+      "sha256": "00b22c0a3422ffaa962b7cdfa6c157e8b177fb28a2c61ef1fb6381b4f7ab7498",
+      "size": 9113
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/Service.class",
+      "source": "me/cortex/voxy/common/thread/Service.class",
+      "sha256": "128a931fae0ca934dab126f45cb91c95437855ab9a0aeacbc7892781b6d766ab",
+      "size": 4359
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/ServiceManager$ThreadCtx.class",
+      "source": "me/cortex/voxy/common/thread/ServiceManager$ThreadCtx.class",
+      "sha256": "105a52c5e12b0744d927c74974dbabfcadae2fa1f2ce54e9df080318ec743059",
+      "size": 836
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/ServiceManager.class",
+      "source": "me/cortex/voxy/common/thread/ServiceManager.class",
+      "sha256": "f5fc1cc9aad6c13a0da3715565d0df57db4398baf2a2051b34e7d7fed9ed4b1f",
+      "size": 8532
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/UnifiedServiceThreadPool.class",
+      "source": "me/cortex/voxy/common/thread/UnifiedServiceThreadPool.class",
+      "sha256": "37102df24176829dddca9a0626bae75d27aa9026bfc2b9e15f6602e0ae6b8ffc",
+      "size": 6828
+    },
+    {
+      "name": "me/cortex/voxy/common/thread/WeakConcurrentCleanableHashMap.class",
+      "source": "me/cortex/voxy/common/thread/WeakConcurrentCleanableHashMap.class",
+      "sha256": "b9bece12f605fa52d9ba867f716cbf33f827123196086aa316d57a123edfb0dc",
+      "size": 5452
+    },
+    {
+      "name": "me/cortex/voxy/common/util/",
+      "source": "me/cortex/voxy/common/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/util/AllocationArena.class",
+      "source": "me/cortex/voxy/common/util/AllocationArena.class",
+      "sha256": "fe04f7caa0db00b8559883931903e700c03c1be4b377628d5028a4e9e18e6cd6",
+      "size": 4947
+    },
+    {
+      "name": "me/cortex/voxy/common/util/ByteBufferBackedInputStream.class",
+      "source": "me/cortex/voxy/common/util/ByteBufferBackedInputStream.class",
+      "sha256": "05a1a696e77fb25c7289c97d5172391236c038b17c545c09a55449fd116a1a64",
+      "size": 1016
+    },
+    {
+      "name": "me/cortex/voxy/common/util/GlobalCleaner.class",
+      "source": "me/cortex/voxy/common/util/GlobalCleaner.class",
+      "sha256": "305ada043b0d02068892ed4602d35a585cb8f49cc01ba1ac64145f15462df24d",
+      "size": 502
+    },
+    {
+      "name": "me/cortex/voxy/common/util/HierarchicalBitSet.class",
+      "source": "me/cortex/voxy/common/util/HierarchicalBitSet.class",
+      "sha256": "6a2404d440aa3c4134b71172452b44c16a1bf4ec6f3c2c1edb066144487849c8",
+      "size": 6297
+    },
+    {
+      "name": "me/cortex/voxy/common/util/MemoryBuffer.class",
+      "source": "me/cortex/voxy/common/util/MemoryBuffer.class",
+      "sha256": "f315c677fc4b98f9721277c236e686307ee44714eeebdf9a35a2b6a0a2032f20",
+      "size": 3781
+    },
+    {
+      "name": "me/cortex/voxy/common/util/Pair.class",
+      "source": "me/cortex/voxy/common/util/Pair.class",
+      "sha256": "a7bffefb1402857b10c20a6d37e4ffba7a57d631544edc185b6abcfb46a20a7f",
+      "size": 1914
+    },
+    {
+      "name": "me/cortex/voxy/common/util/ResizingThreadLocalMemoryBuffer.class",
+      "source": "me/cortex/voxy/common/util/ResizingThreadLocalMemoryBuffer.class",
+      "sha256": "141853ebb2537bc43de4db0d97210924bca7af5a53a97f658027fbfe3c910019",
+      "size": 3271
+    },
+    {
+      "name": "me/cortex/voxy/common/util/ThreadLocalMemoryBuffer.class",
+      "source": "me/cortex/voxy/common/util/ThreadLocalMemoryBuffer.class",
+      "sha256": "03307e614964dd1f7d03690172399bb8a812260e4aa615d8b4759b7d750024a6",
+      "size": 2371
+    },
+    {
+      "name": "me/cortex/voxy/common/util/ThreadUtils.class",
+      "source": "me/cortex/voxy/common/util/ThreadUtils.class",
+      "sha256": "eaebd2669b2c4273db741b0f7eb7d538e9175137cb3eacb8502b4a22fa96eab6",
+      "size": 3811
+    },
+    {
+      "name": "me/cortex/voxy/common/util/TrackedObject$Ref.class",
+      "source": "me/cortex/voxy/common/util/TrackedObject$Ref.class",
+      "sha256": "73efc1d7529968a97a478060d00821fd52f4db90c9e607dc59aa323007d08656",
+      "size": 1853
+    },
+    {
+      "name": "me/cortex/voxy/common/util/TrackedObject$TrackedObjectObject.class",
+      "source": "me/cortex/voxy/common/util/TrackedObject$TrackedObjectObject.class",
+      "sha256": "eeecbf60061525c6fa9675af0ddb13e10d9763819c05c16825737af2a151c3d7",
+      "size": 639
+    },
+    {
+      "name": "me/cortex/voxy/common/util/TrackedObject.class",
+      "source": "me/cortex/voxy/common/util/TrackedObject.class",
+      "sha256": "78ef4dd44a49172b4b6d2595863bd0627fcd22b39f1664500b4ab755882f7c58",
+      "size": 4389
+    },
+    {
+      "name": "me/cortex/voxy/common/util/UnsafeUtil.class",
+      "source": "me/cortex/voxy/common/util/UnsafeUtil.class",
+      "sha256": "cc8d6b14f9dc91bc8dedd459b6736667c54e7de8634eb87484b19faa549e4bbe",
+      "size": 4194
+    },
+    {
+      "name": "me/cortex/voxy/common/util/cpu/",
+      "source": "me/cortex/voxy/common/util/cpu/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/util/cpu/CpuLayout$Affinity.class",
+      "source": "me/cortex/voxy/common/util/cpu/CpuLayout$Affinity.class",
+      "sha256": "ace234d297a8c82670d134b8691997c6449fea525c20385276cc0fac766ee4df",
+      "size": 1678
+    },
+    {
+      "name": "me/cortex/voxy/common/util/cpu/CpuLayout$Core.class",
+      "source": "me/cortex/voxy/common/util/cpu/CpuLayout$Core.class",
+      "sha256": "9654e908e7d2ffba46f0770bcc1daff6d60c6e22a07eb0537b1b9b1c11e6cb5a",
+      "size": 1902
+    },
+    {
+      "name": "me/cortex/voxy/common/util/cpu/CpuLayout.class",
+      "source": "me/cortex/voxy/common/util/cpu/CpuLayout.class",
+      "sha256": "28a4b7177044f11d10514fbcd58a105263e8a6b06a09f81e4833512ff437d991",
+      "size": 9400
+    },
+    {
+      "name": "me/cortex/voxy/common/voxelization/",
+      "source": "me/cortex/voxy/common/voxelization/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/voxelization/ILightingSupplier.class",
+      "source": "me/cortex/voxy/common/voxelization/ILightingSupplier.class",
+      "sha256": "0acb4899461871cc47cb39f9ab9d275db2c47736b8b8d8092906031dbe87a3a6",
+      "size": 176
+    },
+    {
+      "name": "me/cortex/voxy/common/voxelization/VoxelizedSection.class",
+      "source": "me/cortex/voxy/common/voxelization/VoxelizedSection.class",
+      "sha256": "75574941ebe559059870783532ca00d547249dac30b7145e72abe559bbc29519",
+      "size": 1752
+    },
+    {
+      "name": "me/cortex/voxy/common/voxelization/WorldConversionFactory$Cache.class",
+      "source": "me/cortex/voxy/common/voxelization/WorldConversionFactory$Cache.class",
+      "sha256": "daa945e93d298b05323bee0b53545a33683f14c4616f95111c7b62c5b8c088dc",
+      "size": 2301
+    },
+    {
+      "name": "me/cortex/voxy/common/voxelization/WorldConversionFactory.class",
+      "source": "me/cortex/voxy/common/voxelization/WorldConversionFactory.class",
+      "sha256": "ffef5b1e755fe5a9ab6b7546432f7aabae761eb43ce2522354cb254783775e0d",
+      "size": 11849
+    },
+    {
+      "name": "me/cortex/voxy/common/voxelization/WorldVoxilizedSectionMipper.class",
+      "source": "me/cortex/voxy/common/voxelization/WorldVoxilizedSectionMipper.class",
+      "sha256": "d5ee9ba234670643803f9c43e9d4d1adca3495145c0c11697022449868bd0ff6",
+      "size": 2313
+    },
+    {
+      "name": "me/cortex/voxy/common/world/",
+      "source": "me/cortex/voxy/common/world/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/world/ActiveSectionTracker$SectionLoader.class",
+      "source": "me/cortex/voxy/common/world/ActiveSectionTracker$SectionLoader.class",
+      "sha256": "9f083572eaac0e41857cc6e70d9448f24ead5ffea5f29d920170457ab5d751a3",
+      "size": 346
+    },
+    {
+      "name": "me/cortex/voxy/common/world/ActiveSectionTracker$VolatileHolder.class",
+      "source": "me/cortex/voxy/common/world/ActiveSectionTracker$VolatileHolder.class",
+      "sha256": "542fa8bfa115b39e02c90e253b2f4ce7e2cc0a2fd1a32f645a4ad219b5dbed09",
+      "size": 1633
+    },
+    {
+      "name": "me/cortex/voxy/common/world/ActiveSectionTracker.class",
+      "source": "me/cortex/voxy/common/world/ActiveSectionTracker.class",
+      "sha256": "915711b4a7913d0583cae5d7116cd4298ddb62f1f42cbc6625e00be302d91d8f",
+      "size": 11647
+    },
+    {
+      "name": "me/cortex/voxy/common/world/SaveLoadSystem3$SerializationCache.class",
+      "source": "me/cortex/voxy/common/world/SaveLoadSystem3$SerializationCache.class",
+      "sha256": "aa6a91fb51362278fa2e07e74a4e4761e55b41ebee84a6b3f95e827415388318",
+      "size": 2452
+    },
+    {
+      "name": "me/cortex/voxy/common/world/SaveLoadSystem3.class",
+      "source": "me/cortex/voxy/common/world/SaveLoadSystem3.class",
+      "sha256": "ef0bcbf171d0c3696dad13231f125cc7fab343a855c9900e0b01afae374609fa",
+      "size": 5003
+    },
+    {
+      "name": "me/cortex/voxy/common/world/WorldEngine$ISectionChangeCallback.class",
+      "source": "me/cortex/voxy/common/world/WorldEngine$ISectionChangeCallback.class",
+      "sha256": "5b1af4881a28fda23fc3082f0540b5f51fc20ff05f9f94b5b62989873d704e6b",
+      "size": 341
+    },
+    {
+      "name": "me/cortex/voxy/common/world/WorldEngine$ISectionSaveCallback.class",
+      "source": "me/cortex/voxy/common/world/WorldEngine$ISectionSaveCallback.class",
+      "sha256": "0284de4e62085527f256cf3f74d6a1d7c1d2a96f9b362fa5296afe67d5fec3fc",
+      "size": 376
+    },
+    {
+      "name": "me/cortex/voxy/common/world/WorldEngine.class",
+      "source": "me/cortex/voxy/common/world/WorldEngine.class",
+      "sha256": "3182f22eaf44037ed3cf99a482327aa43b20dab030a8430b2f7f2da2bc453a10",
+      "size": 9087
+    },
+    {
+      "name": "me/cortex/voxy/common/world/WorldSection.class",
+      "source": "me/cortex/voxy/common/world/WorldSection.class",
+      "sha256": "0b7a512a2931eecd719b116fc8afc78c1ab142d6e59100dc60f40ef40fe7ecd2",
+      "size": 9750
+    },
+    {
+      "name": "me/cortex/voxy/common/world/WorldUpdater.class",
+      "source": "me/cortex/voxy/common/world/WorldUpdater.class",
+      "sha256": "62c2d3afe3b091bf6bd67b84938e8ca8b481f4a26fefc6a930deb9e74add2ef3",
+      "size": 4645
+    },
+    {
+      "name": "me/cortex/voxy/common/world/other/",
+      "source": "me/cortex/voxy/common/world/other/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/world/other/Mapper$BiomeEntry.class",
+      "source": "me/cortex/voxy/common/world/other/Mapper$BiomeEntry.class",
+      "sha256": "6362304a44ffbc188f3ae7eddb36a5cf3e638bba07d5e9f1ff7a834e4b231d8c",
+      "size": 2240
+    },
+    {
+      "name": "me/cortex/voxy/common/world/other/Mapper$StateEntry.class",
+      "source": "me/cortex/voxy/common/world/other/Mapper$StateEntry.class",
+      "sha256": "6336a28f26ec1c8819336902d93081f8d7e791e3f06c1fafa783f8daca8f3e8e",
+      "size": 5829
+    },
+    {
+      "name": "me/cortex/voxy/common/world/other/Mapper.class",
+      "source": "me/cortex/voxy/common/world/other/Mapper.class",
+      "sha256": "f7586c4d5a8d810e19b713718a808b353383dd9afaccefb1ca937105c3b5fc91",
+      "size": 15958
+    },
+    {
+      "name": "me/cortex/voxy/common/world/other/Mipper.class",
+      "source": "me/cortex/voxy/common/world/other/Mipper.class",
+      "sha256": "9d4f78eccd042ee7e86edc474544ea7a3608aa07f354fbedbbf232c2c6681391",
+      "size": 2130
+    },
+    {
+      "name": "me/cortex/voxy/common/world/service/",
+      "source": "me/cortex/voxy/common/world/service/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/common/world/service/SectionSavingService$SaveEntry.class",
+      "source": "me/cortex/voxy/common/world/service/SectionSavingService$SaveEntry.class",
+      "sha256": "cd7e5b731c36c7c2461c83cff85d3a63f9d58aa6124da723b207e1940103aebd",
+      "size": 2044
+    },
+    {
+      "name": "me/cortex/voxy/common/world/service/SectionSavingService.class",
+      "source": "me/cortex/voxy/common/world/service/SectionSavingService.class",
+      "sha256": "c924b297712448e21d13cd98d7f83f82f1fe497e15cb246960d780fa154771e0",
+      "size": 4571
+    },
+    {
+      "name": "me/cortex/voxy/common/world/service/VoxelIngestService$IngestSection.class",
+      "source": "me/cortex/voxy/common/world/service/VoxelIngestService$IngestSection.class",
+      "sha256": "a2561e6faa8a0a38dc3a727590fc92f94a726f4543f9d9c27e8a7d6d3dfb0a45",
+      "size": 2888
+    },
+    {
+      "name": "me/cortex/voxy/common/world/service/VoxelIngestService.class",
+      "source": "me/cortex/voxy/common/world/service/VoxelIngestService.class",
+      "sha256": "2df55927019dbe440d4605e7d2aa9c6c4aec1f3aca167ec61ad936735bb3f0e5",
+      "size": 13380
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/",
+      "source": "me/cortex/voxy/commonImpl/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/DontCreateInstance.class",
+      "source": "me/cortex/voxy/commonImpl/DontCreateInstance.class",
+      "sha256": "c5a4206bafcf20b51e8b122470bffb0397420f2972c3452bc85908094d0dfe32",
+      "size": 341
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/IWorldGetIdentifier.class",
+      "source": "me/cortex/voxy/commonImpl/IWorldGetIdentifier.class",
+      "sha256": "8afc13513871c9edf44cec18771f1ecfb2e4649e2205c401151840f9cdbf6c4e",
+      "size": 222
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/ImportManager$ImportTask.class",
+      "source": "me/cortex/voxy/commonImpl/ImportManager$ImportTask.class",
+      "sha256": "4564f233f68e06de3f24704b3b32edae1db27b5d96ded0f6b5689547b2b55dfc",
+      "size": 2988
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/ImportManager.class",
+      "source": "me/cortex/voxy/commonImpl/ImportManager.class",
+      "sha256": "86e0ab398d3227f4217b2eb8e2453d25d5fd42052f346a5c463d9e3075760bf5",
+      "size": 3489
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/VoxyCommon$IInstanceFactory.class",
+      "source": "me/cortex/voxy/commonImpl/VoxyCommon$IInstanceFactory.class",
+      "sha256": "e4fa79a216de3e34e97b19ffae8ef1741cc681fd5b470b22953c7fbcca67837c",
+      "size": 317
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/VoxyCommon.class",
+      "source": "me/cortex/voxy/commonImpl/VoxyCommon.class",
+      "sha256": "93ff02634c6a0209a10f9e0604a1fd1f31cbf47fa422d0f875e5cb37cf8fd422",
+      "size": 4557
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/VoxyInstance.class",
+      "source": "me/cortex/voxy/commonImpl/VoxyInstance.class",
+      "sha256": "59f4e61c8531edc1eb6309affa241eef0d1765e75fe284a86c39b1bedae4d403",
+      "size": 12141
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/WorldIdentifier$GsonAdapter.class",
+      "source": "me/cortex/voxy/commonImpl/WorldIdentifier$GsonAdapter.class",
+      "sha256": "1e4c04b1f16c5cf316b92183a7a396242f5946c4f3e3485a358908581851dd38",
+      "size": 3532
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/WorldIdentifier.class",
+      "source": "me/cortex/voxy/commonImpl/WorldIdentifier.class",
+      "sha256": "9e29832e0bb543bdc62429b4f12aab55dc32db7348a0c32df4a653f695ddd93e",
+      "size": 7545
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/",
+      "source": "me/cortex/voxy/commonImpl/importers/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/DHImporter$Task.class",
+      "source": "me/cortex/voxy/commonImpl/importers/DHImporter$Task.class",
+      "sha256": "2378f3a742c8c46faee3129b25e4c36db9bf82fc5c9824a155a83404bc2aa7d6",
+      "size": 2027
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/DHImporter$WorkCTX.class",
+      "source": "me/cortex/voxy/commonImpl/importers/DHImporter$WorkCTX.class",
+      "sha256": "95cd7ed7d8391c28766b15d5073ff7cd9dee30e3b8e8bb800a37f489675d4b34",
+      "size": 1594
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/DHImporter.class",
+      "source": "me/cortex/voxy/commonImpl/importers/DHImporter.class",
+      "sha256": "13bc91ac46b3f87056b957a19bbeb8bc9464715fcc9bc51beb16f94982d2ef3d",
+      "size": 23267
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/IDataImporter$ICompletionCallback.class",
+      "source": "me/cortex/voxy/commonImpl/importers/IDataImporter$ICompletionCallback.class",
+      "sha256": "70fb61123eb45ff6b00ce986789b882bedc46fbcc8d53e9521346bbb0c7ebe72",
+      "size": 320
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/IDataImporter$IUpdateCallback.class",
+      "source": "me/cortex/voxy/commonImpl/importers/IDataImporter$IUpdateCallback.class",
+      "sha256": "d0bd2b13b7015ecc21adc8f0636a5cbf03140df5849a4786dc181857b85a5b5b",
+      "size": 309
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/IDataImporter.class",
+      "source": "me/cortex/voxy/commonImpl/importers/IDataImporter.class",
+      "sha256": "9f8a11a9201b7d26a4b30e3011be85550b690acc33ba3a6b2f320b5ceaea3655",
+      "size": 675
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/WorldImporter$1.class",
+      "source": "me/cortex/voxy/commonImpl/importers/WorldImporter$1.class",
+      "sha256": "7a6b4e737c60ffa5c7718fb5249e4d31c55252f6fa74f03f806d2eeb06af65e6",
+      "size": 4909
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/WorldImporter$2.class",
+      "source": "me/cortex/voxy/commonImpl/importers/WorldImporter$2.class",
+      "sha256": "d75ec0fae596cccd28d71cea46bb9eb2866626683cee04f1918398bdba2dab41",
+      "size": 1395
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/WorldImporter$IImporterMethod.class",
+      "source": "me/cortex/voxy/commonImpl/importers/WorldImporter$IImporterMethod.class",
+      "sha256": "326f1bedd24728359d3df13d30e7e581ccba539cc1162ad420597529fabff946",
+      "size": 457
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/importers/WorldImporter.class",
+      "source": "me/cortex/voxy/commonImpl/importers/WorldImporter.class",
+      "sha256": "318711390bf9dcc538b790c1f999b5663de10fb66069ca878d2379f5b5dad963",
+      "size": 25686
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/mixin/",
+      "source": "me/cortex/voxy/commonImpl/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/mixin/chunky/",
+      "source": "me/cortex/voxy/commonImpl/mixin/chunky/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/mixin/chunky/MixinFabricWorld.class",
+      "source": "me/cortex/voxy/commonImpl/mixin/chunky/MixinFabricWorld.class",
+      "sha256": "c078cf5f397b4116858db38d14f51b0d5e80d9cff738bfa5010367fcd1fcb8e8",
+      "size": 4355
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/mixin/minecraft/",
+      "source": "me/cortex/voxy/commonImpl/mixin/minecraft/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/cortex/voxy/commonImpl/mixin/minecraft/MixinWorld.class",
+      "source": "me/cortex/voxy/commonImpl/mixin/minecraft/MixinWorld.class",
+      "sha256": "6d4cd7b60247c0f18658e96d0ebb5b533c381311d012747402371e1d21d1b659",
+      "size": 2932
+    },
+    {
+      "name": "client.voxy.mixins.json",
+      "source": "client.voxy.mixins.json",
+      "sha256": "dc951bb937dbfd868ea0ce3a4285ab39928eb891973d3c9a22abc827a2ee1a62",
+      "size": 1544
+    },
+    {
+      "name": "common.voxy.mixins.json",
+      "source": "common.voxy.mixins.json",
+      "sha256": "f9b44be7c07d23e728df8bc8a4cceb95d4b2d6746f825c44a98eecdf64854037",
+      "size": 283
+    },
+    {
+      "name": "fabric.mod.json",
+      "source": "fabric.mod.json",
+      "sha256": "9daccec90f421d6d7a71e9048155434a7fb3acce46aa83e8da2fbb8db2b0c5e9",
+      "size": 2055
+    },
+    {
+      "name": "voxy.accesswidener",
+      "source": "voxy.accesswidener",
+      "sha256": "3d912ebe979bb0a984d7ad73c347a386cafd0c7faaf2b844186389e4be563191",
+      "size": 1710
+    },
+    {
+      "name": "assets/",
+      "source": "assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/",
+      "source": "assets/voxy/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/icon.png",
+      "source": "assets/voxy/icon.png",
+      "sha256": "8d18c38b1088fecb4ed37e6557eee6c4eeaa9a30cdfbf9adbc515bba0a818370",
+      "size": 61710
+    },
+    {
+      "name": "assets/voxy/lang/",
+      "source": "assets/voxy/lang/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/lang/en_us.json",
+      "source": "assets/voxy/lang/en_us.json",
+      "sha256": "513bea2d726f7d834b43ad6be09e52e193edfeedf09824a4629e284a8541bb86",
+      "size": 2157
+    },
+    {
+      "name": "assets/voxy/shaders/",
+      "source": "assets/voxy/shaders/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/chunkoutline/",
+      "source": "assets/voxy/shaders/chunkoutline/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/chunkoutline/outline.fsh",
+      "source": "assets/voxy/shaders/chunkoutline/outline.fsh",
+      "sha256": "4dc32845939b24c83547c4e8974caff4d87bc1c12e94b97dedc1aff8dd250a81",
+      "size": 66
+    },
+    {
+      "name": "assets/voxy/shaders/chunkoutline/outline.vsh",
+      "source": "assets/voxy/shaders/chunkoutline/outline.vsh",
+      "sha256": "15190cf01d327115898c1c737a87945ef8ea9f6670fc8417f84daad1422b1d67",
+      "size": 1641
+    },
+    {
+      "name": "assets/voxy/shaders/hiz/",
+      "source": "assets/voxy/shaders/hiz/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/hiz/blit.fsh",
+      "source": "assets/voxy/shaders/hiz/blit.fsh",
+      "sha256": "ed556a64f1c603c2de585570a9056ff0d1f4b73c43cb7603d4e56a6e43f7fe87",
+      "size": 728
+    },
+    {
+      "name": "assets/voxy/shaders/hiz/blit.vsh",
+      "source": "assets/voxy/shaders/hiz/blit.vsh",
+      "sha256": "54e4e2f6701a5e602acd64bae50869cfad3f78ea29263147e815c8cf353a852d",
+      "size": 244
+    },
+    {
+      "name": "assets/voxy/shaders/hiz/hiz.comp",
+      "source": "assets/voxy/shaders/hiz/hiz.comp",
+      "sha256": "1304214a0397db12ad0c0c700686bcc8dbda4a90248dd880de98bdbed795de2c",
+      "size": 4103
+    },
+    {
+      "name": "assets/voxy/shaders/lod/",
+      "source": "assets/voxy/shaders/lod/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/block_model.glsl",
+      "source": "assets/voxy/shaders/lod/block_model.glsl",
+      "sha256": "3776a82e6f0660951c1dccf7835215027d367945bdeece608b1534441a8012f4",
+      "size": 1201
+    },
+    {
+      "name": "assets/voxy/shaders/lod/frustum.glsl",
+      "source": "assets/voxy/shaders/lod/frustum.glsl",
+      "sha256": "2ec9bf50437622858e23ea75586609119d9d95a1be58b40c7ce7930ddac7846c",
+      "size": 671
+    },
+    {
+      "name": "assets/voxy/shaders/lod/lighting.glsl",
+      "source": "assets/voxy/shaders/lod/lighting.glsl",
+      "sha256": "47fcb8b30cd822a401d4fde5d447b9565b5dc4cfc8dede4bb08dfaa7ca7fc7c3",
+      "size": 467
+    },
+    {
+      "name": "assets/voxy/shaders/lod/pos_util.glsl",
+      "source": "assets/voxy/shaders/lod/pos_util.glsl",
+      "sha256": "a444b9cd0fee530f9c35657d20fe2ec8dbe3d58fec082f12977529c3c4ca53be",
+      "size": 372
+    },
+    {
+      "name": "assets/voxy/shaders/lod/quad_format.glsl",
+      "source": "assets/voxy/shaders/lod/quad_format.glsl",
+      "sha256": "26f4dc6e0bba703ae3424ff2ba3d0dee94199b0df0c24908e44e8c4d18b12a11",
+      "size": 1957
+    },
+    {
+      "name": "assets/voxy/shaders/lod/quad_util.glsl",
+      "source": "assets/voxy/shaders/lod/quad_util.glsl",
+      "sha256": "0a02b19acea47ea9f66e52d7fc4b5f9f109796510a1ec8d0f15394a727c664f5",
+      "size": 5598
+    },
+    {
+      "name": "assets/voxy/shaders/lod/section.glsl",
+      "source": "assets/voxy/shaders/lod/section.glsl",
+      "sha256": "3403c36c45b0929f9f9dc7293b3bdef688ff384985622e8994a5af8d1103d762",
+      "size": 784
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/",
+      "source": "assets/voxy/shaders/lod/gl46/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/bindings.glsl",
+      "source": "assets/voxy/shaders/lod/gl46/bindings.glsl",
+      "sha256": "04727dcdf7a2fb6eab8a90109f4dd01eac17054bb4d65ab4902754d86abd6ae5",
+      "size": 2394
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/buildtranslucents.comp",
+      "source": "assets/voxy/shaders/lod/gl46/buildtranslucents.comp",
+      "sha256": "c086df86cdba4c6209c0785dba14670cfba146e63fe641d080ad786a5405904c",
+      "size": 1584
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/cmdgen.comp",
+      "source": "assets/voxy/shaders/lod/gl46/cmdgen.comp",
+      "sha256": "795000009bbcd8133aa199407ca68440debb0507d86bb067f237c8b1687d5cb0",
+      "size": 6686
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/prep.comp",
+      "source": "assets/voxy/shaders/lod/gl46/prep.comp",
+      "sha256": "a732f75225e8657f78607f2b90e8b80b660b301b307a5a4f400df63ab7e9a72a",
+      "size": 610
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/quads.frag",
+      "source": "assets/voxy/shaders/lod/gl46/quads.frag",
+      "sha256": "b43223a6efedc8b301b10c3b489ab76e2ae0a851f6a6b183589ef9952e9761c5",
+      "size": 7039
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/quads3.vert",
+      "source": "assets/voxy/shaders/lod/gl46/quads3.vert",
+      "sha256": "544669db1d715bd048fdece7783d321a0b30939a72acaee04a4b2f2c10327272",
+      "size": 1816
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/cull/",
+      "source": "assets/voxy/shaders/lod/gl46/cull/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/cull/raster.frag",
+      "source": "assets/voxy/shaders/lod/gl46/cull/raster.frag",
+      "sha256": "665d97570682bc922011c2252d17d41995706178e546a692a3614b9686cf1873",
+      "size": 392
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/cull/raster.vert",
+      "source": "assets/voxy/shaders/lod/gl46/cull/raster.vert",
+      "sha256": "7a44844d049f07a5db19b97d2063145aa87be51ccdbe4fa548143b8354a4da07",
+      "size": 1793
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/test/",
+      "source": "assets/voxy/shaders/lod/gl46/test/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/test/raw.frag",
+      "source": "assets/voxy/shaders/lod/gl46/test/raw.frag",
+      "sha256": "1ce7a7fadce1bed97a4332adfdb8530806684721a73a153e2d5c68311a80a35b",
+      "size": 230
+    },
+    {
+      "name": "assets/voxy/shaders/lod/gl46/test/raw.vert",
+      "source": "assets/voxy/shaders/lod/gl46/test/raw.vert",
+      "sha256": "1874214a98dd06f2b31484f781af99a6e2491d19287b5dd8948a60bb5abebcce",
+      "size": 2814
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/",
+      "source": "assets/voxy/shaders/lod/hierarchical/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/node.glsl",
+      "source": "assets/voxy/shaders/lod/hierarchical/node.glsl",
+      "sha256": "464e3ec25280ad05cf19068eb378961ef2d9c95eb019046bb8c2f024a331e403",
+      "size": 2596
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/queue.glsl",
+      "source": "assets/voxy/shaders/lod/hierarchical/queue.glsl",
+      "sha256": "abc1ab613350e76bbc081bd49f4ebcba58d48f29a051ef09fafa8ec8e5de7b7a",
+      "size": 1907
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/screenspace.glsl",
+      "source": "assets/voxy/shaders/lod/hierarchical/screenspace.glsl",
+      "sha256": "371676aa891a5a4876f5db1a75905da041cfdd3b88a6caaa795f154d793c8a54",
+      "size": 7064
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/traversal_dev.comp",
+      "source": "assets/voxy/shaders/lod/hierarchical/traversal_dev.comp",
+      "sha256": "272fba6e1e623a395342be1f418200d0e896fdab78776205064c79cebdf3c67c",
+      "size": 6501
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/cleaner/",
+      "source": "assets/voxy/shaders/lod/hierarchical/cleaner/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/cleaner/batch_visibility_set.comp",
+      "source": "assets/voxy/shaders/lod/hierarchical/cleaner/batch_visibility_set.comp",
+      "sha256": "f60e3af13db0cbe0e1843112af038751ca9e7b6e259c51e1b3dbbd812f8ce2b1",
+      "size": 563
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/cleaner/result_transformer.comp",
+      "source": "assets/voxy/shaders/lod/hierarchical/cleaner/result_transformer.comp",
+      "sha256": "5134f18357980f1eb72b94d4c1d71b59033a49d3153fc7a82f7c80d6e67fceba",
+      "size": 1154
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/cleaner/sort_visibility.comp",
+      "source": "assets/voxy/shaders/lod/hierarchical/cleaner/sort_visibility.comp",
+      "sha256": "a675e2fff58ea822336119ea5b71f46b3e1ef710ba75309d97d13b190fac4a96",
+      "size": 6515
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/debug/",
+      "source": "assets/voxy/shaders/lod/hierarchical/debug/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/debug/frag.frag",
+      "source": "assets/voxy/shaders/lod/hierarchical/debug/frag.frag",
+      "sha256": "ed9d94a487e1207104ca3278a6f992cd6845ca85d4cb140cece1c13fadd8153b",
+      "size": 136
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/debug/node_outline.vert",
+      "source": "assets/voxy/shaders/lod/hierarchical/debug/node_outline.vert",
+      "sha256": "1b86128fa26ee7fbab43ce144c6bc586cb7b4dea569555c96f739f3a64b8db2a",
+      "size": 1118
+    },
+    {
+      "name": "assets/voxy/shaders/lod/hierarchical/debug/setup.comp",
+      "source": "assets/voxy/shaders/lod/hierarchical/debug/setup.comp",
+      "sha256": "cd7a861df06c5d3177bbae03e0030a8ac877c1cf686195ebeceb7ea4c9670c1f",
+      "size": 465
+    },
+    {
+      "name": "assets/voxy/shaders/post/",
+      "source": "assets/voxy/shaders/post/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/post/blit_texture_cutout.frag",
+      "source": "assets/voxy/shaders/post/blit_texture_cutout.frag",
+      "sha256": "b86604e5b618667a5e22cc6c3dd765b486e6a9c914c1a1ddda31957524e82084",
+      "size": 173
+    },
+    {
+      "name": "assets/voxy/shaders/post/blit_texture_depth_cutout.frag",
+      "source": "assets/voxy/shaders/post/blit_texture_depth_cutout.frag",
+      "sha256": "afe91a7ee9d884b070fbcd5432c857d79d937a84198fc7afd0141040b2f2c2c9",
+      "size": 2101
+    },
+    {
+      "name": "assets/voxy/shaders/post/depth0.frag",
+      "source": "assets/voxy/shaders/post/depth0.frag",
+      "sha256": "c14ce471bdf6f31800985c30ca360a45d45f306120ee02593369802f4f1599ed",
+      "size": 151
+    },
+    {
+      "name": "assets/voxy/shaders/post/depth_copy.frag",
+      "source": "assets/voxy/shaders/post/depth_copy.frag",
+      "sha256": "084e5d58af833bd0f27e1771b9c6d86cb0667bedcc9789c4d40e3b82a0ed7b32",
+      "size": 198
+    },
+    {
+      "name": "assets/voxy/shaders/post/fullscreen.vert",
+      "source": "assets/voxy/shaders/post/fullscreen.vert",
+      "sha256": "660690b040a99b2a2c62a88a9bf151502cddcc52ec4af280d70ab23a5c41a46c",
+      "size": 225
+    },
+    {
+      "name": "assets/voxy/shaders/post/fullscreen2.vert",
+      "source": "assets/voxy/shaders/post/fullscreen2.vert",
+      "sha256": "98e956ea7650d8fb894388e40fe7ef1fbff440ff230ca5562740e467b1540bec",
+      "size": 197
+    },
+    {
+      "name": "assets/voxy/shaders/post/noop.frag",
+      "source": "assets/voxy/shaders/post/noop.frag",
+      "sha256": "25617c7a240d70ed79b7ad6752a408824b47475cf72bd44a314bab710be3dd5e",
+      "size": 90
+    },
+    {
+      "name": "assets/voxy/shaders/post/setup_stencil_depth.frag",
+      "source": "assets/voxy/shaders/post/setup_stencil_depth.frag",
+      "sha256": "d46b4dc0ca1053777bbbe66566342f633b684604991caeaace361ba8c7cdd59c",
+      "size": 279
+    },
+    {
+      "name": "assets/voxy/shaders/post/ssao.comp",
+      "source": "assets/voxy/shaders/post/ssao.comp",
+      "sha256": "32779f85964fcdc8b4b5bd040d19078b6df1be3b6dabc1088c9a42413db7eb45",
+      "size": 8011
+    },
+    {
+      "name": "assets/voxy/shaders/util/",
+      "source": "assets/voxy/shaders/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/util/depthutils.glsl",
+      "source": "assets/voxy/shaders/util/depthutils.glsl",
+      "sha256": "446e13b7d978f339576bdc8e2dd68235024d17effea9ea36461494bd1a6c9f1d",
+      "size": 1286
+    },
+    {
+      "name": "assets/voxy/shaders/util/memcpy.comp",
+      "source": "assets/voxy/shaders/util/memcpy.comp",
+      "sha256": "5417ff8f7a41247e7c74d64d8bee884f4b7c9cd8e12c9483deb4f0982589602c",
+      "size": 975
+    },
+    {
+      "name": "assets/voxy/shaders/util/scatter.comp",
+      "source": "assets/voxy/shaders/util/scatter.comp",
+      "sha256": "f4e4c0591f0e2ef7d387a2e2a9deefe796e7ff2d79742f6d3928310fb9b4e50c",
+      "size": 1241
+    },
+    {
+      "name": "assets/voxy/shaders/util/set.comp",
+      "source": "assets/voxy/shaders/util/set.comp",
+      "sha256": "6900e84a84035352d6e98162556da5211ca52a5ffa2f29804252faf8c338fcde",
+      "size": 536
+    },
+    {
+      "name": "assets/voxy/shaders/util/prefixsum/",
+      "source": "assets/voxy/shaders/util/prefixsum/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/voxy/shaders/util/prefixsum/inital3.comp",
+      "source": "assets/voxy/shaders/util/prefixsum/inital3.comp",
+      "sha256": "1635df404b52119f7ce91fc0148c50dd15a0d2131fa47e59d24df7da8428b9c1",
+      "size": 3479
+    },
+    {
+      "name": "assets/voxy/shaders/util/prefixsum/simple.comp",
+      "source": "assets/voxy/shaders/util/prefixsum/simple.comp",
+      "sha256": "a139b9ef6a3e549649336fe9e04e8a96adcddecf8f091140368daba4c1d1fc9e",
+      "size": 1070
+    },
+    {
+      "name": "META-INF/jars/",
+      "source": "META-INF/jars/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/jars/commons-pool2-2.12.0.jar",
+      "source": "META-INF/jars/commons-pool2-2.12.0.jar",
+      "sha256": "20d4f943a6d018b0e3c62ede84ce89a785e34ceb5d0155789c3e61f6e78a2c8d",
+      "size": 152530
+    },
+    {
+      "name": "META-INF/jars/dummyprovider.jar",
+      "source": "META-INF/jars/dummyprovider.jar",
+      "sha256": "ae909ecee8656e820ed05341db2419e0a474cd4600f911001b1924164af66f07",
+      "size": 472
+    },
+    {
+      "name": "META-INF/jars/jedis-5.1.0.jar",
+      "source": "META-INF/jars/jedis-5.1.0.jar",
+      "sha256": "677988068e3b1f0ace8e47bd4478f1d2b3140f93d7fa18087fdc56e9ddcf60a4",
+      "size": 897708
+    },
+    {
+      "name": "META-INF/jars/lwjgl-lmdb-3.4.1-natives-linux.jar",
+      "source": "META-INF/jars/lwjgl-lmdb-3.4.1-natives-linux.jar",
+      "sha256": "0281b9f559ed50e49786e722fcc1fe0df4b9b50d1685fb9ff1624d24628649f5",
+      "size": 54068
+    },
+    {
+      "name": "META-INF/jars/lwjgl-lmdb-3.4.1-natives-windows.jar",
+      "source": "META-INF/jars/lwjgl-lmdb-3.4.1-natives-windows.jar",
+      "sha256": "ade650644bdec5c17e4d805beed5c3b0f3e5b4aecdf1e85521f61f65131f5d2e",
+      "size": 115049
+    },
+    {
+      "name": "META-INF/jars/lwjgl-lmdb-3.4.1.jar",
+      "source": "META-INF/jars/lwjgl-lmdb-3.4.1.jar",
+      "sha256": "5bed44b45df09490c6309850506f345bbbae74b985ec0c215d2e2453c3c2fd3f",
+      "size": 38549
+    },
+    {
+      "name": "META-INF/jars/lwjgl-zstd-3.4.1-natives-linux.jar",
+      "source": "META-INF/jars/lwjgl-zstd-3.4.1-natives-linux.jar",
+      "sha256": "b4b21b49020bb8737245f263c2559ec8a7cb8912af499cae6c8419511555af97",
+      "size": 350024
+    },
+    {
+      "name": "META-INF/jars/lwjgl-zstd-3.4.1-natives-windows.jar",
+      "source": "META-INF/jars/lwjgl-zstd-3.4.1-natives-windows.jar",
+      "sha256": "8eb5725e0ebee5fd6b5945bc86cd61898d50a4d02bdcd928575fdd75d8ad9b46",
+      "size": 262875
+    },
+    {
+      "name": "META-INF/jars/lwjgl-zstd-3.4.1.jar",
+      "source": "META-INF/jars/lwjgl-zstd-3.4.1.jar",
+      "sha256": "32cda10562bf1938c9b1493e37b91617d02b48427d70dd0c04889faa7d13581c",
+      "size": 89781
+    },
+    {
+      "name": "META-INF/jars/lz4-java-1.8.0.jar",
+      "source": "META-INF/jars/lz4-java-1.8.0.jar",
+      "sha256": "dd8b02512af33c0cf684f9b97fd5b893cd68739ce0fa7d231418df4198abab72",
+      "size": 683036
+    },
+    {
+      "name": "META-INF/jars/rocksdbjni-10.2.1.jar",
+      "source": "META-INF/jars/rocksdbjni-10.2.1.jar",
+      "sha256": "31d376b19babccbdaa909e2b6cb463da9c62072239d3d9153e7f018a1424e44e",
+      "size": 24500633
+    },
+    {
+      "name": "META-INF/jars/xz-1.10.jar",
+      "source": "META-INF/jars/xz-1.10.jar",
+      "sha256": "12b4b007e6ea54692fa986f242be7f7085a34a4b7c68d3b29071ca3ed2e84469",
+      "size": 170896
+    },
+    {
+      "name": "me/cortex/voxy/client/core/VoxyReloadDefer.class",
+      "source": null,
+      "sha256": "6b4e70f72f2227ace5ea5fea62a25e27f5b314335920404f416b16a4dedf960d",
+      "size": 1253,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAOAoAAgADBwAEDAAFAAYBABBqYXZhL2xhbmcvT2JqZWN0AQAGPGluaXQ+AQADKClWCQAIAAkHAAoMAAsADAEAKm1lL2NvcnRleC92b3h5L2NsaWVudC9jb3JlL1ZveHlSZWxvYWREZWZlcgEACGluUmVsb2FkAQABWgsADgAPBwAQDAARAAYBADJtZS9jb3J0ZXgvdm94eS9jbGllbnQvY29yZS9JVm94eVJlbmRlclN5c3RlbUhvbGRlcgEAE3ZveHkkY3JlYXRlUmVuZGVyZXIJABMAFAcAFQwAFgAMAQAobWUvY29ydGV4L3ZveHkvY2xpZW50L2NvcmUvdXRpbC9JcmlzVXRpbAEADklSSVNfSU5TVEFMTEVECgAYABkHABoMABsAHAEALm1lL2NvcnRleC92b3h5L2NsaWVudC9jb3JlL1ZveHlSZWxvYWREZWZlcklyaXMBABppcmlzV2lsbFJlbG9hZE9uRmlyc3RGcmFtZQEAAygpWgoAHgAfBwAgDAAhABwBACdtZS9jb3J0ZXgvdm94eS9jb21tb24vd29ybGQvV29ybGRFbmdpbmUBAAZpc0xpdmUKAB4AIwwAJAAGAQAKbWFya0FjdGl2ZQgAJgEAZFNraXBwaW5nIHN1cGVyc2VkZWQgVm94eSByZW5kZXIgc3lzdGVtIGJ1aWxkOiBuZXcgSXJpcyBwaXBlbGluZSByZWxvYWRzIHJlbmRlcmVycyBvbiBpdHMgZmlyc3QgZnJhbWUKACgAKQcAKgwAKwAsAQAcbWUvY29ydGV4L3ZveHkvY29tbW9uL0xvZ2dlcgEABGluZm8BACcoW0xqYXZhL2xhbmcvT2JqZWN0OylMamF2YS9sYW5nL1N0cmluZzsBAARDb2RlAQAPTGluZU51bWJlclRhYmxlAQAWY3JlYXRlUmVuZGVyZXJPblJlbG9hZAEANyhMbWUvY29ydGV4L3ZveHkvY2xpZW50L2NvcmUvSVZveHlSZW5kZXJTeXN0ZW1Ib2xkZXI7KVYBAA1TdGFja01hcFRhYmxlBwAzAQATamF2YS9sYW5nL1Rocm93YWJsZQEAC3Nob3VsZERlZmVyAQAsKExtZS9jb3J0ZXgvdm94eS9jb21tb24vd29ybGQvV29ybGRFbmdpbmU7KVoBAApTb3VyY2VGaWxlAQAUVm94eVJlbG9hZERlZmVyLmphdmEAMQAIAAIAAAABAAoACwAMAAAAAwACAAUABgABAC0AAAAhAAEAAQAAAAUqtwABsQAAAAEALgAAAAoAAgAAABMABAAUAAkALwAwAAEALQAAAHAAAQADAAAAHbIABzwEswAHKrkADQEAG7MAB6cACk0bswAHLL+xAAEACAAOABUAAAACAC4AAAAiAAgAAAAYAAQAGQAIABsADgAdABIAHgAVAB0AGgAeABwAHwAxAAAAEQAC/wAVAAIHAA4BAAEHADIGAAkANAA1AAEALQAAAHQABAABAAAANLIAB5kACbIAEpoABQOsuAAXmgAFA6wqxgAOKrYAHZkAByq2ACIEvQACWQMSJVO4ACdXBKwAAAACAC4AAAAiAAgAAAAjAAwAJAAOACYAFAAnABYAKQAhACoAJQAsADIALQAxAAAABgAEDAEHDgABADYAAAACADc="
+        }
+      ]
+    },
+    {
+      "name": "me/cortex/voxy/client/core/VoxyReloadDeferIris.class",
+      "source": null,
+      "sha256": "098fcd6c7d44ffcda3c0f2de094ec9aef903b68ec3f115b1d6ae5ac229adb926",
+      "size": 1837,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAVwoAAgADBwAEDAAFAAYBABBqYXZhL2xhbmcvT2JqZWN0AQAGPGluaXQ+AQADKClWCQAIAAkHAAoMAAsADAEALm1lL2NvcnRleC92b3h5L2NsaWVudC9jb3JlL1ZveHlSZWxvYWREZWZlcklyaXMBABVJTklUSUFMSVpFRF9CTE9DS19JRFMBABlMamF2YS9sYW5nL3JlZmxlY3QvRmllbGQ7CQAIAA4MAA8ADAEAEklTX1JFTkRFUklOR19XT1JMRAoAEQASBwATDAAUABUBABluZXQvaXJpc3NoYWRlcnMvaXJpcy9JcmlzAQASZ2V0UGlwZWxpbmVNYW5hZ2VyAQAxKClMbmV0L2lyaXNzaGFkZXJzL2lyaXMvcGlwZWxpbmUvUGlwZWxpbmVNYW5hZ2VyOwoAFwAYBwAZDAAaABsBAC1uZXQvaXJpc3NoYWRlcnMvaXJpcy9waXBlbGluZS9QaXBlbGluZU1hbmFnZXIBABNnZXRQaXBlbGluZU51bGxhYmxlAQA4KClMbmV0L2lyaXNzaGFkZXJzL2lyaXMvcGlwZWxpbmUvV29ybGRSZW5kZXJpbmdQaXBlbGluZTsHAB0BADNuZXQvaXJpc3NoYWRlcnMvaXJpcy9waXBlbGluZS9JcmlzUmVuZGVyaW5nUGlwZWxpbmUKAB8AIAcAIQwAIgAjAQAXamF2YS9sYW5nL3JlZmxlY3QvRmllbGQBAApnZXRCb29sZWFuAQAVKExqYXZhL2xhbmcvT2JqZWN0OylaBwAlAQATamF2YS9sYW5nL1Rocm93YWJsZQgAJwEAE2luaXRpYWxpemVkQmxvY2tJZHMKACkAKgcAKwwALAAtAQAPamF2YS9sYW5nL0NsYXNzAQAQZ2V0RGVjbGFyZWRGaWVsZAEALShMamF2YS9sYW5nL1N0cmluZzspTGphdmEvbGFuZy9yZWZsZWN0L0ZpZWxkOwgALwEAEGlzUmVuZGVyaW5nV29ybGQKAB8AMQwAMgAzAQAHZ2V0VHlwZQEAEygpTGphdmEvbGFuZy9DbGFzczsJADUANgcANwwAOAA5AQARamF2YS9sYW5nL0Jvb2xlYW4BAARUWVBFAQARTGphdmEvbGFuZy9DbGFzczsHADsBAB5qYXZhL2xhbmcvTm9TdWNoRmllbGRFeGNlcHRpb24IAD0BABZ1bmV4cGVjdGVkIGZpZWxkIHR5cGVzCgA6AD8MAAUAQAEAFShMamF2YS9sYW5nL1N0cmluZzspVgoAHwBCDABDAEQBAA1zZXRBY2Nlc3NpYmxlAQAEKFopVggARgEAY1ZveHkgcGVyZiBwYXRjaDogSXJpcyBwaXBlbGluZSBmaWVsZHMgbm90IGZvdW5kLCBkdXBsaWNhdGUgcmVuZGVyLXN5c3RlbSBidWlsZHMgd2lsbCBub3QgYmUgc2tpcHBlZAoASABJBwBKDABLAEwBABxtZS9jb3J0ZXgvdm94eS9jb21tb24vTG9nZ2VyAQAEd2FybgEAFihbTGphdmEvbGFuZy9PYmplY3Q7KVYBAARDb2RlAQAPTGluZU51bWJlclRhYmxlAQAaaXJpc1dpbGxSZWxvYWRPbkZpcnN0RnJhbWUBAAMoKVoBAA1TdGFja01hcFRhYmxlBwBTAQA0bmV0L2lyaXNzaGFkZXJzL2lyaXMvcGlwZWxpbmUvV29ybGRSZW5kZXJpbmdQaXBlbGluZQEACDxjbGluaXQ+AQAKU291cmNlRmlsZQEAGFZveHlSZWxvYWREZWZlcklyaXMuamF2YQAwAAgAAgAAAAIAGgALAAwAAAAaAA8ADAAAAAMAAgAFAAYAAQBNAAAAIQABAAEAAAAFKrcAAbEAAAABAE4AAAAKAAIAAAAiAAQAIwAIAE8AUAABAE0AAACcAAIAAQAAADuyAAfGAAmyAA3HAAUDrLgAELYAFksqwQAcmgAFA6yyAAcqtgAemgARsgANKrYAHpoABwSnAAQDrEsDrAACAA4AHQA4ACQAHgA3ADgAJAACAE4AAAAiAAgAAAAmAAwAJwAOACoAFQArABwALAAeAC4AOAAvADkAMABRAAAAFwAGDAH8AA8HAFIXQAH/AAAAAAABBwAkAAgAVAAGAAEATQAAANAABAADAAAAXQFLAUwSHBImtgAoSxIcEi62AChMKrYAMLIANKYADSu2ADCyADSlAA27ADpZEjy3AD6/KgS2AEErBLYAQacAGE0BSwFMBb0AAlkDEkVTWQQsU7gARyqzAAcrswANsQABAAQAPAA/ACQAAgBOAAAAQgAQAAAADwACABAABAASAAwAEwAUABQAKAAVADIAFwA3ABgAPAAdAD8AGQBAABoAQgAbAEQAHABUAB4AWAAfAFwAIABRAAAAEQAE/QAoBwAfBwAfCUwHACQUAAEAVQAAAAIAVg=="
+        }
+      ]
+    }
+  ]
+}

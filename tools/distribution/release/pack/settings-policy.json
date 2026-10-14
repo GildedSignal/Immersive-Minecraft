@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "description": "Settings and discovered mod-owned data migrate locally once. All ordinary fields are personal; only listed fields are pack-owned. Unknown paths need no importer code change.",
+  "enforced": [
+    {
+      "path": "config/c2me.toml",
+      "fields": [
+        "globalExecutorParallelism"
+      ],
+      "reason": "Reviewed four-worker contention limit; dimension comparison pending"
+    },
+    {
+      "path": "config/sodium-options.json",
+      "fields": [
+        "performance"
+      ],
+      "reason": "Retain the pack renderer performance settings"
+    },
+    {
+      "path": "config/entityculling.json",
+      "fields": [
+        "tickCulling",
+        "skipEntityCulling",
+        "skipBlockEntityCulling",
+        "blockEntityFrustumCulling",
+        "tracingDistance",
+        "sleepDelay",
+        "captureRate",
+        "hitboxLimit",
+        "debugMode"
+      ],
+      "reason": "Keep culling and bounded tracing enabled; user whitelists stay personal"
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "fields": [
+        "animationLODDistance",
+        "animationFrameSkipDuringIrisShadowPass",
+        "asmMaths",
+        "doubleChestAnimFix",
+        "logModelCreationData",
+        "logASM"
+      ],
+      "reason": "Retain animation tuning and confirmed chest correction"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "fields": [
+        "enhanced_batching",
+        "font_atlas_resizing",
+        "map_atlas_generation",
+        "skip_text_translucency_sorting",
+        "fast_text_lookup",
+        "avoid_redundant_framebuffer_switching",
+        "batch_animated_item_updates",
+        "experimental_disable_resource_pack_conflict_handling",
+        "debug_only_and_not_recommended_disable_mod_conflict_handling",
+        "debug_only_and_not_recommended_disable_hardware_conflict_handling"
+      ],
+      "reason": "Preserve batching and compatibility handling"
+    },
+    {
+      "path": "config/moreculling.toml",
+      "fields": [
+        "signTextCulling",
+        "rainCulling",
+        "useBlockStateCulling",
+        "useCustomItemFrameRenderer",
+        "itemFrameMapCulling",
+        "useItemFrameLOD",
+        "itemFrameLODRange",
+        "useItemFrame3FaceCulling",
+        "itemFrame3FaceCullingRange",
+        "paintingCulling"
+      ],
+      "reason": "Retain the selected culling budget; appearance and exclusions stay personal"
+    },
+    {
+      "path": "config/particlerain/config.json",
+      "fields": [
+        "perf",
+        "sound.rainVolume"
+      ],
+      "reason": "Keep particle budget and the diagnosed rain cancellation repair"
+    },
+    {
+      "path": "config/SoundPhysicsPerfected.json5",
+      "fields": [
+        "raysCast",
+        "raysBounced",
+        "reverb",
+        "debug"
+      ],
+      "reason": "User explicitly requires 320 rays, 12 bounces and reverb; debug stays off"
+    },
+    {
+      "path": "config/voxy-config.json",
+      "fields": [
+        "service_threads"
+      ],
+      "reason": "Preserve worker budget; map/render preferences stay personal"
+    },
+    {
+      "path": "config/fwa.json",
+      "fields": [
+        "chest_easing"
+      ],
+      "reason": "Confirmed repeated chest animation fix"
+    },
+    {
+      "path": "config/iris.properties",
+      "fields": [
+        "maxShadowRenderDistance"
+      ],
+      "reason": "Shadow-distance budget; selected shader stays personal"
+    }
+  ]
+}

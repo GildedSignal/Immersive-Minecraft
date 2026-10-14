@@ -12,7 +12,8 @@ This repository contains the launcher and preparation engine source, the exact d
 - [Vanilla protection manifest](tools/distribution/release/pack/manifest-vanilla.json)
 - [Editable addon and patch sources](customizations)
 - [Performance patch sources](performance-patches)
-- [Latest compatibility repairs and validation details](tools/three-bug-fixes/README.md)
+- [Latest compatibility repairs](tools/three-bug-fixes/README.md)
+- [Expanded UI coverage, comparisons and validation](docs/compatibility-validation.md)
 
 The full profile includes gameplay/content mods. Vanilla protection uses a separate save directory and a subset intended for vanilla worlds/servers. Discovery features such as Field Guide creature scanning need their server mod. On servers without Field Guide, the compatibility addon provides a personal journal saved on the player's computer. Neither profile guarantees a particular FPS.
 

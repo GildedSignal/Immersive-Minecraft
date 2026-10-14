@@ -1,0 +1,2314 @@
+[
+  {
+    "file": "opti_vi_tul/anim/enchant.png",
+    "size": [
+      16,
+      128
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        2,
+        0,
+        1,
+        2
+      ],
+      [
+        3,
+        0,
+        1,
+        2
+      ],
+      [
+        4,
+        0,
+        1,
+        2
+      ]
+    ],
+    "glyph": "\uec01"
+  },
+  {
+    "file": "opti_vi_tul/anim/compas.png",
+    "size": [
+      21,
+      231
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        2,
+        2
+      ],
+      [
+        2,
+        0,
+        2,
+        2
+      ],
+      [
+        3,
+        0,
+        2,
+        2
+      ],
+      [
+        4,
+        0,
+        2,
+        2
+      ]
+    ],
+    "glyph": "\uec02"
+  },
+  {
+    "file": "opti_vi_tul/anim/ender_eye.png",
+    "size": [
+      10,
+      90
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        3,
+        2
+      ],
+      [
+        2,
+        0,
+        3,
+        2
+      ],
+      [
+        3,
+        0,
+        3,
+        2
+      ],
+      [
+        4,
+        0,
+        3,
+        2
+      ]
+    ],
+    "glyph": "\uec03"
+  },
+  {
+    "file": "opti_vi_tul/anim/dropper/dropper.png",
+    "size": [
+      176,
+      231
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        4,
+        2
+      ],
+      [
+        2,
+        0,
+        4,
+        2
+      ],
+      [
+        3,
+        0,
+        4,
+        2
+      ],
+      [
+        4,
+        0,
+        4,
+        2
+      ]
+    ],
+    "glyph": "\uec04"
+  },
+  {
+    "file": "opti_vi_tul/anim/dropper/piston_1.png",
+    "size": [
+      16,
+      128
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        5,
+        2
+      ],
+      [
+        2,
+        0,
+        5,
+        2
+      ],
+      [
+        3,
+        0,
+        5,
+        2
+      ],
+      [
+        4,
+        0,
+        5,
+        2
+      ]
+    ],
+    "glyph": "\uec05"
+  },
+  {
+    "file": "opti_vi_tul/anim/dropper/piston_2.png",
+    "size": [
+      32,
+      48
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        6,
+        2
+      ],
+      [
+        2,
+        0,
+        6,
+        2
+      ],
+      [
+        3,
+        0,
+        6,
+        2
+      ],
+      [
+        4,
+        0,
+        6,
+        2
+      ]
+    ],
+    "glyph": "\uec06"
+  },
+  {
+    "file": "opti_vi_tul/anim/dispenser/dispenser.png",
+    "size": [
+      117,
+      231
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        7,
+        2
+      ],
+      [
+        2,
+        0,
+        7,
+        2
+      ],
+      [
+        3,
+        0,
+        7,
+        2
+      ],
+      [
+        4,
+        0,
+        7,
+        2
+      ]
+    ],
+    "glyph": "\uec07"
+  },
+  {
+    "file": "opti_vi_tul/anim/dispenser/dispenser_bow.png",
+    "size": [
+      59,
+      204
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        8,
+        2
+      ],
+      [
+        2,
+        0,
+        8,
+        2
+      ],
+      [
+        3,
+        0,
+        8,
+        2
+      ],
+      [
+        4,
+        0,
+        8,
+        2
+      ]
+    ],
+    "glyph": "\uec08"
+  },
+  {
+    "file": "opti_vi_tul/anim/anvil.png",
+    "size": [
+      23,
+      252
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        9,
+        2
+      ],
+      [
+        2,
+        0,
+        9,
+        2
+      ],
+      [
+        3,
+        0,
+        9,
+        2
+      ],
+      [
+        4,
+        0,
+        9,
+        2
+      ]
+    ],
+    "glyph": "\uec09"
+  },
+  {
+    "file": "opti_vi_tul/anim/smithing.png",
+    "size": [
+      23,
+      252
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        10,
+        2
+      ],
+      [
+        2,
+        0,
+        10,
+        2
+      ],
+      [
+        3,
+        0,
+        10,
+        2
+      ],
+      [
+        4,
+        0,
+        10,
+        2
+      ]
+    ],
+    "glyph": "\uec10"
+  },
+  {
+    "file": "opti_vi_tul/anim/sawblade.png",
+    "size": [
+      168,
+      134
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        11,
+        2
+      ],
+      [
+        2,
+        0,
+        11,
+        2
+      ],
+      [
+        3,
+        0,
+        11,
+        2
+      ],
+      [
+        4,
+        0,
+        11,
+        2
+      ]
+    ],
+    "glyph": "\uec11"
+  },
+  {
+    "file": "opti_vi_tul/gui/chests/barrel.png",
+    "size": [
+      176,
+      81
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea0b"
+  },
+  {
+    "file": "opti_vi_tul/gui/chests/ender.png",
+    "size": [
+      176,
+      81
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea0c"
+  },
+  {
+    "file": "opti_vi_tul/gui/horse/horse.png",
+    "size": [
+      173,
+      73
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea10"
+  },
+  {
+    "file": "opti_vi_tul/gui/horse/llama.png",
+    "size": [
+      173,
+      73
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea11"
+  },
+  {
+    "file": "opti_vi_tul/gui/horse/trader_llama.png",
+    "size": [
+      173,
+      73
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea12"
+  },
+  {
+    "file": "opti_vi_tul/gui/horse/saddle.png",
+    "size": [
+      173,
+      73
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea13"
+  },
+  {
+    "file": "opti_vi_tul/gui/horse/saddle_chest.png",
+    "size": [
+      173,
+      73
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea14"
+  },
+  {
+    "file": "opti_vi_tul/gui/minecart.png",
+    "size": [
+      192,
+      96
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea00"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/acacia.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea01"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/birch.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea02"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/cherry.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea03"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/dark_oak.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea04"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/jungle.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea05"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/mangrove.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea06"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/oak.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea07"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/pale_oak.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea08"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/spruce.png",
+    "size": [
+      192,
+      101
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea09"
+  },
+  {
+    "file": "opti_vi_tul/gui/chest_boat/bamboo.png",
+    "size": [
+      192,
+      96
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        3,
+        0,
+        0,
+        2
+      ],
+      [
+        4,
+        0,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea0a"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/black.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea20"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/blue.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea21"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/brown.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea22"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/cyan.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea23"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/gray.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea24"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/green.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea25"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/light_blue.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea26"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/light_gray.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea27"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/lime.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea28"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/magenta.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea29"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/orange.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea2a"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/pink.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea2b"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/purple.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea2c"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/red.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea2d"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/white.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea2e"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/yellow.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea2f"
+  },
+  {
+    "file": "opti_vi_tul/gui/shulker_box/zshulker.png",
+    "size": [
+      176,
+      88
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        2,
+        1,
+        0,
+        2
+      ],
+      [
+        3,
+        1,
+        0,
+        2
+      ],
+      [
+        4,
+        1,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea30"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/armorer.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea31"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/butcher.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea32"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/cartographer.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea33"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/cleric.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea34"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/farmer.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea35"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/fisherman.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea36"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/fletcher.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea37"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/leatherworker.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea38"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/librarian.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea39"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/mason.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea3a"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/shepherd.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea3b"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/toolsmith.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea3c"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/weaponsmith.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea3d"
+  },
+  {
+    "file": "opti_vi_tul/gui/villager/trader.png",
+    "size": [
+      38,
+      76
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        0,
+        2
+      ],
+      [
+        3,
+        2,
+        0,
+        2
+      ],
+      [
+        4,
+        2,
+        0,
+        2
+      ]
+    ],
+    "glyph": "\uea3e"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/armorer.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea3f"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/cartographer.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea40"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/default.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea41"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/farmer.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea42"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/fletcher.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea43"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/librarian.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea44"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/weaponsmith.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea45"
+  },
+  {
+    "file": "opti_vi_tul/anim/villager/trader.png",
+    "size": [
+      12,
+      35
+    ],
+    "cornerMarkers": [
+      [
+        1,
+        2,
+        12,
+        2
+      ],
+      [
+        2,
+        2,
+        12,
+        2
+      ],
+      [
+        3,
+        2,
+        12,
+        2
+      ],
+      [
+        4,
+        2,
+        12,
+        2
+      ]
+    ],
+    "glyph": "\uea46"
+  }
+]

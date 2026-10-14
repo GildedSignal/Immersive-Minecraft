@@ -1,0 +1,410 @@
+[
+  {
+    "name": "ui-00",
+    "label": "opti_vi_tul/anim/enchant.png",
+    "glyph": "\uec01",
+    "texture": "enchanting_table"
+  },
+  {
+    "name": "ui-01",
+    "label": "opti_vi_tul/anim/compas.png",
+    "glyph": "\uec02",
+    "texture": "cartography_table"
+  },
+  {
+    "name": "ui-02",
+    "label": "opti_vi_tul/anim/ender_eye.png",
+    "glyph": "\uec03",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-03",
+    "label": "opti_vi_tul/anim/dropper/dropper.png",
+    "glyph": "\uec04",
+    "texture": "dispenser"
+  },
+  {
+    "name": "ui-04",
+    "label": "opti_vi_tul/anim/dropper/piston_1.png",
+    "glyph": "\uec05",
+    "texture": "dispenser"
+  },
+  {
+    "name": "ui-05",
+    "label": "opti_vi_tul/anim/dropper/piston_2.png",
+    "glyph": "\uec06",
+    "texture": "dispenser"
+  },
+  {
+    "name": "ui-06",
+    "label": "opti_vi_tul/anim/dispenser/dispenser.png",
+    "glyph": "\uec07",
+    "texture": "dispenser"
+  },
+  {
+    "name": "ui-07",
+    "label": "opti_vi_tul/anim/dispenser/dispenser_bow.png",
+    "glyph": "\uec08",
+    "texture": "dispenser"
+  },
+  {
+    "name": "ui-08",
+    "label": "opti_vi_tul/anim/anvil.png",
+    "glyph": "\uec09",
+    "texture": "anvil"
+  },
+  {
+    "name": "ui-09",
+    "label": "opti_vi_tul/anim/smithing.png",
+    "glyph": "\uec10",
+    "texture": "smithing"
+  },
+  {
+    "name": "ui-10",
+    "label": "opti_vi_tul/anim/sawblade.png",
+    "glyph": "\uec11",
+    "texture": "stonecutter"
+  },
+  {
+    "name": "ui-11",
+    "label": "opti_vi_tul/gui/chests/barrel.png",
+    "glyph": "\uea0b",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-12",
+    "label": "opti_vi_tul/gui/chests/ender.png",
+    "glyph": "\uea0c",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-13",
+    "label": "opti_vi_tul/gui/horse/horse.png",
+    "glyph": "\uea10",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-14",
+    "label": "opti_vi_tul/gui/horse/llama.png",
+    "glyph": "\uea11",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-15",
+    "label": "opti_vi_tul/gui/horse/trader_llama.png",
+    "glyph": "\uea12",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-16",
+    "label": "opti_vi_tul/gui/horse/saddle.png",
+    "glyph": "\uea13",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-17",
+    "label": "opti_vi_tul/gui/horse/saddle_chest.png",
+    "glyph": "\uea14",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-18",
+    "label": "opti_vi_tul/gui/minecart.png",
+    "glyph": "\uea00",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-19",
+    "label": "opti_vi_tul/gui/chest_boat/acacia.png",
+    "glyph": "\uea01",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-20",
+    "label": "opti_vi_tul/gui/chest_boat/birch.png",
+    "glyph": "\uea02",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-21",
+    "label": "opti_vi_tul/gui/chest_boat/cherry.png",
+    "glyph": "\uea03",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-22",
+    "label": "opti_vi_tul/gui/chest_boat/dark_oak.png",
+    "glyph": "\uea04",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-23",
+    "label": "opti_vi_tul/gui/chest_boat/jungle.png",
+    "glyph": "\uea05",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-24",
+    "label": "opti_vi_tul/gui/chest_boat/mangrove.png",
+    "glyph": "\uea06",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-25",
+    "label": "opti_vi_tul/gui/chest_boat/oak.png",
+    "glyph": "\uea07",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-26",
+    "label": "opti_vi_tul/gui/chest_boat/pale_oak.png",
+    "glyph": "\uea08",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-27",
+    "label": "opti_vi_tul/gui/chest_boat/spruce.png",
+    "glyph": "\uea09",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-28",
+    "label": "opti_vi_tul/gui/chest_boat/bamboo.png",
+    "glyph": "\uea0a",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-29",
+    "label": "opti_vi_tul/gui/shulker_box/black.png",
+    "glyph": "\uea20",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-30",
+    "label": "opti_vi_tul/gui/shulker_box/blue.png",
+    "glyph": "\uea21",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-31",
+    "label": "opti_vi_tul/gui/shulker_box/brown.png",
+    "glyph": "\uea22",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-32",
+    "label": "opti_vi_tul/gui/shulker_box/cyan.png",
+    "glyph": "\uea23",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-33",
+    "label": "opti_vi_tul/gui/shulker_box/gray.png",
+    "glyph": "\uea24",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-34",
+    "label": "opti_vi_tul/gui/shulker_box/green.png",
+    "glyph": "\uea25",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-35",
+    "label": "opti_vi_tul/gui/shulker_box/light_blue.png",
+    "glyph": "\uea26",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-36",
+    "label": "opti_vi_tul/gui/shulker_box/light_gray.png",
+    "glyph": "\uea27",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-37",
+    "label": "opti_vi_tul/gui/shulker_box/lime.png",
+    "glyph": "\uea28",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-38",
+    "label": "opti_vi_tul/gui/shulker_box/magenta.png",
+    "glyph": "\uea29",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-39",
+    "label": "opti_vi_tul/gui/shulker_box/orange.png",
+    "glyph": "\uea2a",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-40",
+    "label": "opti_vi_tul/gui/shulker_box/pink.png",
+    "glyph": "\uea2b",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-41",
+    "label": "opti_vi_tul/gui/shulker_box/purple.png",
+    "glyph": "\uea2c",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-42",
+    "label": "opti_vi_tul/gui/shulker_box/red.png",
+    "glyph": "\uea2d",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-43",
+    "label": "opti_vi_tul/gui/shulker_box/white.png",
+    "glyph": "\uea2e",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-44",
+    "label": "opti_vi_tul/gui/shulker_box/yellow.png",
+    "glyph": "\uea2f",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-45",
+    "label": "opti_vi_tul/gui/shulker_box/zshulker.png",
+    "glyph": "\uea30",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-46",
+    "label": "opti_vi_tul/gui/villager/armorer.png",
+    "glyph": "\uea31",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-47",
+    "label": "opti_vi_tul/gui/villager/butcher.png",
+    "glyph": "\uea32",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-48",
+    "label": "opti_vi_tul/gui/villager/cartographer.png",
+    "glyph": "\uea33",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-49",
+    "label": "opti_vi_tul/gui/villager/cleric.png",
+    "glyph": "\uea34",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-50",
+    "label": "opti_vi_tul/gui/villager/farmer.png",
+    "glyph": "\uea35",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-51",
+    "label": "opti_vi_tul/gui/villager/fisherman.png",
+    "glyph": "\uea36",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-52",
+    "label": "opti_vi_tul/gui/villager/fletcher.png",
+    "glyph": "\uea37",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-53",
+    "label": "opti_vi_tul/gui/villager/leatherworker.png",
+    "glyph": "\uea38",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-54",
+    "label": "opti_vi_tul/gui/villager/librarian.png",
+    "glyph": "\uea39",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-55",
+    "label": "opti_vi_tul/gui/villager/mason.png",
+    "glyph": "\uea3a",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-56",
+    "label": "opti_vi_tul/gui/villager/shepherd.png",
+    "glyph": "\uea3b",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-57",
+    "label": "opti_vi_tul/gui/villager/toolsmith.png",
+    "glyph": "\uea3c",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-58",
+    "label": "opti_vi_tul/gui/villager/weaponsmith.png",
+    "glyph": "\uea3d",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-59",
+    "label": "opti_vi_tul/gui/villager/trader.png",
+    "glyph": "\uea3e",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-60",
+    "label": "opti_vi_tul/anim/villager/armorer.png",
+    "glyph": "\uea3f",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-61",
+    "label": "opti_vi_tul/anim/villager/cartographer.png",
+    "glyph": "\uea40",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-62",
+    "label": "opti_vi_tul/anim/villager/default.png",
+    "glyph": "\uea41",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-63",
+    "label": "opti_vi_tul/anim/villager/farmer.png",
+    "glyph": "\uea42",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-64",
+    "label": "opti_vi_tul/anim/villager/fletcher.png",
+    "glyph": "\uea43",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-65",
+    "label": "opti_vi_tul/anim/villager/librarian.png",
+    "glyph": "\uea44",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-66",
+    "label": "opti_vi_tul/anim/villager/weaponsmith.png",
+    "glyph": "\uea45",
+    "texture": "generic_54"
+  },
+  {
+    "name": "ui-67",
+    "label": "opti_vi_tul/anim/villager/trader.png",
+    "glyph": "\uea46",
+    "texture": "generic_54"
+  }
+]

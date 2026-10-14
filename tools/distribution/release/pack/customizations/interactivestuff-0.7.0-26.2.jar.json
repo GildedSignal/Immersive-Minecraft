@@ -1,0 +1,2161 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "name": "META-INF/",
+      "source": "META-INF/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "source": "META-INF/MANIFEST.MF",
+      "sha256": "a130e220145c3c84fd69012015f333b7a2e7546df91f21cd848fc651e27e065b",
+      "size": 46
+    },
+    {
+      "name": "omar/",
+      "source": "omar/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/",
+      "source": "omar/projects/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/",
+      "source": "omar/projects/interactivestuff/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/IS.class",
+      "source": "omar/projects/interactivestuff/IS.class",
+      "sha256": "27669b9f0278e7c1f01e37637190e8a163d5e35765ef934a33040b5ee1926eb2",
+      "size": 1659
+    },
+    {
+      "name": "omar/projects/interactivestuff/ISClient.class",
+      "source": "omar/projects/interactivestuff/ISClient.class",
+      "sha256": "c384cd6da0cfadffa6c4e4d1e88b431ad2dbb8358a2a8a4346417dbcc3166c19",
+      "size": 895
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/",
+      "source": "omar/projects/interactivestuff/handlers/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/BackgroundLoopHandler$BackgroundLoop.class",
+      "source": "omar/projects/interactivestuff/handlers/BackgroundLoopHandler$BackgroundLoop.class",
+      "sha256": "7ea82a4712f7c8c064204741e4dcb93eb9c9db7e40cd3391f9cd288bf2978401",
+      "size": 1530
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/BackgroundLoopHandler.class",
+      "source": "omar/projects/interactivestuff/handlers/BackgroundLoopHandler.class",
+      "sha256": "0874a8760dd6bf94d2d326a64051c5da967d841845b3f3d0c66cbac0237b141a",
+      "size": 4702
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/CameraVelocityAccessor.class",
+      "source": "omar/projects/interactivestuff/handlers/CameraVelocityAccessor.class",
+      "sha256": "56b6a3efae39a30a8131574f7e7da4ca86fe6ad00020254dff3eda05aa7e25e5",
+      "size": 257
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/InteractionHandler.class",
+      "source": "omar/projects/interactivestuff/handlers/InteractionHandler.class",
+      "sha256": "5b3c8b4c703a4a45fea33c92dc3ac9619e09e084ec5ee0abba534cd7bab1dd42",
+      "size": 5512
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/config/",
+      "source": "omar/projects/interactivestuff/handlers/config/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/config/ConfigHandler.class",
+      "source": "omar/projects/interactivestuff/handlers/config/ConfigHandler.class",
+      "sha256": "db4517eb74f6c2308f1eb8239bf0c1fd61acb1e07ad48b50b75678acde2061f1",
+      "size": 10496
+    },
+    {
+      "name": "omar/projects/interactivestuff/handlers/config/ModMenuIntegration.class",
+      "source": "omar/projects/interactivestuff/handlers/config/ModMenuIntegration.class",
+      "sha256": "367b778e3cd7821d211213b635e43f8f937d30e2c5b7679c3453154b3c7a126e",
+      "size": 30693
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/",
+      "source": "omar/projects/interactivestuff/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/client/",
+      "source": "omar/projects/interactivestuff/mixin/client/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/client/KeyboardMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/client/KeyboardMixin.class",
+      "sha256": "0c6b793b33b99020591df117edfc78d97c6a0c8a944661d694fb0cddb4b82da0",
+      "size": 1219
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/client/MinecraftClientMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/client/MinecraftClientMixin.class",
+      "sha256": "a040cf7b88193dcf7629d899e2b9482a8a2114f806b2468dd6e13e8c50bba3a0",
+      "size": 1124
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/player/",
+      "source": "omar/projects/interactivestuff/mixin/player/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/player/ArmSwingMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/player/ArmSwingMixin.class",
+      "sha256": "0e36e36eaf1abe9f3b8e44a636b08a98d9fdda51604740ca4a30b4ecacf43749",
+      "size": 1497
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/player/CameraMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/player/CameraMixin.class",
+      "sha256": "6c40af8d3f5cc5b9a34e9ddf1c061e1fe29fd6cc1369d17dedbd8332fd079be2",
+      "size": 2291
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/render/",
+      "source": "omar/projects/interactivestuff/mixin/render/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/render/GameRendererMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/render/GameRendererMixin.class",
+      "sha256": "83c5db99bcc550cfd15ad6a1c237e78bbc4e70a0380e21a18c4d1923fb16f146",
+      "size": 1603
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/render/HeldItemRendererMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/render/HeldItemRendererMixin.class",
+      "sha256": "9e99074cd40155af250d4b893f093a2f50031cc66b46b272232e674f898882db",
+      "size": 9535
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/render/InGameHudMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/render/InGameHudMixin.class",
+      "sha256": "cb76f6c016ea1e209eb7031a2afe9f542f90b4e27c0aef10003eed82be2cdd54",
+      "size": 2372
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/render/ItemRenderStateAccessor.class",
+      "source": "omar/projects/interactivestuff/mixin/render/ItemRenderStateAccessor.class",
+      "sha256": "3540625f963d9b068d7107dd6fad4a9d999c5a54495355eebeba6862d11d2ac4",
+      "size": 781
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/render/ItemRenderStateLayerAccessor.class",
+      "source": "omar/projects/interactivestuff/mixin/render/ItemRenderStateLayerAccessor.class",
+      "sha256": "dc15fadadbf7ec8ac24abb29bf611e2033d1a7e08936348c86ad66c0fe064087",
+      "size": 1013
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/sound/",
+      "source": "omar/projects/interactivestuff/mixin/sound/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/mixin/sound/SoundListenerMixin.class",
+      "source": "omar/projects/interactivestuff/mixin/sound/SoundListenerMixin.class",
+      "sha256": "02e6bed8c54ae72cd69487e45ddc1fa0bd388ad5834c268e0d133b3c4518cdfc",
+      "size": 3151
+    },
+    {
+      "name": "omar/projects/interactivestuff/objects/",
+      "source": "omar/projects/interactivestuff/objects/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/objects/InteractionMaterial$PitchEntry.class",
+      "source": "omar/projects/interactivestuff/objects/InteractionMaterial$PitchEntry.class",
+      "sha256": "8750167577ec7e462f8bf529d1287223b1efd2029b3535f6e8cf0798e5a9f046",
+      "size": 678
+    },
+    {
+      "name": "omar/projects/interactivestuff/objects/InteractionMaterial.class",
+      "source": "omar/projects/interactivestuff/objects/InteractionMaterial.class",
+      "sha256": "9ba9a58be3b250ec3b0218637d86e57ed1fc70b51dad5ab39537d05405bf1aa8",
+      "size": 2724
+    },
+    {
+      "name": "omar/projects/interactivestuff/objects/PivotRendererBlock.class",
+      "source": "omar/projects/interactivestuff/objects/PivotRendererBlock.class",
+      "sha256": "77a6150a2fdc4dc1c0042f49d520cb1f4c96d47706f3c0893903baf0adec1d9a",
+      "size": 1305
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/",
+      "source": "omar/projects/interactivestuff/scripts/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/ScriptInterpreter.class",
+      "source": "omar/projects/interactivestuff/scripts/ScriptInterpreter.class",
+      "sha256": "6f6bbb287e8aba674bb92fbda51a2712e76d11e697bdf3dd0ee9feb58cc70b80",
+      "size": 10994
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/ScriptLoader$1.class",
+      "source": "omar/projects/interactivestuff/scripts/ScriptLoader$1.class",
+      "sha256": "5e51c08a42c7b5497c84a99f558c3a725d0bc9f316ad5f3a54faf8478636bd39",
+      "size": 4731
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/ScriptLoader.class",
+      "source": "omar/projects/interactivestuff/scripts/ScriptLoader.class",
+      "sha256": "947c6546e0ad6c0210e8857f68a8cd86ed296307a754b8933c863cd4d05afe29",
+      "size": 928
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/Utilities/",
+      "source": "omar/projects/interactivestuff/scripts/Utilities/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/Utilities/ItemModelRenderRegistry.class",
+      "source": "omar/projects/interactivestuff/scripts/Utilities/ItemModelRenderRegistry.class",
+      "sha256": "3ed3e2754d781178e009a2372a7fa6da805750af34a9a7324dc0da6116b023ee",
+      "size": 740
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/Utilities/RenderTickHandler.class",
+      "source": "omar/projects/interactivestuff/scripts/Utilities/RenderTickHandler.class",
+      "sha256": "d3fd9af9e5d90a8b2d35d215f3b8dccfb74c0f1cbc9858593c7491e26af9b711",
+      "size": 468
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/Utilities/ScriptItemHandler.class",
+      "source": "omar/projects/interactivestuff/scripts/Utilities/ScriptItemHandler.class",
+      "sha256": "a023ecf9683427ef9729cea9170d9e9e3c38dbc99fa13daf8c6bf4ae57990ca0",
+      "size": 12164
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/exceptions/",
+      "source": "omar/projects/interactivestuff/scripts/exceptions/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/exceptions/DelayedScriptException.class",
+      "source": "omar/projects/interactivestuff/scripts/exceptions/DelayedScriptException.class",
+      "sha256": "cfd074260d96cd69b2c2db46ac4af2fea9f82d3f732af308e60fc50c62b65c05",
+      "size": 465
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/functions/",
+      "source": "omar/projects/interactivestuff/scripts/functions/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/functions/DebugText.class",
+      "source": "omar/projects/interactivestuff/scripts/functions/DebugText.class",
+      "sha256": "86dc4d90880a34028062fb30a6e7337ead2623744386c6189398b69420ea92c5",
+      "size": 2108
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/functions/ExcludeScript.class",
+      "source": "omar/projects/interactivestuff/scripts/functions/ExcludeScript.class",
+      "sha256": "c4f6ce7a6ab119a09aa9e9a13baf8e3c37dc52979fc61e411ddcba3e2f4b391a",
+      "size": 3371
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/functions/GetDelta.class",
+      "source": "omar/projects/interactivestuff/scripts/functions/GetDelta.class",
+      "sha256": "5ea6f8b29a91c66b1b64f7e65ab1b914e3831f38582b91d3b56b64f6a0601610",
+      "size": 1290
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/functions/ImportScript.class",
+      "source": "omar/projects/interactivestuff/scripts/functions/ImportScript.class",
+      "sha256": "f9a106e2d4af6cffd9b71be406e83c832642ffd82281a029309faa98810a9705",
+      "size": 3734
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/handlers/",
+      "source": "omar/projects/interactivestuff/scripts/handlers/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/handlers/DebugTextHandler.class",
+      "source": "omar/projects/interactivestuff/scripts/handlers/DebugTextHandler.class",
+      "sha256": "b215f523c7d920ef97cb101486b5a2ce6b82728b636625f9b204a13e52933391",
+      "size": 1249
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/handlers/WaitHandler.class",
+      "source": "omar/projects/interactivestuff/scripts/handlers/WaitHandler.class",
+      "sha256": "18a50b58abe89dc536502bee3346a728fcb3d1a5e016b6633fdb8d85b4a9e8a5",
+      "size": 1250
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/objects/",
+      "source": "omar/projects/interactivestuff/scripts/objects/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/objects/PackScripts.class",
+      "source": "omar/projects/interactivestuff/scripts/objects/PackScripts.class",
+      "sha256": "23020b55b60ce6553d636b3fd9bc261885ba2955a1e4c5fef1a5b8ebb69519c5",
+      "size": 2731
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/objects/Script$FunctionType.class",
+      "source": "omar/projects/interactivestuff/scripts/objects/Script$FunctionType.class",
+      "sha256": "cb7eca093ef6f654097cf41fcc083ec774060b3b5ba29af8adbb0f12091283cf",
+      "size": 1929
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/objects/Script$State.class",
+      "source": "omar/projects/interactivestuff/scripts/objects/Script$State.class",
+      "sha256": "cfc8dfe6f0c1db65e206bdaf07c335b7b70cfd2afa4a56987088bb70eaf2873e",
+      "size": 1502
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/objects/Script.class",
+      "source": "omar/projects/interactivestuff/scripts/objects/Script.class",
+      "sha256": "d364ccf503432d887b1f7277ea446c35e3e20506f83451ba30598efb8aca5123",
+      "size": 6254
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/statements/",
+      "source": "omar/projects/interactivestuff/scripts/statements/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/statements/WaitStatement.class",
+      "source": "omar/projects/interactivestuff/scripts/statements/WaitStatement.class",
+      "sha256": "690130a9f7b7f141ec64be435879ddb99065ecfdc97d8ba1a32fb602854cc66a",
+      "size": 2731
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/",
+      "source": "omar/projects/interactivestuff/scripts/variables/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/Block.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/Block.class",
+      "sha256": "3f804c64b24767daa80149f004b7e1e0a41e952155cf99c85f0ba1ff3fca8cba",
+      "size": 5380
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/InteractiveStuffConfig.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/InteractiveStuffConfig.class",
+      "sha256": "61274a57d1843471c5a5189d17df48e3857e906afac28f8b2883f5948fa7703e",
+      "size": 2090
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/ItemModel.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/ItemModel.class",
+      "sha256": "2439d61a6c18abda99977f3e41a402844f2c6a4476befe8e2bc841f061081766",
+      "size": 17911
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/Key.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/Key.class",
+      "sha256": "17d0bbf843ee22c014bfadc4e945f5969d92741b4ad472c51674d42974831dfc",
+      "size": 871
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/ModLoader.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/ModLoader.class",
+      "sha256": "7276145d5b24d6d3e33c0442620d7a0acf8c6b84b18c3de8f1ffad83409cc147",
+      "size": 2585
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/Player.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/Player.class",
+      "sha256": "a700e18d22a0f76fc894dd04859b449a3ff5b09a0c56cfd316f1cabd36d9af88",
+      "size": 22082
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/Position.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/Position.class",
+      "sha256": "a534d505ba49f8335c344f2565e32683662943120a9d4ab50b27d95f2035619f",
+      "size": 2325
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/Sound.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/Sound.class",
+      "sha256": "a97b4231d363da0cffd5d3ff4ff8c09464ed3eb62faca8ca486ea72f237ae63b",
+      "size": 2528
+    },
+    {
+      "name": "omar/projects/interactivestuff/scripts/variables/World.class",
+      "source": "omar/projects/interactivestuff/scripts/variables/World.class",
+      "sha256": "1359e9ba359c20d20139ec37d9826ec95c9b9a3fc76f97844758517102d21b34",
+      "size": 4650
+    },
+    {
+      "name": "default_config.json",
+      "source": "default_config.json",
+      "sha256": "1907247f87638863c9d6ca0d6023078113f502b64a90954cd0f0736c9ae62bfa",
+      "size": 57647
+    },
+    {
+      "name": "fabric.mod.json",
+      "source": "fabric.mod.json",
+      "sha256": "6c48a2ad55595df628da766398a2c64fec7e4401245391935025514866e436c8",
+      "size": 830
+    },
+    {
+      "name": "icon.png",
+      "source": "icon.png",
+      "sha256": "007873beb6997557e21922fbe4274d7fefec5a87f8378b43f1cca624a2cd3e11",
+      "size": 18932
+    },
+    {
+      "name": "interactivestuff.mixins.json",
+      "source": "interactivestuff.mixins.json",
+      "sha256": "d5f7859fdfd4c829143fc54995b789bd5b2a07acce4016342a016d6d9a5a923f",
+      "size": 581
+    },
+    {
+      "name": "assets/",
+      "source": "assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/",
+      "source": "assets/interactivestuff/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/items/",
+      "source": "assets/interactivestuff/items/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/items/pivotrendererblock.json",
+      "source": "assets/interactivestuff/items/pivotrendererblock.json",
+      "sha256": "0ca21f27256aa715460ee226997f93e99273980bf048747e891325e1e9ce3b17",
+      "size": 101
+    },
+    {
+      "name": "assets/interactivestuff/lang/",
+      "source": "assets/interactivestuff/lang/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/lang/en_us.json",
+      "source": "assets/interactivestuff/lang/en_us.json",
+      "sha256": "f66038edb9cc0e1f2afb7ac23f4e7cca7a8fbb6409e53c05ddfbfd2028360797",
+      "size": 4642
+    },
+    {
+      "name": "assets/interactivestuff/models/",
+      "source": "assets/interactivestuff/models/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/models/item/",
+      "source": "assets/interactivestuff/models/item/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/models/item/pivotrendererblock.json",
+      "source": "assets/interactivestuff/models/item/pivotrendererblock.json",
+      "sha256": "4d0700f38496d9c2f92b2cb2389fd282e533eda727eed63a57ea53cee5900988",
+      "size": 760
+    },
+    {
+      "name": "assets/interactivestuff/textures/",
+      "source": "assets/interactivestuff/textures/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/textures/item/",
+      "source": "assets/interactivestuff/textures/item/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/interactivestuff/textures/item/pivotrendererblocktexture.png",
+      "source": "assets/interactivestuff/textures/item/pivotrendererblocktexture.png",
+      "sha256": "851892b091c74d4f5e7833a5998975ae837f368b99b8f8873984d78919fcd380",
+      "size": 129
+    },
+    {
+      "name": "resourcepacks/",
+      "source": "resourcepacks/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/",
+      "source": "resourcepacks/interactive_resourcepack/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/pack.mcmeta",
+      "source": "resourcepacks/interactive_resourcepack/pack.mcmeta",
+      "sha256": "fc26c53f369ccbb74f3e376deb0836ac1e22c8c9ca70be41fe78589907992158",
+      "size": 221
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/pack.png",
+      "source": "resourcepacks/interactive_resourcepack/pack.png",
+      "sha256": "007873beb6997557e21922fbe4274d7fefec5a87f8378b43f1cca624a2cd3e11",
+      "size": 18932
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/",
+      "source": "resourcepacks/interactive_resourcepack/assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/acacia_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/acacia_sapling_leaves.json",
+      "sha256": "15b9d795bf0614db294d0537eda2152985a7b41f6d2014a20ae3c0a409e15e2f",
+      "size": 110
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/acacia_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/acacia_sapling_wood.json",
+      "sha256": "b02d5c6af3f4d4989976fb6448bf6f805f5488c2769d36c9a58340c13d2b8c79",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/book_left.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/book_left.json",
+      "sha256": "e1b8be20908af20b4e97230b1fd16a5ed37beb6f38b15c7a2b77df6e2c14adb3",
+      "size": 92
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/book_right.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/book_right.json",
+      "sha256": "5e69f37d2b151c513a9e0c582bb69274519b779f8b5fa9b43a2beb54252461af",
+      "size": 93
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/bucket.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/bucket.json",
+      "sha256": "a7e081a8fa51e8204899e13b5847200f1f40567e6a3336e17fb26ffa13b11150",
+      "size": 95
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/calibrated_sculk_sensor_active.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/calibrated_sculk_sensor_active.json",
+      "sha256": "dc42452606f5d94bb94ef7154ef9049e3843b2db710e0ae385a5c3df872e8111",
+      "size": 113
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/campfire_off.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/campfire_off.json",
+      "sha256": "04c1a7317213638f68cd251f79dbc0279012e076892fcf9287f97fb343c134de",
+      "size": 95
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/chest_base.json",
+      "sha256": "14d707b19c85995b1e28621ab810df2ec8caef9ea885ee5188c12eb557f553f8",
+      "size": 93
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/chest_top.json",
+      "sha256": "dd476206ebb5eb6c1978bfeae9982ba5684a6e0c0a712b030644e4f9a0daa1da",
+      "size": 92
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/copper_chest_base.json",
+      "sha256": "c7a5d2059074aa42aa9520153ec70cdadeb31434552718738f8dc1361f7baa52",
+      "size": 100
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/copper_chest_top.json",
+      "sha256": "c9e2cedb0f38a8ac95af35b86be2ca7f3ede13d6c1c6fca28a411492543d1483",
+      "size": 99
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/dark_oak_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/dark_oak_sapling_leaves.json",
+      "sha256": "2f3c8d75436ea7e38ece4921fb0b0b14f9d4b91cab54eedf679ef5be0afb319b",
+      "size": 112
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/dark_oak_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/dark_oak_sapling_wood.json",
+      "sha256": "06043b5b53f0d45934d27422e1e07d44c6a8c81b1d20e3c01e083745279fcb23",
+      "size": 110
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/ender_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/ender_chest_base.json",
+      "sha256": "54240db1f40c2efb9cbe0368b4372e2fbf4b6c2967e18dbdeeee1f0087972a25",
+      "size": 99
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/ender_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/ender_chest_top.json",
+      "sha256": "beb1c506db32feba784554b8dca416471a6098fb1b8164d4c3d1510f3b3587d5",
+      "size": 98
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/exposed_copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/exposed_copper_chest_base.json",
+      "sha256": "71177d28c55ae987050221b9ee25117c89bbb29c207f762ef14bba4f6916fe74",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/exposed_copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/exposed_copper_chest_top.json",
+      "sha256": "a7f0404c03c3205b023665bb1edebb9db1768ab3f1397b35bac68061aaae6022",
+      "size": 107
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/jungle_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/jungle_sapling_leaves.json",
+      "sha256": "4b6da580d95ff4bb0573c7b7c75b13c447c1bceb506de926ad0e0b06ffc03521",
+      "size": 110
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/jungle_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/jungle_sapling_wood.json",
+      "sha256": "ca9e8933749fe376d0aa4ca1d1a93aec5e96cfffe5e60ba334a180ef0a7a9331",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oak_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oak_sapling_leaves.json",
+      "sha256": "cd55e176ecb780e8a2f8f6d55f5f1de34988898e1d86f955c463d8e9e824fd10",
+      "size": 107
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oak_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oak_sapling_wood.json",
+      "sha256": "2a47df0cee1ebfe32f238d69ae04e81d05a3ad589a8af03d7c0d37b7fee7c676",
+      "size": 105
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oxidized_copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oxidized_copper_chest_base.json",
+      "sha256": "1df9c9714160c2f0e93c552e14145ca599a2e1e2f3d697a72f5e65595bd68e73",
+      "size": 109
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oxidized_copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/oxidized_copper_chest_top.json",
+      "sha256": "1dfa51f4cb65ffff47a28b374c98813e51cdc431a9110327d09ee907d5cbb5a8",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/piston_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/piston_base.json",
+      "sha256": "5aa5b4c98b18a7a0dfb5b3db8f0578849751958257345f17ef53e312f54bf398",
+      "size": 100
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/piston_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/piston_top.json",
+      "sha256": "7a6fc507670b02842b09bd00f593bb8677000444c8ed49e3da44effd751bd986",
+      "size": 99
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/redstone_lamp_on.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/redstone_lamp_on.json",
+      "sha256": "aa8af59a0a069bfad546300d291f0d61b6d0f84c29f5ad072a1d8c211d03616c",
+      "size": 99
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/redstone_torch_off.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/redstone_torch_off.json",
+      "sha256": "31996b7377a08e82320c9e374d3c0db680d4b9fa74abc29dbfb7aea871f92e68",
+      "size": 107
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/sculk_sensor_active.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/sculk_sensor_active.json",
+      "sha256": "c4d24f44cb04d0cedffc925486bcb042e07cde01da4cbd743435c8197766dadf",
+      "size": 102
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/spruce_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/spruce_sapling_leaves.json",
+      "sha256": "2361e5bdc5be1b2a1418be0ea13f9a355023495084f8ce6c90ee3f4188a07fb1",
+      "size": 110
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/spruce_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/spruce_sapling_wood.json",
+      "sha256": "fb8bf4d8c20dce26b47f6b480019a85800ffdf9af4dd03698b831aa2996a8baa",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/sticky_piston_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/sticky_piston_top.json",
+      "sha256": "bbd9796e75044b53ca8259eda4f2031c0d0eda176d41abacf845905997cc089f",
+      "size": 106
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/torch_off.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/torch_off.json",
+      "sha256": "aae8d0182821c8f760c5e60ca8ce00e08a96cd6b0f156a8908de228e479294b5",
+      "size": 98
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/trapped_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/trapped_chest_base.json",
+      "sha256": "98898b4fec800353570ddea499532e80e5dc01acea7063b2af331bde2dbf09f6",
+      "size": 101
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/trapped_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/trapped_chest_top.json",
+      "sha256": "f490af8e07ee56850e7270b5c5a42a378029efe8d83245698672bf0b3f962f98",
+      "size": 100
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/water_of_the_bucket.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/water_of_the_bucket.json",
+      "sha256": "9e9d5a75a311b83f30499080b07602e68780ada726b246afbd6b7aa2bfe4be28",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/weathered_copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/weathered_copper_chest_base.json",
+      "sha256": "d116a01874f4f43a0b6dba8a16127ee7364bef7aa08483a902287ec56acdf9a9",
+      "size": 110
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/weathered_copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/items/weathered_copper_chest_top.json",
+      "sha256": "4ddced1a2714dea8cbb313a41cd653e82fb61acadb7802f280072e1838f96d01",
+      "size": 109
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/acacia_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/acacia_sapling_leaves.json",
+      "sha256": "bbd13d2ee567afd894f7eae527446fe283b0ce457fedfb00b060d77919ff8546",
+      "size": 123
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/acacia_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/acacia_sapling_wood.json",
+      "sha256": "ab2b695cfb09d4cec12bf6185d005b7071d05f47533cdfb8fd8d3f4ecad879d1",
+      "size": 121
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/book_left.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/book_left.json",
+      "sha256": "11dcd44ac8b14902b92e13ba10d86be6d2871c2cd399801d88170911d8f9dabd",
+      "size": 2382
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/book_right.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/book_right.json",
+      "sha256": "011145b12f5c00c7b12dea760ad53967ff58b316021ad91962d2005357a75737",
+      "size": 2385
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/bucket.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/bucket.json",
+      "sha256": "ab6cb50353262540280a78a8c99518ea3d4defa6b23e617fbb42722df330ef98",
+      "size": 108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/chest_base.json",
+      "sha256": "c87c998a78ed9d12c28588d4d86df092d566cb72baba49cfbc7f92a176204857",
+      "size": 1541
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/chest_top.json",
+      "sha256": "46e1805687b274e9555f3d79cb2dda094e9ca2360080bc47b219612f773fa86b",
+      "size": 2285
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/copper_chest_base.json",
+      "sha256": "e85980f1f152b0b0f0556d30fbf2eefc1203eb027a29e383005bb158e4f1b961",
+      "size": 113
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/copper_chest_top.json",
+      "sha256": "7e9da44a79e88c38ded9148fe0394c1bd60b734bbc8d05afda5cf0945e0f2bd0",
+      "size": 114
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/dark_oak_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/dark_oak_sapling_leaves.json",
+      "sha256": "7f00c67ce898ee04aadbebae010d9b3c5d1c33e46ea916677c961a24fef42af5",
+      "size": 125
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/dark_oak_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/dark_oak_sapling_wood.json",
+      "sha256": "d1f3f3e499a3fb09a322bd88c3224aca522e550b1e74ab60795303acdcd5aad2",
+      "size": 123
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/ender_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/ender_chest_base.json",
+      "sha256": "daf5ea8f030250003decbe96c3ef7be0725e01daf93715f3cde4601c15a460f6",
+      "size": 112
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/ender_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/ender_chest_top.json",
+      "sha256": "198b9a5e16f3d1dec4d8e54556c66759b0272554f2a4f063cc09fddb1d735e31",
+      "size": 113
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/exposed_copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/exposed_copper_chest_base.json",
+      "sha256": "b1dd6103276e7c39993ec475b314ff50e8eae16fcad1f46f932912f639e2453d",
+      "size": 121
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/exposed_copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/exposed_copper_chest_top.json",
+      "sha256": "f1213db455f1662c0e3361330f2681abdb6dedf8db5142b24bdb05a14e5e5742",
+      "size": 122
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/jungle_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/jungle_sapling_leaves.json",
+      "sha256": "f952d727b4bd13c9a5dc27a8d830c7a42678b85a7f5b7cbc03bb2c4a457970e7",
+      "size": 123
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/jungle_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/jungle_sapling_wood.json",
+      "sha256": "e1eff0e3451ac77797c47b59c1a4430b2ff0dfe3dedeb1081788c4f393170299",
+      "size": 121
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oak_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oak_sapling_leaves.json",
+      "sha256": "1723240337701de1ee8660a9e8830428462b2c7384d1ce6e946f745035efb799",
+      "size": 120
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oak_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oak_sapling_wood.json",
+      "sha256": "97fadaae4706734dabad4301846e5dd9d97b839ce1c0323a0c823cba63df204d",
+      "size": 118
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oxidized_copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oxidized_copper_chest_base.json",
+      "sha256": "57f309b42f46cd873950fc7e2e1192bdc406d2b830715f5ea3fca573d0285285",
+      "size": 122
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oxidized_copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/oxidized_copper_chest_top.json",
+      "sha256": "15fe31245c99c082026ec2445227ebd2dcda5bc5f1d99f1852ff6a75639b038f",
+      "size": 123
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/piston_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/piston_base.json",
+      "sha256": "c46e3030a8536e111f3508a3416d01f51232831cb666a29763443c232d762e26",
+      "size": 1287
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/piston_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/piston_top.json",
+      "sha256": "20864c4967aea38a965c5bb9929616e45f7475c4c58e2144e96b9234f3e56570",
+      "size": 1852
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/redstone_torch_off.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/redstone_torch_off.json",
+      "sha256": "69859170772f0561f8b78c090e0d6e5e33b91a219259d6ef084747c9a1472f4f",
+      "size": 114
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/spruce_sapling_leaves.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/spruce_sapling_leaves.json",
+      "sha256": "0d19666a9bc96c38645525f30bcb96f0b93178e403f77591f8da665d2fec5784",
+      "size": 123
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/spruce_sapling_wood.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/spruce_sapling_wood.json",
+      "sha256": "dda4d7b90edf40698bb85472a89c369648438e3a1218134b6aa1257428f9f4f0",
+      "size": 121
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/sticky_piston_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/sticky_piston_top.json",
+      "sha256": "5a0e974932ebef38d9b78dc75057562c07c766f125e0c60fb1b4d619e6371c03",
+      "size": 1859
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/torch_off.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/torch_off.json",
+      "sha256": "8128c3ef2831ea07cffba05d82a09953e92a4e2908d75914e81ef1f45d4b58f4",
+      "size": 111
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/trapped_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/trapped_chest_base.json",
+      "sha256": "97c0f185fc8bae5bb3c256b454e6c3873b223f8d9c9863a1a0f3ee5645578ea7",
+      "size": 114
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/trapped_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/trapped_chest_top.json",
+      "sha256": "444aca22208e82aaf8027a68277b4de71e5fe69f394a3f40b35d4b80de39b16a",
+      "size": 115
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/water_of_the_bucket.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/water_of_the_bucket.json",
+      "sha256": "f56b944ee393de5d5595a34dd653343ea1a07d6d5cbe8c1140e737b348198018",
+      "size": 121
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/weathered_copper_chest_base.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/weathered_copper_chest_base.json",
+      "sha256": "ec8717ca67df15624bb68d32e9d16c9f79627d5f0faad48bebf267c41953b9c6",
+      "size": 123
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/weathered_copper_chest_top.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/models/item/weathered_copper_chest_top.json",
+      "sha256": "adb2a767d6be6c1ba9b531b21242f89d266e03573ef4bdbd52cb17019e3def67",
+      "size": 124
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/chests.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/chests.vyn",
+      "sha256": "dce35141005cff97542f5634a5a26caa84325d387c4304e943cd3c9a435f20f3",
+      "size": 4108
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/debug.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/debug.vyn",
+      "sha256": "dfae76273589e0a0843ae5aef41cab31a9390df6e22235a059d37cc058eec3b1",
+      "size": 1670
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/enchanting_table.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/enchanting_table.vyn",
+      "sha256": "797e05c161098cde7acdf312aae4cb1e5fdd47ddf769f239ee42ea909af486ca",
+      "size": 1247
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/itemframes.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/itemframes.vyn",
+      "sha256": "4bcb6111cc577e5846ca15f77a5f03567e6f0bc87ae5bc091381be0b4d2ebc3e",
+      "size": 1430
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/leaves.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/leaves.vyn",
+      "sha256": "8f33b12ea83bb419cdfbad8dfd91900d2ad74189ea105b3e356e6109782dd28f",
+      "size": 908
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/mace.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/mace.vyn",
+      "sha256": "8945698672abde349252c6e6eaa83c66ecca7562320b46c86813e77daadacb0b",
+      "size": 740
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/note_block.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/note_block.vyn",
+      "sha256": "3ca52b4a5bb47a535614a1c99ff905596b83f252176f5a7ae4bcc477c7b69527",
+      "size": 1324
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/physics_lib.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/physics_lib.vyn",
+      "sha256": "cd501898b8fcb12e28a3fbd8ef790123c1764e51700c7e7d24bf2898d8ac21a5",
+      "size": 2979
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/pistons.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/pistons.vyn",
+      "sha256": "b99aa1cd4242a9bba4b1bf85b7eb392ac03236c46b998d8bdabd59e2f8ba76cb",
+      "size": 2768
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/redstone_items.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/redstone_items.vyn",
+      "sha256": "cbb33c14a69d32e8999822db7bb219d6ae7b8a42c30be91fcb7744d2d1459b3d",
+      "size": 637
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/sapling.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/sapling.vyn",
+      "sha256": "07789096822b9a14913d5d4bf8c91ff72344de053f2a9df3e5f68a8923ec9975",
+      "size": 890
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/sculk_sensors.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/sculk_sensors.vyn",
+      "sha256": "c4e39e54eec38f8eab58216e24b31990bc35de6f7604394a11a118c7525972d8",
+      "size": 3616
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/torches_and_more.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/torches_and_more.vyn",
+      "sha256": "26a2a2e763158c9ec5fb91cd2833bc66567f1bbe3d08a171bbb3636e232316bd",
+      "size": 2832
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/totem.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/totem.vyn",
+      "sha256": "a6ab1ce3d8771edeac7e8382ba23c2feec8ee1dcd6c684506ce8eaa6fccaf791",
+      "size": 402
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/vault.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/vault.vyn",
+      "sha256": "15418c4a9823916c4c1254fe4b262f46b07173a7843cc483c1af7e4a1f66955a",
+      "size": 1713
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/water_bucket.vyn",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/scripts/water_bucket.vyn",
+      "sha256": "565a8dde9e413e94a22f494cbd9192943c77ed153a97d2b3cadf3e9fdc476917",
+      "size": 704
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/acacia_sapling_leaves.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/acacia_sapling_leaves.png",
+      "sha256": "73aa3e22c63a565aa2323fce2286c54b944b8643854668fbe1afdc7e942ab9d8",
+      "size": 467
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/acacia_sapling_wood.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/acacia_sapling_wood.png",
+      "sha256": "5b69563db98d579202fe72dd6029099d430e343763e850a545c2576259c7c549",
+      "size": 459
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/bucket.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/bucket.png",
+      "sha256": "07ba960d3ed636a219ab8fb55321246dea9287bb76c2ee8abfe9e416e991df24",
+      "size": 486
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest.png",
+      "sha256": "6dbea3cfc5a716a740b384820b0c09989b3e19ecb7cae5dc8202f603dde234c6",
+      "size": 1770
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_christmas.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_christmas.png",
+      "sha256": "7afebf0264038ec11a6bc5dd5a07c297027e7128045097775cd8c8c6752bce57",
+      "size": 1364
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper.png",
+      "sha256": "132e05cf098c4455d2ae1aef703afe643147b058fc05074e5043bb9d61d5b3b9",
+      "size": 859
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper_exposed.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper_exposed.png",
+      "sha256": "34c01be2c0275e4bbc53498eff6f7715f15c35a6467778c001f898587b31d7ff",
+      "size": 823
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper_oxidized.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper_oxidized.png",
+      "sha256": "9e4e3456fb2ffc2ddc58760d56669150340c656e96cffa2452e6b2b795ec86b1",
+      "size": 841
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper_weathered.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_copper_weathered.png",
+      "sha256": "f2b176b98fd683c66678a2afe86962dcdcd5af0a71878fde3af7ed8ca89dd8fa",
+      "size": 833
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_ender.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_ender.png",
+      "sha256": "cfe7d0e271d1c728a7e4ab75f85a8c3b9cb8b2fc8cb61f08693d940f6f14b01c",
+      "size": 712
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_trapped.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/chest_trapped.png",
+      "sha256": "795716c8c9ce5a06c10776ec20ed20642282376ebecc39699a5b5ff409b2dc64",
+      "size": 903
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/dark_oak_sapling_leaves.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/dark_oak_sapling_leaves.png",
+      "sha256": "7fddf2375c47c947b4fe319f9023dd3e273370003d8265409f023b104b52df51",
+      "size": 470
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/dark_oak_sapling_wood.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/dark_oak_sapling_wood.png",
+      "sha256": "822f816d8fed3a5d2f21cdffa3d9dcc183faf0d5d9f36643f931530cf600f6a3",
+      "size": 459
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/jungle_sapling_leaves.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/jungle_sapling_leaves.png",
+      "sha256": "da1de183ae4070c528f9716bdfdea328642e1cba07782b0a914c39d349f80ba6",
+      "size": 474
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/jungle_sapling_wood.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/jungle_sapling_wood.png",
+      "sha256": "8be080eaee2ee8b18f9fccb67c7caacff451ca6ec70257473a47c8d9aa2c6ecb",
+      "size": 460
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/oak_sapling_leaves.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/oak_sapling_leaves.png",
+      "sha256": "dbbdc350c08b8433b8dd38b84aaf666c6e9445ad19b382ed828d0555c6aec2cb",
+      "size": 481
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/oak_sapling_wood.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/oak_sapling_wood.png",
+      "sha256": "00193812337281d1dadf9c76e3d700898f605731382fe465d04ee9fa082eaa63",
+      "size": 463
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/spruce_sapling_leaves.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/spruce_sapling_leaves.png",
+      "sha256": "5e042c522277e53b9155ab95e64b5386e7c5d14a20cfef3922f69cdb012a102a",
+      "size": 470
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/spruce_sapling_wood.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/spruce_sapling_wood.png",
+      "sha256": "c2a8129392f03204adaf248163c6fb72191cd109afd6a07a10d27761af9e6a91",
+      "size": 433
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/torch_off.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/torch_off.png",
+      "sha256": "eccbc09c851e5a4857c299ea7957e6f7aaecee08ac4b097ccef74f1567deb560",
+      "size": 465
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/water_of_the_bucket.png",
+      "source": "resourcepacks/interactive_resourcepack/assets/interactivestuff/textures/item/water_of_the_bucket.png",
+      "sha256": "3117e64aa244abbd068ef0a47e1948cb12d31e4c74beb5ce345c945c8feaf822",
+      "size": 439
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/items/",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/items/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/items/campfire.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/items/campfire.json",
+      "sha256": "5ea84262baab9c1ded2bb88e80293f9d6f6d9729d116cdbcc522700139644f41",
+      "size": 368
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/items/soul_campfire.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/items/soul_campfire.json",
+      "sha256": "a2aedcd92267e3b10aca01eada97dbae2c0cdbc9e4a12c6c7ac3568a5694d31b",
+      "size": 378
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/compat/",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/compat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/compat/hanging_items_arms_up.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/compat/hanging_items_arms_up.json",
+      "sha256": "ac45ad4d7cc29f9dc0d8d70ef8103cb25c2ed6543110551e32dc7b4883ec4a72",
+      "size": 1884
+    },
+    {
+      "name": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/compat/items_fix.json",
+      "source": "resourcepacks/interactive_resourcepack/assets/minecraft/punchy/compat/items_fix.json",
+      "sha256": "0b0095442e756aefe2a673a76be26ddbe0519e14f533858147d37adfdf083595",
+      "size": 283
+    },
+    {
+      "name": "me/",
+      "source": "me/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/",
+      "source": "me/abdelaziz/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/api/",
+      "source": "me/abdelaziz/api/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/api/annotation/",
+      "source": "me/abdelaziz/api/annotation/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/api/annotation/VynConstructor.class",
+      "source": "me/abdelaziz/api/annotation/VynConstructor.class",
+      "sha256": "68c5755ac467d909343bac1058ce7bb09de9de704ed8499d197d70dfb837a4e8",
+      "size": 414
+    },
+    {
+      "name": "me/abdelaziz/api/annotation/VynDestructor.class",
+      "source": "me/abdelaziz/api/annotation/VynDestructor.class",
+      "sha256": "7287d69525aed963bfa7ef1ee2b7ddd7e0aeb9fc203b90abbe77aedf3229c040",
+      "size": 407
+    },
+    {
+      "name": "me/abdelaziz/api/annotation/VynFunc.class",
+      "source": "me/abdelaziz/api/annotation/VynFunc.class",
+      "sha256": "df3a41b144f3422d37b4f56239370ad0ff55a25813f68eb0c5dc358019ac882f",
+      "size": 465
+    },
+    {
+      "name": "me/abdelaziz/api/annotation/VynType.class",
+      "source": "me/abdelaziz/api/annotation/VynType.class",
+      "sha256": "29970ada512251f4a5d82bf99e3fae4720daae08c383546534716cd53a21694e",
+      "size": 480
+    },
+    {
+      "name": "me/abdelaziz/api/LibraryBase.class",
+      "source": "me/abdelaziz/api/LibraryBase.class",
+      "sha256": "7eff6eb0b076e8e5263105634959c66422315d66121ef59cd9c20d648ce732dd",
+      "size": 2054
+    },
+    {
+      "name": "me/abdelaziz/api/StatementHandler.class",
+      "source": "me/abdelaziz/api/StatementHandler.class",
+      "sha256": "c1106696725d60310ed6465d6e3a52c9eb84c6ef968b5d89bfda753c96340c2c",
+      "size": 207
+    },
+    {
+      "name": "me/abdelaziz/api/VynLibrary.class",
+      "source": "me/abdelaziz/api/VynLibrary.class",
+      "sha256": "77be0592976dc9238892702e707e8c521c53de505fa06630b242e07b1b41e845",
+      "size": 203
+    },
+    {
+      "name": "me/abdelaziz/ast/",
+      "source": "me/abdelaziz/ast/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/",
+      "source": "me/abdelaziz/ast/expression/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/ArrayAccessExpression.class",
+      "source": "me/abdelaziz/ast/expression/ArrayAccessExpression.class",
+      "sha256": "9328572c635f2d984087eee413556e1dc18d2821a42f85a6ab5e222164e98bf8",
+      "size": 2346
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/ArrayLiteralExpression.class",
+      "source": "me/abdelaziz/ast/expression/ArrayLiteralExpression.class",
+      "sha256": "6dd5688daff75c925b9d2c82f197b81fd92402bd5b870c33b231df36ae0d5a50",
+      "size": 1548
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/BinaryExpression.class",
+      "source": "me/abdelaziz/ast/expression/BinaryExpression.class",
+      "sha256": "b9d283b01351549dd8939cc8ba5dcaa184481a1f1d90be86af8b0350100f287a",
+      "size": 2679
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/GetExpression.class",
+      "source": "me/abdelaziz/ast/expression/GetExpression.class",
+      "sha256": "1fd89a696125886121cb8b333768bd401ee2d8e2f9feea74d168d9fb40af9f76",
+      "size": 1894
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/LiteralExpression.class",
+      "source": "me/abdelaziz/ast/expression/LiteralExpression.class",
+      "sha256": "388fa5a973c7c3a054322c09e8cc16ff307ea5b906c811418919ab1c14f262a3",
+      "size": 733
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/LogicalExpression.class",
+      "source": "me/abdelaziz/ast/expression/LogicalExpression.class",
+      "sha256": "e9c3c752d5e2a747ba18a38775f5d6424467d9c9ba3cf6093cbca274131b64f3",
+      "size": 1212
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/NewExpression.class",
+      "source": "me/abdelaziz/ast/expression/NewExpression.class",
+      "sha256": "75795c6982b04d481593ae5aa2803bbdc2e56325c74ba3f6ebecf9e3bb82daa4",
+      "size": 3764
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/UnaryExpression.class",
+      "source": "me/abdelaziz/ast/expression/UnaryExpression.class",
+      "sha256": "853367f6ead774c966fb87e8d1bd96789b535afef33b8968daed0e39a5259cb0",
+      "size": 1813
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/VarDeclaration.class",
+      "source": "me/abdelaziz/ast/expression/VarDeclaration.class",
+      "sha256": "f39c75ed31a6c3e0a651ddc3a35d5a827fcdf4ddd5c321e694246f82583c444a",
+      "size": 1042
+    },
+    {
+      "name": "me/abdelaziz/ast/expression/VariableExpression.class",
+      "source": "me/abdelaziz/ast/expression/VariableExpression.class",
+      "sha256": "570c1b571adb2de31a114efe109be7ab757d923833cc231128cee27711c42b7d",
+      "size": 858
+    },
+    {
+      "name": "me/abdelaziz/ast/Expression.class",
+      "source": "me/abdelaziz/ast/Expression.class",
+      "sha256": "4cb271ca9c6df70659dc8254b477244560b9d084ae309cdec4a99bd5b463ba6b",
+      "size": 233
+    },
+    {
+      "name": "me/abdelaziz/ast/Node.class",
+      "source": "me/abdelaziz/ast/Node.class",
+      "sha256": "bd543a62b6af1e1d74b61f56d0e27f8089c35a182f5f379ccb8191206d27e521",
+      "size": 106
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/",
+      "source": "me/abdelaziz/ast/statement/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/ArraySetStatement.class",
+      "source": "me/abdelaziz/ast/statement/ArraySetStatement.class",
+      "sha256": "36bd330c6639bf7f7c94817385465b6f4d6fb469a148dd5ee32c79144d2a7098",
+      "size": 1875
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/BreakStatement.class",
+      "source": "me/abdelaziz/ast/statement/BreakStatement.class",
+      "sha256": "dce62ccb94ade4897d7c5cbb2d0377559337751e7f0380e01ebdd6dab4b5b9e4",
+      "size": 587
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/CallExpression.class",
+      "source": "me/abdelaziz/ast/statement/CallExpression.class",
+      "sha256": "32885523ae34d40bee9bebefd3c4f8ad672c842dd7856148faecd5ba7a09d214",
+      "size": 2526
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/CatalogStatement.class",
+      "source": "me/abdelaziz/ast/statement/CatalogStatement.class",
+      "sha256": "61fa58c19545984e95b12d058e7d280c9217f82c9ff945bbdbc3bb5223b66b7a",
+      "size": 1732
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/ClassDeclaration.class",
+      "source": "me/abdelaziz/ast/statement/ClassDeclaration.class",
+      "sha256": "6f01d0f1d199f040b6fcc56487fcbe17695e179b16d385941f816d77f1214faf",
+      "size": 1328
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/ContinueStatement.class",
+      "source": "me/abdelaziz/ast/statement/ContinueStatement.class",
+      "sha256": "b3bd4b22cbebb28f8907ae256719d78c9c2ff88d12155fb840e3bcf8c46a472d",
+      "size": 599
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/CycleStatement.class",
+      "source": "me/abdelaziz/ast/statement/CycleStatement.class",
+      "sha256": "73e6f7f2a09dca37cf4fe834647477df31d9db75d221a68db95628b5dc444e90",
+      "size": 3546
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/ExpressionStatement.class",
+      "source": "me/abdelaziz/ast/statement/ExpressionStatement.class",
+      "sha256": "61382a818037d7565e1030f0eb8f7cefe41b8dc132c617613dd718732d728383",
+      "size": 787
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/FunctionDeclaration.class",
+      "source": "me/abdelaziz/ast/statement/FunctionDeclaration.class",
+      "sha256": "ae925b6caa97711de0ad4bc842e2036fdfb9098b5840a681a0b37b8ede2686f2",
+      "size": 1336
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/HoldStatement.class",
+      "source": "me/abdelaziz/ast/statement/HoldStatement.class",
+      "sha256": "965992363ba69934d37e6794549d1bfab194178b238d42440df76e90aed24a11",
+      "size": 1350
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/IfStatement.class",
+      "source": "me/abdelaziz/ast/statement/IfStatement.class",
+      "sha256": "686b13ad81ea4a0b6bfcb3b3920ff9c050e28a14df8eda8ceb635b7acdb0ae89",
+      "size": 1690
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/PrintStatement.class",
+      "source": "me/abdelaziz/ast/statement/PrintStatement.class",
+      "sha256": "59d726b3d5917d9f605bcb26cb0a8bb2a6cf3ddbb77667786c72c491e847745d",
+      "size": 1083
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/PropertySetStatement.class",
+      "source": "me/abdelaziz/ast/statement/PropertySetStatement.class",
+      "sha256": "8513a2dd58e533233ff41f94a7b3bf45fa1a8c7972e18bcef10af6145790e5ea",
+      "size": 1376
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/ReturnStatement.class",
+      "source": "me/abdelaziz/ast/statement/ReturnStatement.class",
+      "sha256": "a2d760c324ee1a489714d9b2150719b76da094c2ed6e96e35214ed256082575c",
+      "size": 937
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/SplitStatement.class",
+      "source": "me/abdelaziz/ast/statement/SplitStatement.class",
+      "sha256": "76a8a2179f1cdff21ae3eeac160df32401f2adadb585efec74b64a13c4d9da5f",
+      "size": 2447
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/TryStatement.class",
+      "source": "me/abdelaziz/ast/statement/TryStatement.class",
+      "sha256": "e4a662bff4e811dd95177c42a20dee9a591c2e63ec6a22b7ad909e79b86debd6",
+      "size": 2059
+    },
+    {
+      "name": "me/abdelaziz/ast/statement/UseStatement.class",
+      "source": "me/abdelaziz/ast/statement/UseStatement.class",
+      "sha256": "bf01faad1c22174fb75361f7a4eb13513da11a5da9d592e121d0e24ee021ae7e",
+      "size": 725
+    },
+    {
+      "name": "me/abdelaziz/ast/Statement.class",
+      "source": "me/abdelaziz/ast/Statement.class",
+      "sha256": "57588c7b0023a772c75c32f7c07dc928d7df8ca2e6e91bad1b7483b8cf0cef55",
+      "size": 203
+    },
+    {
+      "name": "me/abdelaziz/feature/",
+      "source": "me/abdelaziz/feature/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/feature/AttemptHandler.class",
+      "source": "me/abdelaziz/feature/AttemptHandler.class",
+      "sha256": "d9a21af9450e88cda00604caef1bb0b18cb161b485d83188b4d2cbc242a9ac7f",
+      "size": 1689
+    },
+    {
+      "name": "me/abdelaziz/feature/BlueprintHandler.class",
+      "source": "me/abdelaziz/feature/BlueprintHandler.class",
+      "sha256": "12c9efeb8ae20059fceec155500939ff61cb348fa75e73f45d665e03606a4589",
+      "size": 1588
+    },
+    {
+      "name": "me/abdelaziz/feature/BuildHandler.class",
+      "source": "me/abdelaziz/feature/BuildHandler.class",
+      "sha256": "fd37f0086d50b4b3d085323fa794cb24d413a9a6121b17227d3c1c0947d40d89",
+      "size": 2113
+    },
+    {
+      "name": "me/abdelaziz/feature/CatalogHandler.class",
+      "source": "me/abdelaziz/feature/CatalogHandler.class",
+      "sha256": "3b3af8d2254923a1a380abde3eb251b2e722104518ef85be3492bc6351ffbed4",
+      "size": 1718
+    },
+    {
+      "name": "me/abdelaziz/feature/CheckHandler.class",
+      "source": "me/abdelaziz/feature/CheckHandler.class",
+      "sha256": "1b71a9e3dfbd33c244dec993a61657ac035e128af15814457f1ee665f2404883",
+      "size": 1444
+    },
+    {
+      "name": "me/abdelaziz/feature/CycleHandler.class",
+      "source": "me/abdelaziz/feature/CycleHandler.class",
+      "sha256": "fdc4fe4ea385aba578a5aba5b2fe8b48bf0fa4cb691d8a0c6de640887d00075f",
+      "size": 2076
+    },
+    {
+      "name": "me/abdelaziz/feature/DemolishHandler.class",
+      "source": "me/abdelaziz/feature/DemolishHandler.class",
+      "sha256": "a00f27f1b2090844eb23d48ca072443d09b297a7e1bee31eeb9cf9063ec645b7",
+      "size": 1568
+    },
+    {
+      "name": "me/abdelaziz/feature/LockHandler.class",
+      "source": "me/abdelaziz/feature/LockHandler.class",
+      "sha256": "d90edfd3068cf1eb8a3676bb1c9d58dbc23cde5abbe404dc5ee87d0ca9e4a23a",
+      "size": 1050
+    },
+    {
+      "name": "me/abdelaziz/feature/MakeHandler.class",
+      "source": "me/abdelaziz/feature/MakeHandler.class",
+      "sha256": "669ce2480d766bba52e3970384d7ca3cd2310347afc6e0f18b83101e11a69987",
+      "size": 2748
+    },
+    {
+      "name": "me/abdelaziz/feature/SplitHandler.class",
+      "source": "me/abdelaziz/feature/SplitHandler.class",
+      "sha256": "4b6a7754f11d2961cef51c0a92db41b2a4994d8ebdb93254b9012371521aba1a",
+      "size": 1449
+    },
+    {
+      "name": "me/abdelaziz/feature/TaskHandler.class",
+      "source": "me/abdelaziz/feature/TaskHandler.class",
+      "sha256": "dacbd366be5ad1fa01009747f5d8de4dcf6486ece04c08f288db3c25e4b0d3e8",
+      "size": 1950
+    },
+    {
+      "name": "me/abdelaziz/feature/UseHandler.class",
+      "source": "me/abdelaziz/feature/UseHandler.class",
+      "sha256": "9b0dc8196d552fbca27f9d7b10de9f2d192fa14d11541bd04580efd99ccad3b5",
+      "size": 928
+    },
+    {
+      "name": "me/abdelaziz/lexer/",
+      "source": "me/abdelaziz/lexer/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/lexer/Lexer.class",
+      "source": "me/abdelaziz/lexer/Lexer.class",
+      "sha256": "7598235d3a28618be30b97d13a3ed9a1f84c18ee497d40ab600257e29a31baf5",
+      "size": 4993
+    },
+    {
+      "name": "me/abdelaziz/main/",
+      "source": "me/abdelaziz/main/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/main/VynMain.class",
+      "source": "me/abdelaziz/main/VynMain.class",
+      "sha256": "f6f4497b3c9e810a0e8fb92e48f0e66331ffd344f305c29be8e53de6a9ef7627",
+      "size": 7442
+    },
+    {
+      "name": "me/abdelaziz/parser/",
+      "source": "me/abdelaziz/parser/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/parser/Parser.class",
+      "source": "me/abdelaziz/parser/Parser.class",
+      "sha256": "35c9901511e481515851aaee11abfce678b5bd33be5bf2ffb66278665b792c93",
+      "size": 8934
+    },
+    {
+      "name": "me/abdelaziz/runtime/",
+      "source": "me/abdelaziz/runtime/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/",
+      "source": "me/abdelaziz/runtime/clazz/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/nat/",
+      "source": "me/abdelaziz/runtime/clazz/nat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/nat/ListNativeClass.class",
+      "source": "me/abdelaziz/runtime/clazz/nat/ListNativeClass.class",
+      "sha256": "7de272c1e69109e495dc6b0f51ef685b05c05812ffff13228bca0c0be9333948",
+      "size": 4795
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/nat/MapNativeClass.class",
+      "source": "me/abdelaziz/runtime/clazz/nat/MapNativeClass.class",
+      "sha256": "911b5c0f7bb410bdaffec2efb99654072eb99e2c2dbc8e3639e98a05139688c8",
+      "size": 5751
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/nat/NativeClass.class",
+      "source": "me/abdelaziz/runtime/clazz/nat/NativeClass.class",
+      "sha256": "32ebed3f6013cb35bcdbeecad64c594fbc98f3268fac1acb80843bb0e200a6a7",
+      "size": 896
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/VynCatalog.class",
+      "source": "me/abdelaziz/runtime/clazz/VynCatalog.class",
+      "sha256": "c0123a61740a61986fcd69be2088600cc8ef1b21474af56aaa699492eebd278a",
+      "size": 1456
+    },
+    {
+      "name": "me/abdelaziz/runtime/clazz/VynClass.class",
+      "source": "me/abdelaziz/runtime/clazz/VynClass.class",
+      "sha256": "3fef48d76c69eebad4fe1ac29fea0589b05d4d51057900150a1637e3f0a8caf5",
+      "size": 1498
+    },
+    {
+      "name": "me/abdelaziz/runtime/Environment.class",
+      "source": "me/abdelaziz/runtime/Environment.class",
+      "sha256": "76dfe49165092f31a2023128d5041f74d729ed2839a38f34b196849c9e3bd2ca",
+      "size": 5818
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/",
+      "source": "me/abdelaziz/runtime/function/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/exception/",
+      "source": "me/abdelaziz/runtime/function/exception/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/exception/BreakException.class",
+      "source": "me/abdelaziz/runtime/function/exception/BreakException.class",
+      "sha256": "6e6e3224ab4562ad14423897a84003a747d4200c5d00bf00ca2048618a881eb5",
+      "size": 412
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/exception/ContinueException.class",
+      "source": "me/abdelaziz/runtime/function/exception/ContinueException.class",
+      "sha256": "a9cebbfed6e23b3ee6720d5cfa0706d725fc6675e0af34a0da3e461973a46332",
+      "size": 421
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/exception/ReturnException.class",
+      "source": "me/abdelaziz/runtime/function/exception/ReturnException.class",
+      "sha256": "92facb57c7b4a876c2bb651227216b18b7c4c26987250d139ed2c2f4d2627c27",
+      "size": 519
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/",
+      "source": "me/abdelaziz/runtime/function/nat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/conversion/",
+      "source": "me/abdelaziz/runtime/function/nat/conversion/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/conversion/IntegerNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/conversion/IntegerNativeFunction.class",
+      "sha256": "788544e62f50f6abdc643e0b65679a1158ec25699d04e8f03474c3f95f5e69ab",
+      "size": 1593
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/conversion/NumberNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/conversion/NumberNativeFunction.class",
+      "sha256": "34e05b938d7a4669ebfdfe1d08e5bdec003ec2592e5ef2cf9875216d70ee156d",
+      "size": 1629
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/conversion/StringNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/conversion/StringNativeFunction.class",
+      "sha256": "bff1e96adfa106ec78c97a1f41d90e1e41f55335b5236c1832eab2a31a97238f",
+      "size": 1629
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/math/",
+      "source": "me/abdelaziz/runtime/function/nat/math/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/math/MinMaxNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/math/MinMaxNativeFunction.class",
+      "sha256": "f72bca051ee2816c86b56eb3187146e80f2473e504e482402f142d40de2ea57d",
+      "size": 2698
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/math/RandomNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/math/RandomNativeFunction.class",
+      "sha256": "209fcbc90f5370e92fbf7e60e5c6b97e2a33380b542f6a6246a11d614ea8df78",
+      "size": 1893
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/math/TrigNativeFunction$1.class",
+      "source": "me/abdelaziz/runtime/function/nat/math/TrigNativeFunction$1.class",
+      "sha256": "865d77bc93fff0a6c91c46bec8c6755d7e308f524904ab636aa6a0e430d11f86",
+      "size": 1800
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/math/TrigNativeFunction$TrigType.class",
+      "source": "me/abdelaziz/runtime/function/nat/math/TrigNativeFunction$TrigType.class",
+      "sha256": "91174610d5876a967ee9c3aa0c6241db2cc1ddb7bbb8bf0d039207a7d43a71f9",
+      "size": 2778
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/math/TrigNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/math/TrigNativeFunction.class",
+      "sha256": "5523979844bc9c723f70493c393a71aa37b2aada3708ed3a5e60a7adad261607",
+      "size": 3689
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/NativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/NativeFunction.class",
+      "sha256": "840fdf378877d0e349b626f0bf49d23fcf10d659a97b6b87c264611240de673b",
+      "size": 1980
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/net/",
+      "source": "me/abdelaziz/runtime/function/nat/net/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/net/AtNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/net/AtNativeFunction.class",
+      "sha256": "04c8a3f67ce0c1ddc9ab3290c1096453727b2470c6a1444da523759e353e7058",
+      "size": 1426
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/net/FetchNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/net/FetchNativeFunction.class",
+      "sha256": "9053e71f0c6790819f26900447f8788e2728405ffa01834aee29b6dfd5291d75",
+      "size": 6040
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/net/PackNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/net/PackNativeFunction.class",
+      "sha256": "00ed8816e6fe5b280febd5b9561e4cb2c92aaa2c857d1afe962b8ed9a7cf177e",
+      "size": 1520
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/net/UnpackNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/net/UnpackNativeFunction.class",
+      "sha256": "33167b7e882000aa1b6444d2eee5ad475de4561606f8fd7036f2c37ea9217b76",
+      "size": 1493
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/string/",
+      "source": "me/abdelaziz/runtime/function/nat/string/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/string/ReplaceNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/string/ReplaceNativeFunction.class",
+      "sha256": "42aa0b8f868ff33fdf0880a34cdabd74f9c92eb4da97be81468a6093fe4047c8",
+      "size": 1883
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/system/",
+      "source": "me/abdelaziz/runtime/function/nat/system/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/system/DiscardNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/system/DiscardNativeFunction.class",
+      "sha256": "a70fdd2d5b8c4d8315b6a1ce79dc5e0cd47c9c0a70e63045c3d2847ca89adb89",
+      "size": 2005
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/system/InputNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/system/InputNativeFunction.class",
+      "sha256": "e1c42a2a0d93b5b83aa41f498a0a3eec0afa5cad03c7b85440c930814713323c",
+      "size": 1715
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/system/SizeNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/system/SizeNativeFunction.class",
+      "sha256": "10f15d67a15ad85ce629ac58678208d445a47ec8bb9175dff172c01d3faccf6e",
+      "size": 1858
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/system/SortNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/system/SortNativeFunction.class",
+      "sha256": "ebf916f781581246f4ed5dd74985fa302a0939e4cb112b1e5586a434e36d184c",
+      "size": 3693
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/nat/system/TimeNativeFunction.class",
+      "source": "me/abdelaziz/runtime/function/nat/system/TimeNativeFunction.class",
+      "sha256": "f9727cbf99aa19bb5cc629254a8972740f5e062c38011c03ada62956b8b34552",
+      "size": 1355
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/OverloadedFunction.class",
+      "source": "me/abdelaziz/runtime/function/OverloadedFunction.class",
+      "sha256": "e525d6b9045c11a1faa347041c69726381a3f946d05adb2cf06eb83d21ae3e65",
+      "size": 2157
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/VynCallable.class",
+      "source": "me/abdelaziz/runtime/function/VynCallable.class",
+      "sha256": "e33283d99b5feb78a00e1975d20089835fd40770ed3681d86f1eb90595cdb582",
+      "size": 535
+    },
+    {
+      "name": "me/abdelaziz/runtime/function/VynFunction.class",
+      "source": "me/abdelaziz/runtime/function/VynFunction.class",
+      "sha256": "59efc2b5dad4709e61978c9f48a391d1043d46f3181aa6045c496dd25b11293a",
+      "size": 2852
+    },
+    {
+      "name": "me/abdelaziz/runtime/Value.class",
+      "source": "me/abdelaziz/runtime/Value.class",
+      "sha256": "607f669175dfd452cc10028ca3e15532d9ae60ac3024816cb5562cccb46ae20e",
+      "size": 3947
+    },
+    {
+      "name": "me/abdelaziz/runtime/VynInstance.class",
+      "source": "me/abdelaziz/runtime/VynInstance.class",
+      "sha256": "ef3b612044751816703631704fffbef6708364c03864002e1d1c7224dea9908f",
+      "size": 3950
+    },
+    {
+      "name": "me/abdelaziz/token/",
+      "source": "me/abdelaziz/token/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/token/Token.class",
+      "source": "me/abdelaziz/token/Token.class",
+      "sha256": "72dbbad734c212ff17c5159bab7e9e69d7efb041905a0bb34fe8a7edba0d0a78",
+      "size": 774
+    },
+    {
+      "name": "me/abdelaziz/token/TokenType.class",
+      "source": "me/abdelaziz/token/TokenType.class",
+      "sha256": "55e52d891f31e9303b95becfc7389a1b8be64f67a0ee83a83f9ea47e5aff8c58",
+      "size": 1988
+    },
+    {
+      "name": "me/abdelaziz/util/",
+      "source": "me/abdelaziz/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "me/abdelaziz/util/Importer.class",
+      "source": "me/abdelaziz/util/Importer.class",
+      "sha256": "ed194d26ed29c945ea7ea2e1d3a01cfa9490eddf67cf54b4ced036768376533c",
+      "size": 6057
+    },
+    {
+      "name": "me/abdelaziz/util/NativeBinder.class",
+      "source": "me/abdelaziz/util/NativeBinder.class",
+      "sha256": "66ed5e6002641fc1206ac9e641824f67b3cd4ae1f432f83d9ddd2e3ea9a325b8",
+      "size": 12766,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "FQ=="
+        },
+        {
+          "copy": [
+            10,
+            7904
+          ]
+        },
+        {
+          "insert": "AQAhbWNwZXJmL2ludGVyYWN0aXZlL05hdGl2ZU1ldGFkYXRhBwILAQAMY29uc3RydWN0b3JzAQAzKExqYXZhL2xhbmcvQ2xhc3M7KVtMamF2YS9sYW5nL3JlZmxlY3QvQ29uc3RydWN0b3I7DAINAg4KAgwCDwEAB21ldGhvZHMBAC4oTGphdmEvbGFuZy9DbGFzczspW0xqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7DAIRAhIKAgwCEw=="
+        },
+        {
+          "copy": [
+            7914,
+            5
+          ]
+        },
+        {
+          "insert": "xA=="
+        },
+        {
+          "copy": [
+            7920,
+            3234
+          ]
+        },
+        {
+          "insert": "uAIQ"
+        },
+        {
+          "copy": [
+            11157,
+            82
+          ]
+        },
+        {
+          "insert": "uAIU"
+        },
+        {
+          "copy": [
+            11242,
+            53
+          ]
+        },
+        {
+          "insert": "/g=="
+        },
+        {
+          "copy": [
+            11296,
+            9
+          ]
+        },
+        {
+          "insert": "/g=="
+        },
+        {
+          "copy": [
+            11306,
+            5
+          ]
+        },
+        {
+          "insert": "/g=="
+        },
+        {
+          "copy": [
+            11312,
+            74
+          ]
+        },
+        {
+          "copy": [
+            11560,
+            33
+          ]
+        },
+        {
+          "insert": "AXw="
+        },
+        {
+          "copy": [
+            11595,
+            14
+          ]
+        },
+        {
+          "insert": "AAUAiQAAAD4ADwAAAIwAFwCNACEAjgA6AI8ATwCMAFUAngBsAJ8AdgCgAIsArwCVALAAoQCxAL8AsgDGALMA3QCeAOMAwwCKAAAAUgAIADoAFQDxAJIABgAXADgA8gDzAAUAoQA8APQA9QAGAL8AHgD2AJIABwDGABcA9wCxAAgAbABxAPgA+QAFAAAA5AC4ALkAAAAAAOQAogCQAAEAugAAAAwAAQAXADgA8gD6"
+        },
+        {
+          "copy": [
+            11609,
+            890
+          ]
+        },
+        {
+          "insert": "AKoAAAAS"
+        },
+        {
+          "copy": [
+            12503,
+            2
+          ]
+        },
+        {
+          "copy": [
+            12515,
+            3
+          ]
+        },
+        {
+          "insert": "yA=="
+        },
+        {
+          "copy": [
+            12519,
+            13
+          ]
+        },
+        {
+          "insert": "CQAAAAIBCgE="
+        },
+        {
+          "copy": [
+            12532,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "name": "me/abdelaziz/util/SimpleJson.class",
+      "source": "me/abdelaziz/util/SimpleJson.class",
+      "sha256": "ac8a546f63c3fd2b9e9f4fcb653b592e9d095c9b7585252efff037584a6d03df",
+      "size": 5869
+    },
+    {
+      "name": "META-INF/maven/",
+      "source": "META-INF/maven/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/maven/me.abdelaziz/",
+      "source": "META-INF/maven/me.abdelaziz/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/maven/me.abdelaziz/Vyn-Script/",
+      "source": "META-INF/maven/me.abdelaziz/Vyn-Script/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/maven/me.abdelaziz/Vyn-Script/pom.xml",
+      "source": "META-INF/maven/me.abdelaziz/Vyn-Script/pom.xml",
+      "sha256": "48dfcdf8fc0a88f233bab211eb757ca262561c369d9adc0f519c58f5629a69e1",
+      "size": 1514
+    },
+    {
+      "name": "META-INF/maven/me.abdelaziz/Vyn-Script/pom.properties",
+      "source": "META-INF/maven/me.abdelaziz/Vyn-Script/pom.properties",
+      "sha256": "ffe7b81c045e73bce6046437a6075bbb7a28400414a4a443c7265a5094473904",
+      "size": 67
+    },
+    {
+      "name": "mcperf/interactive/NativeMetadata$1.class",
+      "source": null,
+      "sha256": "14e070feb94e71bec414a00a12502ccf6e00ccb92a2108002a42d4da4a30948e",
+      "size": 2292,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAaAoAAgADBwAEDAAFAAYBABRqYXZhL2xhbmcvQ2xhc3NWYWx1ZQEABjxpbml0PgEAAygpVggACAEAB1Z5bkZ1bmMKAAoACwcADAwADQAOAQAhbWNwZXJmL2ludGVyYWN0aXZlL05hdGl2ZU1ldGFkYXRhAQAKYW5ub3RhdGlvbgEANihMamF2YS9sYW5nL0NsYXNzO0xqYXZhL2xhbmcvU3RyaW5nOylMamF2YS9sYW5nL0NsYXNzOwgAEAEADVZ5bkRlc3RydWN0b3IKABIAEwcAFAwAFQAWAQAPamF2YS9sYW5nL0NsYXNzAQAKZ2V0TWV0aG9kcwEAHSgpW0xqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7CgAYABkHABoMABsAHAEAEGphdmEvdXRpbC9BcnJheXMBAAZzdHJlYW0BAC4oW0xqYXZhL2xhbmcvT2JqZWN0OylMamF2YS91dGlsL3N0cmVhbS9TdHJlYW07EgAAAB4MAB8AIAEABHRlc3QBAEIoTGphdmEvbGFuZy9DbGFzcztMamF2YS9sYW5nL0NsYXNzOylMamF2YS91dGlsL2Z1bmN0aW9uL1ByZWRpY2F0ZTsLACIAIwcAJAwAJQAmAQAXamF2YS91dGlsL3N0cmVhbS9TdHJlYW0BAAZmaWx0ZXIBADkoTGphdmEvdXRpbC9mdW5jdGlvbi9QcmVkaWNhdGU7KUxqYXZhL3V0aWwvc3RyZWFtL1N0cmVhbTsSAAEAKAwAKQAqAQAFYXBwbHkBACIoKUxqYXZhL3V0aWwvZnVuY3Rpb24vSW50RnVuY3Rpb247CwAiACwMAC0ALgEAB3RvQXJyYXkBADUoTGphdmEvdXRpbC9mdW5jdGlvbi9JbnRGdW5jdGlvbjspW0xqYXZhL2xhbmcvT2JqZWN0OwcAMAEAG1tMamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9kOwoAMgAzBwA0DAA1ADYBACNtY3BlcmYvaW50ZXJhY3RpdmUvTmF0aXZlTWV0YWRhdGEkMQEADGNvbXB1dGVWYWx1ZQEALihMamF2YS9sYW5nL0NsYXNzOylbTGphdmEvbGFuZy9yZWZsZWN0L01ldGhvZDsHADgBABhqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2QKADcAOgwAOwA8AQATaXNBbm5vdGF0aW9uUHJlc2VudAEAFChMamF2YS9sYW5nL0NsYXNzOylaAQAEQ29kZQEAD0xpbmVOdW1iZXJUYWJsZQEACVNpZ25hdHVyZQEAMShMamF2YS9sYW5nL0NsYXNzPCo+OylbTGphdmEvbGFuZy9yZWZsZWN0L01ldGhvZDsBACUoTGphdmEvbGFuZy9DbGFzczspTGphdmEvbGFuZy9PYmplY3Q7AQAQTWV0aG9kUGFyYW1ldGVycwEAFWxhbWJkYSRjb21wdXRlVmFsdWUkMQEAHihJKVtMamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9kOwEAFWxhbWJkYSRjb21wdXRlVmFsdWUkMAEAPyhMamF2YS9sYW5nL0NsYXNzO0xqYXZhL2xhbmcvQ2xhc3M7TGphdmEvbGFuZy9yZWZsZWN0L01ldGhvZDspWgEADVN0YWNrTWFwVGFibGUBADNMamF2YS9sYW5nL0NsYXNzVmFsdWU8W0xqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7PjsBAApTb3VyY2VGaWxlAQATTmF0aXZlTWV0YWRhdGEuamF2YQEAD0VuY2xvc2luZ01ldGhvZAEACE5lc3RIb3N0AQAQQm9vdHN0cmFwTWV0aG9kcxAATwEAFShMamF2YS9sYW5nL09iamVjdDspWg8GAFEKADIAUgwARQBGEABUAQAdKExqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7KVoQAFYBABUoSSlMamF2YS9sYW5nL09iamVjdDsPBgBYCgAyAFkMAEMARBAARA8GAFwKAF0AXgcAXwwAYABhAQAiamF2YS9sYW5nL2ludm9rZS9MYW1iZGFNZXRhZmFjdG9yeQEAC21ldGFmYWN0b3J5AQDMKExqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwO0xqYXZhL2xhbmcvU3RyaW5nO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTtMamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTspTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7AQAMSW5uZXJDbGFzc2VzBwBkAQAlamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzJExvb2t1cAcAZgEAHmphdmEvbGFuZy9pbnZva2UvTWV0aG9kSGFuZGxlcwEABkxvb2t1cAAgADIAAgAAAAAABQAAAAUABgABAD0AAAAdAAEAAQAAAAUqtwABsQAAAAEAPgAAAAYAAQAAAAkABAA1ADYAAgA9AAAASwADAAQAAAAvKxIHuAAJTSsSD7gACU4rtgARuAAXLC26AB0AALkAIQIAugAnAAC5ACsCAMAAL7AAAAABAD4AAAAKAAIAAAAKAA4ACwA/AAAAAgBAEEQANQBBAAIAPQAAAB4AAgACAAAABiortgAxsAAAAAEAPgAAAAYAAQAAAAkAQgAAAAUBAAAQABAKAEMARAABAD0AAAAdAAEAAQAAAAUavQA3sAAAAAEAPgAAAAYAAQAAAAsQCgBFAEYAAQA9AAAAOgACAAMAAAAWLCq2ADmaAAssK7YAOZkABwSnAAQDrAAAAAIAPgAAAAYAAQAAAAsARwAAAAYAAxADQAEABgA/AAAAAgBIAEkAAAACAEoASwAAAAQACgAAAEwAAAACAAoATQAAABYAAgBbAAMATgBQAFMAWwADAFUAVwBaAGIAAAASAAIAMgAAAAAAAABjAGUAZwAZ"
+        }
+      ]
+    },
+    {
+      "name": "mcperf/interactive/NativeMetadata$2.class",
+      "source": null,
+      "sha256": "ac180790ca99ac3dfab01e8c84c793d67166fa96bd6ba3fe5357845fc558b8be",
+      "size": 2246,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAZQoAAgADBwAEDAAFAAYBABRqYXZhL2xhbmcvQ2xhc3NWYWx1ZQEABjxpbml0PgEAAygpVggACAEADlZ5bkNvbnN0cnVjdG9yCgAKAAsHAAwMAA0ADgEAIW1jcGVyZi9pbnRlcmFjdGl2ZS9OYXRpdmVNZXRhZGF0YQEACmFubm90YXRpb24BADYoTGphdmEvbGFuZy9DbGFzcztMamF2YS9sYW5nL1N0cmluZzspTGphdmEvbGFuZy9DbGFzczsKABAAEQcAEgwAEwAUAQAPamF2YS9sYW5nL0NsYXNzAQAPZ2V0Q29uc3RydWN0b3JzAQAiKClbTGphdmEvbGFuZy9yZWZsZWN0L0NvbnN0cnVjdG9yOwoAFgAXBwAYDAAZABoBABBqYXZhL3V0aWwvQXJyYXlzAQAGc3RyZWFtAQAuKFtMamF2YS9sYW5nL09iamVjdDspTGphdmEvdXRpbC9zdHJlYW0vU3RyZWFtOxIAAAAcDAAdAB4BAAR0ZXN0AQAxKExqYXZhL2xhbmcvQ2xhc3M7KUxqYXZhL3V0aWwvZnVuY3Rpb24vUHJlZGljYXRlOwsAIAAhBwAiDAAjACQBABdqYXZhL3V0aWwvc3RyZWFtL1N0cmVhbQEABmZpbHRlcgEAOShMamF2YS91dGlsL2Z1bmN0aW9uL1ByZWRpY2F0ZTspTGphdmEvdXRpbC9zdHJlYW0vU3RyZWFtOxIAAQAmDAAnACgBAAVhcHBseQEAIigpTGphdmEvdXRpbC9mdW5jdGlvbi9JbnRGdW5jdGlvbjsLACAAKgwAKwAsAQAHdG9BcnJheQEANShMamF2YS91dGlsL2Z1bmN0aW9uL0ludEZ1bmN0aW9uOylbTGphdmEvbGFuZy9PYmplY3Q7BwAuAQAgW0xqYXZhL2xhbmcvcmVmbGVjdC9Db25zdHJ1Y3RvcjsKADAAMQcAMgwAMwA0AQAjbWNwZXJmL2ludGVyYWN0aXZlL05hdGl2ZU1ldGFkYXRhJDIBAAxjb21wdXRlVmFsdWUBADMoTGphdmEvbGFuZy9DbGFzczspW0xqYXZhL2xhbmcvcmVmbGVjdC9Db25zdHJ1Y3RvcjsHADYBAB1qYXZhL2xhbmcvcmVmbGVjdC9Db25zdHJ1Y3RvcgoANQA4DAA5ADoBABNpc0Fubm90YXRpb25QcmVzZW50AQAUKExqYXZhL2xhbmcvQ2xhc3M7KVoBAARDb2RlAQAPTGluZU51bWJlclRhYmxlAQAJU2lnbmF0dXJlAQA5KExqYXZhL2xhbmcvQ2xhc3M8Kj47KVtMamF2YS9sYW5nL3JlZmxlY3QvQ29uc3RydWN0b3I8Kj47AQAlKExqYXZhL2xhbmcvQ2xhc3M7KUxqYXZhL2xhbmcvT2JqZWN0OwEAEE1ldGhvZFBhcmFtZXRlcnMBABVsYW1iZGEkY29tcHV0ZVZhbHVlJDEBACMoSSlbTGphdmEvbGFuZy9yZWZsZWN0L0NvbnN0cnVjdG9yOwEAFWxhbWJkYSRjb21wdXRlVmFsdWUkMAEAMyhMamF2YS9sYW5nL0NsYXNzO0xqYXZhL2xhbmcvcmVmbGVjdC9Db25zdHJ1Y3RvcjspWgEAO0xqYXZhL2xhbmcvQ2xhc3NWYWx1ZTxbTGphdmEvbGFuZy9yZWZsZWN0L0NvbnN0cnVjdG9yPCo+Oz47AQAKU291cmNlRmlsZQEAE05hdGl2ZU1ldGFkYXRhLmphdmEBAA9FbmNsb3NpbmdNZXRob2QBAAhOZXN0SG9zdAEAEEJvb3RzdHJhcE1ldGhvZHMQAEwBABUoTGphdmEvbGFuZy9PYmplY3Q7KVoPBgBOCgAwAE8MAEMARBAAUQEAIihMamF2YS9sYW5nL3JlZmxlY3QvQ29uc3RydWN0b3I7KVoQAFMBABUoSSlMamF2YS9sYW5nL09iamVjdDsPBgBVCgAwAFYMAEEAQhAAQg8GAFkKAFoAWwcAXAwAXQBeAQAiamF2YS9sYW5nL2ludm9rZS9MYW1iZGFNZXRhZmFjdG9yeQEAC21ldGFmYWN0b3J5AQDMKExqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwO0xqYXZhL2xhbmcvU3RyaW5nO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTtMamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTspTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7AQAMSW5uZXJDbGFzc2VzBwBhAQAlamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzJExvb2t1cAcAYwEAHmphdmEvbGFuZy9pbnZva2UvTWV0aG9kSGFuZGxlcwEABkxvb2t1cAAgADAAAgAAAAAABQAAAAUABgABADsAAAAdAAEAAQAAAAUqtwABsQAAAAEAPAAAAAYAAQAAAA0ABAAzADQAAgA7AAAAPwACAAMAAAAnKxIHuAAJTSu2AA+4ABUsugAbAAC5AB8CALoAJQAAuQApAgDAAC2wAAAAAQA8AAAABgABAAAADgA9AAAAAgA+EEQAMwA/AAIAOwAAAB4AAgACAAAABiortgAvsAAAAAEAPAAAAAYAAQAAAA0AQAAAAAUBAAAQABAKAEEAQgABADsAAAAdAAEAAQAAAAUavQA1sAAAAAEAPAAAAAYAAQAAAA4QCgBDAEQAAQA7AAAAHgACAAIAAAAGKyq2ADesAAAAAQA8AAAABgABAAAADgAGAD0AAAACAEUARgAAAAIARwBIAAAABAAKAAAASQAAAAIACgBKAAAAFgACAFgAAwBLAE0AUABYAAMAUgBUAFcAXwAAABIAAgAwAAAAAAAAAGAAYgBkABk="
+        }
+      ]
+    },
+    {
+      "name": "mcperf/interactive/NativeMetadata.class",
+      "source": null,
+      "sha256": "370f3a648500303147dc502178d5eb8d8a1e4852a41af54828d2c6c2e7b8907d",
+      "size": 2244,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUAXAoAAgADBwAEDAAFAAYBABBqYXZhL2xhbmcvT2JqZWN0AQAGPGluaXQ+AQADKClWEgAAAAgMAAkACgEAF21ha2VDb25jYXRXaXRoQ29uc3RhbnRzAQAmKExqYXZhL2xhbmcvU3RyaW5nOylMamF2YS9sYW5nL1N0cmluZzsKAAwADQcADgwADwAQAQAPamF2YS9sYW5nL0NsYXNzAQAOZ2V0Q2xhc3NMb2FkZXIBABkoKUxqYXZhL2xhbmcvQ2xhc3NMb2FkZXI7CgAMABIMABMAFAEAB2Zvck5hbWUBAD0oTGphdmEvbGFuZy9TdHJpbmc7WkxqYXZhL2xhbmcvQ2xhc3NMb2FkZXI7KUxqYXZhL2xhbmcvQ2xhc3M7BwAWAQAgamF2YS9sYW5nL0NsYXNzTm90Rm91bmRFeGNlcHRpb24HABgBAB9qYXZhL2xhbmcvSWxsZWdhbFN0YXRlRXhjZXB0aW9uCgAXABoMAAUAGwEAGChMamF2YS9sYW5nL1Rocm93YWJsZTspVgkAHQAeBwAfDAAgACEBACFtY3BlcmYvaW50ZXJhY3RpdmUvTmF0aXZlTWV0YWRhdGEBAAdNRVRIT0RTAQAWTGphdmEvbGFuZy9DbGFzc1ZhbHVlOwoAIwAkBwAlDAAmACcBABRqYXZhL2xhbmcvQ2xhc3NWYWx1ZQEAA2dldAEAJShMamF2YS9sYW5nL0NsYXNzOylMamF2YS9sYW5nL09iamVjdDsHACkBABtbTGphdmEvbGFuZy9yZWZsZWN0L01ldGhvZDsKACgAKwwALAAtAQAFY2xvbmUBABQoKUxqYXZhL2xhbmcvT2JqZWN0OwkAHQAvDAAwACEBAAxDT05TVFJVQ1RPUlMHADIBACBbTGphdmEvbGFuZy9yZWZsZWN0L0NvbnN0cnVjdG9yOwoAMQArBwA1AQAjbWNwZXJmL2ludGVyYWN0aXZlL05hdGl2ZU1ldGFkYXRhJDEKADQAAwcAOAEAI21jcGVyZi9pbnRlcmFjdGl2ZS9OYXRpdmVNZXRhZGF0YSQyCgA3AAMBAAlTaWduYXR1cmUBADNMamF2YS9sYW5nL0NsYXNzVmFsdWU8W0xqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7PjsBADtMamF2YS9sYW5nL0NsYXNzVmFsdWU8W0xqYXZhL2xhbmcvcmVmbGVjdC9Db25zdHJ1Y3RvcjwqPjs+OwEABENvZGUBAA9MaW5lTnVtYmVyVGFibGUBAAphbm5vdGF0aW9uAQA2KExqYXZhL2xhbmcvQ2xhc3M7TGphdmEvbGFuZy9TdHJpbmc7KUxqYXZhL2xhbmcvQ2xhc3M7AQANU3RhY2tNYXBUYWJsZQEAXShMamF2YS9sYW5nL0NsYXNzPCo+O0xqYXZhL2xhbmcvU3RyaW5nOylMamF2YS9sYW5nL0NsYXNzPCtMamF2YS9sYW5nL2Fubm90YXRpb24vQW5ub3RhdGlvbjs+OwEAB21ldGhvZHMBAC4oTGphdmEvbGFuZy9DbGFzczspW0xqYXZhL2xhbmcvcmVmbGVjdC9NZXRob2Q7AQAxKExqYXZhL2xhbmcvQ2xhc3M8Kj47KVtMamF2YS9sYW5nL3JlZmxlY3QvTWV0aG9kOwEADGNvbnN0cnVjdG9ycwEAMyhMamF2YS9sYW5nL0NsYXNzOylbTGphdmEvbGFuZy9yZWZsZWN0L0NvbnN0cnVjdG9yOwEAOShMamF2YS9sYW5nL0NsYXNzPCo+OylbTGphdmEvbGFuZy9yZWZsZWN0L0NvbnN0cnVjdG9yPCo+OwEACDxjbGluaXQ+AQAKU291cmNlRmlsZQEAE05hdGl2ZU1ldGFkYXRhLmphdmEBAAtOZXN0TWVtYmVycwEAEEJvb3RzdHJhcE1ldGhvZHMIAE8BAB1tZS5hYmRlbGF6aXouYXBpLmFubm90YXRpb24uAQ8GAFEKAFIAUwcAVAwACQBVAQAkamF2YS9sYW5nL2ludm9rZS9TdHJpbmdDb25jYXRGYWN0b3J5AQCYKExqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwO0xqYXZhL2xhbmcvU3RyaW5nO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7TGphdmEvbGFuZy9TdHJpbmc7W0xqYXZhL2xhbmcvT2JqZWN0OylMamF2YS9sYW5nL2ludm9rZS9DYWxsU2l0ZTsBAAxJbm5lckNsYXNzZXMHAFgBACVqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwBwBaAQAeamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzAQAGTG9va3VwADEAHQACAAAAAgAYACAAIQABADoAAAACADsAGAAwACEAAQA6AAAAAgA8AAUAAQAFAAYAAQA9AAAAHQABAAEAAAAFKrcAAbEAAAABAD4AAAAGAAEAAAAGAAgAPwBAAAIAPQAAAEUAAwADAAAAGSu6AAcAAAMqtgALuAARsE27ABdZLLcAGb8AAQAAAA4ADwAVAAIAPgAAAAYAAQAAAAgAQQAAAAYAAU8HABUAOgAAAAIAQgAJAEMARAACAD0AAAApAAIAAQAAABGyABwqtgAiwAAotgAqwAAosAAAAAEAPgAAAAYAAQAAABAAOgAAAAIARQAJAEYARwACAD0AAAApAAIAAQAAABGyAC4qtgAiwAAxtgAzwAAxsAAAAAEAPgAAAAYAAQAAABEAOgAAAAIASAAIAEkABgABAD0AAAAxAAIAAAAAABW7ADRZtwA2swAcuwA3WbcAObMALrEAAAABAD4AAAAKAAIAAAAJAAoADQAEAEoAAAACAEsATAAAAAYAAgA3ADQATQAAAAgAAQBQAAEATgBWAAAAGgADADQAAAAAAAAANwAAAAAAAABXAFkAWwAZ"
+        }
+      ]
+    }
+  ]
+}

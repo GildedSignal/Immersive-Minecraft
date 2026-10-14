@@ -1,0 +1,4533 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "name": "META-INF/",
+      "source": "META-INF/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "source": "META-INF/MANIFEST.MF",
+      "sha256": "3999ee47724e13deda0e697a537c858509b9179722bad0e72dff6f0b60fb7e83",
+      "size": 3576
+    },
+    {
+      "name": "com/",
+      "source": "com/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/",
+      "source": "com/thedeathlycow/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/",
+      "source": "com/thedeathlycow/immersive/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/",
+      "source": "com/thedeathlycow/immersive/storms/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/ImmersiveStorms.class",
+      "source": "com/thedeathlycow/immersive/storms/ImmersiveStorms.class",
+      "sha256": "ac2190bebc583f5b71293ba85bebf782700db218ce9a9fb67d2510e64a9c5cf2",
+      "size": 1487
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/particle/",
+      "source": "com/thedeathlycow/immersive/storms/particle/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/particle/DustGrainParticleEffect.class",
+      "source": "com/thedeathlycow/immersive/storms/particle/DustGrainParticleEffect.class",
+      "sha256": "7032c3903158884976a53969255767445d314096debc5ac0ba7230f71726cb72",
+      "size": 4425
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/registry/",
+      "source": "com/thedeathlycow/immersive/storms/registry/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/registry/ISBiomeTags.class",
+      "source": "com/thedeathlycow/immersive/storms/registry/ISBiomeTags.class",
+      "sha256": "d320e2d2e8aa1e1142f9434b0327eec459df0a11bacb288d8ff74324d35d78e1",
+      "size": 1520
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/registry/ISParticleTypes.class",
+      "source": "com/thedeathlycow/immersive/storms/registry/ISParticleTypes.class",
+      "sha256": "d81bc8be88584940a77502d2566269c295352e60b9f86b6935f79c295f2b40a2",
+      "size": 2676
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/registry/ISSoundEvents.class",
+      "source": "com/thedeathlycow/immersive/storms/registry/ISSoundEvents.class",
+      "sha256": "9db94f2015b8fa70ad4cab3566e569393c469e82e2f9934a61c846c813d1f5b8",
+      "size": 1536
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/util/",
+      "source": "com/thedeathlycow/immersive/storms/util/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/util/ISMath.class",
+      "source": "com/thedeathlycow/immersive/storms/util/ISMath.class",
+      "sha256": "8e4bc8efcc2a0a89a916b2ae8f4d779920226efcce01b10fa459de62e70115a8",
+      "size": 1847
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/util/WeatherEffectType$WeatherData.class",
+      "source": "com/thedeathlycow/immersive/storms/util/WeatherEffectType$WeatherData.class",
+      "sha256": "c4d4566216b55c61de2502b59ede4b9a3c23b2f1bf01781d8926dfbdadcb4f67",
+      "size": 2919
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/util/WeatherEffectType.class",
+      "source": "com/thedeathlycow/immersive/storms/util/WeatherEffectType.class",
+      "sha256": "cfd1a526201ace06d31d68c03fec54cf7afbe626f13d636dabbebe65c81396be",
+      "size": 7041
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/util/WeatherEffects.class",
+      "source": "com/thedeathlycow/immersive/storms/util/WeatherEffects.class",
+      "sha256": "0433fe68217355b7750c82b509e14c3514abf2f16625e24f73909aeb1ae3cd7f",
+      "size": 4294
+    },
+    {
+      "name": "fabric.mod.json",
+      "source": "fabric.mod.json",
+      "sha256": "18678cb5e762a1e8e40b455693894fd2b516448d4734c708f00f34cabcf25f64",
+      "size": 1508
+    },
+    {
+      "name": "immersive-storms.accesswidener",
+      "source": "immersive-storms.accesswidener",
+      "sha256": "bae95b11782378af072c25f2ef9ea9fef921af68efb92c19486f1202584b91b7",
+      "size": 27
+    },
+    {
+      "name": "immersive-storms.mixins.json",
+      "source": "immersive-storms.mixins.json",
+      "sha256": "1a2a35a5ec8a926c3a0d13d2006131969935fce87d41f803b76dda3a2bfc391d",
+      "size": 170
+    },
+    {
+      "name": "assets/",
+      "source": "assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/",
+      "source": "assets/immersive-storms/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/icon.png",
+      "source": "assets/immersive-storms/icon.png",
+      "sha256": "a62ac064709e809e0d014120191432bd6872368d250be532a5057a0cbfa72661",
+      "size": 78352
+    },
+    {
+      "name": "assets/immersive-storms/sounds.json",
+      "source": "assets/immersive-storms/sounds.json",
+      "sha256": "7c25e862743f203f7a2f3337670a3ec38b4a9d4b86bd3c197428913eb203682a",
+      "size": 296
+    },
+    {
+      "name": "assets/immersive-storms/lang/",
+      "source": "assets/immersive-storms/lang/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/lang/en_us.json",
+      "source": "assets/immersive-storms/lang/en_us.json",
+      "sha256": "ca82cf7a8a092925739f2c90219133751f7091437e2eb1b9b31306d7e26c2b01",
+      "size": 5206
+    },
+    {
+      "name": "assets/immersive-storms/particles/",
+      "source": "assets/immersive-storms/particles/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/particles/black_rain.json",
+      "source": "assets/immersive-storms/particles/black_rain.json",
+      "sha256": "83d61c6a6e472ca6e8f45381ec47fa42bb73752414a6c9c954850425f1a79e64",
+      "size": 146
+    },
+    {
+      "name": "assets/immersive-storms/particles/dust_grain.json",
+      "source": "assets/immersive-storms/particles/dust_grain.json",
+      "sha256": "a98493ed3b96081a4b2258c20ccfb3302c3265ff6b6322520c82b0a08041ef24",
+      "size": 158
+    },
+    {
+      "name": "assets/immersive-storms/sounds/",
+      "source": "assets/immersive-storms/sounds/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/",
+      "source": "assets/immersive-storms/sounds/weather/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/sandstorm/",
+      "source": "assets/immersive-storms/sounds/weather/sandstorm/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/sandstorm/soft1.ogg",
+      "source": "assets/immersive-storms/sounds/weather/sandstorm/soft1.ogg",
+      "sha256": "22f16d93295c9dba0ee4c5f73c78f2626e62c1f055a03051cfe2cd35c926fd87",
+      "size": 85783
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/sandstorm/soft2.ogg",
+      "source": "assets/immersive-storms/sounds/weather/sandstorm/soft2.ogg",
+      "sha256": "c932f8c90ed8f0ef87f134b8728701cb249e07b1ed27a78b9542428dec6be11d",
+      "size": 75958
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/wind/",
+      "source": "assets/immersive-storms/sounds/weather/wind/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/wind/strong1.ogg",
+      "source": "assets/immersive-storms/sounds/weather/wind/strong1.ogg",
+      "sha256": "6f8ad7370eff93e9d6e0d5ad91710dd40c54a4231c4dd0f00004916659cdbb98",
+      "size": 168151
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/wind/strong2.ogg",
+      "source": "assets/immersive-storms/sounds/weather/wind/strong2.ogg",
+      "sha256": "baa1881e5e737272a8977ab557272145bd7de83fcfc52c9f27ad34cd5bf1b80c",
+      "size": 158407
+    },
+    {
+      "name": "assets/immersive-storms/sounds/weather/wind/strong3.ogg",
+      "source": "assets/immersive-storms/sounds/weather/wind/strong3.ogg",
+      "sha256": "898b75a8ca4ff41c3fbbbacd0b2decd9cb78a308cf13c28a41ce4f11846f5aca",
+      "size": 175468
+    },
+    {
+      "name": "assets/immersive-storms/textures/",
+      "source": "assets/immersive-storms/textures/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/textures/particle/",
+      "source": "assets/immersive-storms/textures/particle/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/textures/particle/dust_grain/",
+      "source": "assets/immersive-storms/textures/particle/dust_grain/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/immersive-storms/textures/particle/dust_grain/var0.png",
+      "source": "assets/immersive-storms/textures/particle/dust_grain/var0.png",
+      "sha256": "040799acfd2e753632cef5642ab07e0182a973cc990cbfcb6bf7d201f10cfa03",
+      "size": 74
+    },
+    {
+      "name": "assets/immersive-storms/textures/particle/dust_grain/var1.png",
+      "source": "assets/immersive-storms/textures/particle/dust_grain/var1.png",
+      "sha256": "85fb6789e97a9385e823a6da6f6fbdd376c6e8165a449e8f1613ef34592afb2e",
+      "size": 76
+    },
+    {
+      "name": "assets/immersive-storms/textures/particle/dust_grain/var2.png",
+      "source": "assets/immersive-storms/textures/particle/dust_grain/var2.png",
+      "sha256": "b685389739d5add8d9240511f15b60e3365262c9e557b80fc3bf352dc30564a2",
+      "size": 96
+    },
+    {
+      "name": "data/",
+      "source": "data/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "data/immersive-storms/",
+      "source": "data/immersive-storms/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "data/immersive-storms/tags/",
+      "source": "data/immersive-storms/tags/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/",
+      "source": "data/immersive-storms/tags/worldgen/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/biome/",
+      "source": "data/immersive-storms/tags/worldgen/biome/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/biome/has_blizzards.json",
+      "source": "data/immersive-storms/tags/worldgen/biome/has_blizzards.json",
+      "sha256": "cd998fdc602e986a8b94afb2c08d0cd8ee86ff6ce3257f3feffaf37c3402f2f6",
+      "size": 216
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/biome/has_dense_fog.json",
+      "source": "data/immersive-storms/tags/worldgen/biome/has_dense_fog.json",
+      "sha256": "272ad6534e7ebcc439d623a0f2e45b8d6f171643c3ea5f9262d23371f53be5f1",
+      "size": 260
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/biome/has_sandstorms.json",
+      "source": "data/immersive-storms/tags/worldgen/biome/has_sandstorms.json",
+      "sha256": "65e7cc0e16a9b6e62bd279734ed20dcd1ec70f490ade80f7c78ff20ebde00dba",
+      "size": 218
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/biome/is_black_rain_affected.json",
+      "source": "data/immersive-storms/tags/worldgen/biome/is_black_rain_affected.json",
+      "sha256": "a4372586dd220181898e2e80ff33bb3ef96054660e65eba0fb30b51aa78a7866",
+      "size": 131
+    },
+    {
+      "name": "data/immersive-storms/tags/worldgen/biome/is_windy.json",
+      "source": "data/immersive-storms/tags/worldgen/biome/is_windy.json",
+      "sha256": "6f90fc43006a83dfca58a8fb8b21f48c3b250ffb20fa0b15d1e275ea210a972f",
+      "size": 287
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/ImmersiveStormsClient.class",
+      "source": "com/thedeathlycow/immersive/storms/ImmersiveStormsClient.class",
+      "sha256": "3b5b908ccd2fe6efaba62318cde5bec3c930a678fce6ee9a5513b079017d146a",
+      "size": 4612
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/ImmersiveStormsModMenu.class",
+      "source": "com/thedeathlycow/immersive/storms/ImmersiveStormsModMenu.class",
+      "sha256": "23bf215bf87811387f346e774ac98bece5bbed696bca28988f92acd0067629e9",
+      "size": 6309
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/",
+      "source": "com/thedeathlycow/immersive/storms/config/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/IdentifierController$GsonAdapter.class",
+      "source": "com/thedeathlycow/immersive/storms/config/IdentifierController$GsonAdapter.class",
+      "sha256": "ae12594b0eddc7c1adca2f7ca5503bb9e67f222ef71268a041f455bf2d40ae79",
+      "size": 2503
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/IdentifierController.class",
+      "source": "com/thedeathlycow/immersive/storms/config/IdentifierController.class",
+      "sha256": "d4de2a0fd6582a2f1de6d376037029789f5db9dd2a566c75d383353ffc338075",
+      "size": 2891
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/IdentifierListGroup$BiomeIdentifierGroup.class",
+      "source": "com/thedeathlycow/immersive/storms/config/IdentifierListGroup$BiomeIdentifierGroup.class",
+      "sha256": "f98e9657c8365c3aeb90b03c16447b20cb6f5c94ede541c3a7b240d3706a7a34",
+      "size": 898
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/IdentifierListGroup.class",
+      "source": "com/thedeathlycow/immersive/storms/config/IdentifierListGroup.class",
+      "sha256": "db44facb6870e528cf3a4dfa943a35d21b3c30a0a30508a75690661a7df1741d",
+      "size": 3453
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/Translate$Name.class",
+      "source": "com/thedeathlycow/immersive/storms/config/Translate$Name.class",
+      "sha256": "953257e0180878d8e129e8520d410b99a5347c797d4e93b8ab58b8c593f4bcf2",
+      "size": 562
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/Translate$NoComment.class",
+      "source": "com/thedeathlycow/immersive/storms/config/Translate$NoComment.class",
+      "sha256": "278a134cd2e39f829065c01d04df10e6a0ee3e757db764ee07fd0f6947738df6",
+      "size": 541
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/Translate.class",
+      "source": "com/thedeathlycow/immersive/storms/config/Translate.class",
+      "sha256": "ade174d1df83e1f0dbd5ec11efc4ddb474279be4ee0163d5eea7ef3c7d1c9e19",
+      "size": 1613
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/Updater.class",
+      "source": "com/thedeathlycow/immersive/storms/config/Updater.class",
+      "sha256": "31cab49e3ad8f542d361c20ffe57ecb00e1772dbc0dc8743a84ce5c97320ca09",
+      "size": 6798
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/schema/",
+      "source": "com/thedeathlycow/immersive/storms/config/schema/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/schema/ConfigUpdater.class",
+      "source": "com/thedeathlycow/immersive/storms/config/schema/ConfigUpdater.class",
+      "sha256": "6b4c670ffb48ce095f296844a58bbe5e09a42b6d423fcdae3fe7d484310da71c",
+      "size": 225
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/schema/JsonCopyHelper.class",
+      "source": "com/thedeathlycow/immersive/storms/config/schema/JsonCopyHelper.class",
+      "sha256": "7242c64e43e3e7c1d2ed3118fbe84ca9807bd1abd4e0fe7fa34bb937710eb0a7",
+      "size": 1684
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/schema/SchemaV2.class",
+      "source": "com/thedeathlycow/immersive/storms/config/schema/SchemaV2.class",
+      "sha256": "da17352be631df7b6e77d2649b95fcd3769cacdea96519560c4f4e554092c8b5",
+      "size": 1783
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/section/",
+      "source": "com/thedeathlycow/immersive/storms/config/section/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/section/BiomeConfig$1.class",
+      "source": "com/thedeathlycow/immersive/storms/config/section/BiomeConfig$1.class",
+      "sha256": "8a475f28e52d4190c134fdacdb926141958f06f2bbb52acf5215fe2dc34bf36d",
+      "size": 953
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/section/BiomeConfig.class",
+      "source": "com/thedeathlycow/immersive/storms/config/section/BiomeConfig.class",
+      "sha256": "022438f19ffe6f97ae3e51a9289e496ac134cb2c7925476f7fbe7a50d059d0d6",
+      "size": 9219
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/section/ImmersiveStormsConfig.class",
+      "source": "com/thedeathlycow/immersive/storms/config/section/ImmersiveStormsConfig.class",
+      "sha256": "6b29d7568570b47d2519c96d5a7b8fe73811fa195e9c294bf8e568f9b783a99e",
+      "size": 7259
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/section/SandstormConfig.class",
+      "source": "com/thedeathlycow/immersive/storms/config/section/SandstormConfig.class",
+      "sha256": "0b21de2d5d32bbb6f6e55b9c840251531ae3d4ec0d816931605a0e7fff002ec8",
+      "size": 4936
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/config/section/SchemaConfig.class",
+      "source": "com/thedeathlycow/immersive/storms/config/section/SchemaConfig.class",
+      "sha256": "ebf3b3ceeb0fef0023bb6da6a799f7c68d8eeaf3e1b0c5978003f4d7812b9d60",
+      "size": 3378
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/AtmosphericFogEnvironmentMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/AtmosphericFogEnvironmentMixin.class",
+      "sha256": "4d1669a8252ebaa3a80b4c6ce0a48b0ebdb5204f9b84ccac254cbb1aae1e8d8f",
+      "size": 3357
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/ClientLevelMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/ClientLevelMixin.class",
+      "sha256": "cfa0d0cd23a37274b594478d3031b3b70831bfe33476d979f919890a37d7d982",
+      "size": 2646
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/LevelAccessor.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/LevelAccessor.class",
+      "sha256": "dec63e0b7f4ca4671406d8eb36a1bf803ef1979159d586c4e536ecc8a8cac3b4",
+      "size": 430
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/SkyRendererMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/SkyRendererMixin.class",
+      "sha256": "35ec13ded70eb07e03393f802ac7a07ea04ec6e085abd33197a270c547ded3bc",
+      "size": 2572
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/WeatherEffectRendererMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/WeatherEffectRendererMixin.class",
+      "sha256": "037c71cc7953ba8ec4b5773e3975bcdbb6e693bf93dc585e96d94f0f3f51defc",
+      "size": 7718
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/client/WeatherRenderStateMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/client/WeatherRenderStateMixin.class",
+      "sha256": "4a83d7c39e6508f634be6ee938153d72488bc121615ac6614416259aaf9693bb",
+      "size": 2174
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/Plugin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/Plugin.class",
+      "sha256": "d7c0032577a8807aca65132443a24e3cce4195f0eb41b0817356b1685adadc19",
+      "size": 2702
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/particlerain/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/particlerain/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/particlerain/present/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/particlerain/present/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/particlerain/present/TintTypeMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/particlerain/present/TintTypeMixin.class",
+      "sha256": "9e6f82c54d9449eefda239c70c8be137111ec5372ba88aa6d4402a3541caa0f4",
+      "size": 1696
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/subtle_effects/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/subtle_effects/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/subtle_effects/present/",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/subtle_effects/present/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/mixin/compat/client/subtle_effects/present/WeatherEffectRendererMixin.class",
+      "source": "com/thedeathlycow/immersive/storms/mixin/compat/client/subtle_effects/present/WeatherEffectRendererMixin.class",
+      "sha256": "f720da0e361160798010d5f7df784bfe97168efd28f27bfd9824a7bfc6ca32bd",
+      "size": 4220
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/particle/BlackWaterDropParticle$Provider.class",
+      "source": "com/thedeathlycow/immersive/storms/particle/BlackWaterDropParticle$Provider.class",
+      "sha256": "6428b7abe7693fea60b1bfb774631d459c881915f4666d72f293fa84a16558f2",
+      "size": 2262
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/particle/BlackWaterDropParticle.class",
+      "source": "com/thedeathlycow/immersive/storms/particle/BlackWaterDropParticle.class",
+      "sha256": "f8e4444d1121bae98223a867e106f6049020b68863b13817e1acab4e0dc8726e",
+      "size": 1021
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/particle/DustGrainParticle$Provider.class",
+      "source": "com/thedeathlycow/immersive/storms/particle/DustGrainParticle$Provider.class",
+      "sha256": "2729c02f7a7b3b4352f8dda02965bb62d3ea395951a71c9e597fc4fe97289435",
+      "size": 2322
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/particle/DustGrainParticle.class",
+      "source": "com/thedeathlycow/immersive/storms/particle/DustGrainParticle.class",
+      "sha256": "e58e8b7008a009236851ec2f50715619663bf197eabadc0f9769d8193275310d",
+      "size": 1981
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/util/WeatherEffectsClient.class",
+      "source": "com/thedeathlycow/immersive/storms/util/WeatherEffectsClient.class",
+      "sha256": "1b1b21ebeff8151210df0858ebd312327296ea456459e04c2a0866951b2fdcda",
+      "size": 6540,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            10,
+            352
+          ]
+        },
+        {
+          "insert": "PGNvbS90aGVkZWF0aGx5Y293L2ltbWVyc2l2ZS9zdG9ybXMvdXRpbC9XZWF0aGVyRWZmZWN0c0NsaWVudAEAG2lzSW5XaXRoTG9jYWxGYWxs"
+        },
+        {
+          "copy": [
+            369,
+            1
+          ]
+        },
+        {
+          "insert": "YWNr"
+        },
+        {
+          "copy": [
+            401,
+            1
+          ]
+        },
+        {
+          "insert": "YWM="
+        },
+        {
+          "copy": [
+            421,
+            1
+          ]
+        },
+        {
+          "insert": "ZWQ="
+        },
+        {
+          "copy": [
+            435,
+            175
+          ]
+        },
+        {
+          "insert": "CQASABwMAB0AHgEACEFMTF9UQUdTAQAcTGphdmEvbGFuZy9pbnZva2UvVmFySGFuZGxlOwcAIAEAI25ldC9taW5lY3JhZnQvY29yZS9Ib2xkZXIkUmVmZXJlbmNl"
+        },
+        {
+          "copy": [
+            610,
+            2
+          ]
+        },
+        {
+          "insert": "IgAj"
+        },
+        {
+          "copy": [
+            615,
+            2
+          ]
+        },
+        {
+          "insert": "JAwAJQAmAQA="
+        },
+        {
+          "copy": [
+            617,
+            1
+          ]
+        },
+        {
+          "insert": "bmV0L21pbmVjcmFmdC9jbGllbnQvTWluZWNyYWZ0AQALZ2V0SW5zdGFuY2UBACIoKUxuZXQvbWluZWNyYWZ0L2NsaWVudC9NaW5lY3JhZnQ7CgAiACg="
+        },
+        {
+          "copy": [
+            618,
+            2
+          ]
+        },
+        {
+          "insert": "KQAqAQAMaXNTYW1lVGhyZWFkAQADKClaCQAiACwMAC0ALgEABWxldmVsAQAuTG5ldC9taW5lY3JhZnQvY2xpZW50L211bHRpcGxheWVyL0NsaWVudExldmVsOwoAEgAwDAAxADIBAA12YWxpZGF0ZUNhY2hlAQBMKExuZXQvbWluZWNyYWZ0L2NsaWVudC9tdWx0aXBsYXllci9DbGllbnRMZXZlbDtMbmV0L21pbmVjcmFmdC90YWdzL1RhZ0tleTspWgkAEgA0DAA1ADYBAAlUQUdfQ0FDSEUBADtMaXQvdW5pbWkvZHNpL2Zhc3R1dGlsL29i"
+        },
+        {
+          "copy": [
+            626,
+            1
+          ]
+        },
+        {
+          "insert": "ZWN0cy9SZWZlcmVuY2Uy"
+        },
+        {
+          "copy": [
+            636,
+            6
+          ]
+        },
+        {
+          "insert": "T3Blbkhhc2hNYXA7CgA4ADkHADoMADsAPAEAOWl0L3VuaW1pL2RzaS9mYXN0dXRpbC9vYmplY3RzL1JlZmVyZW5jZTJPYmplY3RPcGVuSGFzaE1hcAEAA2dldAEAJihMamF2YS9sYW5nL09iamVjdDspTGphdmEvbGFuZy9PYmplY3Q7CgA4AD4MAD8AQA=="
+        },
+        {
+          "copy": [
+            642,
+            15
+          ]
+        },
+        {
+          "insert": "CgA4AEIMAEMARAEAA3B1dAEAOChMamF2YS9sYW5nL09iamVjdDtMamF2YS9sYW5nL09iamVjdDspTGphdmEvbGFuZy9PYmplY3Q7"
+        },
+        {
+          "copy": [
+            657,
+            2
+          ]
+        },
+        {
+          "insert": "RgEAEWphdmEvbGFuZy9Cb29sZWFuCgBFAEgMAEkAKgEADGJvb2xlYW5WYWx1ZQoASwBMBwBNDABOABYBADBuZXQvZmFicmljbWMvZmFicmljL2FwaS90YWcvY2xpZW50L3YxL0NsaWVudFRhZ3MBABVpc0luV2l0aExvY2FsRmFsbGJhY2sKAEUAUAwAUQBSAQAHdmFsdWVPZgEAFihaKUxqYXZhL2xhbmcvQm9vbGVhbjsKAFQAVQcAVgwAVwBYAQAsbmV0L21pbmVjcmFmdC9jbGllbnQvbXVsdGlwbGF5ZXIvQ2xpZW50TGV2ZWwBAA5yZWdpc3RyeUFjY2VzcwEAJSgpTG5ldC9taW5lY3JhZnQvY29yZS9SZWdpc3RyeUFjY2VzczsKABIAWgwAWwBcAQAKaW52YWxpZGF0ZQEAgyhMbmV0L21pbmVjcmFmdC9jbGllbnQvbXVsdGlwbGF5ZXIvQ2xpZW50TGV2ZWw7TG5ldC9taW5lY3JhZnQvY29yZS9SZWdpc3RyeUFjY2VzcztMbmV0L21pbmVjcmFmdC9jb3JlL1JlZ2lzdHJ5O0xqYXZhL2xhbmcvT2JqZWN0OylWCQASAF4MAF8ALgEAC2NhY2hlZExldmVsCQASAGEMAGIAYwEAFGNhY2hlZFJlZ2lzdHJ5QWNjZXNzAQAjTG5ldC9taW5lY3JhZnQvY29yZS9SZWdpc3RyeUFjY2VzczsKAGUAZgcAZwwAaABpAQAZbmV0L21pbmVjcmFmdC90YWdzL1RhZ0tleQEACHJlZ2lzdHJ5AQAnKClMbmV0L21pbmVjcmFmdC9yZXNvdXJjZXMvUmVzb3VyY2VLZXk7CwBrAGwHAG0MAG4AbwEAIW5ldC9taW5lY3JhZnQvY29yZS9SZWdpc3RyeUFjY2VzcwEABmxvb2t1cAEAOyhMbmV0L21pbmVjcmFmdC9yZXNvdXJjZXMvUmVzb3VyY2VLZXk7KUxqYXZhL3V0aWwvT3B0aW9uYWw7CgBxAHIHAHMMAHQAKgEAEmphdmEvdXRpbC9PcHRpb25hbAEACWlzUHJlc2VudAoAcQB2DAA7AHcBABQoKUxqYXZhL2xhbmcvT2JqZWN0OwcAeQEAIW5ldC9taW5lY3JhZnQvY29yZS9NYXBwZWRSZWdpc3RyeQcAewEAG25ldC9taW5lY3JhZnQvY29yZS9SZWdpc3RyeQoAfQB+BwB/DAA7AIABABpqYXZhL2xhbmcvaW52b2tlL1ZhckhhbmRsZQEANyhMbmV0L21pbmVjcmFmdC9jb3JlL01hcHBlZFJlZ2lzdHJ5OylMamF2YS9sYW5nL09iamVjdDsJABIAggwAgwCEAQAOY2FjaGVkUmVnaXN0cnkBAB1MbmV0L21pbmVjcmFmdC9jb3JlL1JlZ2lzdHJ5OwsAegCGDACHAGkBAANrZXkJABIAiQwAigCLAQAMY2FjaGVkVGFnU2V0AQASTGphdmEvbGFuZy9PYmplY3Q7CgA4AI0MAI4AQAEABWNsZWFyCACQAQAobmV0Lm1pbmVjcmFmdC5jb3JlLk1hcHBlZFJlZ2lzdHJ5JFRhZ1NldAoAkgCTBwCUDACVAJYBAA9qYXZhL2xhbmcvQ2xhc3MBAA5nZXRDbGFzc0xvYWRlcgEAGSgpTGphdmEvbGFuZy9DbGFzc0xvYWRlcjsKAJIAmAwAmQCaAQAHZm9yTmFtZQEAPShMamF2YS9sYW5nL1N0cmluZztaTGphdmEvbGFuZy9DbGFzc0xvYWRlcjspTGphdmEvbGFuZy9DbGFzczsKAJwAnQcAngwAbgCfAQAeamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzAQApKClMamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzJExvb2t1cDsKAJwAoQwAogCjAQAPcHJpdmF0ZUxvb2t1cEluAQBhKExqYXZhL2xhbmcvQ2xhc3M7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kSGFuZGxlcyRMb29rdXA7KUxqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwOwgApQEAB2FsbFRhZ3MKAKcAqAcAqQwAqgCrAQAlamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzJExvb2t1cAEADWZpbmRWYXJIYW5kbGUBAFIoTGphdmEvbGFuZy9DbGFzcztMamF2YS9sYW5nL1N0cmluZztMamF2YS9sYW5nL0NsYXNzOylMamF2YS9sYW5nL2ludm9rZS9WYXJIYW5kbGU7BwCtAQATamF2YS9sYW5nL1Rocm93YWJsZQoArwA+BwCwAQAQamF2YS9sYW5nL09iamVjdAoAEgCyDACzALQBABFmaW5kQWxsVGFnc0hhbmRsZQEAHigpTGphdmEvbGFuZy9pbnZva2UvVmFySGFuZGxlOwEACVNpZ25hdHVyZQEAyUxpdC91bmltaS9kc2kvZmFzdHV0aWwvb2JqZWN0cy9SZWZlcmVuY2UyT2JqZWN0T3Blbkhhc2hNYXA="
+        },
+        {
+          "copy": [
+            662,
+            1
+          ]
+        },
+        {
+          "insert": "TG5ldC9taW5lY3JhZnQvdGFncy9UYWdLZXk8Kj47TGl0L3VuaW1pL2RzaS9mYXN0dXRpbC9vYmplY3RzL1JlZmVyZW5jZTJPYmplY3RPcGVuSGFz"
+        },
+        {
+          "copy": [
+            668,
+            1
+          ]
+        },
+        {
+          "insert": "TWFwPExuZXQvbWluZWNyYWZ0L2NvcmUvSG9sZGVyPCo+O0xqYXZhL2xhbmcvQm9vbGVhbjs+Oz47AQAgTG5ldC9taW5lY3JhZnQvY29yZS9SZWdpc3Ry"
+        },
+        {
+          "copy": [
+            676,
+            1
+          ]
+        },
+        {
+          "insert": "PCo+Ow=="
+        },
+        {
+          "copy": [
+            723,
+            286
+          ]
+        },
+        {
+          "copy": [
+            1021,
+            133
+          ]
+        },
+        {
+          "insert": "BnBlclRhZwEABmNhY2hlZAEAE0xqYXZhL2xhbmcvQm9vbGVhbjsBAAZyZXN1bHQBAAFaAQAJbWluZWNyYWZ0AQAgTG5ldC9taW5lY3JhZnQvY2xpZW50L01pbmVjcmFmdDsBAAN0YWcBABtMbmV0L21pbmVjcmFmdC90YWdzL1RhZ0tleTsBAG5MaXQvdW5pbWkvZHNpL2Zhc3R1dGlsL29iamVjdHMvUmVmZXJlbmNlMk9iamVjdE9wZW5IYXNoTWFwPExuZXQvbWluZWNyYWZ0L2NvcmUvSG9sZGVyPCo+O0xqYXZhL2xhbmcvQm9vbGVhbjs+OwEARExuZXQvbWluZWNyYWZ0L3RhZ3MvVGFnS2V5PExuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL2Jpb21lL0Jpb21lOz47BwDQAQAZbmV0L21pbmVjcmFmdC9jb3JlL0hvbGRlcgEAiyhMbmV0L21pbmVjcmFmdC90YWdzL1RhZ0tleTxMbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9iaW9tZS9CaW9tZTs+O0xuZXQvbWluZWNyYWZ0L2NvcmUvSG9sZGVyPExuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL2Jpb21lL0Jpb21lOz47KVoBABRMamF2YS91dGlsL09wdGlvbmFsOwEACHJlc29sdmVkAQAGdGFnU2V0AQBdTGphdmEvdXRpbC9PcHRpb25hbDwrTG5ldC9taW5lY3JhZnQvY29yZS9SZWdpc3RyeTxMbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9iaW9tZS9CaW9tZTs+Oz47AQB1KExuZXQvbWluZWNyYWZ0L2NsaWVudC9tdWx0aXBsYXllci9DbGllbnRMZXZlbDtMbmV0L21pbmVjcmFmdC90YWdzL1RhZ0tleTxMbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9iaW9tZS9CaW9tZTs+OylaAQCGKExuZXQvbWluZWNyYWZ0L2NsaWVudC9tdWx0aXBsYXllci9DbGllbnRMZXZlbDtMbmV0L21pbmVjcmFmdC9jb3JlL1JlZ2lzdHJ5QWNjZXNzO0xuZXQvbWluZWNyYWZ0L2NvcmUvUmVnaXN0cnk8Kj47TGphdmEvbGFuZy9PYmplY3Q7KVYBAAp0YWdTZXRUeXBlAQARTGphdmEvbGFuZy9DbGFzczsBAAF0AQAVTGphdmEvbGFuZy9UaHJvd2FibGU7AQAUTGphdmEvbGFuZy9DbGFzczwqPjsBAA=="
+        },
+        {
+          "copy": [
+            1154,
+            70
+          ]
+        },
+        {
+          "insert": "AQAIPGNsaW5pdD4="
+        },
+        {
+          "copy": [
+            1224,
+            41
+          ]
+        },
+        {
+          "insert": "AQAMSW5uZXJDbGFzc2VzAQAJUmVmZXJlbmNlAQAGTG9va3Vw"
+        },
+        {
+          "copy": [
+            1265,
+            3
+          ]
+        },
+        {
+          "insert": "EgCvAAAABgAaAB0AHgAAABoANQA2AAEAtQ=="
+        },
+        {
+          "copy": [
+            1273,
+            5
+          ]
+        },
+        {
+          "insert": "tgAKAF8ALgAAAAoAYgBjAAAACgCDAIQAAQC1AAAAAgC3AAoAigCLAAAABwA="
+        },
+        {
+          "copy": [
+            1278,
+            2
+          ]
+        },
+        {
+          "insert": "uA=="
+        },
+        {
+          "copy": [
+            1281,
+            5
+          ]
+        },
+        {
+          "insert": "uQ=="
+        },
+        {
+          "copy": [
+            1287,
+            62
+          ]
+        },
+        {
+          "insert": "ug=="
+        },
+        {
+          "copy": [
+            1350,
+            9
+          ]
+        },
+        {
+          "insert": "IA=="
+        },
+        {
+          "copy": [
+            1360,
+            3
+          ]
+        },
+        {
+          "insert": "IQ=="
+        },
+        {
+          "copy": [
+            1364,
+            3
+          ]
+        },
+        {
+          "insert": "IgAsACAAuwAAABYAAgAAAC0AvAC9AAAAAAAtAL4AvwABAMAAAAA="
+        },
+        {
+          "copy": [
+            1367,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            1380,
+            5
+          ]
+        },
+        {
+          "insert": "vgDBAAEAwg=="
+        },
+        {
+          "copy": [
+            1420,
+            11
+          ]
+        },
+        {
+          "insert": "tQAAAAIAwwAIABUAFgACALkAAAFyAAMABwAAAIOyABvGAHorwQAfmQBzuAAhTSzGAGsstgAnmQBkLLQAK04txgBbLSq4AC+ZAFOyADMqtgA3wAA4OgQZBMcAFrsAOFm3AD06BLIAMyoZBLYAQVcZBCu2ADfAAEU6BRkFxgAJGQW2AEesKiu4AEo2BhkEKxUGuABPtgBBVxUGrCoruABKrAAAAAQAugAAAEIAEAAAACsADQAsABEALQAcAA=="
+        },
+        {
+          "copy": [
+            1431,
+            2
+          ]
+        },
+        {
+          "insert": "IQAvAC0AMAA5ADEAPgAyAEcAMwBRADYAXAA3AGEAOABnADsAbgA8AHoAPQB9AEIAuwAAAEgABwA5AEQAxAA2AAQAXAAhAMUAxgAFAG4ADwDHAMgABgAhAFwALQAuAAMAEQBsAMkAyg=="
+        },
+        {
+          "copy": [
+            1434,
+            3
+          ]
+        },
+        {
+          "insert": "AACDAMsAzAAAAAAAgwC+AL8AAQDAAAAAIAADADkARADEAM0ABAAAAIMAywDOAAAAAACDAL4AwQABAMIAAAAhAAP+AFEHACIHAFQHADj8ABUHAEX/ABU="
+        },
+        {
+          "copy": [
+            1438,
+            2
+          ]
+        },
+        {
+          "insert": "BwBlBwDPAAAAtQAAAAIA0QAKADEAMgACALkAAAG6AAUABQAAAJsqtgBTTSzHAAwBAQEBuABZA6wqsgBdpgAKLLIAYKUARywrtgBkuQBqAgBOLbYAcJkAFy22AHXBAHiZAA0ttgB1wAB6pwAEAToEKiwZBBkExgARsgAbGQTAAHi2AHynAAQBuABZsgCBxgASsgCBuQCFAQArtgBkpQAFA6yyABuyAIHAAHi2AHxOLbIAiKUADbIAM7YAjC2zAIgErAAAAAQAugAAAD4ADwAAAEYABQBHAAkASAAQAEkAEgBM"
+        },
+        {
+          "copy": [
+            1442,
+            3
+          ]
+        },
+        {
+          "insert": "TQArAE4ASQBPAGQAUgB5AFMAewBWAIgAVwCPAFgAlQBZAJkAXAC7AAAAPgAGACsAOQBoANIAAwBJABsA0wCEAAQAAACbAC0ALgAAAAAAmwDLAMwAAQAFAJYAVwBjAAIAiAATANQAiwADAMAAAAAgAAMAKwA5AGgA1QADAEkAGwDTALcABAAAAJsAywDOAAEAwgAAAF8ACvwAEgcAaw38ACUHAHFABwB6/wAYAAUHAFQHAGUHAGsHAHEHAHoAAwcAVAcAawcAev8AAAAFBwBUBwBlBwBrBwBxBwB6AAQHAFQHAGsHAHoHAK/5AAIUAfwAHQcArwC1AAAAAgDWAAoAWwBcAAIAuQAAAIUAAQAEAAAAF7IAM7YAjCqzAF0rswBgLLMAgS2zAIixAAAAAwC6AAAAGgAGAAAAYAAGAGEACgBiAA4AYwASAGQAFgBlALsAAAAqAAQAAAAXAC0ALgAAAAAAFwBXAGMAAQAAABcAaACEAAIAAAAXANQAiwADAMAAAAAMAAEAAAAXAGgAtwACALUAAAACANcACgCzALQAAQC5AAAAhgAEAAEAAAAgEo8DEni2AJG4AJdLEni4AJu4AKASeBKkKrYAprBLAbAAAQAAABwAHQCsAAQAugAAABIABAAAAGkADABqAB0AawAeAGwAuwAAABYAAgAMABEA2ADZAAAAHgACANoA2wAAAMAAAAAMAAEADAARANgA3AAAAMIAAAAGAAFdBwCsAAIAPwBAAAEAuQ=="
+        },
+        {
+          "copy": [
+            1448,
+            15
+          ]
+        },
+        {
+          "insert": "rrEAAAACALoAAAAKAAIAAABwAAQAcQC7AAAADAABAAAABQDdAN4AAAAIAN8AQAABALkAAAAtAAIAAAAAABG4ALGzAA=="
+        },
+        {
+          "copy": [
+            1463,
+            1
+          ]
+        },
+        {
+          "insert": "uwA4WbcAPbMAMw=="
+        },
+        {
+          "copy": [
+            1464,
+            4
+          ]
+        },
+        {
+          "insert": "AQC6AAAACgA="
+        },
+        {
+          "copy": [
+            1468,
+            2
+          ]
+        },
+        {
+          "insert": "AAAYAAYAGQ=="
+        },
+        {
+          "copy": [
+            1475,
+            3
+          ]
+        },
+        {
+          "insert": "4A=="
+        },
+        {
+          "copy": [
+            1507,
+            5
+          ]
+        },
+        {
+          "insert": "4QDiAAAAEgACAB8AzwDjAAkApwCcAOQAGQ=="
+        }
+      ]
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/",
+      "source": "com/thedeathlycow/immersive/storms/world/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/BiomeWindEffects$ParticleColor.class",
+      "source": "com/thedeathlycow/immersive/storms/world/BiomeWindEffects$ParticleColor.class",
+      "sha256": "7746fa72385ecb49f811e397a7ab9d866e0bb78aac5158105f0f18ec690cbbfd",
+      "size": 4942
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/BiomeWindEffects.class",
+      "source": "com/thedeathlycow/immersive/storms/world/BiomeWindEffects.class",
+      "sha256": "1dac1ed5ae0660a035f98aee7ac6a7e5acb103e78ad7d7fc6e0db346a439b04c",
+      "size": 6741
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/BlackRainEffect.class",
+      "source": "com/thedeathlycow/immersive/storms/world/BlackRainEffect.class",
+      "sha256": "7ed9684d1c945e91f2a944a08d7be4fff99ac025dae3c0caa6756cb3cfa07ecc",
+      "size": 1651
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/SandstormParticles.class",
+      "source": "com/thedeathlycow/immersive/storms/world/SandstormParticles.class",
+      "sha256": "5e7fbd12edd5ad05941a596b9195b05b690317ad1ca32d7bf2e4606b534876af",
+      "size": 5991
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/SandstormSounds.class",
+      "source": "com/thedeathlycow/immersive/storms/world/SandstormSounds.class",
+      "sha256": "a1bc3ce5c13cd739546ca18f788fe060026a8b057406bf65e69520c0278e172b",
+      "size": 6165
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/StormFogModifier.class",
+      "source": "com/thedeathlycow/immersive/storms/world/StormFogModifier.class",
+      "sha256": "796d580c56bf807df4453890e16efebcb9cb77b9479b607966478a2e5a424c1e",
+      "size": 11506,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "wg=="
+        },
+        {
+          "copy": [
+            10,
+            110
+          ]
+        },
+        {
+          "insert": "CgALAAw="
+        },
+        {
+          "copy": [
+            120,
+            1
+          ]
+        },
+        {
+          "copy": [
+            197,
+            7
+          ]
+        },
+        {
+          "copy": [
+            232,
+            71
+          ]
+        },
+        {
+          "insert": "CQARABIHABMMABQAFQEAOWNvbS90aGVkZWF0aGx5Y293L2ltbWVyc2l2ZS9zdG9ybXMvd29ybGQvU3Rvcm1Gb2dNb2RpZmllcgEABUNBQ0hFAQABWgoAEQAXDAAYABkBAA5zYW1wbGVVbmNhY2hlZAEAZihMbmV0L21pbmVjcmFmdC9jbGllbnQvbXVsdGlwbGF5ZXIvQ2xpZW50TGV2ZWw7TG5ldC9taW5lY3JhZnQvd29ybGQvcGh5cy9WZWMzO0ZGTG9yZy9qb21sL1ZlY3RvcjNmYzspSQoAEQAbDAAcAB0BABFlbnN1cmVUeXBlU2FtcGxlcwEAUChMbmV0L21pbmVjcmFmdC9jbGllbnQvbXVsdGlwbGF5ZXIvQ2xpZW50TGV2ZWw7TG5ldC9taW5lY3JhZnQvd29ybGQvcGh5cy9WZWMzOylWBwAfAQBEY29tL3RoZWRlYXRobHljb3cvaW1tZXJzaXZlL3N0b3Jtcy93b3JsZC9XZWlnaHRlZFZlY3RvcjNmQWNjdW11bGF0b3IKAB4AIQwAIgAjAQAGPGluaXQ+AQADKClWCQARACUMACYAJwEAC2NhY2hlZENvdW50AQABSQkAEQApDAAqACsBAA1jYWNoZWRXZWlnaHRzAQACW0QJABEALQwALgAvAQALY2FjaGVkVHlwZXMBADxbTGNvbS90aGVkZWF0aGx5Y293L2ltbWVyc2l2ZS9zdG9ybXMvdXRpbC9XZWF0aGVyRWZmZWN0VHlwZTsKADEAMgcAMwwANAA1AQA5Y29tL3RoZWRlYXRobHljb3cvaW1tZXJzaXZlL3N0b3Jtcy91dGlsL1dlYXRoZXJFZmZlY3RUeXBlAQALZ2V0Rm9nQ29sb3IBACwoTG9yZy9qb21sL1ZlY3RvcjNmYztGRilMb3JnL2pvbWwvVmVjdG9yM2ZjOwoAHgA3DAA4ADkBAAphY2N1bXVsYXRlAQAYKERMb3JnL2pvbWwvVmVjdG9yM2ZjOylWCgAeADsMADwAPQEADmdldFBhY2tlZENvbG9yAQADKClJ"
+        },
+        {
+          "copy": [
+            303,
+            11
+          ]
+        },
+        {
+          "insert": "QQBC"
+        },
+        {
+          "copy": [
+            317,
+            2
+          ]
+        },
+        {
+          "insert": "Qw=="
+        },
+        {
+          "copy": [
+            320,
+            2
+          ]
+        },
+        {
+          "insert": "RABF"
+        },
+        {
+          "copy": [
+            325,
+            81
+          ]
+        },
+        {
+          "insert": "Rw=="
+        },
+        {
+          "copy": [
+            407,
+            2
+          ]
+        },
+        {
+          "insert": "SABJ"
+        },
+        {
+          "copy": [
+            412,
+            136
+          ]
+        },
+        {
+          "insert": "SwBM"
+        },
+        {
+          "copy": [
+            551,
+            2
+          ]
+        },
+        {
+          "insert": "TQ=="
+        },
+        {
+          "copy": [
+            554,
+            2
+          ]
+        },
+        {
+          "insert": "TgBP"
+        },
+        {
+          "copy": [
+            559,
+            210
+          ]
+        },
+        {
+          "insert": "AgBR"
+        },
+        {
+          "copy": [
+            772,
+            2
+          ]
+        },
+        {
+          "insert": "UgBTAQALZ2V0R2FtZVRpbWU="
+        },
+        {
+          "copy": [
+            794,
+            5
+          ]
+        },
+        {
+          "insert": "SgkAQQBVDABWAFcBAAF4AQABRA=="
+        },
+        {
+          "copy": [
+            800,
+            2
+          ]
+        },
+        {
+          "insert": "WQBa"
+        },
+        {
+          "copy": [
+            805,
+            2
+          ]
+        },
+        {
+          "insert": "Ww=="
+        },
+        {
+          "copy": [
+            808,
+            2
+          ]
+        },
+        {
+          "insert": "XABdAQAQamF2YS9sYW5nL0RvdWJsZQEAE2RvdWJsZVRvUmF3TG9uZ0JpdHMBAAQoRClKCQBBAF8MAGAAVwEAAXkJAEEAYgwAYwBXAQABegkAEQBlDABmAGcBAA5jYWNoZWRHYW1lVGltZQEAAUoJABEAaQwAagBnAQAOY2FjaGVkUG9zWEJpdHMJABEAbAwAbQBnAQAOY2FjaGVkUG9zWUJpdHMJABEAbwwAcABnAQAOY2FjaGVkUG9zWkJpdHMSAAEAcgwASABzAQBnKExuZXQvbWluZWNyYWZ0L2NsaWVudC9tdWx0aXBsYXllci9DbGllbnRMZXZlbDspTG5ldC9taW5lY3JhZnQvd29ybGQvYXR0cmlidXRlL0dhdXNzaWFuU2FtcGxlciRTYW1wbGVyOxIAAgB1DAA4AHYBAD0oKUxuZXQvbWluZWNyYWZ0L3dvcmxkL2F0dHJpYnV0ZS9HYXVzc2lhblNhbXBsZXIkQWNjdW11bGF0b3I7BwB4AQAOamF2YS9sYW5nL0xvbmcFgAAAAAAAAAAKAHwAfQcAfgwAfwCA"
+        },
+        {
+          "copy": [
+            813,
+            151
+          ]
+        },
+        {
+          "insert": "ggCD"
+        },
+        {
+          "copy": [
+            967,
+            2
+          ]
+        },
+        {
+          "insert": "hA=="
+        },
+        {
+          "copy": [
+            970,
+            2
+          ]
+        },
+        {
+          "insert": "hQCG"
+        },
+        {
+          "copy": [
+            975,
+            75
+          ]
+        },
+        {
+          "insert": "iA=="
+        },
+        {
+          "copy": [
+            1051,
+            22
+          ]
+        },
+        {
+          "insert": "igCL"
+        },
+        {
+          "copy": [
+            1076,
+            2
+          ]
+        },
+        {
+          "insert": "jA=="
+        },
+        {
+          "copy": [
+            1079,
+            2
+          ]
+        },
+        {
+          "insert": "jQCO"
+        },
+        {
+          "copy": [
+            1084,
+            71
+          ]
+        },
+        {
+          "insert": "igCQ"
+        },
+        {
+          "copy": [
+            1158,
+            2
+          ]
+        },
+        {
+          "insert": "kQCO"
+        },
+        {
+          "copy": [
+            1163,
+            21
+          ]
+        },
+        {
+          "insert": "hwCT"
+        },
+        {
+          "copy": [
+            1187,
+            2
+          ]
+        },
+        {
+          "insert": "IgCU"
+        },
+        {
+          "copy": [
+            1192,
+            10
+          ]
+        },
+        {
+          "insert": "AwCW"
+        },
+        {
+          "copy": [
+            1205,
+            2
+          ]
+        },
+        {
+          "insert": "lwCY"
+        },
+        {
+          "copy": [
+            1210,
+            44
+          ]
+        },
+        {
+          "insert": "EQCa"
+        },
+        {
+          "copy": [
+            1260,
+            2
+          ]
+        },
+        {
+          "insert": "mwCc"
+        },
+        {
+          "copy": [
+            1325,
+            158
+          ]
+        },
+        {
+          "insert": "BACW"
+        },
+        {
+          "copy": [
+            1486,
+            2
+          ]
+        },
+        {
+          "insert": "EQCf"
+        },
+        {
+          "copy": [
+            1491,
+            2
+          ]
+        },
+        {
+          "insert": "oACh"
+        },
+        {
+          "copy": [
+            1496,
+            184
+          ]
+        },
+        {
+          "insert": "owCk"
+        },
+        {
+          "copy": [
+            1683,
+            2
+          ]
+        },
+        {
+          "insert": "pQ=="
+        },
+        {
+          "copy": [
+            1686,
+            2
+          ]
+        },
+        {
+          "insert": "pgCn"
+        },
+        {
+          "copy": [
+            1691,
+            103
+          ]
+        },
+        {
+          "insert": "qQ=="
+        },
+        {
+          "copy": [
+            1795,
+            4
+          ]
+        },
+        {
+          "insert": "qg=="
+        },
+        {
+          "copy": [
+            1800,
+            36
+          ]
+        },
+        {
+          "insert": "rA=="
+        },
+        {
+          "copy": [
+            1837,
+            66
+          ]
+        },
+        {
+          "insert": "qwCu"
+        },
+        {
+          "copy": [
+            1906,
+            2
+          ]
+        },
+        {
+          "insert": "rwCn"
+        },
+        {
+          "copy": [
+            1911,
+            25
+          ]
+        },
+        {
+          "insert": "sQ=="
+        },
+        {
+          "copy": [
+            1937,
+            48
+          ]
+        },
+        {
+          "insert": "sAAh"
+        },
+        {
+          "copy": [
+            1988,
+            2
+          ]
+        },
+        {
+          "insert": "tA=="
+        },
+        {
+          "copy": [
+            1991,
+            73
+          ]
+        },
+        {
+          "insert": "swAh"
+        },
+        {
+          "copy": [
+            2067,
+            2
+          ]
+        },
+        {
+          "insert": "qQC3"
+        },
+        {
+          "copy": [
+            2072,
+            2
+          ]
+        },
+        {
+          "insert": "uAA9"
+        },
+        {
+          "copy": [
+            2077,
+            16
+          ]
+        },
+        {
+          "insert": "BQC6"
+        },
+        {
+          "copy": [
+            2096,
+            2
+          ]
+        },
+        {
+          "insert": "SAC7"
+        },
+        {
+          "copy": [
+            2101,
+            190
+          ]
+        },
+        {
+          "insert": "swC9"
+        },
+        {
+          "copy": [
+            2294,
+            2
+          ]
+        },
+        {
+          "insert": "vgC/"
+        },
+        {
+          "copy": [
+            2299,
+            46
+          ]
+        },
+        {
+          "insert": "wQDC"
+        },
+        {
+          "copy": [
+            2348,
+            2
+          ]
+        },
+        {
+          "insert": "ww=="
+        },
+        {
+          "copy": [
+            2351,
+            2
+          ]
+        },
+        {
+          "insert": "YADE"
+        },
+        {
+          "copy": [
+            2356,
+            21
+          ]
+        },
+        {
+          "copy": [
+            2381,
+            8
+          ]
+        },
+        {
+          "insert": "xgDH"
+        },
+        {
+          "copy": [
+            2392,
+            2
+          ]
+        },
+        {
+          "insert": "yA=="
+        },
+        {
+          "copy": [
+            2395,
+            2
+          ]
+        },
+        {
+          "insert": "yQDK"
+        },
+        {
+          "copy": [
+            2400,
+            43
+          ]
+        },
+        {
+          "insert": "owDM"
+        },
+        {
+          "copy": [
+            2446,
+            2
+          ]
+        },
+        {
+          "insert": "zQDE"
+        },
+        {
+          "copy": [
+            2451,
+            29
+          ]
+        },
+        {
+          "insert": "igDP"
+        },
+        {
+          "copy": [
+            2483,
+            2
+          ]
+        },
+        {
+          "insert": "0ACO"
+        },
+        {
+          "copy": [
+            2488,
+            11
+          ]
+        },
+        {
+          "insert": "igDS"
+        },
+        {
+          "copy": [
+            2502,
+            2
+          ]
+        },
+        {
+          "insert": "0wCO"
+        },
+        {
+          "copy": [
+            2507,
+            13
+          ]
+        },
+        {
+          "insert": "fADV"
+        },
+        {
+          "copy": [
+            2523,
+            2
+          ]
+        },
+        {
+          "insert": "1gCn"
+        },
+        {
+          "copy": [
+            2528,
+            28
+          ]
+        },
+        {
+          "insert": "EQDY"
+        },
+        {
+          "copy": [
+            2559,
+            2
+          ]
+        },
+        {
+          "insert": "2QDa"
+        },
+        {
+          "copy": [
+            2564,
+            44
+          ]
+        },
+        {
+          "insert": "3ADd"
+        },
+        {
+          "copy": [
+            2611,
+            2
+          ]
+        },
+        {
+          "insert": "3g=="
+        },
+        {
+          "copy": [
+            2614,
+            2
+          ]
+        },
+        {
+          "insert": "3wDg"
+        },
+        {
+          "copy": [
+            2619,
+            130
+          ]
+        },
+        {
+          "insert": "4wDk"
+        },
+        {
+          "copy": [
+            2752,
+            2
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            2755,
+            2
+          ]
+        },
+        {
+          "insert": "5gDn"
+        },
+        {
+          "copy": [
+            2760,
+            160
+          ]
+        },
+        {
+          "insert": "6QDq"
+        },
+        {
+          "copy": [
+            2923,
+            2
+          ]
+        },
+        {
+          "insert": "6w=="
+        },
+        {
+          "copy": [
+            2926,
+            2
+          ]
+        },
+        {
+          "insert": "7ADt"
+        },
+        {
+          "copy": [
+            2931,
+            165
+          ]
+        },
+        {
+          "insert": "7wDw"
+        },
+        {
+          "copy": [
+            3099,
+            2
+          ]
+        },
+        {
+          "insert": "8Q=="
+        },
+        {
+          "copy": [
+            3102,
+            2
+          ]
+        },
+        {
+          "insert": "8gDz"
+        },
+        {
+          "copy": [
+            3107,
+            166
+          ]
+        },
+        {
+          "insert": "9QD2"
+        },
+        {
+          "copy": [
+            3276,
+            2
+          ]
+        },
+        {
+          "insert": "9w=="
+        },
+        {
+          "copy": [
+            3279,
+            2
+          ]
+        },
+        {
+          "insert": "+AD5"
+        },
+        {
+          "copy": [
+            3284,
+            178
+          ]
+        },
+        {
+          "insert": "/AD9"
+        },
+        {
+          "copy": [
+            3465,
+            2
+          ]
+        },
+        {
+          "insert": "/g=="
+        },
+        {
+          "copy": [
+            3468,
+            2
+          ]
+        },
+        {
+          "insert": "/wEA"
+        },
+        {
+          "copy": [
+            3473,
+            52
+          ]
+        },
+        {
+          "insert": "AQIBAw=="
+        },
+        {
+          "copy": [
+            3529,
+            1
+          ]
+        },
+        {
+          "insert": "AQQ="
+        },
+        {
+          "copy": [
+            3532,
+            1
+          ]
+        },
+        {
+          "insert": "AQUBBg=="
+        },
+        {
+          "copy": [
+            3537,
+            106
+          ]
+        },
+        {
+          "insert": "9QEI"
+        },
+        {
+          "copy": [
+            3646,
+            1
+          ]
+        },
+        {
+          "insert": "AQkA+Q=="
+        },
+        {
+          "copy": [
+            3651,
+            23
+          ]
+        },
+        {
+          "insert": "7wEL"
+        },
+        {
+          "copy": [
+            3677,
+            1
+          ]
+        },
+        {
+          "insert": "AQwA+Q=="
+        },
+        {
+          "copy": [
+            3682,
+            20
+          ]
+        },
+        {
+          "insert": "AQ4BDw=="
+        },
+        {
+          "copy": [
+            3706,
+            1
+          ]
+        },
+        {
+          "insert": "ARA="
+        },
+        {
+          "copy": [
+            3709,
+            2
+          ]
+        },
+        {
+          "insert": "/wER"
+        },
+        {
+          "copy": [
+            3714,
+            46
+          ]
+        },
+        {
+          "insert": "AQIBEw=="
+        },
+        {
+          "copy": [
+            3764,
+            1
+          ]
+        },
+        {
+          "insert": "ARQApw=="
+        },
+        {
+          "copy": [
+            3769,
+            14
+          ]
+        },
+        {
+          "insert": "ARYAIQ=="
+        },
+        {
+          "copy": [
+            3787,
+            1
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            3790,
+            21
+          ]
+        },
+        {
+          "insert": "sAEZ"
+        },
+        {
+          "copy": [
+            3814,
+            1
+          ]
+        },
+        {
+          "insert": "ARoBGw=="
+        },
+        {
+          "copy": [
+            3819,
+            61
+          ]
+        },
+        {
+          "insert": "BgEd"
+        },
+        {
+          "copy": [
+            3883,
+            1
+          ]
+        },
+        {
+          "insert": "AR4BHw=="
+        },
+        {
+          "copy": [
+            3888,
+            45
+          ]
+        },
+        {
+          "insert": "ASEBIg=="
+        },
+        {
+          "copy": [
+            3937,
+            1
+          ]
+        },
+        {
+          "insert": "ASM="
+        },
+        {
+          "copy": [
+            3940,
+            1
+          ]
+        },
+        {
+          "insert": "ASQBJQ=="
+        },
+        {
+          "copy": [
+            3945,
+            234
+          ]
+        },
+        {
+          "insert": "AScBKA=="
+        },
+        {
+          "copy": [
+            4183,
+            1
+          ]
+        },
+        {
+          "insert": "ASk="
+        },
+        {
+          "copy": [
+            4186,
+            2
+          ]
+        },
+        {
+          "insert": "lwEq"
+        },
+        {
+          "copy": [
+            4191,
+            72
+          ]
+        },
+        {
+          "insert": "ASw="
+        },
+        {
+          "copy": [
+            4265,
+            73
+          ]
+        },
+        {
+          "insert": "ASsBLg=="
+        },
+        {
+          "copy": [
+            4342,
+            1
+          ]
+        },
+        {
+          "insert": "AS8Avw=="
+        },
+        {
+          "copy": [
+            4347,
+            16
+          ]
+        },
+        {
+          "insert": "owEx"
+        },
+        {
+          "copy": [
+            4366,
+            1
+          ]
+        },
+        {
+          "insert": "ATIBMw=="
+        },
+        {
+          "copy": [
+            4371,
+            78
+          ]
+        },
+        {
+          "insert": "ATUBNg=="
+        },
+        {
+          "copy": [
+            4453,
+            1
+          ]
+        },
+        {
+          "insert": "ATc="
+        },
+        {
+          "copy": [
+            4456,
+            1
+          ]
+        },
+        {
+          "insert": "ATgBOQ=="
+        },
+        {
+          "copy": [
+            4461,
+            177
+          ]
+        },
+        {
+          "insert": "ATs="
+        },
+        {
+          "copy": [
+            4640,
+            1
+          ]
+        },
+        {
+          "insert": "ATwBPQ=="
+        },
+        {
+          "copy": [
+            4645,
+            53
+          ]
+        },
+        {
+          "insert": "BwEd"
+        },
+        {
+          "copy": [
+            4701,
+            2
+          ]
+        },
+        {
+          "insert": "MQFA"
+        },
+        {
+          "copy": [
+            4709,
+            1
+          ]
+        },
+        {
+          "insert": "AUEBQgEACGZvckJpb21lAQB4KExuZXQvbWluZWNyYWZ0L2NvcmUvSG9sZGVyO0xqYXZhL3V0aWwvZnVuY3Rpb24vQmlQcmVkaWNhdGU7KUw="
+        },
+        {
+          "copy": [
+            4717,
+            57
+          ]
+        },
+        {
+          "insert": "OxI="
+        },
+        {
+          "copy": [
+            4775,
+            2
+          ]
+        },
+        {
+          "insert": "AR0IAUUBAAVmYWxzZQgBRwEAHmltbWVyc2l2ZV9zdG9ybXMuZm9nQ29sb3JDYWNoZQgBSQEABHRydWUKAUsBTAcBTQwBTgFPAQAQamF2YS9sYW5nL1N5c3RlbQEAC2dldFByb3BlcnR5AQA4"
+        },
+        {
+          "copy": [
+            4788,
+            2
+          ]
+        },
+        {
+          "insert": "amF2YS9sYW5nL1N0cmluZw=="
+        },
+        {
+          "copy": [
+            4815,
+            7
+          ]
+        },
+        {
+          "insert": "bGFuZy9TdHJpbmc="
+        },
+        {
+          "copy": [
+            4847,
+            3
+          ]
+        },
+        {
+          "insert": "amE="
+        },
+        {
+          "copy": [
+            4875,
+            1
+          ]
+        },
+        {
+          "insert": "YS9sYW5nL1N0cmluZw=="
+        },
+        {
+          "copy": [
+            4907,
+            2
+          ]
+        },
+        {
+          "insert": "AVEBUgcBUw=="
+        },
+        {
+          "copy": [
+            4913,
+            1
+          ]
+        },
+        {
+          "insert": "AVQBVQEAEGphdmEvbGFuZy9TdHJpbmcBABBlcXVhbHNJZ25vcmVDYXNlAQAVKExqYXZhL2xhbmcvU3RyaW5nOyla"
+        },
+        {
+          "copy": [
+            4918,
+            3
+          ]
+        },
+        {
+          "insert": "TUFYX1NBTVBMRVMBAA0="
+        },
+        {
+          "copy": [
+            4927,
+            2
+          ]
+        },
+        {
+          "insert": "bnN0YW50"
+        },
+        {
+          "copy": [
+            4946,
+            1
+          ]
+        },
+        {
+          "insert": "YWx1ZQMAAADY"
+        },
+        {
+          "copy": [
+            4979,
+            136
+          ]
+        },
+        {
+          "insert": "DVN0YWNrTWFwVGFibGUHAV8BAA=="
+        },
+        {
+          "copy": [
+            5115,
+            1
+          ]
+        },
+        {
+          "insert": "b3JnL2pvbWwv"
+        },
+        {
+          "copy": [
+            5121,
+            1
+          ]
+        },
+        {
+          "insert": "ZWN0b3IzZmMBABZjbGVhckNvbG9yQ2FjaGVGb3I="
+        },
+        {
+          "copy": [
+            5129,
+            1
+          ]
+        },
+        {
+          "insert": "ZXN0"
+        },
+        {
+          "copy": [
+            5430,
+            187
+          ]
+        },
+        {
+          "copy": [
+            5967,
+            51
+          ]
+        },
+        {
+          "copy": [
+            6449,
+            284
+          ]
+        },
+        {
+          "insert": "HQ=="
+        },
+        {
+          "copy": [
+            6755,
+            7
+          ]
+        },
+        {
+          "insert": "Vg=="
+        },
+        {
+          "copy": [
+            6765,
+            62
+          ]
+        },
+        {
+          "insert": "Ig=="
+        },
+        {
+          "copy": [
+            6828,
+            7
+          ]
+        },
+        {
+          "insert": "Vg=="
+        },
+        {
+          "copy": [
+            6838,
+            26
+          ]
+        },
+        {
+          "copy": [
+            6933,
+            185
+          ]
+        },
+        {
+          "insert": "GGxhbWJkYSRsZXJwRm9nRGlzdGFuY2UkMQEAGmxhbWJkYSRlbnN1cmU="
+        },
+        {
+          "copy": [
+            7134,
+            4
+          ]
+        },
+        {
+          "insert": "U2FtcGxlcyQyAQA/KEQ="
+        },
+        {
+          "copy": [
+            7141,
+            59
+          ]
+        },
+        {
+          "insert": "KVYBABpsYW1iZGEkZW5zdXJl"
+        },
+        {
+          "copy": [
+            7267,
+            4
+          ]
+        },
+        {
+          "insert": "U2FtcGxlcw=="
+        },
+        {
+          "copy": [
+            7271,
+            1
+          ]
+        },
+        {
+          "insert": "MAEAbihMbmV0L21pbmVjcmFmdC9jbGllbnQvbXVsdGlwbGF5ZXIvQ2xpZW50TGV2ZWw7SUlJKUxjb20vdGhlZGVhdGhseWNvdy9pbW1lcnNpdmUvc3Rvcm1zL3V0aWwv"
+        },
+        {
+          "copy": [
+            7272,
+            7
+          ]
+        },
+        {
+          "insert": "RWZmZWN0VHlwZQ=="
+        },
+        {
+          "copy": [
+            7283,
+            3
+          ]
+        },
+        {
+          "insert": "Gg=="
+        },
+        {
+          "copy": [
+            7287,
+            7
+          ]
+        },
+        {
+          "insert": "ZW5zdXJlVHlwZVNhbXBsZXM="
+        },
+        {
+          "copy": [
+            7309,
+            4
+          ]
+        },
+        {
+          "insert": "F2xhbQ=="
+        },
+        {
+          "copy": [
+            7321,
+            1
+          ]
+        },
+        {
+          "copy": [
+            7369,
+            9
+          ]
+        },
+        {
+          "insert": "VW5jYWNoZWQ="
+        },
+        {
+          "copy": [
+            7393,
+            100
+          ]
+        },
+        {
+          "insert": "F2xhbQ=="
+        },
+        {
+          "copy": [
+            7494,
+            1
+          ]
+        },
+        {
+          "copy": [
+            7577,
+            9
+          ]
+        },
+        {
+          "insert": "VW5jYWNoZWQ="
+        },
+        {
+          "copy": [
+            7601,
+            4
+          ]
+        },
+        {
+          "insert": "CDxjbGluaXQ+AQA="
+        },
+        {
+          "copy": [
+            7605,
+            56
+          ]
+        },
+        {
+          "insert": "eg=="
+        },
+        {
+          "copy": [
+            7662,
+            29
+          ]
+        },
+        {
+          "insert": "fA=="
+        },
+        {
+          "copy": [
+            7692,
+            2
+          ]
+        },
+        {
+          "insert": "EQF9"
+        },
+        {
+          "copy": [
+            7697,
+            2
+          ]
+        },
+        {
+          "insert": "cgFz"
+        },
+        {
+          "copy": [
+            7702,
+            2
+          ]
+        },
+        {
+          "insert": "fw=="
+        },
+        {
+          "copy": [
+            7705,
+            28
+          ]
+        },
+        {
+          "insert": "DwYBgQoAEQGCDAFvAXA="
+        },
+        {
+          "copy": [
+            7733,
+            1
+          ]
+        },
+        {
+          "insert": "AYQBAEAoSUlJKUxjb20vdGhlZGVhdGhseWNvdy9pbW1lcnNpdmUvc3Rvcm1zL3V0aWwvV2VhdGhlckVmZmVjdFR5cGU7EAGGAQAWKERMamF2YS9sYW5nL09iamVjdDspVg8GAYgKABEBiQwBbQFuEAFuEAEq"
+        },
+        {
+          "copy": [
+            7736,
+            3
+          ]
+        },
+        {
+          "insert": "jQ=="
+        },
+        {
+          "copy": [
+            7740,
+            2
+          ]
+        },
+        {
+          "insert": "MQGO"
+        },
+        {
+          "copy": [
+            7745,
+            2
+          ]
+        },
+        {
+          "insert": "jwGQ"
+        },
+        {
+          "copy": [
+            7750,
+            99
+          ]
+        },
+        {
+          "insert": "kg=="
+        },
+        {
+          "copy": [
+            7850,
+            138
+          ]
+        },
+        {
+          "insert": "lA=="
+        },
+        {
+          "copy": [
+            7989,
+            2
+          ]
+        },
+        {
+          "insert": "MQGV"
+        },
+        {
+          "copy": [
+            7994,
+            2
+          ]
+        },
+        {
+          "insert": "lgGQ"
+        },
+        {
+          "copy": [
+            7999,
+            27
+          ]
+        },
+        {
+          "insert": "mA=="
+        },
+        {
+          "copy": [
+            8027,
+            2
+          ]
+        },
+        {
+          "insert": "EQGZ"
+        },
+        {
+          "copy": [
+            8032,
+            2
+          ]
+        },
+        {
+          "insert": "agFr"
+        },
+        {
+          "copy": [
+            8037,
+            2
+          ]
+        },
+        {
+          "insert": "mw=="
+        },
+        {
+          "copy": [
+            8040,
+            30
+          ]
+        },
+        {
+          "insert": "nQ=="
+        },
+        {
+          "copy": [
+            8071,
+            45
+          ]
+        },
+        {
+          "insert": "nw=="
+        },
+        {
+          "copy": [
+            8117,
+            2
+          ]
+        },
+        {
+          "insert": "EQGg"
+        },
+        {
+          "copy": [
+            8122,
+            2
+          ]
+        },
+        {
+          "insert": "bAE5"
+        },
+        {
+          "copy": [
+            8127,
+            1
+          ]
+        },
+        {
+          "insert": "ATk="
+        },
+        {
+          "copy": [
+            8130,
+            3
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            8134,
+            2
+          ]
+        },
+        {
+          "insert": "EQGk"
+        },
+        {
+          "copy": [
+            8139,
+            2
+          ]
+        },
+        {
+          "insert": "cQE5"
+        },
+        {
+          "copy": [
+            8144,
+            3
+          ]
+        },
+        {
+          "insert": "pg=="
+        },
+        {
+          "copy": [
+            8148,
+            1
+          ]
+        },
+        {
+          "insert": "ABEBpwwBdAE5DwYBqQoBqgGr"
+        },
+        {
+          "copy": [
+            8153,
+            2
+          ]
+        },
+        {
+          "insert": "rA=="
+        },
+        {
+          "copy": [
+            8156,
+            2
+          ]
+        },
+        {
+          "insert": "rQGu"
+        },
+        {
+          "copy": [
+            8161,
+            275
+          ]
+        },
+        {
+          "insert": "sQ=="
+        },
+        {
+          "copy": [
+            8437,
+            68
+          ]
+        },
+        {
+          "insert": "tA=="
+        },
+        {
+          "copy": [
+            8506,
+            76
+          ]
+        },
+        {
+          "insert": "tw=="
+        },
+        {
+          "copy": [
+            8583,
+            50
+          ]
+        },
+        {
+          "insert": "ug=="
+        },
+        {
+          "copy": [
+            8634,
+            65
+          ]
+        },
+        {
+          "insert": "vg=="
+        },
+        {
+          "copy": [
+            8700,
+            42
+          ]
+        },
+        {
+          "insert": "wA=="
+        },
+        {
+          "copy": [
+            8743,
+            45
+          ]
+        },
+        {
+          "insert": "EQEWAAA="
+        },
+        {
+          "copy": [
+            8797,
+            3
+          ]
+        },
+        {
+          "insert": "GgAUABUAAAAaAVYAJwABAVcAAAACAVgACgAuAC8AAAAKACoAKwAAAAoAJgAnAAAACgBmAGcAAAAKAGoAZwAAAAoAbQBnAAAACgBwAGcAAAASAAkBWQFaAAEBWwAAAL8ABwAJAAAAZQ=="
+        },
+        {
+          "copy": [
+            8819,
+            14
+          ]
+        },
+        {
+          "insert": "Hbg="
+        },
+        {
+          "copy": [
+            8834,
+            2
+          ]
+        },
+        {
+          "copy": [
+            8840,
+            2
+          ]
+        },
+        {
+          "insert": "sg=="
+        },
+        {
+          "copy": [
+            8844,
+            2
+          ]
+        },
+        {
+          "insert": "mgAPKg=="
+        },
+        {
+          "copy": [
+            8848,
+            1
+          ]
+        },
+        {
+          "copy": [
+            8858,
+            4
+          ]
+        },
+        {
+          "copy": [
+            8867,
+            4
+          ]
+        },
+        {
+          "insert": "FqwqK7gAGrsAHlm3ACA6BwM2CBUIsgAkogAjGQeyACgVCDGyACwVCDI="
+        },
+        {
+          "copy": [
+            8872,
+            2
+          ]
+        },
+        {
+          "insert": "FwQXBQ=="
+        },
+        {
+          "copy": [
+            8874,
+            2
+          ]
+        },
+        {
+          "insert": "MLYANoQIAaf/2xkHtgA6rAAAAAIBXAAAAC4ACwAAADMABwA0AA4ANQAUADcAGgA4ACYAOwArADwANAA+AD8APwBZAD4AXwBCAV0AAAAUAAP+ACYCAgcBXv0AEAcAHgH6ACcACAAYABkAAQFbAAAATQAFAAYAAAAluwAeWbcAIDoFKxQAPrYAQCoZBCQlugBGAAAZBbgAShkFtgA6rAAAAAEBXAAAABYABQAAAEcACQBIAA0ASQAcAEgAHwBTAAoAHAAdAAEBWwAAAQoABAAKAAAAlCq2AFBBK7QAVLgAWDcEK7QAXrgAWDcGK7QAYbgAWDcIsgAsxgAtsgAkngAnILIAZJSaAB8WBLIAaJSaABYWBrIAa5SaAA0WCLIAbpSaAASxsgAsxwAUEQDYvQAxswAsEQDYvAezAA=="
+        },
+        {
+          "copy": [
+            8876,
+            1
+          ]
+        },
+        {
+          "insert": "A7MAJCsUAD62AEAqugBxAAC6AHQAALgASiCzAGQWBLMAaBYGswBrFgizAG6x"
+        },
+        {
+          "copy": [
+            8878,
+            5
+          ]
+        },
+        {
+          "insert": "XAAAAEoAEgAAAFcABQBYAA4AWQAXAFoAIABbAE8AYQBQAGQAVgBlAF8AZgBnAGkAawBqAG8AawB9AGoAgAB4AIQAeQCJAHoAjgB7AJMAfAFdAAAAFAAC/wBQAAYHAAIHAEEEBAQEAAAW"
+        },
+        {
+          "copy": [
+            8888,
+            2
+          ]
+        },
+        {
+          "insert": "AWAAIwABAVsAAAArAAIAAAAAAAsDsw=="
+        },
+        {
+          "copy": [
+            8892,
+            2
+          ]
+        },
+        {
+          "insert": "FAB5swBksQAAAAEBXAAA"
+        },
+        {
+          "copy": [
+            8898,
+            3
+          ]
+        },
+        {
+          "copy": [
+            8937,
+            4
+          ]
+        },
+        {
+          "insert": "gAA="
+        },
+        {
+          "copy": [
+            8945,
+            1
+          ]
+        },
+        {
+          "insert": "AIEACgCCAAkBYQFiAAEBWwAAAMgA"
+        },
+        {
+          "copy": [
+            8955,
+            2
+          ]
+        },
+        {
+          "copy": [
+            8995,
+            1
+          ]
+        },
+        {
+          "copy": [
+            9028,
+            6
+          ]
+        },
+        {
+          "insert": "ew=="
+        },
+        {
+          "copy": [
+            9035,
+            6
+          ]
+        },
+        {
+          "insert": "gQ=="
+        },
+        {
+          "copy": [
+            9042,
+            22
+          ]
+        },
+        {
+          "insert": "hw=="
+        },
+        {
+          "copy": [
+            9065,
+            4
+          ]
+        },
+        {
+          "insert": "iQ=="
+        },
+        {
+          "copy": [
+            9070,
+            3
+          ]
+        },
+        {
+          "insert": "jw=="
+        },
+        {
+          "copy": [
+            9074,
+            2
+          ]
+        },
+        {
+          "insert": "kg=="
+        },
+        {
+          "copy": [
+            9077,
+            8
+          ]
+        },
+        {
+          "insert": "lQ=="
+        },
+        {
+          "copy": [
+            9086,
+            4
+          ]
+        },
+        {
+          "insert": "mQ=="
+        },
+        {
+          "copy": [
+            9091,
+            15
+          ]
+        },
+        {
+          "insert": "nQ=="
+        },
+        {
+          "copy": [
+            9107,
+            4
+          ]
+        },
+        {
+          "insert": "mQ=="
+        },
+        {
+          "copy": [
+            9112,
+            19
+          ]
+        },
+        {
+          "insert": "ng=="
+        },
+        {
+          "copy": [
+            9132,
+            4
+          ]
+        },
+        {
+          "insert": "AgFcAAAAJgAJAAAAhQ=="
+        },
+        {
+          "copy": [
+            9149,
+            3
+          ]
+        },
+        {
+          "insert": "hg=="
+        },
+        {
+          "copy": [
+            9153,
+            3
+          ]
+        },
+        {
+          "insert": "hw=="
+        },
+        {
+          "copy": [
+            9157,
+            3
+          ]
+        },
+        {
+          "insert": "iA=="
+        },
+        {
+          "copy": [
+            9161,
+            3
+          ]
+        },
+        {
+          "insert": "iQAvAIo="
+        },
+        {
+          "copy": [
+            9169,
+            3
+          ]
+        },
+        {
+          "insert": "iw=="
+        },
+        {
+          "copy": [
+            9181,
+            3
+          ]
+        },
+        {
+          "insert": "jABkAI0BXQ=="
+        },
+        {
+          "copy": [
+            9309,
+            13
+          ]
+        },
+        {
+          "insert": "ig=="
+        },
+        {
+          "copy": [
+            9323,
+            2
+          ]
+        },
+        {
+          "insert": "QQ=="
+        },
+        {
+          "copy": [
+            9326,
+            5
+          ]
+        },
+        {
+          "insert": "gg=="
+        },
+        {
+          "copy": [
+            9332,
+            2
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            9335,
+            5
+          ]
+        },
+        {
+          "insert": "hw=="
+        },
+        {
+          "copy": [
+            9341,
+            2
+          ]
+        },
+        {
+          "insert": "wQ=="
+        },
+        {
+          "copy": [
+            9344,
+            5
+          ]
+        },
+        {
+          "insert": "wQ=="
+        },
+        {
+          "copy": [
+            9350,
+            3
+          ]
+        },
+        {
+          "insert": "YwFkAAEBWwAAAFM="
+        },
+        {
+          "copy": [
+            9364,
+            10
+          ]
+        },
+        {
+          "insert": "ew=="
+        },
+        {
+          "copy": [
+            9375,
+            4
+          ]
+        },
+        {
+          "insert": "og=="
+        },
+        {
+          "copy": [
+            9380,
+            7
+          ]
+        },
+        {
+          "insert": "qA=="
+        },
+        {
+          "copy": [
+            9388,
+            8
+          ]
+        },
+        {
+          "insert": "qw=="
+        },
+        {
+          "copy": [
+            9397,
+            2
+          ]
+        },
+        {
+          "insert": "rQ=="
+        },
+        {
+          "copy": [
+            9400,
+            14
+          ]
+        },
+        {
+          "insert": "AgFcAAAACgACAAAAkA=="
+        },
+        {
+          "copy": [
+            9427,
+            3
+          ]
+        },
+        {
+          "insert": "kQFd"
+        },
+        {
+          "copy": [
+            9473,
+            11
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            9485,
+            5
+          ]
+        },
+        {
+          "insert": "mwCc"
+        },
+        {
+          "copy": [
+            9493,
+            2
+          ]
+        },
+        {
+          "insert": "AVsAAABY"
+        },
+        {
+          "copy": [
+            9501,
+            10
+          ]
+        },
+        {
+          "insert": "sA=="
+        },
+        {
+          "copy": [
+            9512,
+            3
+          ]
+        },
+        {
+          "insert": "sg=="
+        },
+        {
+          "copy": [
+            9516,
+            4
+          ]
+        },
+        {
+          "insert": "sw=="
+        },
+        {
+          "copy": [
+            9521,
+            3
+          ]
+        },
+        {
+          "insert": "tQ=="
+        },
+        {
+          "copy": [
+            9525,
+            5
+          ]
+        },
+        {
+          "insert": "tg=="
+        },
+        {
+          "copy": [
+            9531,
+            12
+          ]
+        },
+        {
+          "insert": "uQ=="
+        },
+        {
+          "copy": [
+            9544,
+            6
+          ]
+        },
+        {
+          "insert": "Sg=="
+        },
+        {
+          "copy": [
+            9551,
+            4
+          ]
+        },
+        {
+          "insert": "vA=="
+        },
+        {
+          "copy": [
+            9556,
+            4
+          ]
+        },
+        {
+          "insert": "AQFcAAAAFgAFAAAAlwAJAJgAEgCZABgAmgAqAK0BZQAAAAIBZgAKAKAAoQA="
+        },
+        {
+          "copy": [
+            9560,
+            2
+          ]
+        },
+        {
+          "insert": "WwAAALo="
+        },
+        {
+          "copy": [
+            9707,
+            12
+          ]
+        },
+        {
+          "insert": "jw=="
+        },
+        {
+          "copy": [
+            9720,
+            3
+          ]
+        },
+        {
+          "insert": "wA=="
+        },
+        {
+          "copy": [
+            9724,
+            4
+          ]
+        },
+        {
+          "insert": "xQ=="
+        },
+        {
+          "copy": [
+            9729,
+            13
+          ]
+        },
+        {
+          "insert": "wA=="
+        },
+        {
+          "copy": [
+            9743,
+            4
+          ]
+        },
+        {
+          "insert": "xQ=="
+        },
+        {
+          "copy": [
+            9748,
+            8
+          ]
+        },
+        {
+          "insert": "yw=="
+        },
+        {
+          "copy": [
+            9757,
+            8
+          ]
+        },
+        {
+          "insert": "jw=="
+        },
+        {
+          "copy": [
+            9766,
+            15
+          ]
+        },
+        {
+          "insert": "jw=="
+        },
+        {
+          "copy": [
+            9782,
+            4
+          ]
+        },
+        {
+          "insert": "zg=="
+        },
+        {
+          "copy": [
+            9787,
+            5
+          ]
+        },
+        {
+          "insert": "zg=="
+        },
+        {
+          "copy": [
+            9793,
+            4
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            9798,
+            5
+          ]
+        },
+        {
+          "insert": "0Q=="
+        },
+        {
+          "copy": [
+            9804,
+            2
+          ]
+        },
+        {
+          "insert": "1A=="
+        },
+        {
+          "copy": [
+            9807,
+            7
+          ]
+        },
+        {
+          "insert": "1w=="
+        },
+        {
+          "copy": [
+            9815,
+            4
+          ]
+        },
+        {
+          "insert": "AgFc"
+        },
+        {
+          "copy": [
+            9822,
+            9
+          ]
+        },
+        {
+          "insert": "sw=="
+        },
+        {
+          "copy": [
+            9832,
+            3
+          ]
+        },
+        {
+          "insert": "tA=="
+        },
+        {
+          "copy": [
+            9836,
+            3
+          ]
+        },
+        {
+          "insert": "tQ=="
+        },
+        {
+          "copy": [
+            9840,
+            3
+          ]
+        },
+        {
+          "insert": "uA=="
+        },
+        {
+          "copy": [
+            9844,
+            3
+          ]
+        },
+        {
+          "insert": "uQ=="
+        },
+        {
+          "copy": [
+            9848,
+            3
+          ]
+        },
+        {
+          "insert": "ug=="
+        },
+        {
+          "copy": [
+            9852,
+            3
+          ]
+        },
+        {
+          "insert": "uw=="
+        },
+        {
+          "copy": [
+            9856,
+            3
+          ]
+        },
+        {
+          "insert": "vA=="
+        },
+        {
+          "copy": [
+            9860,
+            3
+          ]
+        },
+        {
+          "insert": "vQ=="
+        },
+        {
+          "copy": [
+            9864,
+            3
+          ]
+        },
+        {
+          "insert": "wA=="
+        },
+        {
+          "copy": [
+            9868,
+            3
+          ]
+        },
+        {
+          "insert": "wQBkAMMBXQ=="
+        },
+        {
+          "copy": [
+            9966,
+            16
+          ]
+        },
+        {
+          "insert": "Zw=="
+        },
+        {
+          "copy": [
+            9983,
+            10
+          ]
+        },
+        {
+          "insert": "aAAAAWk="
+        },
+        {
+          "copy": [
+            9998,
+            12
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            10011,
+            11
+          ]
+        },
+        {
+          "insert": "2QDaAAEBWwAAAQk="
+        },
+        {
+          "copy": [
+            10033,
+            10
+          ]
+        },
+        {
+          "insert": "2w=="
+        },
+        {
+          "copy": [
+            10044,
+            7
+          ]
+        },
+        {
+          "insert": "4Q=="
+        },
+        {
+          "copy": [
+            10052,
+            7
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            10060,
+            4
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            10065,
+            4
+          ]
+        },
+        {
+          "insert": "7g=="
+        },
+        {
+          "copy": [
+            10070,
+            4
+          ]
+        },
+        {
+          "insert": "9A=="
+        },
+        {
+          "copy": [
+            10075,
+            5
+          ]
+        },
+        {
+          "insert": "+g=="
+        },
+        {
+          "copy": [
+            10081,
+            4
+          ]
+        },
+        {
+          "insert": "+w=="
+        },
+        {
+          "copy": [
+            10086,
+            1
+          ]
+        },
+        {
+          "insert": "AQE="
+        },
+        {
+          "copy": [
+            10089,
+            6
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            10096,
+            4
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            10101,
+            4
+          ]
+        },
+        {
+          "insert": "7g=="
+        },
+        {
+          "copy": [
+            10106,
+            3
+          ]
+        },
+        {
+          "insert": "AQc="
+        },
+        {
+          "copy": [
+            10111,
+            5
+          ]
+        },
+        {
+          "insert": "+w=="
+        },
+        {
+          "copy": [
+            10117,
+            1
+          ]
+        },
+        {
+          "insert": "AQE="
+        },
+        {
+          "copy": [
+            10120,
+            6
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            10127,
+            4
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            10132,
+            3
+          ]
+        },
+        {
+          "insert": "AQo="
+        },
+        {
+          "copy": [
+            10137,
+            4
+          ]
+        },
+        {
+          "insert": "AQ0="
+        },
+        {
+          "copy": [
+            10143,
+            1
+          ]
+        },
+        {
+          "insert": "AQE="
+        },
+        {
+          "copy": [
+            10146,
+            9
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            10156,
+            4
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            10161,
+            4
+          ]
+        },
+        {
+          "insert": "7g=="
+        },
+        {
+          "copy": [
+            10166,
+            4
+          ]
+        },
+        {
+          "insert": "9A=="
+        },
+        {
+          "copy": [
+            10171,
+            3
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            10176,
+            6
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            10183,
+            4
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            10188,
+            4
+          ]
+        },
+        {
+          "insert": "7g=="
+        },
+        {
+          "copy": [
+            10193,
+            3
+          ]
+        },
+        {
+          "insert": "AQc="
+        },
+        {
+          "copy": [
+            10198,
+            3
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            10203,
+            6
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            10210,
+            4
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            10215,
+            3
+          ]
+        },
+        {
+          "insert": "AQo="
+        },
+        {
+          "copy": [
+            10220,
+            3
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            10225,
+            7
+          ]
+        },
+        {
+          "insert": "AgFc"
+        },
+        {
+          "copy": [
+            10235,
+            9
+          ]
+        },
+        {
+          "insert": "xg=="
+        },
+        {
+          "copy": [
+            10245,
+            3
+          ]
+        },
+        {
+          "insert": "xw=="
+        },
+        {
+          "copy": [
+            10249,
+            3
+          ]
+        },
+        {
+          "insert": "yA=="
+        },
+        {
+          "copy": [
+            10253,
+            3
+          ]
+        },
+        {
+          "insert": "yQ=="
+        },
+        {
+          "copy": [
+            10257,
+            3
+          ]
+        },
+        {
+          "insert": "yg=="
+        },
+        {
+          "copy": [
+            10261,
+            3
+          ]
+        },
+        {
+          "insert": "ywBvAM0="
+        },
+        {
+          "copy": [
+            10269,
+            3
+          ]
+        },
+        {
+          "insert": "zg=="
+        },
+        {
+          "copy": [
+            10273,
+            3
+          ]
+        },
+        {
+          "insert": "zw=="
+        },
+        {
+          "copy": [
+            10277,
+            3
+          ]
+        },
+        {
+          "insert": "0gFd"
+        },
+        {
+          "copy": [
+            10311,
+            11
+          ]
+        },
+        {
+          "insert": "4w=="
+        },
+        {
+          "copy": [
+            10323,
+            6
+          ]
+        },
+        {
+          "insert": "IgAjAAEBWwAAACE="
+        },
+        {
+          "copy": [
+            10340,
+            10
+          ]
+        },
+        {
+          "insert": "ARU="
+        },
+        {
+          "copy": [
+            10352,
+            4
+          ]
+        },
+        {
+          "insert": "AQFcAAAACgA="
+        },
+        {
+          "copy": [
+            10356,
+            1
+          ]
+        },
+        {
+          "insert": "AAAA1A=="
+        },
+        {
+          "copy": [
+            10369,
+            3
+          ]
+        },
+        {
+          "insert": "1Q=="
+        },
+        {
+          "copy": [
+            10391,
+            3
+          ]
+        },
+        {
+          "insert": "agFrAAEBWwAAAH8="
+        },
+        {
+          "copy": [
+            10405,
+            7
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            10413,
+            8
+          ]
+        },
+        {
+          "insert": "ARg="
+        },
+        {
+          "copy": [
+            10423,
+            13
+          ]
+        },
+        {
+          "insert": "ARw="
+        },
+        {
+          "copy": [
+            10438,
+            3
+          ]
+        },
+        {
+          "insert": "ASA="
+        },
+        {
+          "copy": [
+            10443,
+            7
+          ]
+        },
+        {
+          "insert": "ASY="
+        },
+        {
+          "copy": [
+            10452,
+            3
+          ]
+        },
+        {
+          "insert": "ASs="
+        },
+        {
+          "copy": [
+            10457,
+            6
+          ]
+        },
+        {
+          "insert": "Cw=="
+        },
+        {
+          "copy": [
+            10464,
+            3
+          ]
+        },
+        {
+          "insert": "AS2nAAQ="
+        },
+        {
+          "copy": [
+            10470,
+            5
+          ]
+        },
+        {
+          "insert": "AgFcAAAAGgAGAAAAnQALAJ4AEQCfABMAogAgAKgALgCpAV0AAAAQAA=="
+        },
+        {
+          "copy": [
+            10475,
+            1
+          ]
+        },
+        {
+          "copy": [
+            10632,
+            3
+          ]
+        },
+        {
+          "insert": "Jw=="
+        },
+        {
+          "copy": [
+            10636,
+            2
+          ]
+        },
+        {
+          "insert": "MQ=="
+        },
+        {
+          "copy": [
+            10639,
+            1
+          ]
+        },
+        {
+          "insert": "AStABwDB"
+        },
+        {
+          "copy": [
+            10642,
+            3
+          ]
+        },
+        {
+          "insert": "bAE5AAEBWwAAADs="
+        },
+        {
+          "copy": [
+            10656,
+            10
+          ]
+        },
+        {
+          "insert": "ew=="
+        },
+        {
+          "copy": [
+            10667,
+            2
+          ]
+        },
+        {
+          "insert": "ATA="
+        },
+        {
+          "copy": [
+            10671,
+            6
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            10679,
+            12
+          ]
+        },
+        {
+          "copy": [
+            10719,
+            1
+          ]
+        },
+        {
+          "insert": "AVwAAAAGAAEAAACmAV0="
+        },
+        {
+          "copy": [
+            10742,
+            12
+          ]
+        },
+        {
+          "insert": "bQFuAAEBWwAAAD0ABAADAAAAGbIAKLIAJCZSsgAssgAkLFOyACQEYLMAJLEAAAABAVwAAAASAAQAAABzAAgAdAAQAHUAGAB2EAoBbwFwAAEBWwAAADAABAAFAAAAFCobHB22ATo6BBkEugE+AAC4AT+wAAAAAQFcAAAACgACAAAAbQAJAG4QCgFxATkAAQFbAAAAOwACAAIAAAAYuAB7KrYBMJkADyoruAE0mQAHBKcABAOsAAAAAgFcAAAABgABAAAAbwFdAAAABQACFkABEAoBcgFzAAEBWwAAAA=="
+        },
+        {
+          "copy": [
+            10754,
+            1
+          ]
+        },
+        {
+          "copy": [
+            10765,
+            16
+          ]
+        },
+        {
+          "insert": "ATo="
+        },
+        {
+          "copy": [
+            10783,
+            5
+          ]
+        },
+        {
+          "insert": "AUM="
+        },
+        {
+          "copy": [
+            10790,
+            3
+          ]
+        },
+        {
+          "insert": "AT8="
+        },
+        {
+          "copy": [
+            10795,
+            9
+          ]
+        },
+        {
+          "insert": "MA=="
+        },
+        {
+          "copy": [
+            10805,
+            4
+          ]
+        },
+        {
+          "insert": "AQFcAAAADgA="
+        },
+        {
+          "copy": [
+            10809,
+            1
+          ]
+        },
+        {
+          "insert": "AAAASw=="
+        },
+        {
+          "copy": [
+            10822,
+            3
+          ]
+        },
+        {
+          "insert": "TA=="
+        },
+        {
+          "copy": [
+            10826,
+            3
+          ]
+        },
+        {
+          "insert": "Tw=="
+        },
+        {
+          "copy": [
+            10946,
+            3
+          ]
+        },
+        {
+          "insert": "dAE5AAEBWwAAADs="
+        },
+        {
+          "copy": [
+            10960,
+            10
+          ]
+        },
+        {
+          "insert": "ew=="
+        },
+        {
+          "copy": [
+            10971,
+            2
+          ]
+        },
+        {
+          "insert": "ATA="
+        },
+        {
+          "copy": [
+            10975,
+            6
+          ]
+        },
+        {
+          "insert": "ATQ="
+        },
+        {
+          "copy": [
+            10983,
+            12
+          ]
+        },
+        {
+          "copy": [
+            11023,
+            1
+          ]
+        },
+        {
+          "insert": "AVwAAAAGAAEAAABNAV0="
+        },
+        {
+          "copy": [
+            11046,
+            10
+          ]
+        },
+        {
+          "insert": "CAF1ACMAAQFbAAAASAA="
+        },
+        {
+          "copy": [
+            11056,
+            1
+          ]
+        },
+        {
+          "insert": "AAAAAAAhEwFEEw=="
+        },
+        {
+          "copy": [
+            11057,
+            2
+          ]
+        },
+        {
+          "insert": "EwFIuAFKtgFQmgAHBKcABAOzABAUAHmzAGSx"
+        },
+        {
+          "copy": [
+            11059,
+            5
+          ]
+        },
+        {
+          "insert": "XAAAAAoAAgAAACcAGgAtAV0AAAAFAAIWQAEAAwF2AAAAAgF3AXgAAABcAAkBqAADAXkBewF+AagAAwF5AYABgwGoAAMBhQGHAYoBqAADAYsBjAGRAagAAwGLAZMBkQGoAAMBeQGXAZoBqAADAZwBngGhAagAAwGcAaIBoQGoAAMBnAGlAaEBrwAAADI="
+        },
+        {
+          "copy": [
+            11071,
+            3
+          ]
+        },
+        {
+          "insert": "sAA="
+        },
+        {
+          "copy": [
+            11080,
+            2
+          ]
+        },
+        {
+          "insert": "sg=="
+        },
+        {
+          "copy": [
+            11147,
+            3
+          ]
+        },
+        {
+          "insert": "swBLAbU="
+        },
+        {
+          "copy": [
+            11155,
+            3
+          ]
+        },
+        {
+          "insert": "sAG2Abg="
+        },
+        {
+          "copy": [
+            11163,
+            3
+          ]
+        },
+        {
+          "insert": "3AG5Abs="
+        },
+        {
+          "copy": [
+            11179,
+            3
+          ]
+        },
+        {
+          "insert": "KwAxAbw="
+        },
+        {
+          "copy": [
+            11187,
+            2
+          ]
+        },
+        {
+          "insert": "Ab0BvwHBABk="
+        }
+      ]
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/WeatherRenderStateExtension.class",
+      "source": "com/thedeathlycow/immersive/storms/world/WeatherRenderStateExtension.class",
+      "sha256": "6252c32e05f3b15e49cada435bf371c4c8667fe1141039461bd50b8a54c8b92b",
+      "size": 594
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/WeightedVector2fAccumulator.class",
+      "source": "com/thedeathlycow/immersive/storms/world/WeightedVector2fAccumulator.class",
+      "sha256": "0259f0eb491d8a32fcf1a29e254ffe572bdad0e07ca5dd415172ed576ff47288",
+      "size": 1507
+    },
+    {
+      "name": "com/thedeathlycow/immersive/storms/world/WeightedVector3fAccumulator.class",
+      "source": "com/thedeathlycow/immersive/storms/world/WeightedVector3fAccumulator.class",
+      "sha256": "e9cb25ac1110fc55b01481c6a98421c25c4de3ff7d467c2b36bfb153fea74d29",
+      "size": 1730
+    },
+    {
+      "name": "immersive-storms.client.mixins.json",
+      "source": "immersive-storms.client.mixins.json",
+      "sha256": "3b7b1752771e86fca29024f8da7f3db5ae8bf8e6872394f4bdcc9e927616dbae",
+      "size": 421
+    },
+    {
+      "name": "immersive-storms.compat.mixins.json",
+      "source": "immersive-storms.compat.mixins.json",
+      "sha256": "8f39170d2322ee212340e44c94d193f8a5d2e219ea147d4052228b2653ef1ce7",
+      "size": 418
+    },
+    {
+      "name": "LICENSE_immersive-storms",
+      "source": "LICENSE_immersive-storms",
+      "sha256": "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118",
+      "size": 7652
+    }
+  ]
+}

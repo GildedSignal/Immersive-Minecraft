@@ -1,0 +1,6918 @@
+{
+  "schema": 1,
+  "entries": [
+    {
+      "name": "META-INF/MANIFEST.MF",
+      "source": "META-INF/MANIFEST.MF",
+      "sha256": "a2e32c4fe94eead9fa95b1f7e8fe51ca4fad0660f16d94927b5fdc1254c22118",
+      "size": 346
+    },
+    {
+      "name": "META-INF/",
+      "source": "META-INF/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/",
+      "source": "traben/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/",
+      "source": "traben/entity_texture_features/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/ETF.class",
+      "source": "traben/entity_texture_features/ETF.class",
+      "sha256": "e079d7d6f4fc0ac251dbdd65df9741b630dcd6b5d733ec02eb894b1e2200d60d",
+      "size": 11350
+    },
+    {
+      "name": "traben/entity_texture_features/ETFApi$ETFVariantSuffixProvider$EntityRandomSeedFunction.class",
+      "source": "traben/entity_texture_features/ETFApi$ETFVariantSuffixProvider$EntityRandomSeedFunction.class",
+      "sha256": "5a072e2706241bd6ac73856b777764f85925659efb24720814c17dfde017fbc6",
+      "size": 594
+    },
+    {
+      "name": "traben/entity_texture_features/ETFApi$ETFVariantSuffixProvider.class",
+      "source": "traben/entity_texture_features/ETFApi$ETFVariantSuffixProvider.class",
+      "sha256": "8a65d223a67fe9dae574f9f13a35aaeb391e2033f06cb5df76f252138be63dcd",
+      "size": 4633
+    },
+    {
+      "name": "traben/entity_texture_features/ETFApi.class",
+      "source": "traben/entity_texture_features/ETFApi.class",
+      "sha256": "4a7de7bec1a6d39e8f46ced763d9a71d38307c99ab5aa5d37ddbf8c905c66c72",
+      "size": 10780
+    },
+    {
+      "name": "traben/entity_texture_features/ETFException.class",
+      "source": "traben/entity_texture_features/ETFException.class",
+      "sha256": "3bfa51e53a4abe504d8d8fef2b3438f49931867aa890bb5b57af9b979c95626c",
+      "size": 2231
+    },
+    {
+      "name": "traben/entity_texture_features/ETFInit.class",
+      "source": "traben/entity_texture_features/ETFInit.class",
+      "sha256": "d04185fd7fe4446007485507248557e0fb0b8666577d1b58b1ff3dc6d5758bfb",
+      "size": 620
+    },
+    {
+      "name": "traben/entity_texture_features/compat/",
+      "source": "traben/entity_texture_features/compat/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/compat/IrisHandler$1.class",
+      "source": "traben/entity_texture_features/compat/IrisHandler$1.class",
+      "sha256": "8802fc768399dbcda772f255e483a27d304a241a438b5aaddc74b8d7f99cb0cd",
+      "size": 605
+    },
+    {
+      "name": "traben/entity_texture_features/compat/IrisHandler$IrisHandlerImpl.class",
+      "source": "traben/entity_texture_features/compat/IrisHandler$IrisHandlerImpl.class",
+      "sha256": "97b4161821812b646168d39bfe73974b8d3054522b652fcc491343d711f67297",
+      "size": 1034
+    },
+    {
+      "name": "traben/entity_texture_features/compat/IrisHandler.class",
+      "source": "traben/entity_texture_features/compat/IrisHandler.class",
+      "sha256": "f9b2fcbaa63436cbe32fc6c7c68df49ea7b15f1cd92e4f1a959ecfe450a3a8d3",
+      "size": 1056
+    },
+    {
+      "name": "traben/entity_texture_features/compat/SodiumGetBufferInjector.class",
+      "source": "traben/entity_texture_features/compat/SodiumGetBufferInjector.class",
+      "sha256": "d81c3a2d7c076eac543893811d0dbeb99df25f58e3fbabd23003639346fa3eaa",
+      "size": 1690
+    },
+    {
+      "name": "traben/entity_texture_features/config/",
+      "source": "traben/entity_texture_features/config/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$DebugLogMode.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$DebugLogMode.class",
+      "sha256": "02be01b75021ab670cd9d72899f5416356dbdfca51690cd9795fdad39f23cb77",
+      "size": 2146
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$EmissiveRenderModes.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$EmissiveRenderModes.class",
+      "sha256": "0440caa34e08b771afc7358262d337bb371202c28aad6d5753b080c5141a4b5e",
+      "size": 2100
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$IllegalPathMode.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$IllegalPathMode.class",
+      "sha256": "fed965da05149a0077ef6054bed033f46296971a74c0870a899f2cdf9bc3b289",
+      "size": 2138
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$OverrideBooleanType.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$OverrideBooleanType.class",
+      "sha256": "d63145221d3b3fea53be7fbe1f428ca925488aadd1c63d3984cc62e8e7e08c7a",
+      "size": 1592
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$RenderLayerOverride.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$RenderLayerOverride.class",
+      "sha256": "2954312f4c89fbf35a92ef3eb557e86cc2ce33727b92ded16605005d4d78a396",
+      "size": 2340
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$SettingsButtonLocation.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$SettingsButtonLocation.class",
+      "sha256": "0133c9342e462d9e8adc6525597f6d4c2bea44ec611be8656c7cfc26e49bda73",
+      "size": 1643
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$SkinTransparencyMode.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$SkinTransparencyMode.class",
+      "sha256": "9461457f5f4653b60a5bab14de341171f309d4a5e9cf3ff0f7e55c9b60a319e6",
+      "size": 2226
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$String2BooleanNullMap.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$String2BooleanNullMap.class",
+      "sha256": "93685bf43688de994535c384f278595688fb61bf6b79165d1a3af4644d8d1391",
+      "size": 1680
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$String2EnumNullMap.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$String2EnumNullMap.class",
+      "sha256": "1d69d78fd8b73f5e6cbf9dd00822ae063c7a621b3ac2471ffb90d7c0d6497786",
+      "size": 1437
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig$UpdateFrequency.class",
+      "source": "traben/entity_texture_features/config/ETFConfig$UpdateFrequency.class",
+      "sha256": "d269b7e4941d5991461190f53c3940e548c22848aad5130a0d7388d62e23bbcb",
+      "size": 2554
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfig.class",
+      "source": "traben/entity_texture_features/config/ETFConfig.class",
+      "sha256": "c8770b615f270ce1583d589209024ed920737058cdeadf5a1f3e3b162292885a",
+      "size": 37876
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfigWarning$Simple.class",
+      "source": "traben/entity_texture_features/config/ETFConfigWarning$Simple.class",
+      "sha256": "a924a2b0062d4865cdf1f5a86026351690ddff5c8a2401ed28897c91a1efa859",
+      "size": 3354
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfigWarning.class",
+      "source": "traben/entity_texture_features/config/ETFConfigWarning.class",
+      "sha256": "8e5532afe248fef4c5dd564053deb6f5faed7249cb2fddc6c8c47cf0342935b0",
+      "size": 998
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFConfigWarnings.class",
+      "source": "traben/entity_texture_features/config/ETFConfigWarnings.class",
+      "sha256": "68de25f3daa67ceafbaf33cc254bc5b9d5ead9b2bed192341e0ff065de712daf",
+      "size": 1210
+    },
+    {
+      "name": "traben/entity_texture_features/config/ETFModMenu.class",
+      "source": "traben/entity_texture_features/config/ETFModMenu.class",
+      "sha256": "afebaeb3e3412ee1167f833404382877cd393d8bb28faedc5aca55c417272e53",
+      "size": 1347
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/",
+      "source": "traben/entity_texture_features/config/screens/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/ETFConfigScreenMain$LogoCreeperRenderer.class",
+      "source": "traben/entity_texture_features/config/screens/ETFConfigScreenMain$LogoCreeperRenderer.class",
+      "sha256": "2301e7799f63438fb061ece1bcdde5b2e438066d32046680b443f9f19c72cdbb",
+      "size": 1575
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/ETFConfigScreenMain.class",
+      "source": "traben/entity_texture_features/config/screens/ETFConfigScreenMain.class",
+      "sha256": "e4d837017c278fccb4edf55636e43a84dbf4e5e56245d2edbdafeb397ce7ebfd",
+      "size": 9980
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/ETFConfigScreenWarnings$WarningConfig.class",
+      "source": "traben/entity_texture_features/config/screens/ETFConfigScreenWarnings$WarningConfig.class",
+      "sha256": "16d050d3c52d134a5b899d675e4b04b9c2ee07700c24315765f349949aa4db08",
+      "size": 767
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/ETFConfigScreenWarnings.class",
+      "source": "traben/entity_texture_features/config/screens/ETFConfigScreenWarnings.class",
+      "sha256": "0ff3687cd3decf807b81665bbc0055535fe382875aa8e4e3ddb61bcc9e70b526",
+      "size": 6898
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/",
+      "source": "traben/entity_texture_features/config/screens/skin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$BlinkType.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$BlinkType.class",
+      "sha256": "c0c0627a8585f02dd57b55d750cebb8394551f954d80bf23883d77c57d5130e2",
+      "size": 3862
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$CoatStyle.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$CoatStyle.class",
+      "sha256": "02c9dbf62ab055da208fcbd400f11b5c82d9c1e2e1de29a270c9465325a2296b",
+      "size": 3912
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$ConfirmScreen.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$ConfirmScreen.class",
+      "sha256": "36ae8be2a1fa301fef084a1fc86a880bea2d81203ec292e88701f3f6e1c1af07",
+      "size": 5206
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$NoseType.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool$NoseType.class",
+      "sha256": "703ca6e32e602704a92afc12c85ddda7d13cc2ea6242ec2b532790dee6ae8577",
+      "size": 4321
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinTool.class",
+      "sha256": "34343b88e5fd40114c1b02afbc0056926096bb8d085b47f4edc53b6af70fcbf5",
+      "size": 23830
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolOutcome.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolOutcome.class",
+      "sha256": "cf56d954b661c340defe8d0822e14de3e449879ed6d38727cdcaadfaf910d7b3",
+      "size": 15374
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolPixelSelection$1.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolPixelSelection$1.class",
+      "sha256": "ec3e8a3e73d9fa84e1682f6f47929dd7e936b529398c84dacd71883009e5db01",
+      "size": 2180
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolPixelSelection$SelectionMode.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolPixelSelection$SelectionMode.class",
+      "sha256": "c511abefe592b0ea4a3c14dfb77873e4b90df731eb1fb53d82c096ab1d83d939",
+      "size": 1905
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolPixelSelection.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFConfigScreenSkinToolPixelSelection.class",
+      "sha256": "90813ca465b25317e80b7ca0da5c492f4774760815b29e43e813915fb3a08141",
+      "size": 10335
+    },
+    {
+      "name": "traben/entity_texture_features/config/screens/skin/ETFScreenOldCompat.class",
+      "source": "traben/entity_texture_features/config/screens/skin/ETFScreenOldCompat.class",
+      "sha256": "3b60806df142fac63b9a75ffe5b1818f270c141bf50e32bd23429352467d9e0b",
+      "size": 4539
+    },
+    {
+      "name": "traben/entity_texture_features/features/",
+      "source": "traben/entity_texture_features/features/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/ETFManager$TextureSource.class",
+      "source": "traben/entity_texture_features/features/ETFManager$TextureSource.class",
+      "sha256": "ed45b92af155271d4c2931e328475765d0302d4f5c782a4332a05c5154dbe78f",
+      "size": 1497
+    },
+    {
+      "name": "traben/entity_texture_features/features/ETFManager.class",
+      "source": "traben/entity_texture_features/features/ETFManager.class",
+      "sha256": "b29c90bd1e60944d4a684eff4f963ff009d7b865a5e94c88b3aeebe3156f0327",
+      "size": 17123
+    },
+    {
+      "name": "traben/entity_texture_features/features/ETFRenderContext.class",
+      "source": "traben/entity_texture_features/features/ETFRenderContext.class",
+      "sha256": "cee46f7779167123892baa74b20b986445671e3d52ce3b0d9a76565bd6a9ae7e",
+      "size": 460
+    },
+    {
+      "name": "traben/entity_texture_features/features/player/",
+      "source": "traben/entity_texture_features/features/player/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/player/ETFPlayerEntity.class",
+      "source": "traben/entity_texture_features/features/player/ETFPlayerEntity.class",
+      "sha256": "92985952e6e8d1488a889f8623292386bea6cd2d12ed444a62eef1290947669b",
+      "size": 713
+    },
+    {
+      "name": "traben/entity_texture_features/features/player/ETFPlayerFeatureRenderer.class",
+      "source": "traben/entity_texture_features/features/player/ETFPlayerFeatureRenderer.class",
+      "sha256": "152b8912ed6ed2f769ef05d4851bc4b5218344fd848a17502b8bb6d082a5979c",
+      "size": 12999
+    },
+    {
+      "name": "traben/entity_texture_features/features/player/ETFPlayerSkinHolder.class",
+      "source": "traben/entity_texture_features/features/player/ETFPlayerSkinHolder.class",
+      "sha256": "b145c61e85cd6db2b554d671dc017762f6ea077d34ffc7a04dbe935ad6e431b3",
+      "size": 399
+    },
+    {
+      "name": "traben/entity_texture_features/features/player/ETFPlayerTexture.class",
+      "source": "traben/entity_texture_features/features/player/ETFPlayerTexture.class",
+      "sha256": "f68a0cbe193cd7a5fe8ed95a02f891eb7e91e7e20f3a048c8e7e356ea0df2b89",
+      "size": 31835
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/",
+      "source": "traben/entity_texture_features/features/property_reading/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/PropertiesRandomProvider.class",
+      "source": "traben/entity_texture_features/features/property_reading/PropertiesRandomProvider.class",
+      "sha256": "571a8b4e5342bf1f31e38ed0b9842b68a97a152b0d3a76760c2597bbdfe94643",
+      "size": 14259
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/RandomPropertyRule$1.class",
+      "source": "traben/entity_texture_features/features/property_reading/RandomPropertyRule$1.class",
+      "sha256": "e8a7c1ad9e6852d4abdfb41543fb923df4603976012cdbc1a5f5886164511d6b",
+      "size": 1401
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/RandomPropertyRule$SeedSource.class",
+      "source": "traben/entity_texture_features/features/property_reading/RandomPropertyRule$SeedSource.class",
+      "sha256": "8cdd329788c1798b71fef774a26b319e714ad193492b374903ce6888699ba27a",
+      "size": 1589
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/RandomPropertyRule.class",
+      "source": "traben/entity_texture_features/features/property_reading/RandomPropertyRule.class",
+      "sha256": "54a5614d23d7b9d8767524e32589179e2f1ebca922ebeee45770620a5777fa32",
+      "size": 8314
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/TrueRandomProvider.class",
+      "source": "traben/entity_texture_features/features/property_reading/TrueRandomProvider.class",
+      "sha256": "b3b6992d22c8dbe5e3889ba9cb4d2e8b6749278ed3a3a939075ad6e12511417a",
+      "size": 6859
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/",
+      "source": "traben/entity_texture_features/features/property_reading/properties/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/RandomProperties$RandomPropertyFactory$1.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/RandomProperties$RandomPropertyFactory$1.class",
+      "sha256": "007837fa1209fc798825b0c104caedacfcf3635ea7ed81f578988be73d1f45b7",
+      "size": 3229
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/RandomProperties$RandomPropertyFactory.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/RandomProperties$RandomPropertyFactory.class",
+      "sha256": "0d01b9d738d1cd94827511ee7a6ca3482b8f7791d9d2d83c2d31256d11146ae2",
+      "size": 2885
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/RandomProperties.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/RandomProperties.class",
+      "sha256": "50586ec5268970b0eb8527e44af68331d54518236eba4824db45e4f35b9da0be",
+      "size": 26986
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/RandomProperty$RandomPropertyException.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/RandomProperty$RandomPropertyException.class",
+      "sha256": "3a4bd9d9d792e04de2957b634adb97654bf711bdfb656b4afbe65f0c70e2caec",
+      "size": 1116
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/RandomProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/RandomProperty.class",
+      "sha256": "e7d1c0d6b2c6d217d8f135707025c094159b79f8988bee25ee36863716ca3155",
+      "size": 4322
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/AngryProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/AngryProperty.class",
+      "sha256": "ea1a9c76d902d9dd4586573744ecfbf4449ccfe808f577ae923e66c507f698fc",
+      "size": 3617
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BiomeTagProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BiomeTagProperty.class",
+      "sha256": "de22f6743929ffb31befe9269a1d0220f2d91b9071ef36bd0eda3b0974ccaa09",
+      "size": 6114
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockAboveProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockAboveProperty.class",
+      "sha256": "6010272404bf25cf522beb6db11e65c2852ceb2893db4ec589efa51aad42d1a8",
+      "size": 3576
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockAboveSolidProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockAboveSolidProperty.class",
+      "sha256": "9898fc91c8ce67e5c36b312305e0d98de173f12e8ad8d4993bd77ba942b59943",
+      "size": 3673
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockBelowProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockBelowProperty.class",
+      "sha256": "c48289f87152a9b4d37c999c66af4cdb9113e501d60bb0c2d16e8364fbb63266",
+      "size": 3498
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockBelowSolidProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockBelowSolidProperty.class",
+      "sha256": "d9df01cfb02b61e099f255e224cffac7bd6e3798155907f6f21e5a4eaf702a35",
+      "size": 3526
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockSpawnedProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/BlockSpawnedProperty.class",
+      "sha256": "463c54a31f7269f3de33f2068f34f4367f92e00363075787e2fc90666184a860",
+      "size": 1671
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ChargedCreeperProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ChargedCreeperProperty.class",
+      "sha256": "2a061e9c7f439121d6ebda7022c8551079e2aa02d1ffa614b8f2b39fa606711a",
+      "size": 2527
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ClientPlayerProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ClientPlayerProperty.class",
+      "sha256": "5d30e1542f6790500a52a5bf6f8607af16eda5499677875890b10e26adc88976",
+      "size": 2825
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/CreativeProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/CreativeProperty.class",
+      "sha256": "a6bc3a9a5bf9cbe2721588e8e1bb67fbbdf6daa9f30b5805c4a24299c144f4d8",
+      "size": 2471
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/DimensionProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/DimensionProperty.class",
+      "sha256": "4c5fe8746b7d4eef32d132806aee8c5356f0c3088c101f4833e715b094a260fb",
+      "size": 4371
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/DistanceToPlayerProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/DistanceToPlayerProperty.class",
+      "sha256": "7b11b854313cba621c0bd43e003e81e27eaa7b2e0c1017306d7665e93d4de69f",
+      "size": 2759
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ItemProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ItemProperty.class",
+      "sha256": "71ddc5b25931beda24fa26cd45a3e61787e9581a9b15c86e72a75b2c16b4cf20",
+      "size": 5203
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/JumpProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/JumpProperty.class",
+      "sha256": "bb982701c20b77e0100df645f5a91a084e56571f1acf3f6e8e7da388cc4d90ba",
+      "size": 2745
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/LightProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/LightProperty.class",
+      "sha256": "2f94a9fbed183877efb76a10cc7d4fb71e4b1e32b948b65c4c0e23187603a59d",
+      "size": 2323
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/LlamaInventoryProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/LlamaInventoryProperty.class",
+      "sha256": "030199f87982ba42043e2fb687557d1ba75dd59efe442e26aaa7fc5ed6d2c32d",
+      "size": 2392
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/MaxHealthProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/MaxHealthProperty.class",
+      "sha256": "c12696cc3f7ef95491e8bf40d771cfc5a7381cee6de51370ea29a4071920d4a1",
+      "size": 2707
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/MovingProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/MovingProperty.class",
+      "sha256": "81de0823ae1135bf783049ecb5563a7cfd639842ace4a15fb12f5546ae64a700",
+      "size": 2379
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/NBTClientProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/NBTClientProperty.class",
+      "sha256": "860b96a1506aeb6feb17b2caa7fa6715e1b90dac38ca55615dd3657cb726b2bc",
+      "size": 2038
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/PandaGeneProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/PandaGeneProperty.class",
+      "sha256": "6cb8f01d2421b8a6c09aa397803c91475a65492fc4537af86cddf6e17a8591df",
+      "size": 2704
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/PlayerCreatedProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/PlayerCreatedProperty.class",
+      "sha256": "663c5491d07b7d030ff22b5a34838685da2481007cf4a832863ec9eb43b32078",
+      "size": 2539
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ScreamingGoatProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/ScreamingGoatProperty.class",
+      "sha256": "faaec8e9516eac6d52411724aff9ec3d743352f3ee796c00f4b3ca42bdde4f33",
+      "size": 2522
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/SpawnerProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/SpawnerProperty.class",
+      "sha256": "94b49ada8e015fee18ccb294451c7da90245951033a250cc5940cb42244f76b4",
+      "size": 2424
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/SpeedProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/SpeedProperty.class",
+      "sha256": "b7bfdfb4f6cda07a7a65763ab5b5f878b2432ca9104a538330dddeffb6d9ceee",
+      "size": 2703
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TeamProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TeamProperty.class",
+      "sha256": "eb543b5e5ca28b29f8ca7c647b7f66f57a080f4185fb274ad4a511c119a53f6f",
+      "size": 2410
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TeammateProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TeammateProperty.class",
+      "sha256": "237061ca17fad5c54fc2600186296551c293089a91a27399bbfdff8131dea3d6",
+      "size": 2675
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TemperatureProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TemperatureProperty.class",
+      "sha256": "b9adb9f9203bd25a67a1130921f358e6f191689cfbfdf01a9a2952707ee43756",
+      "size": 3208
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TextureRuleIndexProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TextureRuleIndexProperty.class",
+      "sha256": "a76f5bf86a7ef53d1d7ad2611ac4972d9b1a6ad2ff1561484449107923037131",
+      "size": 2746
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TextureSuffixProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/TextureSuffixProperty.class",
+      "sha256": "0cbb886b64e60a67aaf26d06ba4de7b84e97129a7cbda63f59025eb333ee1af5",
+      "size": 2734
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/VariantProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/VariantProperty.class",
+      "sha256": "4c2ffaf880aca8b60e13bd90d54ef38fcb0e26e1cd49de9c3872b70d997e0cab",
+      "size": 7377
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ClientGameModeProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ClientGameModeProperty.class",
+      "sha256": "37bac6467bd383a67e3e9fdde366a5851fd417cc2237177f618fe9767556be61",
+      "size": 2487
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/DifficultyProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/DifficultyProperty.class",
+      "sha256": "b8783030702b0101a3baf5793c9c257440d61a71bc0dec4755c2e0d6af1bef5f",
+      "size": 2353
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/HardcoreProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/HardcoreProperty.class",
+      "sha256": "920f3f227f0891b3dea9eab85a2eae0d6323e2892fb037534b8ac3ac7c0d1142",
+      "size": 2512
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/HourProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/HourProperty.class",
+      "sha256": "a5987e23224b2045d6040b0799fd9f5264aac62a233ed8f465ea4a3b1def8abc",
+      "size": 2104
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/LanguageProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/LanguageProperty.class",
+      "sha256": "d4f16bfa390be16c4aca18ade54189108dcc39e9a3cddc6c378d39029e1e5a6a",
+      "size": 2421
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MinecraftVersionProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MinecraftVersionProperty.class",
+      "sha256": "2f7859592e8a927f76282ae5cb8bc8f6fe6914f8fcbbf8d02eefd59e5ec567ff",
+      "size": 2988
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MinuteProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MinuteProperty.class",
+      "sha256": "63b978ad998fb44073831348d85ca5fc55f26e0a0bb93d51964845a92b75fe92",
+      "size": 2114
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ModLoadedProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ModLoadedProperty.class",
+      "sha256": "e96c509ece06f6bddbbbabe1b54a820febc6d8c793ca3a36443ad22696c65982",
+      "size": 3513
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MonthDayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MonthDayProperty.class",
+      "sha256": "6ea98e4261f11aa32a482b2f97f9ce003e835e3d47b1cddc1ad6dab8674ff192",
+      "size": 2147
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MonthProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/MonthProperty.class",
+      "sha256": "17bbdf2acd612dead6607dd66d0282e7d5073a59da9dd43fab5414a082d049c7",
+      "size": 2108
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/NBTVehicleProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/NBTVehicleProperty.class",
+      "sha256": "a2ee96a1faecf9865b32faa977cf233aa5abaa10f89cbd2aead0440e673efcf0",
+      "size": 2334
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/RegionalDifficultyProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/RegionalDifficultyProperty.class",
+      "sha256": "7b05a3d54c194c5daeffde0c8c5c3f608d97978327822b3135d601d3f60dd449",
+      "size": 2722
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ResourcePackLoadedProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ResourcePackLoadedProperty.class",
+      "sha256": "f941f8d1cf0520167b586ee1aa9abfe521a81c081eca5de4565883ef4329fcff",
+      "size": 4225
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/SecondProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/SecondProperty.class",
+      "sha256": "747878f60138409cdeb672b69aa0e9e970355fd1a69969e7710b5db6b7efe6b5",
+      "size": 2114
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ShadersEnabledProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/ShadersEnabledProperty.class",
+      "sha256": "6166cb0e623b653905de233b6a42193f7b851a2bb8f1535a7b44880ec48a310b",
+      "size": 2359
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/WeekDayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/WeekDayProperty.class",
+      "sha256": "bd5b86aaeb31a91ebb06abdf1d76ab9f18da8528b367fe332af5872049423883",
+      "size": 2142
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/YearDayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/YearDayProperty.class",
+      "sha256": "e253b3678eca1a202fe5fe86ef485779c7ef62ce1d1f72ed5f9e415dd8212f22",
+      "size": 2142
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/YearProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/etf_properties/external/YearProperty.class",
+      "sha256": "6294aafdeac9fa6666525fa4ed46fadc27815bf28ed71dadd30eacd1002b26b9",
+      "size": 2103
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/BooleanProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/BooleanProperty.class",
+      "sha256": "142e2600929acbed4c827d0b2a1d9f2ce642d4473c69b75279a3b0884e626847",
+      "size": 3198
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/FloatRangeFromStringArrayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/FloatRangeFromStringArrayProperty.class",
+      "sha256": "fa46a8c2790a1bab4909aeac1cc9991a91b67d27d13daa615f2e1b679e8954c4",
+      "size": 4324
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/LongRangeFromStringArrayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/LongRangeFromStringArrayProperty.class",
+      "sha256": "2aed273c18ce94c9ef42a85c45313e908aa96d28b8cf247881d965bcfb262a53",
+      "size": 3805
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/NumberRangeFromStringArrayProperty$RangeTester.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/NumberRangeFromStringArrayProperty$RangeTester.class",
+      "sha256": "8ee9ddbefc9ed02f12f4469c80e7ca3014d7bdcbfee48e7da1dc34da5597d03d",
+      "size": 579
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/NumberRangeFromStringArrayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/NumberRangeFromStringArrayProperty.class",
+      "sha256": "52f7f8ad5534c95760a96082347770ab850d08b87fdaf357b91ecaed2055c10b",
+      "size": 5196
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SemVerRangeFromStringArrayProperty$SemVerNumber.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SemVerRangeFromStringArrayProperty$SemVerNumber.class",
+      "sha256": "a49aa34043cd17c490e2d05d2ce20efd1cdb17b7b2c944978d7af3c2615ece84",
+      "size": 4244
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SemVerRangeFromStringArrayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SemVerRangeFromStringArrayProperty.class",
+      "sha256": "fa1fb44c6e215dcfce030a452e0f2b03c6f42f7b2aba45f65daf9baf3246a782",
+      "size": 5336
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SimpleIntegerArrayProperty$IntRange.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SimpleIntegerArrayProperty$IntRange.class",
+      "sha256": "b9302368e96711ff1748225a40287be32adc4c385c31f3904fe9c4105eb6c1a0",
+      "size": 1776
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SimpleIntegerArrayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/SimpleIntegerArrayProperty.class",
+      "sha256": "6db8343774273333f13948f0f77ce68f187b1e3a7fd02665a78d354d15705506",
+      "size": 5658
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/StringArrayOrRegexProperty$RegexAndPatternPropertyMatcher.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/StringArrayOrRegexProperty$RegexAndPatternPropertyMatcher.class",
+      "sha256": "b388e50378f233b7975c7760b50d5a1aa58a932ee4368a500ebb3eb5152c69a4",
+      "size": 498
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/generic_properties/StringArrayOrRegexProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/generic_properties/StringArrayOrRegexProperty.class",
+      "sha256": "cb081d6a59312cd63a8ecf429886e485a9aa94e412bdcde65208278343c6f513",
+      "size": 8305
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/BabyProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/BabyProperty.class",
+      "sha256": "daf3b6ddd31dcd1d52995cc13a10707e09148f9fa609d7ff771f70084e67c34b",
+      "size": 2438
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/BiomeProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/BiomeProperty.class",
+      "sha256": "12763f2d3e2ac0c6b39abe92330d379c29dad038b899275a2e0db9394925cb13",
+      "size": 5359
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/BlocksProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/BlocksProperty.class",
+      "sha256": "f93e5b290ac7bd34cf4a65b61be7462e2aea30ef4b410f366229c774da4f350a",
+      "size": 10015
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/ColorProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/ColorProperty.class",
+      "sha256": "0e31782bf4fa6bddf80eccca91a9fece0f312a3244b10849aae05ce0216015e2",
+      "size": 4929
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/HealthProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/HealthProperty.class",
+      "sha256": "42955b9bc4d0717e4cab265b3255db66af7afed6d212c07009ae32835aec5b1a",
+      "size": 2973
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/HeightProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/HeightProperty.class",
+      "sha256": "eac29e558bafa73aab8938a6e7d34c222e224c87200aa09a565149126e9d6ce4",
+      "size": 3210
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/MoonPhaseProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/MoonPhaseProperty.class",
+      "sha256": "ca1e7ac3e111c2ccc2029274c9dc99b2b60b2c2d20f05b552bfd3d948a7a5918",
+      "size": 2815
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/NBTProperty$NBTTester.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/NBTProperty$NBTTester.class",
+      "sha256": "96c321b8bb6fccd86cbdef86b8349078d8c86c57cb838ca799a763b8adbbf833",
+      "size": 9067
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/NBTProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/NBTProperty.class",
+      "sha256": "a85db057b2f7ed83795140b5effb81e0913772b0bbeab8f0683fa6394bd8bac9",
+      "size": 13483
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/NameProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/NameProperty.class",
+      "sha256": "3a7769825fe6f95822e05d079a43299b323de245a5d36ebaf973391f8ff153c1",
+      "size": 4680
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/ProfessionProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/ProfessionProperty.class",
+      "sha256": "6c1cda221e28edc1a98ea34fd662c2ebdfe8c5fbe0d8f68cca6b81aea7fde218",
+      "size": 5274
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/SizeProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/SizeProperty.class",
+      "sha256": "cfa0022d6c0e1510518df2b814316ebb432e597bb796ef832283d8c77f320cd1",
+      "size": 2552
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/TimeOfDayProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/TimeOfDayProperty.class",
+      "sha256": "406b4a7361779b7119c24f682f056a7071f75645344cbfb9244e5956c9fa8a50",
+      "size": 2626
+    },
+    {
+      "name": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/WeatherProperty.class",
+      "source": "traben/entity_texture_features/features/property_reading/properties/optifine_properties/WeatherProperty.class",
+      "sha256": "7297959419a12b2356cc15e86acca0d8d97833f5598ce08452ee9259c6f34cb1",
+      "size": 2672
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/",
+      "source": "traben/entity_texture_features/features/state/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFEntityRenderState$ETFRenderStateInit.class",
+      "source": "traben/entity_texture_features/features/state/ETFEntityRenderState$ETFRenderStateInit.class",
+      "sha256": "2d09c7716ce98e1244122edb254fdfedba8d3b4026a1c426454d3273922ecc0d",
+      "size": 465
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFEntityRenderState$Null.class",
+      "source": "traben/entity_texture_features/features/state/ETFEntityRenderState$Null.class",
+      "sha256": "f3036049e7aadb9ce2a31300fcd6a2c93db32bd008b033de7532a697e88f4473",
+      "size": 4078
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFEntityRenderState.class",
+      "source": "traben/entity_texture_features/features/state/ETFEntityRenderState.class",
+      "sha256": "c9fa81a4d643fb1f949851e7e75144cce52bb0249a1dbb92937d957be9e2fc85",
+      "size": 5267
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFEntityRenderStateViaReference.class",
+      "source": "traben/entity_texture_features/features/state/ETFEntityRenderStateViaReference.class",
+      "sha256": "3a30795ccc2c4a2e9fabdd3ef2c01b9a069c40e37ce640b0bfd4f8fe16a86b52",
+      "size": 5973
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFState$1.class",
+      "source": "traben/entity_texture_features/features/state/ETFState$1.class",
+      "sha256": "49b72f4e3d87862db828a755b568bb10d81e92efaf9fe605009a16dd7ade6bc4",
+      "size": 1438
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFState$2.class",
+      "source": "traben/entity_texture_features/features/state/ETFState$2.class",
+      "sha256": "2c8b0e48a58d0ae5dc6ab3e68dfd4895ffdb7fdbd7a30352393874d12d27aadf",
+      "size": 1111
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFState.class",
+      "source": "traben/entity_texture_features/features/state/ETFState.class",
+      "sha256": "a5c71b420b8932eb318400e9551759351c68da0dd1f6f27108fb1b6aad3062aa",
+      "size": 9755
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFSubmitData.class",
+      "source": "traben/entity_texture_features/features/state/ETFSubmitData.class",
+      "sha256": "ed00fd9c7c2e8267289f77f2051b9d6c215c8fafb9a66195e4430267d3a6356e",
+      "size": 2323
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFSubmitExtension.class",
+      "source": "traben/entity_texture_features/features/state/ETFSubmitExtension.class",
+      "sha256": "2fde7885ccf091cf93e63d4f6a7876aff42b9fbd2fc3625d535536c37a3a4903",
+      "size": 380
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/HoldsETFRenderState.class",
+      "source": "traben/entity_texture_features/features/state/HoldsETFRenderState.class",
+      "sha256": "7f9c86a624c1a90bec5883754cbc8ec2f05319ed912acdc79cd35a632e25c24b",
+      "size": 339
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/",
+      "source": "traben/entity_texture_features/features/texture_handlers/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFArmorHandler.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFArmorHandler.class",
+      "sha256": "14aa288c3e4376fcdbd1a455cb869324ea67283d4782cd8108bf1e562c71ee31",
+      "size": 3980
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFDirectory.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFDirectory.class",
+      "sha256": "df8f2486e97130d2ef0182b2d6ac63bffbd2fe613ad8dadba202c436d1104833",
+      "size": 7489
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFSprite.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFSprite.class",
+      "sha256": "c43a45eafd829e3d105a797180c1c4f97880e0dbfeab3f618f9bb29a94c5dd4c",
+      "size": 6976
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTexture$TextureReturnState.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTexture$TextureReturnState.class",
+      "sha256": "23b24291e737d0082421d9ccba3b587e499fa8bc63adeaaadb440ef1d842c5bb",
+      "size": 2556
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTexture.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTexture.class",
+      "sha256": "25fd1a330059b973b4d1334b4996768ade67f9db2d29e42c2130a18173cd2ac8",
+      "size": 23294
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$1.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$1.class",
+      "sha256": "82fcbae33d676ef9ffa75c2bcb1ebfcd94d8dc76bd8721061489a5f1dd03f18b",
+      "size": 1036
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$ETFTextureMultiple$1.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$ETFTextureMultiple$1.class",
+      "sha256": "d24f4fdbd6b7a99c4aa5014f388699e684e3926d16a24044d340b8f89848a7d3",
+      "size": 2108
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$ETFTextureMultiple.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$ETFTextureMultiple.class",
+      "sha256": "1589acca7dcb998d84ad2b4e0417ea4668f4efb35e864a90af26def7e462f569",
+      "size": 11072
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$ETFTextureSingleton.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator$ETFTextureSingleton.class",
+      "sha256": "c74f47f857826d6efdcfa39d7c60168fe6fd012d7b24b0b65ce462bd3af787a2",
+      "size": 3297
+    },
+    {
+      "name": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator.class",
+      "source": "traben/entity_texture_features/features/texture_handlers/ETFTextureVariator.class",
+      "sha256": "78e5c61b666af02c041d795de8683c4705ee117a18e09c061f75ca9047b3382d",
+      "size": 6601
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/",
+      "source": "traben/entity_texture_features/mixin/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/CancelTarget.class",
+      "source": "traben/entity_texture_features/mixin/CancelTarget.class",
+      "sha256": "66e8318d6c13c38fb76d7c901bedbd416a3afd5b70658849af9e96126f58aa7e",
+      "size": 335
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/Plugin.class",
+      "source": "traben/entity_texture_features/mixin/Plugin.class",
+      "sha256": "a3f964f8881192d74398333f46724acc9dc9b80065b5a19241aeeac5d65cafe9",
+      "size": 3053
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/",
+      "source": "traben/entity_texture_features/mixin/mixins/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinGameRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinGameRenderer.class",
+      "sha256": "9e9437a74ed6f7744bc1b846d691937fd79ff67e949176eebcea257339d6971e",
+      "size": 1277,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "Lg=="
+        },
+        {
+          "copy": [
+            10,
+            136
+          ]
+        },
+        {
+          "insert": "CgANAA4="
+        },
+        {
+          "copy": [
+            146,
+            2
+          ]
+        },
+        {
+          "insert": "DwwAEAAGAQA+dHJhYmVuL2VudGl0eV90ZXh0dXJlX2ZlYXR1cmVzL2ZlYXR1cmVzL3N0YXRlL0VURkZyYW1lTmJ0Q2FjaGUBAApiZWdpbkZyYW1lCgA="
+        },
+        {
+          "copy": [
+            148,
+            1
+          ]
+        },
+        {
+          "insert": "ABIMABMABgEACGVuZEZyYW1lBwAV"
+        },
+        {
+          "copy": [
+            149,
+            501
+          ]
+        },
+        {
+          "insert": "GGV0ZiRwZXJmRnJhbWVOYnRDYWNoZUVuZAEABlJFVFVSTgEA"
+        },
+        {
+          "copy": [
+            650,
+            154
+          ]
+        },
+        {
+          "insert": "FAACAAAAAAAD"
+        },
+        {
+          "copy": [
+            813,
+            9
+          ]
+        },
+        {
+          "insert": "Fg=="
+        },
+        {
+          "copy": [
+            823,
+            22
+          ]
+        },
+        {
+          "insert": "FwAAAAYAAQAAAAwAGAAAAAwAAQAAAAUAGQAaAAAAAgAbABwAAgAWAAAAQwAAAAIAAAAHuAAHuAAMsQAAAAIAFwAAAA4AAwAAAA=="
+        },
+        {
+          "copy": [
+            845,
+            2
+          ]
+        },
+        {
+          "insert": "AwAQ"
+        },
+        {
+          "copy": [
+            848,
+            3
+          ]
+        },
+        {
+          "copy": [
+            869,
+            2
+          ]
+        },
+        {
+          "insert": "GAAAABYAAgAAAAcAGQAaAAAAAAAHAB0AHgABAB8AAAAdAAEAIAACACFbAAFzACIAI1sAAUAAJAABACVzACYAAgAnABwAAgAW"
+        },
+        {
+          "copy": [
+            884,
+            14
+          ]
+        },
+        {
+          "insert": "EQ=="
+        },
+        {
+          "copy": [
+            899,
+            6
+          ]
+        },
+        {
+          "insert": "Fw=="
+        },
+        {
+          "copy": [
+            906,
+            9
+          ]
+        },
+        {
+          "insert": "FQ=="
+        },
+        {
+          "copy": [
+            916,
+            3
+          ]
+        },
+        {
+          "copy": [
+            925,
+            2
+          ]
+        },
+        {
+          "insert": "GAAAABYA"
+        },
+        {
+          "copy": [
+            927,
+            6
+          ]
+        },
+        {
+          "insert": "GQAa"
+        },
+        {
+          "copy": [
+            936,
+            7
+          ]
+        },
+        {
+          "copy": [
+            953,
+            2
+          ]
+        },
+        {
+          "insert": "HgABAB8AAAAdAAEAIAACACE="
+        },
+        {
+          "copy": [
+            962,
+            5
+          ]
+        },
+        {
+          "insert": "IgAj"
+        },
+        {
+          "copy": [
+            970,
+            5
+          ]
+        },
+        {
+          "insert": "JAABACVzACgAAgApAAAAAgAqACs="
+        },
+        {
+          "copy": [
+            995,
+            7
+          ]
+        },
+        {
+          "insert": "LAABACU="
+        },
+        {
+          "copy": [
+            1007,
+            5
+          ]
+        },
+        {
+          "insert": "LQ=="
+        }
+      ]
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinIdentifier$1.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinIdentifier$1.class",
+      "sha256": "d157f5d21b8b966faea82856982f9dc538de20bf101ac8ee76506994c41515f0",
+      "size": 998
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinIdentifier.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinIdentifier.class",
+      "sha256": "0d735ba1f90e71ec72c2d451a407f75651a051df26204a2cbf4660131e4ef5c9",
+      "size": 4163
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinLevelRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinLevelRenderer.class",
+      "sha256": "860b767d187846a89dfc6f4b8ca232baa3802971003c8c0ee17ad049e0617c45",
+      "size": 1262
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinModelPart.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinModelPart.class",
+      "sha256": "2da1ae5296f59b907a6facd5f87964e0f95cb55f3dbe569b2e3eb928fd416279",
+      "size": 5272
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinMultiPhase.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinMultiPhase.class",
+      "sha256": "72b18b009d408e4916da1bfef8911beece7291eca005e94a4f9d1050244eced2",
+      "size": 2603
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinPackScreen$1.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinPackScreen$1.class",
+      "sha256": "13fe5708601d528c2a7aea658c1d5ba10cd7488c17572dd810defddfacdbd679",
+      "size": 2947
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinPackScreen$2.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinPackScreen$2.class",
+      "sha256": "1ec3db8fcf7977e961144b40364a5c929982c71113fa334014e94e62a5dc55c6",
+      "size": 1146
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinPackScreen.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinPackScreen.class",
+      "sha256": "f9a4b5954d6a1889f17e445d45f22376b890f2c1fe70a94dc088057819fcf249",
+      "size": 6109
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinPlayerSkinTexture.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinPlayerSkinTexture.class",
+      "sha256": "cea0037189a0851787eaba09c237589642920326ad8a6c5f71bb32eafa15d070",
+      "size": 4152
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinRenderLayer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinRenderLayer.class",
+      "sha256": "dc4bb7fc887d3759743918ca86bb3c071e74cd08f30b93917b35c5ff1501b885",
+      "size": 2282
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/MixinSpriteIdentifier.class",
+      "source": "traben/entity_texture_features/mixin/mixins/MixinSpriteIdentifier.class",
+      "sha256": "0b0fb1e556029d4b90e600f849136a97f51d3b8102d43563b505f726397e8bc1",
+      "size": 529
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/accessor/",
+      "source": "traben/entity_texture_features/mixin/mixins/accessor/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/accessor/TooltipAccessor.class",
+      "source": "traben/entity_texture_features/mixin/mixins/accessor/TooltipAccessor.class",
+      "sha256": "d6bb88d7bb801ed771bb42f613b7ac1c88638d8a54b2e958cecbdd7ec584e7b3",
+      "size": 528
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/block/",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/block/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/block/MixinMobSpawnerLogic.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/block/MixinMobSpawnerLogic.class",
+      "sha256": "255bfc5cd4152bd9c3c49728453d352f7ee894de130e2f07a7db6a050bcdbd03",
+      "size": 1998
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/block/MixinSkullBlockEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/block/MixinSkullBlockEntityRenderer.class",
+      "sha256": "3742d5c4ce7cf5899be567f98aa28e715ab9c6792b4aaa1083ab408cfbdd0c52",
+      "size": 576
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlazeEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlazeEntity.class",
+      "sha256": "198370054a7594e68d3a773ac17a97c8ded6a00f29e23609cdfa6360acb0d3e1",
+      "size": 2119
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlockEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlockEntity.class",
+      "sha256": "38623798e9a8259fd9ea7e4b113fb57fe0385a5e7b0b2c69c9f26ea23501e0f3",
+      "size": 6783,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "7QEASHRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9taXhpbi9taXhpbnMvZW50aXR5L21pc2MvTWl4aW5CbG9ja0VudGl0eQ=="
+        },
+        {
+          "copy": [
+            15,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "Bw=="
+        },
+        {
+          "copy": [
+            52,
+            2
+          ]
+        },
+        {
+          "insert": "AQAudHJhYmVuL2VudGl0eV90ZXh0dXJlX2ZlYXR1cmVzL3V0aWxzL0VURkVudGl0eQ=="
+        },
+        {
+          "copy": [
+            62,
+            2
+          ]
+        },
+        {
+          "insert": "BQEAFQ=="
+        },
+        {
+          "copy": [
+            129,
+            16
+          ]
+        },
+        {
+          "insert": "LmphdmEBACNMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL01peGluOwEABXZhbHVlAQA0TG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvYmxvY2svZW50aXR5L0Jsb2NrRW50aXR5OwEAJWphdmEvbGFuZy9pbnZva2UvTWV0aG9kSGFuZGxlcyRMb29rdXAHAAsBAB5qYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMHAA0BAAZMb29rdXA="
+        },
+        {
+          "copy": [
+            145,
+            28
+          ]
+        },
+        {
+          "insert": "AQAkTG9yZy9zcG9uZ2Vwbw=="
+        },
+        {
+          "copy": [
+            193,
+            1
+          ]
+        },
+        {
+          "insert": "ZXJl"
+        },
+        {
+          "copy": [
+            197,
+            2
+          ]
+        },
+        {
+          "insert": "YXNtL21peGluL1VuaXF1ZTsBAAY8aW5pdD4BAAMoKVYMABMAFAoABAAVDAAQABEJAAIAFwEABHRoaXMBAEpMdHJh"
+        },
+        {
+          "copy": [
+            205,
+            1
+          ]
+        },
+        {
+          "insert": "ZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvbWl4aW4vbWl4aW5zL2VudGl0eS9taXNjL01peGlu"
+        },
+        {
+          "copy": [
+            218,
+            11
+          ]
+        },
+        {
+          "insert": "OwEA"
+        },
+        {
+          "copy": [
+            234,
+            1
+          ]
+        },
+        {
+          "insert": "Z2V0VHlwZQEAOigpTG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvYmxvY2svZW50aXR5L0Jsb2NrRW50aXR5VHlwZTsBAD0oKUxuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL2Jsb2NrL2VudGl0eS9CbG9ja0VudGl0eVR5cGU8Kj47AQAkTG9yZy9zcG9uZ2Vwb3dlcmVkL2FzbS9taXhpbi9TaGFkb3c7AQALZ2V0QmxvY2tQb3MBAB8oKUxuZXQvbWluZWNyYWZ0L2NvcmUvQmxvY2tQb3M7AQAIZ2V0TGV2ZWwBACMoKUxuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL0xldmVsOwEAJExvcmcvamV0YnJhaW5zL2Fubm90YXRpb25zL051bGxhYmxlOwEADHNhdmVNZXRhZGF0YQEAMihMbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9zdG9yYWdlL1ZhbHVlT3V0cHV0OylWAQALZXRmJGdldFR5cGUBACkoKUxuZXQvbWluZWNyYWZ0L3dvcmxkL2VudGl0eS9FbnRpdHlUeXBlOwEALCgpTG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0VudGl0eVR5cGU8Kj47AQALZXRmJGdldFV1aWQB"
+        },
+        {
+          "copy": [
+            235,
+            2
+          ]
+        },
+        {
+          "insert": "KClMamF2YS91dGlsL1VVSUQ7AQAybmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9ibG9jay9lbnRpdHkvQmxvY2tFbnRpdHkHACs="
+        },
+        {
+          "copy": [
+            242,
+            40
+          ]
+        },
+        {
+          "insert": "BwAt"
+        },
+        {
+          "copy": [
+            282,
+            97
+          ]
+        },
+        {
+          "insert": "DAAvADA="
+        },
+        {
+          "copy": [
+            379,
+            2
+          ]
+        },
+        {
+          "insert": "LgAxAQARZXRmJGdldE9wdGlmaW5lSWQBAAMoKUk="
+        },
+        {
+          "copy": [
+            389,
+            18
+          ]
+        },
+        {
+          "insert": "DAA1ACA="
+        },
+        {
+          "copy": [
+            441,
+            2
+          ]
+        },
+        {
+          "insert": "AgA2"
+        },
+        {
+          "copy": [
+            454,
+            49
+          ]
+        },
+        {
+          "insert": "BwA4"
+        },
+        {
+          "copy": [
+            503,
+            25
+          ]
+        },
+        {
+          "insert": "DAA6ADs="
+        },
+        {
+          "copy": [
+            528,
+            2
+          ]
+        },
+        {
+          "insert": "OQA8"
+        },
+        {
+          "copy": [
+            541,
+            30
+          ]
+        },
+        {
+          "insert": "BwA+"
+        },
+        {
+          "copy": [
+            571,
+            7
+          ]
+        },
+        {
+          "insert": "DABAADQKAD8AQQEABGdldFoMAEMANAoAPwBEAQAEZ2V0WQwARgA0CgA/AEc="
+        },
+        {
+          "copy": [
+            578,
+            3
+          ]
+        },
+        {
+          "insert": "cG9zAQAdTG5ldC9taW5lY3JhZnQvY29yZS9CbG9ja1BvczsBAARoYXNoAQABSQEAGGV0ZiRnZXRPcHRpZmluZVZlaGljbGVJZAwAMwA0CgACAE4BAAxldGYkZ2V0V29ybGQMACEAIgoAAgBRDAAfACAKAAIAUwEADWV0ZiRnZXRCbG9ja1kBAApldGYkZ2V0TmJ0AQAh"
+        },
+        {
+          "copy": [
+            581,
+            2
+          ]
+        },
+        {
+          "insert": "TG5ldC9taW5lY3JhZnQvbmJ0L0NvbQ=="
+        },
+        {
+          "copy": [
+            639,
+            1
+          ]
+        },
+        {
+          "insert": "b3Vu"
+        },
+        {
+          "copy": [
+            647,
+            1
+          ]
+        },
+        {
+          "insert": "VGFn"
+        },
+        {
+          "copy": [
+            706,
+            1
+          ]
+        },
+        {
+          "copy": [
+            744,
+            57
+          ]
+        },
+        {
+          "insert": "BwBY"
+        },
+        {
+          "copy": [
+            801,
+            81
+          ]
+        },
+        {
+          "copy": [
+            890,
+            2
+          ]
+        },
+        {
+          "insert": "WgBbCgBZAFw="
+        },
+        {
+          "copy": [
+            895,
+            102
+          ]
+        },
+        {
+          "insert": "BwBe"
+        },
+        {
+          "copy": [
+            997,
+            56
+          ]
+        },
+        {
+          "insert": "DABgAGEJAF8AYgEAQnRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZFbnRpdHlSZW5kZXJTdGF0ZQcAZAwAKQAq"
+        },
+        {
+          "copy": [
+            1053,
+            2
+          ]
+        },
+        {
+          "insert": "AgBmAQAU"
+        },
+        {
+          "copy": [
+            1080,
+            2
+          ]
+        },
+        {
+          "insert": "TGphdmEvbGFuZy9PYmplY3Q7EABoAQATbGFtYmRhJGV0ZiRnZXROYnQkMAwAagBXCgACAGsPBQBsEABXAQAiamF2YS9sYW5nL2ludm9rZS9MYW1iZGFNZXRhZmFjdG9yeQcAbwEAC21ldGFmYWN0b3J5AQDMKExqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwO0xqYXZhL2xhbmcvU3RyaW5nO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTtMamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kVHlwZTspTGphdmEvbGFuZy9pbnZva2UvQ2FsbFNpdGU7DABxAHIKAHAAcw8GAHQBAANnZXQBAGkoTHRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9taXhpbi9taXhpbnMvZW50aXR5L21pc2MvTWl4aW5CbG9ja0VudGl0eTspTGphdmEvdXRpbC9mdW5jdGlvbi9TdXBwbGllcjsMAHYAdxIAAAB4AQA+dHJhYmVuL2VudGl0eV90ZXh0dXJlX2ZlYXR1cmVzL2ZlYXR1cmVzL3N0YXRlL0VURkZyYW1lTmJ0Q2FjaGUHAHoBAAVjYWNoZQEApChMdHJhYmVuL2VudGl0eV90ZXh0dXJlX2ZlYXR1cmVzL2ZlYXR1cmVzL3N0YXRlL0VURkVudGl0eVJlbmRlclN0YXRlOw=="
+        },
+        {
+          "copy": [
+            1082,
+            16
+          ]
+        },
+        {
+          "insert": "TGphdmEvdXRpbC9mdW5jdGlvbi9TdXBwbGllcjtMamF2YS9sYW5nL08="
+        },
+        {
+          "copy": [
+            1122,
+            1
+          ]
+        },
+        {
+          "insert": "amVjdA=="
+        },
+        {
+          "copy": [
+            1191,
+            3
+          ]
+        },
+        {
+          "insert": "bmV0L21pbmVjcmFmdC9uYnQvQ29t"
+        },
+        {
+          "copy": [
+            1215,
+            1
+          ]
+        },
+        {
+          "insert": "b3VuZFRhZw=="
+        },
+        {
+          "copy": [
+            1221,
+            1
+          ]
+        },
+        {
+          "copy": [
+            1230,
+            2
+          ]
+        },
+        {
+          "insert": "fAB9CgB7AH4BAERM"
+        },
+        {
+          "copy": [
+            1238,
+            66
+          ]
+        },
+        {
+          "copy": [
+            1348,
+            1
+          ]
+        },
+        {
+          "insert": "AQARZXRmJA=="
+        },
+        {
+          "copy": [
+            1457,
+            19
+          ]
+        },
+        {
+          "insert": "AQAcbmV0L21pbmVjcmFmdC93b3JsZC9OYW1lYWJsZQcAgwEADWhhc0N1c3RvbU5hbWUMAIUAgg=="
+        },
+        {
+          "copy": [
+            1476,
+            2
+          ]
+        },
+        {
+          "insert": "hACGAQAEbmFtZQEAHkxuZXQvbWluZWNyYWZ0L3dvcmxkL05hbWVhYmxlOwEAEWV0ZiQ="
+        },
+        {
+          "copy": [
+            1489,
+            56
+          ]
+        },
+        {
+          "insert": "AQANZ2V0Q3VzdG9tTmFtZQwAjACLCwCEAI0BAARudWxs"
+        },
+        {
+          "copy": [
+            1545,
+            2
+          ]
+        },
+        {
+          "insert": "jwEAJG5ldC9taW5lY3JhZnQvbmV0d29yay9jaGF0L0NvbXBvbmVudA=="
+        },
+        {
+          "copy": [
+            1560,
+            2
+          ]
+        },
+        {
+          "insert": "kQ=="
+        },
+        {
+          "copy": [
+            1607,
+            75
+          ]
+        },
+        {
+          "insert": "DACTAJQLAJIAlQEAFWV0ZiRnZXRTY29yZQ=="
+        },
+        {
+          "copy": [
+            1684,
+            1
+          ]
+        },
+        {
+          "insert": "b2FyZFRlYW0BACMoKUxuZXQvbWluZWNyYWZ0L3dvcmxkL3Njb3Jlcy9UZWFtOwEAFGV0ZiRnZXRJdGVtc0VxdWlwcGVkAQAWKClMamF2YS9sYW5nL0l0ZXJhYmxlOwEAPCgpTGphdmEvbGFuZy9JdGVyYWJsZTxMbmV0L21pbmVjcmFmdC93b3JsZC9pdGVtL0l0ZW1TdGFjazs+OwEAEGV0ZiRnZXRIYW5kSXRlbXMBABFldGYkZ2V0QXJtb3JJdGVtcwEADmV0ZiRkaXN0YW5jZVRvAQAmKExuZXQvbWluZWNyYWZ0L3dvcmxkL2VudGl0eS9FbnRpdHk7KUYBACFuZXQvbWluZWNyYWZ0L3dvcmxkL2VudGl0eS9FbnRpdHk="
+        },
+        {
+          "copy": [
+            1687,
+            2
+          ]
+        },
+        {
+          "insert": "oA=="
+        },
+        {
+          "copy": [
+            1731,
+            6
+          ]
+        },
+        {
+          "insert": "DABAAKI="
+        },
+        {
+          "copy": [
+            1737,
+            2
+          ]
+        },
+        {
+          "insert": "oQCj"
+        },
+        {
+          "copy": [
+            1742,
+            2
+          ]
+        },
+        {
+          "insert": "RgCi"
+        },
+        {
+          "copy": [
+            1747,
+            2
+          ]
+        },
+        {
+          "insert": "oQCl"
+        },
+        {
+          "copy": [
+            1752,
+            2
+          ]
+        },
+        {
+          "insert": "QwCi"
+        },
+        {
+          "copy": [
+            1757,
+            2
+          ]
+        },
+        {
+          "insert": "oQCnAQAWbmV0L21pbmVjcmFmdC91dGlsL010aA=="
+        },
+        {
+          "copy": [
+            1762,
+            2
+          ]
+        },
+        {
+          "insert": "qQ=="
+        },
+        {
+          "copy": [
+            1795,
+            14
+          ]
+        },
+        {
+          "copy": [
+            1817,
+            2
+          ]
+        },
+        {
+          "insert": "qwCsCgCqAK0BAAZlbnRpdHkBACNMbmV0L21pbmVjcmFmdC93b3JsZC9lbnRpdHkvRW50aXR5OwEAAWYBAAFGAQABZwEAAWgBAA9ldGYkZ2V0VmVsb2NpdHkBACEoKUw="
+        },
+        {
+          "copy": [
+            1825,
+            29
+          ]
+        },
+        {
+          "insert": "OwEAHW5ldC9taW5lY3JhZnQvd29ybGQvcGh5cy9WZWMzBwC3"
+        },
+        {
+          "copy": [
+            1854,
+            41
+          ]
+        },
+        {
+          "insert": "DAC5ALo="
+        },
+        {
+          "copy": [
+            1895,
+            2
+          ]
+        },
+        {
+          "insert": "uAC7AQALZXRmJGdldFBvc2UBACMoKUxuZXQvbWluZWNyYWZ0Lw=="
+        },
+        {
+          "copy": [
+            1897,
+            1
+          ]
+        },
+        {
+          "insert": "b3JsZC9lbnRpdHkvUG9zZTsBAB9uZXQvbWluZWNyYWZ0L3dvcmxkL2VudGl0eS9Qb3Nl"
+        },
+        {
+          "copy": [
+            1900,
+            2
+          ]
+        },
+        {
+          "insert": "vw=="
+        },
+        {
+          "copy": [
+            1942,
+            47
+          ]
+        },
+        {
+          "copy": [
+            1994,
+            2
+          ]
+        },
+        {
+          "insert": "wQDCCQDAAMMBAA9ldGYkY2FuQmVCcmlnaHQBABFldGYkaXNCbG9ja0VudGl0eQEAEGV0ZiRnZXRFbnRpdHlLZXkBABQ="
+        },
+        {
+          "copy": [
+            2012,
+            3
+          ]
+        },
+        {
+          "insert": "amE="
+        },
+        {
+          "copy": [
+            2037,
+            1
+          ]
+        },
+        {
+          "insert": "YS9sYW5nL1N0cmluZzsMABsAHAoAAgDJAQAiZ2V0"
+        },
+        {
+          "copy": [
+            2054,
+            15
+          ]
+        },
+        {
+          "insert": "VG9UcmFuc2xhdGlvbktleQEATChMbmV0L21pbmVjcmFmdC93b3JsZC9sZXZlbC9ibG9jay9lbnRpdHkv"
+        },
+        {
+          "copy": [
+            2086,
+            15
+          ]
+        },
+        {
+          "copy": [
+            2176,
+            20
+          ]
+        },
+        {
+          "insert": "DADLAMwKAC4AzQEAIm5ldC9taW5lY3JhZnQvdXRpbC9Qcm9ibGVtUmVwb3J0ZXI="
+        },
+        {
+          "copy": [
+            2201,
+            2
+          ]
+        },
+        {
+          "insert": "zw=="
+        },
+        {
+          "copy": [
+            2246,
+            52
+          ]
+        },
+        {
+          "insert": "DADRANIJANAA0wEAMG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvc3RvcmFnZS9UYWdWYWx1ZU91dHB1dA=="
+        },
+        {
+          "copy": [
+            2303,
+            2
+          ]
+        },
+        {
+          "insert": "1Q=="
+        },
+        {
+          "copy": [
+            2362,
+            114
+          ]
+        },
+        {
+          "insert": "DADXANg="
+        },
+        {
+          "copy": [
+            2476,
+            2
+          ]
+        },
+        {
+          "insert": "1gDZ"
+        },
+        {
+          "copy": [
+            2481,
+            2
+          ]
+        },
+        {
+          "insert": "JAAl"
+        },
+        {
+          "copy": [
+            2554,
+            2
+          ]
+        },
+        {
+          "insert": "AgDb"
+        },
+        {
+          "copy": [
+            2564,
+            14
+          ]
+        },
+        {
+          "insert": "DADdAFcKANYA3gEACGM="
+        },
+        {
+          "copy": [
+            2603,
+            7
+          ]
+        },
+        {
+          "insert": "AQAyTG5ldC9taW5lY3JhZnQvd29ybGQvbGV2ZWwvc3RvcmFnZS8="
+        },
+        {
+          "copy": [
+            2610,
+            3
+          ]
+        },
+        {
+          "insert": "VmFsdWVPdXRwdXQ="
+        },
+        {
+          "copy": [
+            2613,
+            1
+          ]
+        },
+        {
+          "copy": [
+            2666,
+            30
+          ]
+        },
+        {
+          "copy": [
+            2735,
+            46
+          ]
+        },
+        {
+          "copy": [
+            2865,
+            12
+          ]
+        },
+        {
+          "copy": [
+            2980,
+            30
+          ]
+        },
+        {
+          "copy": [
+            3049,
+            34
+          ]
+        },
+        {
+          "copy": [
+            3188,
+            16
+          ]
+        },
+        {
+          "insert": "DA=="
+        },
+        {
+          "copy": [
+            3250,
+            1
+          ]
+        },
+        {
+          "insert": "bm5lcg=="
+        },
+        {
+          "copy": [
+            3403,
+            1
+          ]
+        },
+        {
+          "insert": "bGFzc2Vz"
+        },
+        {
+          "copy": [
+            4078,
+            15
+          ]
+        },
+        {
+          "copy": [
+            4218,
+            17
+          ]
+        },
+        {
+          "copy": [
+            4656,
+            3
+          ]
+        },
+        {
+          "insert": "AgAEAAE="
+        },
+        {
+          "copy": [
+            4680,
+            5
+          ]
+        },
+        {
+          "insert": "AgAQABEAAQDiAAAABgABABI="
+        },
+        {
+          "copy": [
+            4686,
+            7
+          ]
+        },
+        {
+          "insert": "EwAUAAEA4w=="
+        },
+        {
+          "copy": [
+            4700,
+            15
+          ]
+        },
+        {
+          "insert": "Fg=="
+        },
+        {
+          "copy": [
+            4716,
+            4
+          ]
+        },
+        {
+          "insert": "GA=="
+        },
+        {
+          "copy": [
+            4721,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            4728,
+            15
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            4744,
+            11
+          ]
+        },
+        {
+          "insert": "GQAa"
+        },
+        {
+          "copy": [
+            4758,
+            5
+          ]
+        },
+        {
+          "insert": "GwAcAAIA5gAAAAIAHQDi"
+        },
+        {
+          "copy": [
+            4778,
+            7
+          ]
+        },
+        {
+          "insert": "Hg=="
+        },
+        {
+          "copy": [
+            4786,
+            5
+          ]
+        },
+        {
+          "insert": "HwAgAAEA4g=="
+        },
+        {
+          "copy": [
+            4798,
+            7
+          ]
+        },
+        {
+          "insert": "Hg=="
+        },
+        {
+          "copy": [
+            4806,
+            5
+          ]
+        },
+        {
+          "insert": "IQAi"
+        },
+        {
+          "copy": [
+            4814,
+            3
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            4818,
+            7
+          ]
+        },
+        {
+          "insert": "HgAAAOc="
+        },
+        {
+          "copy": [
+            4830,
+            7
+          ]
+        },
+        {
+          "insert": "IwAAAOg="
+        },
+        {
+          "copy": [
+            4842,
+            9
+          ]
+        },
+        {
+          "insert": "Iw=="
+        },
+        {
+          "copy": [
+            4852,
+            5
+          ]
+        },
+        {
+          "insert": "JAAlAAEA4g=="
+        },
+        {
+          "copy": [
+            4864,
+            7
+          ]
+        },
+        {
+          "insert": "HgAAAAEAJgAnAAIA4w=="
+        },
+        {
+          "copy": [
+            4884,
+            19
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            4904,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            4916,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAA5gAAAAIAKAABACkAKgABAOM="
+        },
+        {
+          "copy": [
+            4950,
+            15
+          ]
+        },
+        {
+          "insert": "GA=="
+        },
+        {
+          "copy": [
+            4966,
+            7
+          ]
+        },
+        {
+          "insert": "LA=="
+        },
+        {
+          "copy": [
+            4974,
+            2
+          ]
+        },
+        {
+          "insert": "Mg=="
+        },
+        {
+          "copy": [
+            4977,
+            2
+          ]
+        },
+        {
+          "insert": "GA=="
+        },
+        {
+          "copy": [
+            4980,
+            3
+          ]
+        },
+        {
+          "insert": "GA=="
+        },
+        {
+          "copy": [
+            4984,
+            6
+          ]
+        },
+        {
+          "insert": "6QAAAAMAARIA5A=="
+        },
+        {
+          "copy": [
+            4991,
+            15
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            5007,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQAzADQAAQDj"
+        },
+        {
+          "copy": [
+            5042,
+            15
+          ]
+        },
+        {
+          "insert": "Nw=="
+        },
+        {
+          "copy": [
+            5058,
+            5
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            5064,
+            5
+          ]
+        },
+        {
+          "insert": "Qg=="
+        },
+        {
+          "copy": [
+            5070,
+            3
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            5074,
+            5
+          ]
+        },
+        {
+          "insert": "RQ=="
+        },
+        {
+          "copy": [
+            5080,
+            3
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            5084,
+            5
+          ]
+        },
+        {
+          "insert": "SA=="
+        },
+        {
+          "copy": [
+            5090,
+            3
+          ]
+        },
+        {
+          "insert": "PawAAAACAOQAAAAWAAUAAABLAAUATQALAE4AFQBPAB8AUADlAAAAIAADAAAAKQA="
+        },
+        {
+          "copy": [
+            5093,
+            1
+          ]
+        },
+        {
+          "insert": "ABoAAA=="
+        },
+        {
+          "copy": [
+            5105,
+            3
+          ]
+        },
+        {
+          "insert": "JABJAEoAAQALAB4="
+        },
+        {
+          "copy": [
+            5109,
+            3
+          ]
+        },
+        {
+          "insert": "TAACAAE="
+        },
+        {
+          "copy": [
+            5113,
+            3
+          ]
+        },
+        {
+          "insert": "NAABAOM="
+        },
+        {
+          "copy": [
+            5175,
+            15
+          ]
+        },
+        {
+          "insert": "Tw=="
+        },
+        {
+          "copy": [
+            5191,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            5198,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            5210,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQBQACIAAQDj"
+        },
+        {
+          "copy": [
+            5236,
+            15
+          ]
+        },
+        {
+          "insert": "Ug=="
+        },
+        {
+          "copy": [
+            5252,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            5259,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            5271,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQA1ACAAAQDj"
+        },
+        {
+          "copy": [
+            5297,
+            15
+          ]
+        },
+        {
+          "insert": "VA=="
+        },
+        {
+          "copy": [
+            5313,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            5320,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            5332,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQBVADQAAQDj"
+        },
+        {
+          "copy": [
+            5358,
+            15
+          ]
+        },
+        {
+          "insert": "VA=="
+        },
+        {
+          "copy": [
+            5374,
+            2
+          ]
+        },
+        {
+          "insert": "SA=="
+        },
+        {
+          "copy": [
+            5377,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            5384,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            5396,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQBWAFcAAQDjAAAAZgAEAAIAAAAc"
+        },
+        {
+          "copy": [
+            5434,
+            2
+          ]
+        },
+        {
+          "insert": "XQ=="
+        },
+        {
+          "copy": [
+            5437,
+            7
+          ]
+        },
+        {
+          "insert": "Yw=="
+        },
+        {
+          "copy": [
+            5445,
+            5
+          ]
+        },
+        {
+          "insert": "Zw=="
+        },
+        {
+          "copy": [
+            5451,
+            3
+          ]
+        },
+        {
+          "insert": "eQAAKrgAf7AAAAA="
+        },
+        {
+          "copy": [
+            5460,
+            2
+          ]
+        },
+        {
+          "insert": "6Q=="
+        },
+        {
+          "copy": [
+            5517,
+            11
+          ]
+        },
+        {
+          "insert": "ZQDkAAAADgADAAAAcgAEAHMADAB1AOUAAAAWAAIAAAAcABkAGgAAAAQAGABaAIAAAQABAIEAggABAOM="
+        },
+        {
+          "copy": [
+            5539,
+            17
+          ]
+        },
+        {
+          "insert": "hA=="
+        },
+        {
+          "copy": [
+            5557,
+            6
+          ]
+        },
+        {
+          "insert": "hA=="
+        },
+        {
+          "copy": [
+            5564,
+            4
+          ]
+        },
+        {
+          "insert": "hw=="
+        },
+        {
+          "copy": [
+            5569,
+            16
+          ]
+        },
+        {
+          "insert": "6Q=="
+        },
+        {
+          "copy": [
+            5626,
+            10
+          ]
+        },
+        {
+          "insert": "5AAAAAYAAQAAAIcA5QAAABYAAgAOAA0AiACJAAEAAAAdABkAGgAAAAEAigCLAAEA4w=="
+        },
+        {
+          "copy": [
+            5645,
+            17
+          ]
+        },
+        {
+          "insert": "hA=="
+        },
+        {
+          "copy": [
+            5663,
+            6
+          ]
+        },
+        {
+          "insert": "hA=="
+        },
+        {
+          "copy": [
+            5670,
+            4
+          ]
+        },
+        {
+          "insert": "hw=="
+        },
+        {
+          "copy": [
+            5675,
+            8
+          ]
+        },
+        {
+          "insert": "jg=="
+        },
+        {
+          "copy": [
+            5684,
+            6
+          ]
+        },
+        {
+          "insert": "kA=="
+        },
+        {
+          "copy": [
+            5691,
+            2
+          ]
+        },
+        {
+          "insert": "lg=="
+        },
+        {
+          "copy": [
+            5694,
+            6
+          ]
+        },
+        {
+          "insert": "6Q=="
+        },
+        {
+          "copy": [
+            5741,
+            10
+          ]
+        },
+        {
+          "insert": "kgDkAAAABgABAAAAjADlAAAAFgACAA4AEgCIAIkAAQAAACYAGQAaAAAAAQCXAJgAAQDjAAAALAABAAEAAAACAbAAAAACAOQAAAAGAAEAAACRAOUAAAAMAAEAAAACABkAGgAAAAEAmQCaAAIA4wAAACwAAQABAAAAAgGwAAAAAgDkAAAABgABAAAAlgDlAAAADAABAAAAAgAZABoAAADmAAAAAgCb"
+        },
+        {
+          "copy": [
+            5758,
+            5
+          ]
+        },
+        {
+          "insert": "mgACAOMA"
+        },
+        {
+          "copy": [
+            5763,
+            18
+          ]
+        },
+        {
+          "insert": "5AAAAAYAAQAAAJsA5QAAAAwAAQAAAAIAGQAaAAAA5gAAAAIAmwABAA=="
+        },
+        {
+          "copy": [
+            5781,
+            2
+          ]
+        },
+        {
+          "insert": "mgACAOMAAAAsAAEAAQAAAAIBsAAAAAIA5AA="
+        },
+        {
+          "copy": [
+            5783,
+            8
+          ]
+        },
+        {
+          "insert": "oADlAAAADAABAAAAAgAZABoAAADmAAAAAgCbAAE="
+        },
+        {
+          "copy": [
+            5792,
+            3
+          ]
+        },
+        {
+          "copy": [
+            5805,
+            2
+          ]
+        },
+        {
+          "insert": "AQDj"
+        },
+        {
+          "copy": [
+            6018,
+            15
+          ]
+        },
+        {
+          "insert": "VA=="
+        },
+        {
+          "copy": [
+            6034,
+            4
+          ]
+        },
+        {
+          "insert": "Qg=="
+        },
+        {
+          "copy": [
+            6039,
+            4
+          ]
+        },
+        {
+          "insert": "pA=="
+        },
+        {
+          "copy": [
+            6044,
+            6
+          ]
+        },
+        {
+          "insert": "SA=="
+        },
+        {
+          "copy": [
+            6051,
+            4
+          ]
+        },
+        {
+          "insert": "pg=="
+        },
+        {
+          "copy": [
+            6056,
+            7
+          ]
+        },
+        {
+          "insert": "RQ=="
+        },
+        {
+          "copy": [
+            6064,
+            4
+          ]
+        },
+        {
+          "insert": "qA=="
+        },
+        {
+          "copy": [
+            6069,
+            21
+          ]
+        },
+        {
+          "copy": [
+            6091,
+            1
+          ]
+        },
+        {
+          "insert": "rgAAAAIA5A=="
+        },
+        {
+          "copy": [
+            6098,
+            27
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6126,
+            11
+          ]
+        },
+        {
+          "insert": "GQAa"
+        },
+        {
+          "copy": [
+            6140,
+            7
+          ]
+        },
+        {
+          "insert": "rwCw"
+        },
+        {
+          "copy": [
+            6150,
+            7
+          ]
+        },
+        {
+          "insert": "SQBK"
+        },
+        {
+          "copy": [
+            6160,
+            7
+          ]
+        },
+        {
+          "insert": "sQCy"
+        },
+        {
+          "copy": [
+            6170,
+            7
+          ]
+        },
+        {
+          "insert": "swCy"
+        },
+        {
+          "copy": [
+            6180,
+            7
+          ]
+        },
+        {
+          "insert": "tACy"
+        },
+        {
+          "copy": [
+            6190,
+            5
+          ]
+        },
+        {
+          "insert": "tQC2AAEA4w=="
+        },
+        {
+          "copy": [
+            6202,
+            14
+          ]
+        },
+        {
+          "insert": "vA=="
+        },
+        {
+          "copy": [
+            6217,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            6224,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6236,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQC9AL4AAQDj"
+        },
+        {
+          "copy": [
+            6262,
+            14
+          ]
+        },
+        {
+          "insert": "xA=="
+        },
+        {
+          "copy": [
+            6277,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            6284,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6296,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQDFAIIAAQDj"
+        },
+        {
+          "copy": [
+            6322,
+            19
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            6342,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6354,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQDGAIIAAQDj"
+        },
+        {
+          "copy": [
+            6380,
+            19
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            6400,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6412,
+            11
+          ]
+        },
+        {
+          "insert": "GQAaAAAAAQDHAMgAAQDj"
+        },
+        {
+          "copy": [
+            6438,
+            15
+          ]
+        },
+        {
+          "insert": "yg=="
+        },
+        {
+          "copy": [
+            6454,
+            2
+          ]
+        },
+        {
+          "insert": "zg=="
+        },
+        {
+          "copy": [
+            6457,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            6464,
+            11
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6476,
+            11
+          ]
+        },
+        {
+          "insert": "GQAa"
+        },
+        {
+          "copy": [
+            6490,
+            5
+          ]
+        },
+        {
+          "insert": "agBXAAEA4w=="
+        },
+        {
+          "copy": [
+            6502,
+            14
+          ]
+        },
+        {
+          "insert": "1A=="
+        },
+        {
+          "copy": [
+            6517,
+            2
+          ]
+        },
+        {
+          "insert": "2g=="
+        },
+        {
+          "copy": [
+            6520,
+            5
+          ]
+        },
+        {
+          "insert": "3A=="
+        },
+        {
+          "copy": [
+            6526,
+            3
+          ]
+        },
+        {
+          "insert": "3w=="
+        },
+        {
+          "copy": [
+            6530,
+            6
+          ]
+        },
+        {
+          "insert": "5A=="
+        },
+        {
+          "copy": [
+            6537,
+            19
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            6557,
+            11
+          ]
+        },
+        {
+          "insert": "GQAa"
+        },
+        {
+          "copy": [
+            6571,
+            7
+          ]
+        },
+        {
+          "insert": "4ADh"
+        },
+        {
+          "copy": [
+            6581,
+            5
+          ]
+        },
+        {
+          "insert": "6gAAAAoAAQAM"
+        },
+        {
+          "copy": [
+            6597,
+            3
+          ]
+        },
+        {
+          "insert": "DwAZAOsAAAACAAcA5wAAAA4AAQAIAAEACQ=="
+        },
+        {
+          "copy": [
+            6607,
+            5
+          ]
+        },
+        {
+          "insert": "CgDs"
+        },
+        {
+          "copy": [
+            6615,
+            7
+          ]
+        },
+        {
+          "insert": "dQ=="
+        },
+        {
+          "copy": [
+            6623,
+            3
+          ]
+        },
+        {
+          "insert": "aQBtAG4="
+        }
+      ]
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlockEntityRenderDispatcher.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlockEntityRenderDispatcher.class",
+      "sha256": "3cb608d5f4b971481651faf53b0f7f858bd7d2ae649a801ad411a47891b6e02c",
+      "size": 3237
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlockEntityRenderState.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinBlockEntityRenderState.class",
+      "sha256": "215b92c468b4a86190b011383b25b9fe7826f4030413b29bd44f9f6e53e3ca58",
+      "size": 4123
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinEntity.class",
+      "sha256": "12b07edd7c036b23f00f31235cd7c1a01ce79a09c079055a5836e0e590777ac3",
+      "size": 8032,
+      "operations": [
+        {
+          "copy": [
+            0,
+            9
+          ]
+        },
+        {
+          "insert": "HAEAQ3RyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9taXhpbi9taXhpbnMvZW50aXR5L21pc2MvTWl4aW5FbnRpdHk="
+        },
+        {
+          "copy": [
+            15,
+            2
+          ]
+        },
+        {
+          "insert": "AQ=="
+        },
+        {
+          "copy": [
+            23,
+            19
+          ]
+        },
+        {
+          "insert": "BwADAQAudHJhYmVuL2VudGl0eV90ZXh0dXJlX2ZlYXR1cmVzL3V0aWxzL0VURkVudGl0eQcABQEAEE1peGluRW50aXR5LmphdmEBACNMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL01peGluOwEABXZhbHVlAQAjTG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0VudGl0eTsBABNqYXZhL3V0aWwvTWFwJEVudHJ5BwALAQANamF2YS91dGlsL01hcAcADQEABUVudHJ5AQAtbmV0L21pbmVjcmFmdC93b3JsZC9lbnRpdHkvRXF1aXBtZW50U2xvdCRUeXBlBwAQAQAobmV0L21pbmVjcmFmdC93b3JsZC9lbnRpdHkvRXF1aXBtZW50U2xvdAcAEgEABFR5cGUBACVqYXZhL2xhbmcvaW52b2tlL01ldGhvZEhhbmRsZXMkTG9va3VwBwAVAQAeamF2YS9sYW5nL2ludm9rZS9NZXRob2RIYW5kbGVzBwAXAQAGTG9va3Vw"
+        },
+        {
+          "copy": [
+            42,
+            15
+          ]
+        },
+        {
+          "insert": "DAAaABs="
+        },
+        {
+          "copy": [
+            57,
+            2
+          ]
+        },
+        {
+          "insert": "BAAcAQAEdGhpcwEARUw="
+        },
+        {
+          "copy": [
+            73,
+            67
+          ]
+        },
+        {
+          "insert": "Ow=="
+        },
+        {
+          "copy": [
+            140,
+            54
+          ]
+        },
+        {
+          "insert": "AQAsKClMbmV0L21pbmVjcmFmdC93b3JsZC9lbnRpdHkvRW50aXR5VHlwZTwqPjsBACRMb3JnL3Nwb25nZXBvd2VyZWQvYXNtL21peGluL1NoYWRvdzsBAAlnZXRCbG9ja1kBAAMoKUkBAA1oYXNDdXN0b21OYW1lAQADKClaAQANZ2V0Q3VzdG9tTmFtZQEAKCgpTG5ldC9taW5lY3JhZnQvbmV0d29yay9jaGF0L0NvbXBvbmVudDsBACRMb3JnL2pldGJyYWlucy9hbm5vdGF0aW9ucy9OdWxsYWJsZTsBAA=="
+        },
+        {
+          "copy": [
+            194,
+            1
+          ]
+        },
+        {
+          "insert": "ZGlzdGFuY2VUbwEAJihMbmV0L21pbmVjcmFmdC93b3JsZC9lbnRpdHkvRW50aXR5OylGAQAHZ2V0UG9zZQEAIygpTG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L1Bvc2U7"
+        },
+        {
+          "copy": [
+            204,
+            31
+          ]
+        },
+        {
+          "insert": "AQAFbGV2ZWwBACMoKUxuZXQvbWluZWNyYWZ0L3dvcmxkL2xldmVsL0xldmVsOwEADWJsb2NrUG9zaXRpb24BAB8oKUxuZXQvbWluZWNyYWZ0L2NvcmUvQmxvY2tQb3M7AQAHZ2V0VGVhbQEAKSgpTG5ldC9taW5lY3JhZnQvd29ybGQvc2NvcmVzL1BsYXllclRlYW07AQAQZ2V0RGVsdGFNb3ZlbWVudAEAISgpTG5ldC9taW5lY3JhZnQvd29ybGQvcGh5cy9WZWMzOwEA"
+        },
+        {
+          "copy": [
+            235,
+            1
+          ]
+        },
+        {
+          "insert": "Z2V0VmVoaWNsZQEAJSgpTG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0VudGl0eTsBAAtldGYkZ2V0VHlwZQ=="
+        },
+        {
+          "copy": [
+            240,
+            2
+          ]
+        },
+        {
+          "insert": "IAAhCgACADw="
+        },
+        {
+          "copy": [
+            245,
+            14
+          ]
+        },
+        {
+          "insert": "DAAvADA="
+        },
+        {
+          "copy": [
+            259,
+            2
+          ]
+        },
+        {
+          "insert": "AgA/AQARZXRmJGdldE9wdGlmaW5lSWQ="
+        },
+        {
+          "copy": [
+            267,
+            2
+          ]
+        },
+        {
+          "insert": "PgAwCgACAEI="
+        },
+        {
+          "copy": [
+            272,
+            17
+          ]
+        },
+        {
+          "insert": "BwBE"
+        },
+        {
+          "copy": [
+            289,
+            32
+          ]
+        },
+        {
+          "insert": "DABGAEcKAEUASA=="
+        },
+        {
+          "copy": [
+            321,
+            9
+          ]
+        },
+        {
+          "insert": "AQAYZXRmJGdldE9wdGlmaW5lVmVoaWNsZUlkDAA5ADo="
+        },
+        {
+          "copy": [
+            330,
+            2
+          ]
+        },
+        {
+          "insert": "AgBN"
+        },
+        {
+          "copy": [
+            335,
+            2
+          ]
+        },
+        {
+          "insert": "QQAl"
+        },
+        {
+          "copy": [
+            342,
+            1
+          ]
+        },
+        {
+          "insert": "AAIATwsABgBPAQAMZXRmJGdldFdvcmxkDAAxADIKAAIAUwEAD2V0ZiRnZXRCbG9ja1BvcwwAMwA0CgACAA=="
+        },
+        {
+          "copy": [
+            346,
+            1
+          ]
+        },
+        {
+          "insert": "AQANZXRmJGdldEJsb2NrWQwAJA=="
+        },
+        {
+          "copy": [
+            354,
+            2
+          ]
+        },
+        {
+          "insert": "CgACAFkBAApldGYkZ2V0TmJ0AQAh"
+        },
+        {
+          "copy": [
+            356,
+            17
+          ]
+        },
+        {
+          "insert": "bmJ0L0NvbXBvdW4="
+        },
+        {
+          "copy": [
+            377,
+            1
+          ]
+        },
+        {
+          "insert": "VGFnOwEANnRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZQ=="
+        },
+        {
+          "copy": [
+            385,
+            2
+          ]
+        },
+        {
+          "insert": "VEZTdGF0ZQcAXQEABXN0YXRlAQBG"
+        },
+        {
+          "copy": [
+            426,
+            2
+          ]
+        },
+        {
+          "insert": "TA=="
+        },
+        {
+          "copy": [
+            435,
+            31
+          ]
+        },
+        {
+          "insert": "ZmVhdHVyZXMvc3RhdGU="
+        },
+        {
+          "copy": [
+            471,
+            10
+          ]
+        },
+        {
+          "insert": "UmVu"
+        },
+        {
+          "copy": [
+            528,
+            1
+          ]
+        },
+        {
+          "insert": "ZXI="
+        },
+        {
+          "copy": [
+            689,
+            5
+          ]
+        },
+        {
+          "copy": [
+            782,
+            3
+          ]
+        },
+        {
+          "insert": "XwBgCgBeAGE="
+        },
+        {
+          "copy": [
+            788,
+            102
+          ]
+        },
+        {
+          "insert": "BwBj"
+        },
+        {
+          "copy": [
+            890,
+            56
+          ]
+        },
+        {
+          "copy": [
+            951,
+            2
+          ]
+        },
+        {
+          "insert": "ZQBmCQ=="
+        },
+        {
+          "copy": [
+            963,
+            2
+          ]
+        },
+        {
+          "insert": "AGc="
+        },
+        {
+          "copy": [
+            1078,
+            69
+          ]
+        },
+        {
+          "insert": "BwBpAQAUKClMamF2YS9sYW5nL09iamVjdDsQAGsBABNsYW1iZGEkZXRmJGdldE5idCQwDABtAFwKAAIAbg8FAG8QAFwBACJqYXZhL2xhbmcvaW52b2tlL0xhbWJkYU1ldGFmYWN0b3J5BwByAQALbWV0YWZhY3RvcnkBAMwoTGphdmEvbGFuZy9pbnZva2UvTWV0"
+        },
+        {
+          "copy": [
+            1153,
+            1
+          ]
+        },
+        {
+          "insert": "b2RIYW5kbGVzJExvb2t1cDtMamF2YS9sYW5nL1N0cmluZztMamF2YS9sYW5nL2ludm9rZS9NZXRob2RUeXBlO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7TGphdmEvbGFuZy9pbnZva2UvTWV0aG9kSGFuZGxlO0xqYXZhL2xhbmcvaW52b2tlL01ldGhvZFR5cGU7KUxqYXZhL2xhbmcvaW52b2tlL0NhbGxTaXRlOwwAdAB1CgBzAHYPBgB3AQADZ2V0AQBkKEx0cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvbWl4aW4vbWl4aW5zL2VudGl0eS9taXNjL01peGlu"
+        },
+        {
+          "copy": [
+            1155,
+            6
+          ]
+        },
+        {
+          "insert": "OylMamF2YS91dGlsL2Z1bmN0aW9uL1N1cHBsaWVyOwwAeQB6EgAAAHsBAD50cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRQ=="
+        },
+        {
+          "copy": [
+            1163,
+            2
+          ]
+        },
+        {
+          "insert": "RnJhbWVOYnRDYWNoZQcAfQEABWNhY2hlAQCkKEx0cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRVRGRW50aXR5UmVuZGU="
+        },
+        {
+          "copy": [
+            1166,
+            6
+          ]
+        },
+        {
+          "insert": "Ow=="
+        },
+        {
+          "copy": [
+            1176,
+            45
+          ]
+        },
+        {
+          "insert": "TGphdmEvbGFuZy9PYmplY3Q7"
+        },
+        {
+          "copy": [
+            1221,
+            32
+          ]
+        },
+        {
+          "insert": "DAB/AIA="
+        },
+        {
+          "copy": [
+            1253,
+            2
+          ]
+        },
+        {
+          "insert": "fgCBAQBETHRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZFbnRpdHlSZW5kZXJTdGF0ZTsBABFldGYkaGFzQ3VzdG9tTmFtZQ=="
+        },
+        {
+          "copy": [
+            1258,
+            2
+          ]
+        },
+        {
+          "insert": "JgAnCgACAIUBABFldGYkZ2V0"
+        },
+        {
+          "copy": [
+            1269,
+            10
+          ]
+        },
+        {
+          "insert": "DAAoACkKAAIAiAEAFWV0ZiRnZXRTY29yZWJvYXJkVGVhbQEAIw=="
+        },
+        {
+          "copy": [
+            1282,
+            2
+          ]
+        },
+        {
+          "insert": "TG5ldC9taW5lY3JhZnQvd29ybGQvc2NvcmVzL1RlYW07DAA1ADY="
+        },
+        {
+          "copy": [
+            1285,
+            2
+          ]
+        },
+        {
+          "insert": "AgCMAQAUZXRmJGdldEl0ZW1zRXF1aXBwZWQBABY="
+        },
+        {
+          "copy": [
+            1314,
+            3
+          ]
+        },
+        {
+          "insert": "amF2YS9sYW5nL0l0ZXJhYmxl"
+        },
+        {
+          "copy": [
+            1353,
+            1
+          ]
+        },
+        {
+          "insert": "AQA8"
+        },
+        {
+          "copy": [
+            1377,
+            3
+          ]
+        },
+        {
+          "insert": "amF2YS9sYW5nL0l0ZXJhYmxlPEw="
+        },
+        {
+          "copy": [
+            1380,
+            20
+          ]
+        },
+        {
+          "insert": "aXRlbS9JdGVtU3RhY2s="
+        },
+        {
+          "copy": [
+            1417,
+            1
+          ]
+        },
+        {
+          "insert": "Pjs="
+        },
+        {
+          "copy": [
+            1428,
+            68
+          ]
+        },
+        {
+          "insert": "DACRAJIKAAIAkwEAJ25ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0xpdmluZ0VudGl0eQ=="
+        },
+        {
+          "copy": [
+            1501,
+            2
+          ]
+        },
+        {
+          "insert": "lQ=="
+        },
+        {
+          "copy": [
+            1551,
+            39
+          ]
+        },
+        {
+          "copy": [
+            1598,
+            2
+          ]
+        },
+        {
+          "insert": "lwCYCQCWAJk="
+        },
+        {
+          "copy": [
+            1619,
+            36
+          ]
+        },
+        {
+          "insert": "DACbAJwLAA4AnQEABWFsaXZlAQApTG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0xpdmluZ0VudGl0eTsBABBldGYkZ2V0SGFuZEl0ZW1z"
+        },
+        {
+          "copy": [
+            1658,
+            22
+          ]
+        },
+        {
+          "insert": "BwCi"
+        },
+        {
+          "copy": [
+            1680,
+            2
+          ]
+        },
+        {
+          "insert": "owAc"
+        },
+        {
+          "copy": [
+            1695,
+            31
+          ]
+        },
+        {
+          "insert": "DAClAKY="
+        },
+        {
+          "copy": [
+            1726,
+            2
+          ]
+        },
+        {
+          "insert": "DgCn"
+        },
+        {
+          "copy": [
+            1739,
+            16
+          ]
+        },
+        {
+          "insert": "BwCp"
+        },
+        {
+          "copy": [
+            1755,
+            36
+          ]
+        },
+        {
+          "insert": "DACrAKw="
+        },
+        {
+          "copy": [
+            1791,
+            2
+          ]
+        },
+        {
+          "insert": "qgCt"
+        },
+        {
+          "copy": [
+            1804,
+            21
+          ]
+        },
+        {
+          "insert": "BwCv"
+        },
+        {
+          "copy": [
+            1825,
+            10
+          ]
+        },
+        {
+          "insert": "DACxACc="
+        },
+        {
+          "copy": [
+            1835,
+            2
+          ]
+        },
+        {
+          "insert": "sACyAQAEbmV4dA=="
+        },
+        {
+          "copy": [
+            1840,
+            2
+          ]
+        },
+        {
+          "insert": "tABr"
+        },
+        {
+          "copy": [
+            1900,
+            2
+          ]
+        },
+        {
+          "insert": "sAC1AQAGZ2V0S2V5"
+        },
+        {
+          "copy": [
+            1905,
+            2
+          ]
+        },
+        {
+          "insert": "twBrCwA="
+        },
+        {
+          "copy": [
+            1970,
+            2
+          ]
+        },
+        {
+          "insert": "uA=="
+        },
+        {
+          "copy": [
+            1975,
+            52
+          ]
+        },
+        {
+          "copy": [
+            2035,
+            2
+          ]
+        },
+        {
+          "insert": "IAC6CgATALs="
+        },
+        {
+          "copy": [
+            2088,
+            57
+          ]
+        },
+        {
+          "insert": "DAC9AL4JABEAvwEACGdldFZhbHVlDADBAGs="
+        },
+        {
+          "copy": [
+            2145,
+            2
+          ]
+        },
+        {
+          "copy": [
+            2150,
+            2
+          ]
+        },
+        {
+          "insert": "wgEAIm5ldC9taW5lY3JhZnQvd29ybGQvaXRlbS9JdGVtU3RhY2s="
+        },
+        {
+          "copy": [
+            2166,
+            2
+          ]
+        },
+        {
+          "insert": "xA=="
+        },
+        {
+          "copy": [
+            2216,
+            30
+          ]
+        },
+        {
+          "insert": "DADGAMcKAKMAyAEABWVudHJ5AQBlTGphdmEvdXRpbC9NYXAkRW50cnk8TG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0VxdWlwbWVudFNsb3Q7TG5ldC9taW5lY3JhZnQvd29ybGQvaXRlbS9JdGVtU3RhY2s7PjsBABVMamF2YS91dGlsL01hcCRFbnRyeTsBAA=="
+        },
+        {
+          "copy": [
+            2246,
+            1
+          ]
+        },
+        {
+          "insert": "ZXF1aXBtZW50AQBfTGphdmEvdXRpbC9NYXA8TG5ldC9taW5lY3JhZnQvd29ybGQvZW50aXR5L0VxdWlwbWVudFNsb3Q7TG5ldC9taW5lY3JhZnQvd29ybGQvaXRlbS9JdGVtU3RhY2s7PjsBAARsaXN0AQA7TGphdmEvdXRpbC9BcnJheUxpc3Q8TG5ldC9taW5lY3JhZnQvd29ybGQvaXRlbS9JdGVtU3RhY2s7PjsBABVMamF2YS91dGlsL0FycmF5TGlzdDsBABFldGYkZ2V0QXJtb3JJdGVtcw=="
+        },
+        {
+          "copy": [
+            2256,
+            17
+          ]
+        },
+        {
+          "insert": "DADTAL4="
+        },
+        {
+          "copy": [
+            2273,
+            2
+          ]
+        },
+        {
+          "insert": "EQDU"
+        },
+        {
+          "copy": [
+            2283,
+            15
+          ]
+        },
+        {
+          "insert": "DADWAL4JABEA1wEAJExvcmcvc3BvbmdlcG93ZXJlZC9hc20vbWl4aW4vVW5pcXVlOwEABHNlbGYBABJMamF2YS9sYW5nL09iamVjdDsBAA5ldGYkZGlzdGFuY2VUbwwAKwAs"
+        },
+        {
+          "copy": [
+            2298,
+            2
+          ]
+        },
+        {
+          "insert": "AgDdAQAGZW50aXR5AQAPZXRmJGdldFZlbG9jaXR5"
+        },
+        {
+          "copy": [
+            2303,
+            2
+          ]
+        },
+        {
+          "insert": "NwA4"
+        },
+        {
+          "copy": [
+            2310,
+            1
+          ]
+        },
+        {
+          "insert": "AAIA4QEAC2V0ZiRnZXRQb3NlDAAtAC4KAAIA5AEAD2V0ZiRjYW5CZUJyaWdodAEAKG5ldC9taW5lY3JhZnQvd29ybA=="
+        },
+        {
+          "copy": [
+            2311,
+            1
+          ]
+        },
+        {
+          "insert": "L2VudGl0eS9wbGF5ZXIvUGxheWVyBwDnAQARZXRmJGlzQmxvY2s="
+        },
+        {
+          "copy": [
+            2353,
+            6
+          ]
+        },
+        {
+          "copy": [
+            2372,
+            3
+          ]
+        },
+        {
+          "insert": "ZXRmJGdldA=="
+        },
+        {
+          "copy": [
+            2574,
+            6
+          ]
+        },
+        {
+          "insert": "S2V5"
+        },
+        {
+          "copy": [
+            2603,
+            23
+          ]
+        },
+        {
+          "insert": "AQAlbmV0L21pbmVjcmFmdC93b3JsZC9lbnRpdHkvRW50aXR5VHlwZQ=="
+        },
+        {
+          "copy": [
+            2626,
+            2
+          ]
+        },
+        {
+          "insert": "7AEAEGdldERlc2NyaXB0aW9uSWQMAO4A6woA7QDvAQATamF2YS9sYW5nL0V4Y2VwdGlvbgcA8Q=="
+        },
+        {
+          "copy": [
+            2629,
+            36
+          ]
+        },
+        {
+          "copy": [
+            2670,
+            2
+          ]
+        },
+        {
+          "insert": "8w=="
+        },
+        {
+          "copy": [
+            2678,
+            53
+          ]
+        },
+        {
+          "insert": "BwD1"
+        },
+        {
+          "copy": [
+            2731,
+            95
+          ]
+        },
+        {
+          "insert": "DAD3APgKAPYA+QEAAmlk"
+        },
+        {
+          "copy": [
+            2826,
+            2
+          ]
+        },
+        {
+          "insert": "+w=="
+        },
+        {
+          "copy": [
+            2847,
+            32
+          ]
+        },
+        {
+          "insert": "BwD9"
+        },
+        {
+          "copy": [
+            2879,
+            35
+          ]
+        },
+        {
+          "insert": "DAD/AQA="
+        },
+        {
+          "copy": [
+            2914,
+            2
+          ]
+        },
+        {
+          "insert": "/gEB"
+        },
+        {
+          "copy": [
+            2924,
+            80
+          ]
+        },
+        {
+          "insert": "DAC3AQM="
+        },
+        {
+          "copy": [
+            3004,
+            2
+          ]
+        },
+        {
+          "insert": "7QEE"
+        },
+        {
+          "copy": [
+            3017,
+            37
+          ]
+        },
+        {
+          "insert": "BwEG"
+        },
+        {
+          "copy": [
+            3054,
+            11
+          ]
+        },
+        {
+          "insert": "DAEIAOs="
+        },
+        {
+          "copy": [
+            3065,
+            1
+          ]
+        },
+        {
+          "insert": "AQcBCQ=="
+        },
+        {
+          "copy": [
+            3075,
+            54
+          ]
+        },
+        {
+          "insert": "DAELAQwKAP4BDQEAA3RhZw=="
+        },
+        {
+          "copy": [
+            3154,
+            48
+          ]
+        },
+        {
+          "copy": [
+            3281,
+            12
+          ]
+        },
+        {
+          "copy": [
+            3340,
+            28
+          ]
+        },
+        {
+          "copy": [
+            3407,
+            30
+          ]
+        },
+        {
+          "copy": [
+            3476,
+            34
+          ]
+        },
+        {
+          "copy": [
+            3551,
+            16
+          ]
+        },
+        {
+          "insert": "FkxvY2FsVmFyaWFibGVUeXBlVGFibGUBAA=="
+        },
+        {
+          "copy": [
+            3567,
+            1
+          ]
+        },
+        {
+          "insert": "SW5uZXI="
+        },
+        {
+          "copy": [
+            3651,
+            1
+          ]
+        },
+        {
+          "insert": "bGFzc2Vz"
+        },
+        {
+          "copy": [
+            4650,
+            16
+          ]
+        },
+        {
+          "copy": [
+            4731,
+            16
+          ]
+        },
+        {
+          "copy": [
+            5160,
+            3
+          ]
+        },
+        {
+          "insert": "AgAEAAEABg=="
+        },
+        {
+          "copy": [
+            5170,
+            7
+          ]
+        },
+        {
+          "insert": "GgAbAAEBEA=="
+        },
+        {
+          "copy": [
+            5184,
+            15
+          ]
+        },
+        {
+          "insert": "HQ=="
+        },
+        {
+          "copy": [
+            5200,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            5207,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            5219,
+            11
+          ]
+        },
+        {
+          "insert": "HgAf"
+        },
+        {
+          "copy": [
+            5233,
+            5
+          ]
+        },
+        {
+          "insert": "IAAhAAIBEwAAAAIAIgEU"
+        },
+        {
+          "copy": [
+            5253,
+            7
+          ]
+        },
+        {
+          "insert": "Iw=="
+        },
+        {
+          "copy": [
+            5261,
+            5
+          ]
+        },
+        {
+          "insert": "JAAlAAEBFAAAAAYAAQAjAAAEAQAmACcAAQEUAAAABgABACMAAAQBACgAKQADARQAAAAGAAEAIwAAARUAAAAGAAEAKgAAARYAAAAIAAEUAAAqAAAEAQArACwAAQEUAAAABgABACMAAAQBAC0ALgABARQAAAAGAAEAIwAABAEALwAwAAEBFAAAAAYAAQAjAAAEAQA="
+        },
+        {
+          "copy": [
+            5266,
+            2
+          ]
+        },
+        {
+          "insert": "MgABARQAAAAGAAEA"
+        },
+        {
+          "copy": [
+            5268,
+            2
+          ]
+        },
+        {
+          "insert": "AAQBADMANAABARQ="
+        },
+        {
+          "copy": [
+            5273,
+            7
+          ]
+        },
+        {
+          "insert": "Iw=="
+        },
+        {
+          "copy": [
+            5281,
+            5
+          ]
+        },
+        {
+          "insert": "NQA2AAMBFA=="
+        },
+        {
+          "copy": [
+            5293,
+            7
+          ]
+        },
+        {
+          "insert": "IwAAARUAAAAGAAEAKgAAARYAAAAIAAEUAAAq"
+        },
+        {
+          "copy": [
+            5301,
+            5
+          ]
+        },
+        {
+          "insert": "NwA4AAEBFAAAAAYAAQAjAAAEAQA5ADo="
+        },
+        {
+          "copy": [
+            5309,
+            2
+          ]
+        },
+        {
+          "insert": "ARQ="
+        },
+        {
+          "copy": [
+            5313,
+            7
+          ]
+        },
+        {
+          "insert": "IwAAARU="
+        },
+        {
+          "copy": [
+            5325,
+            7
+          ]
+        },
+        {
+          "insert": "KgAAARY="
+        },
+        {
+          "copy": [
+            5337,
+            9
+          ]
+        },
+        {
+          "insert": "KgAAAAEAOwAhAAIB"
+        },
+        {
+          "copy": [
+            5394,
+            1
+          ]
+        },
+        {
+          "copy": [
+            5571,
+            15
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            5587,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            5594,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            5606,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAB"
+        },
+        {
+          "copy": [
+            5633,
+            2
+          ]
+        },
+        {
+          "insert": "AAACACIAAQA+ADAAAQE="
+        },
+        {
+          "copy": [
+            5635,
+            1
+          ]
+        },
+        {
+          "copy": [
+            5640,
+            15
+          ]
+        },
+        {
+          "insert": "QA=="
+        },
+        {
+          "copy": [
+            5656,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            5663,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            5675,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQBBACUAAQEQ"
+        },
+        {
+          "copy": [
+            5701,
+            15
+          ]
+        },
+        {
+          "insert": "Qw=="
+        },
+        {
+          "copy": [
+            5717,
+            2
+          ]
+        },
+        {
+          "insert": "SQ=="
+        },
+        {
+          "copy": [
+            5719,
+            1
+          ]
+        },
+        {
+          "insert": "AEo="
+        },
+        {
+          "copy": [
+            5723,
+            7
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            5732,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            5744,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQBMACUAAQEQ"
+        },
+        {
+          "copy": [
+            5770,
+            15
+          ]
+        },
+        {
+          "insert": "Tg=="
+        },
+        {
+          "copy": [
+            5786,
+            6
+          ]
+        },
+        {
+          "insert": "UA=="
+        },
+        {
+          "copy": [
+            5793,
+            6
+          ]
+        },
+        {
+          "insert": "Tg=="
+        },
+        {
+          "copy": [
+            5800,
+            2
+          ]
+        },
+        {
+          "insert": "Bg=="
+        },
+        {
+          "copy": [
+            5803,
+            2
+          ]
+        },
+        {
+          "insert": "UQ=="
+        },
+        {
+          "copy": [
+            5806,
+            7
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            5857,
+            9
+          ]
+        },
+        {
+          "insert": "AREAAAASAAQAAAB3AAcAeAAOAHkAGgB3ARIAAAAMAAEAAAAbAB4AHwAAAAEAUgAyAAEBEA=="
+        },
+        {
+          "copy": [
+            5876,
+            15
+          ]
+        },
+        {
+          "insert": "VA=="
+        },
+        {
+          "copy": [
+            5892,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            5899,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            5911,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQBVADQAAQEQ"
+        },
+        {
+          "copy": [
+            5937,
+            15
+          ]
+        },
+        {
+          "insert": "Vw=="
+        },
+        {
+          "copy": [
+            5953,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            5960,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            5972,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQBYACUAAQEQ"
+        },
+        {
+          "copy": [
+            5998,
+            15
+          ]
+        },
+        {
+          "insert": "Wg=="
+        },
+        {
+          "copy": [
+            6014,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            6021,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            6033,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQBbAFwAAQEQAAAAZgAEAAIAAAAc"
+        },
+        {
+          "copy": [
+            6071,
+            2
+          ]
+        },
+        {
+          "insert": "Yg=="
+        },
+        {
+          "copy": [
+            6074,
+            7
+          ]
+        },
+        {
+          "insert": "aA=="
+        },
+        {
+          "copy": [
+            6082,
+            5
+          ]
+        },
+        {
+          "insert": "Qw=="
+        },
+        {
+          "copy": [
+            6088,
+            3
+          ]
+        },
+        {
+          "insert": "fAAAKrgAgrAAAAA="
+        },
+        {
+          "copy": [
+            6097,
+            1
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            6154,
+            11
+          ]
+        },
+        {
+          "insert": "agERAAAADgADAAAAjQAEAI4ADACPARIAAAAWAAIAAAAcAB4AHwAAAAQAGABfAIMAAQABAIQAJwABARA="
+        },
+        {
+          "copy": [
+            6176,
+            15
+          ]
+        },
+        {
+          "insert": "hg=="
+        },
+        {
+          "copy": [
+            6192,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            6199,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            6211,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQCHACkAAQEQ"
+        },
+        {
+          "copy": [
+            6237,
+            15
+          ]
+        },
+        {
+          "insert": "iQ=="
+        },
+        {
+          "copy": [
+            6253,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            6260,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            6272,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQCKAIsAAQEQ"
+        },
+        {
+          "copy": [
+            6298,
+            15
+          ]
+        },
+        {
+          "insert": "jQ=="
+        },
+        {
+          "copy": [
+            6314,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            6321,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            6333,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQCOAI8AAgEQ"
+        },
+        {
+          "copy": [
+            6359,
+            15
+          ]
+        },
+        {
+          "insert": "lA=="
+        },
+        {
+          "copy": [
+            6375,
+            8
+          ]
+        },
+        {
+          "insert": "mg=="
+        },
+        {
+          "copy": [
+            6384,
+            2
+          ]
+        },
+        {
+          "insert": "ng=="
+        },
+        {
+          "copy": [
+            6387,
+            9
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            6450,
+            11
+          ]
+        },
+        {
+          "insert": "lgERAAAAEgAEAAAAtAAFALUACQC3ABMAvAESAAAAFgACAAAAFQAeAB8AAAAFABAAnwCgAAEBEwAAAAIAkAABAKEAjwACARA="
+        },
+        {
+          "copy": [
+            6480,
+            15
+          ]
+        },
+        {
+          "insert": "lA=="
+        },
+        {
+          "copy": [
+            6496,
+            8
+          ]
+        },
+        {
+          "insert": "mg=="
+        },
+        {
+          "copy": [
+            6505,
+            3
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            6509,
+            3
+          ]
+        },
+        {
+          "insert": "pA=="
+        },
+        {
+          "copy": [
+            6513,
+            4
+          ]
+        },
+        {
+          "insert": "qA=="
+        },
+        {
+          "copy": [
+            6518,
+            4
+          ]
+        },
+        {
+          "insert": "rg=="
+        },
+        {
+          "copy": [
+            6523,
+            8
+          ]
+        },
+        {
+          "insert": "sw=="
+        },
+        {
+          "copy": [
+            6532,
+            9
+          ]
+        },
+        {
+          "insert": "tg=="
+        },
+        {
+          "copy": [
+            6542,
+            4
+          ]
+        },
+        {
+          "insert": "DA=="
+        },
+        {
+          "copy": [
+            6547,
+            6
+          ]
+        },
+        {
+          "insert": "uQ=="
+        },
+        {
+          "copy": [
+            6554,
+            4
+          ]
+        },
+        {
+          "insert": "Ew=="
+        },
+        {
+          "copy": [
+            6559,
+            2
+          ]
+        },
+        {
+          "insert": "vA=="
+        },
+        {
+          "copy": [
+            6562,
+            2
+          ]
+        },
+        {
+          "insert": "wA=="
+        },
+        {
+          "copy": [
+            6565,
+            8
+          ]
+        },
+        {
+          "insert": "ww=="
+        },
+        {
+          "copy": [
+            6574,
+            4
+          ]
+        },
+        {
+          "insert": "xQ=="
+        },
+        {
+          "copy": [
+            6579,
+            2
+          ]
+        },
+        {
+          "insert": "yQ=="
+        },
+        {
+          "copy": [
+            6582,
+            12
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            6740,
+            13
+          ]
+        },
+        {
+          "insert": "Ag=="
+        },
+        {
+          "copy": [
+            6754,
+            2
+          ]
+        },
+        {
+          "insert": "lg=="
+        },
+        {
+          "copy": [
+            6757,
+            2
+          ]
+        },
+        {
+          "insert": "Dg=="
+        },
+        {
+          "copy": [
+            6760,
+            2
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            6763,
+            2
+          ]
+        },
+        {
+          "insert": "sA=="
+        },
+        {
+          "copy": [
+            6766,
+            9
+          ]
+        },
+        {
+          "insert": "AREAAAAqAAoAAADBAAUAwgAJAMQADgDFABYAxgA5AMcATADIAFsAygBeAMsAYA=="
+        },
+        {
+          "copy": [
+            6775,
+            2
+          ]
+        },
+        {
+          "insert": "ARIAAAA0AAUAOQAiAMoAzAAFAA4AUgDNAJgAAgAWAEoAzwDRAAMAAABiAB4AHwAAAAUAXQCfAKAAAQEYAAAAIAADADkAIgDK"
+        },
+        {
+          "copy": [
+            6791,
+            2
+          ]
+        },
+        {
+          "insert": "AAUADgBSAM0AzgACABYASgDPANAAAwETAAAAAgCQAAEA0gCPAAIBEA=="
+        },
+        {
+          "copy": [
+            6793,
+            15
+          ]
+        },
+        {
+          "insert": "lA=="
+        },
+        {
+          "copy": [
+            6809,
+            8
+          ]
+        },
+        {
+          "insert": "mg=="
+        },
+        {
+          "copy": [
+            6818,
+            3
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            6822,
+            3
+          ]
+        },
+        {
+          "insert": "pA=="
+        },
+        {
+          "copy": [
+            6826,
+            4
+          ]
+        },
+        {
+          "insert": "qA=="
+        },
+        {
+          "copy": [
+            6831,
+            4
+          ]
+        },
+        {
+          "insert": "rg=="
+        },
+        {
+          "copy": [
+            6836,
+            8
+          ]
+        },
+        {
+          "insert": "sw=="
+        },
+        {
+          "copy": [
+            6845,
+            9
+          ]
+        },
+        {
+          "insert": "tg=="
+        },
+        {
+          "copy": [
+            6855,
+            4
+          ]
+        },
+        {
+          "insert": "DA=="
+        },
+        {
+          "copy": [
+            6860,
+            6
+          ]
+        },
+        {
+          "insert": "ww=="
+        },
+        {
+          "copy": [
+            6867,
+            9
+          ]
+        },
+        {
+          "insert": "uQ=="
+        },
+        {
+          "copy": [
+            6877,
+            4
+          ]
+        },
+        {
+          "insert": "Ew=="
+        },
+        {
+          "copy": [
+            6882,
+            2
+          ]
+        },
+        {
+          "insert": "vA=="
+        },
+        {
+          "copy": [
+            6885,
+            2
+          ]
+        },
+        {
+          "insert": "1Q=="
+        },
+        {
+          "copy": [
+            6888,
+            7
+          ]
+        },
+        {
+          "insert": "uQ=="
+        },
+        {
+          "copy": [
+            6896,
+            4
+          ]
+        },
+        {
+          "insert": "Ew=="
+        },
+        {
+          "copy": [
+            6901,
+            2
+          ]
+        },
+        {
+          "insert": "vA=="
+        },
+        {
+          "copy": [
+            6904,
+            2
+          ]
+        },
+        {
+          "insert": "2A=="
+        },
+        {
+          "copy": [
+            6907,
+            8
+          ]
+        },
+        {
+          "insert": "ww=="
+        },
+        {
+          "copy": [
+            6916,
+            4
+          ]
+        },
+        {
+          "insert": "xQ=="
+        },
+        {
+          "copy": [
+            6921,
+            2
+          ]
+        },
+        {
+          "insert": "yQ=="
+        },
+        {
+          "copy": [
+            6924,
+            12
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            7082,
+            13
+          ]
+        },
+        {
+          "insert": "Ag=="
+        },
+        {
+          "copy": [
+            7096,
+            2
+          ]
+        },
+        {
+          "insert": "lg=="
+        },
+        {
+          "copy": [
+            7099,
+            2
+          ]
+        },
+        {
+          "insert": "Dg=="
+        },
+        {
+          "copy": [
+            7102,
+            2
+          ]
+        },
+        {
+          "insert": "ow=="
+        },
+        {
+          "copy": [
+            7105,
+            2
+          ]
+        },
+        {
+          "insert": "sA=="
+        },
+        {
+          "copy": [
+            7108,
+            7
+          ]
+        },
+        {
+          "insert": "DA=="
+        },
+        {
+          "copy": [
+            7116,
+            9
+          ]
+        },
+        {
+          "insert": "AREAAAAqAAoAAADVAAUA1gAJANgADgDZABYA2gA5ANsAaQDcAHgA3gB7AN8AfQDkARIAAAA0AAUAOQA/AMoAzAAFAA4AbwDNAJgAAgAWAGcAzwDRAAMAAAB/AB4AHwAAAAUAegCfAKAAAQEYAAAAIAADADkAPwDKAMsABQAOAG8AzQDOAAIAFgBnAM8="
+        },
+        {
+          "copy": [
+            7125,
+            3
+          ]
+        },
+        {
+          "insert": "AwETAAAAAgCQAAIAkQCSAAIBEA=="
+        },
+        {
+          "copy": [
+            7143,
+            17
+          ]
+        },
+        {
+          "insert": "lg=="
+        },
+        {
+          "copy": [
+            7161,
+            6
+          ]
+        },
+        {
+          "insert": "lg=="
+        },
+        {
+          "copy": [
+            7168,
+            9
+          ]
+        },
+        {
+          "insert": "ARc="
+        },
+        {
+          "copy": [
+            7241,
+            11
+          ]
+        },
+        {
+          "insert": "BAERAAAAEgAEAAAA6QACAOoADgDrABAA7QESAAAAIAADAA4AAgCfAKAAAgAAABIAHgAfAAAAAgAQANoA2wABARQ="
+        },
+        {
+          "copy": [
+            7255,
+            7
+          ]
+        },
+        {
+          "insert": "2QAAAAEA3AAsAAEBEA=="
+        },
+        {
+          "copy": [
+            7275,
+            16
+          ]
+        },
+        {
+          "insert": "3g=="
+        },
+        {
+          "copy": [
+            7292,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            7299,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7311,
+            11
+          ]
+        },
+        {
+          "insert": "HgAf"
+        },
+        {
+          "copy": [
+            7325,
+            7
+          ]
+        },
+        {
+          "insert": "3wAKAAEAAQDgADgAAQEQ"
+        },
+        {
+          "copy": [
+            7347,
+            15
+          ]
+        },
+        {
+          "insert": "4g=="
+        },
+        {
+          "copy": [
+            7363,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            7370,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7382,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQDjAC4AAQEQ"
+        },
+        {
+          "copy": [
+            7408,
+            15
+          ]
+        },
+        {
+          "insert": "5Q=="
+        },
+        {
+          "copy": [
+            7424,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            7431,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7443,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQDmACcAAQEQ"
+        },
+        {
+          "copy": [
+            7469,
+            17
+          ]
+        },
+        {
+          "insert": "6A=="
+        },
+        {
+          "copy": [
+            7487,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            7494,
+            14
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7510,
+            11
+          ]
+        },
+        {
+          "insert": "HgAf"
+        },
+        {
+          "copy": [
+            7524,
+            7
+          ]
+        },
+        {
+          "insert": "2gDbAAEAAQDpACcAAQEQ"
+        },
+        {
+          "copy": [
+            7546,
+            18
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            7566,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7578,
+            11
+          ]
+        },
+        {
+          "insert": "HgAfAAAAAQDqAOsAAQEQ"
+        },
+        {
+          "copy": [
+            7604,
+            15
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            7620,
+            2
+          ]
+        },
+        {
+          "insert": "8A=="
+        },
+        {
+          "copy": [
+            7623,
+            5
+          ]
+        },
+        {
+          "insert": "ARE="
+        },
+        {
+          "copy": [
+            7630,
+            10
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7642,
+            11
+          ]
+        },
+        {
+          "insert": "HgAf"
+        },
+        {
+          "copy": [
+            7656,
+            5
+          ]
+        },
+        {
+          "insert": "bQBcAAEBEA=="
+        },
+        {
+          "copy": [
+            7668,
+            15
+          ]
+        },
+        {
+          "insert": "9A=="
+        },
+        {
+          "copy": [
+            7684,
+            2
+          ]
+        },
+        {
+          "insert": "+g=="
+        },
+        {
+          "copy": [
+            7687,
+            3
+          ]
+        },
+        {
+          "insert": "/A=="
+        },
+        {
+          "copy": [
+            7691,
+            1
+          ]
+        },
+        {
+          "insert": "AQI="
+        },
+        {
+          "copy": [
+            7694,
+            5
+          ]
+        },
+        {
+          "insert": "/A=="
+        },
+        {
+          "copy": [
+            7700,
+            3
+          ]
+        },
+        {
+          "insert": "PQ=="
+        },
+        {
+          "copy": [
+            7704,
+            1
+          ]
+        },
+        {
+          "insert": "AQU="
+        },
+        {
+          "copy": [
+            7707,
+            1
+          ]
+        },
+        {
+          "insert": "AQo="
+        },
+        {
+          "copy": [
+            7710,
+            1
+          ]
+        },
+        {
+          "insert": "AQ4="
+        },
+        {
+          "copy": [
+            7713,
+            15
+          ]
+        },
+        {
+          "insert": "8g=="
+        },
+        {
+          "copy": [
+            7729,
+            2
+          ]
+        },
+        {
+          "insert": "ARcAAAATAAL/ACQAAgcAAgcA/gABBwDyAAER"
+        },
+        {
+          "copy": [
+            7733,
+            30
+          ]
+        },
+        {
+          "insert": "ARI="
+        },
+        {
+          "copy": [
+            7765,
+            11
+          ]
+        },
+        {
+          "insert": "HgAf"
+        },
+        {
+          "copy": [
+            7779,
+            7
+          ]
+        },
+        {
+          "insert": "DwBmAAE="
+        },
+        {
+          "copy": [
+            7816,
+            3
+          ]
+        },
+        {
+          "insert": "GQAAABoAAwAM"
+        },
+        {
+          "copy": [
+            7830,
+            3
+          ]
+        },
+        {
+          "insert": "Dw=="
+        },
+        {
+          "copy": [
+            7878,
+            3
+          ]
+        },
+        {
+          "insert": "EQATAA=="
+        },
+        {
+          "copy": [
+            7885,
+            3
+          ]
+        },
+        {
+          "insert": "ABYAGAAZABkBGgAAAAIABw=="
+        },
+        {
+          "copy": [
+            7888,
+            2
+          ]
+        },
+        {
+          "insert": "AAAADgABAAgAAQAJWwABYwAKARsAAAAMAAEAeAADAGwAcABx"
+        }
+      ]
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinEntityRenderDispatcher.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinEntityRenderDispatcher.class",
+      "sha256": "5976f0abb758381b0e187fae0c9a8c8e59abcfc893838a37f2baddee675ffb85",
+      "size": 3113
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinEntityRenderState.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinEntityRenderState.class",
+      "sha256": "a2c43e6b284d893bc15a0f48e3aac526b1786cb88e2c42969b73b4bf765c25ff",
+      "size": 2011
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinGlowSquidEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinGlowSquidEntity.class",
+      "sha256": "16004e8e493b32a21a1517f1b669cce0c735e960fdbf3b32863717278a755a65",
+      "size": 2149
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinMob_LeashNBTFix.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinMob_LeashNBTFix.class",
+      "sha256": "2aa5c63b1ada266b25f0b0f0ab71ca5301b212ed29fba7de2fc17c71a7831db2",
+      "size": 2358
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinPhantomEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinPhantomEntity.class",
+      "sha256": "3bfd9c3e42b8ec33e6401d082ee69299149a805b01876dc9de84214636de342e",
+      "size": 1722
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinPlayerEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinPlayerEntity.class",
+      "sha256": "d6e2802531d753cfb6ba52c8b0de7d45f832dfdaf8230a0827fbdd96ab8a2859",
+      "size": 2178
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinPlayerEntity_DebugClick.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinPlayerEntity_DebugClick.class",
+      "sha256": "e4635b9d3bfcb9b2f7357e24a44ed41ae8512657d8044e454b73be76dfe8e4cb",
+      "size": 2784
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinSkullBlockEntity.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/misc/MixinSkullBlockEntity.class",
+      "sha256": "d322cfd7a151266b4947408d2eca53551bdd0c993f86826e2589afdbb3b2da3a",
+      "size": 2820
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinEndCrystalRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinEndCrystalRenderer.class",
+      "sha256": "3660d3e1090afa8ee0f6d2fa2ea5c8ecfde3b6bb77a66f041bc7e8aa4eb9907c",
+      "size": 564
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinEnderDragonEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinEnderDragonEntityRenderer.class",
+      "sha256": "08066421cdb14e17f898ec8a5d3781c882b52006d2ff2bad27eba0063926f610",
+      "size": 3437
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinEntityRenderer.class",
+      "sha256": "ec49abd3f9da9dcc757e2d82a8074db1f3846ec637620aee38ef944e24f165a9",
+      "size": 3339
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinIllusionerRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinIllusionerRenderer.class",
+      "sha256": "93464960fdb0500dd92aa12a27793e25f4a638ce997e3592a65d7f6ee2498fa0",
+      "size": 564
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinLivingEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinLivingEntityRenderer.class",
+      "sha256": "0695e56839f00df71ef37e8cdc7b70ffd58df357790ad09959c5a6d1eee499b2",
+      "size": 4221
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinPaintingEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinPaintingEntityRenderer.class",
+      "sha256": "2d9578c461aafe9b55fb2d963c93fa03251c4ed54b0ecaeb2faa00ce9d25054d",
+      "size": 15362
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinPlayerEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/MixinPlayerEntityRenderer.class",
+      "sha256": "eaa022794fedbd2807c98fa5562298549ed88971255e96cae02291dd1f871c10",
+      "size": 8478
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinElytraFeatureRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinElytraFeatureRenderer.class",
+      "sha256": "cf6ea4e85f773c588f5148997e987c1302b1ddc672a8afeaeb30883ad75da931",
+      "size": 1678
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinEyeFeatureRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinEyeFeatureRenderer.class",
+      "sha256": "c489351d7c4b9145246aa0ee38e13372c05afb1ae50e7048c17590202b5a76bf",
+      "size": 2559
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinMooshroomMushroomFeatureRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinMooshroomMushroomFeatureRenderer.class",
+      "sha256": "90468a9d8972b985060a24a762cf0003a602bca4c597078deee956b96d1fcb62",
+      "size": 11412
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinShoulderParrotFeatureRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinShoulderParrotFeatureRenderer.class",
+      "sha256": "a37bbf534ec81161d17d5640c679ef3303f294325895692548425d25a667f3c2",
+      "size": 4945
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinWardenExtraTextureParts.class",
+      "source": "traben/entity_texture_features/mixin/mixins/entity/renderer/feature/MixinWardenExtraTextureParts.class",
+      "sha256": "ea13dba177e9e4dd01d83aaee71dd78bda6642948664bc8ad8d7a554d1baed55",
+      "size": 2894
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/imediatelyfast/",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/imediatelyfast/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/imediatelyfast/MixinBatchableBufferSource.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/imediatelyfast/MixinBatchableBufferSource.class",
+      "sha256": "2746d7c136e1b73a705c88d2391164c8fc57c683837bc1fd12248be7de94279a",
+      "size": 581
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/MixinFullyBufferedMultiBufferSource.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/MixinFullyBufferedMultiBufferSource.class",
+      "sha256": "7f7e1279936f7c5d4a4a83bbcffa28a328cfcb3cfe06ebe273fa5f4f77df1faf",
+      "size": 631
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/MixinInnerWrappedRenderType.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/MixinInnerWrappedRenderType.class",
+      "sha256": "62b1a7819a3d1ecd0506083b5d14ae7302984b4d413aad8c44df2cbe43d34eab",
+      "size": 607
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/MixinOuterWrappedRenderType.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/MixinOuterWrappedRenderType.class",
+      "sha256": "8c93b16c76a0b5220cd13da30cf54104b75560bb77bc22653cf636342df568d5",
+      "size": 1213
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/old/",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/old/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/old/MixinFullyBufferedMultiBufferSource.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/old/MixinFullyBufferedMultiBufferSource.class",
+      "sha256": "0985155730028b9ce7d76a340cef313f6b6cbe63100bc26b18ba99457263e4a2",
+      "size": 639
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/old/MixinInnerWrappedRenderType.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/old/MixinInnerWrappedRenderType.class",
+      "sha256": "7649666aee74464d6e5ade4bd003c6e02f8e297638dbda19ebb88c9f8448b1ec",
+      "size": 615
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/iris/old/MixinOuterWrappedRenderType.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/iris/old/MixinOuterWrappedRenderType.class",
+      "sha256": "7e34b2b032f1e9de954985d1f0131b902e0041f1ee84224bdb43fe99ae9dfb1e",
+      "size": 615
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/skin_layers/",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/skin_layers/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/skin_layers/MixinCustomizableModelPart.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/skin_layers/MixinCustomizableModelPart.class",
+      "sha256": "94da30ba6794a680b32f7c28fed84370c033132cc1dea4e3970dc4eb91cccd9c",
+      "size": 575
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/sodium/",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/sodium/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/sodium/MixinModelPartSodium.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/sodium/MixinModelPartSodium.class",
+      "sha256": "cbce3971e7ec31038bcb70c3b114c70dba5f7b98f780a3d17f2844f169c475c5",
+      "size": 547
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/sodium/MixinSodiumBufferBuilder.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/sodium/MixinSodiumBufferBuilder.class",
+      "sha256": "d8c8c4ff7264a51342d82e191bc3e911b991c186da3fbc7fcb037ea27cdc6942",
+      "size": 602
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/mods/sodium/MixinSodiumWorldRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/mods/sodium/MixinSodiumWorldRenderer.class",
+      "sha256": "b10b497472445b17c90cd9f2b040d0b2b808e62eb13261785b4bfe7e0b2f4a89",
+      "size": 559
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/reloading/",
+      "source": "traben/entity_texture_features/mixin/mixins/reloading/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/reloading/MixinMinecraftClient.class",
+      "source": "traben/entity_texture_features/mixin/mixins/reloading/MixinMinecraftClient.class",
+      "sha256": "93600a645d1f3a183d31591dec15a9250c4cc3bc82213498541470d6df5f145f",
+      "size": 1023
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/reloading/MixinResourceReload.class",
+      "source": "traben/entity_texture_features/mixin/mixins/reloading/MixinResourceReload.class",
+      "sha256": "8ef0546aff623177987784107ffee59ba448903911e7ceef7c0fad2627f5b8f3",
+      "size": 1164
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/Mixin_GuiEntityRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/Mixin_GuiEntityRenderer.class",
+      "sha256": "a4ce30e7c180416e016802475d9de4949bb488fde63e459374d77712a5806f9f",
+      "size": 3495
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/Mixin_ModelPartRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/Mixin_ModelPartRenderer.class",
+      "sha256": "31f4193faba9e26072ac2cc9f5b7ac93f0af701fff1d112e909ebf37e57633c2",
+      "size": 328
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/Mixin_ModelRenderer.class",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/Mixin_ModelRenderer.class",
+      "sha256": "1403dbe2f421f62e038afe3839016245a34f809a0583bf15883fc3d95d5b0eb7",
+      "size": 4546
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/Mixin_ModelSubmit_AddData.class",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/Mixin_ModelSubmit_AddData.class",
+      "sha256": "5e60b0982c8cfe68f50055ad1259e205d0199af982a3cbc2f0d2e7a83251c7bc",
+      "size": 2418
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/backupstates/",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/backupstates/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/submit/backupstates/Mixin_ChestSpecialRenderer_PassState.class",
+      "source": "traben/entity_texture_features/mixin/mixins/submit/backupstates/Mixin_ChestSpecialRenderer_PassState.class",
+      "sha256": "2b8f5c96c844105eafd04a603dc6c4377fe74ac426ebd59771ed1be927a39e0d",
+      "size": 2176
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/vertexconsumers/",
+      "source": "traben/entity_texture_features/mixin/mixins/vertexconsumers/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinBufferBuilder.class",
+      "source": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinBufferBuilder.class",
+      "sha256": "7bb3b3b2d2206502d55f5a7701109e6ddfb86e2060697015a726d88beda460f0",
+      "size": 3370
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinSheetedDecalTextureGen.class",
+      "source": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinSheetedDecalTextureGen.class",
+      "sha256": "33953f6419fe03bccae8a4d3b2a9e5f7d1a7cd4b7d5b17a7c98671071bdd3b67",
+      "size": 2323
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinSpriteCoordExpander.class",
+      "source": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinSpriteCoordExpander.class",
+      "sha256": "76d71babb20a23d6ed7f7adb24ed593da47aa9a7ee18e49e05af4c757fd7c25e",
+      "size": 2314
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinVertexConsumerProvider$Immediate.class",
+      "source": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinVertexConsumerProvider$Immediate.class",
+      "sha256": "b944b337df96140abdc105a8dc820ffaa9a205e97de22b4303684f0cf3e87d45",
+      "size": 2914
+    },
+    {
+      "name": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinVertexMultiConsumer$Double.class",
+      "source": "traben/entity_texture_features/mixin/mixins/vertexconsumers/MixinVertexMultiConsumer$Double.class",
+      "sha256": "2e9cb6d78480fe0815dce070b2953091773306f0df51d5843a6b6c651a7d6d6a",
+      "size": 588
+    },
+    {
+      "name": "traben/entity_texture_features/utils/",
+      "source": "traben/entity_texture_features/utils/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFEntity.class",
+      "source": "traben/entity_texture_features/utils/ETFEntity.class",
+      "sha256": "502e7379b0d7df0b3da307871580a975031ec8c4a35dcfc60d20ecfd25b8dd04",
+      "size": 1487
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFLruCache$UUIDBoolean.class",
+      "source": "traben/entity_texture_features/utils/ETFLruCache$UUIDBoolean.class",
+      "sha256": "3dc5f6d4ab03424bd1c9096ecc4f60f9c5baf6632b28c0a449b20c07e140597b",
+      "size": 821
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFLruCache$UUIDInteger.class",
+      "source": "traben/entity_texture_features/utils/ETFLruCache$UUIDInteger.class",
+      "sha256": "612f6ada3167a7519839fa55edfab5506964f0bf31bd8d7b205b08bac4e56c2d",
+      "size": 821
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFLruCache.class",
+      "source": "traben/entity_texture_features/utils/ETFLruCache.class",
+      "sha256": "8beb84788d50ebb9da01e72c117a5f181b1f50dc414eb285220160ee4a606b74",
+      "size": 2397
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFRenderLayerWithTexture.class",
+      "source": "traben/entity_texture_features/utils/ETFRenderLayerWithTexture.class",
+      "sha256": "f6553023e157efe77c4c6d76d3acc3a09589e35871819100f3cd697b66cf5ff5",
+      "size": 296
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFUtils2$RenderMethodForOverlay.class",
+      "source": "traben/entity_texture_features/utils/ETFUtils2$RenderMethodForOverlay.class",
+      "sha256": "9911a5fa38fb9c247b17d76c4d8d5373cceef705928bcea134d4ad966b9fbaaf",
+      "size": 352
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFUtils2.class",
+      "source": "traben/entity_texture_features/utils/ETFUtils2.class",
+      "sha256": "0cd6fe3afda660b51221ede4be560e7a8b1a729746d14f01da9969a914caabde",
+      "size": 21168
+    },
+    {
+      "name": "traben/entity_texture_features/utils/ETFVertexConsumer.class",
+      "source": "traben/entity_texture_features/utils/ETFVertexConsumer.class",
+      "sha256": "de714db1588ffa5d23856940a956b7eb5dcebadfc1bd8eadeba20c2326e570e1",
+      "size": 780
+    },
+    {
+      "name": "traben/entity_texture_features/utils/EntityBooleanLRU.class",
+      "source": "traben/entity_texture_features/utils/EntityBooleanLRU.class",
+      "sha256": "8bea5472bfeb128bfb4bb7108486b02798e0f697813afd66d726518d5715d061",
+      "size": 596
+    },
+    {
+      "name": "traben/entity_texture_features/utils/EntityIntLRU.class",
+      "source": "traben/entity_texture_features/utils/EntityIntLRU.class",
+      "sha256": "4100fcb4fdcccf540d1f7c0a12cc7d6b8ce392597f56200810585b264f92ac75",
+      "size": 584
+    },
+    {
+      "name": "traben/entity_texture_features/utils/UEntityTypes.class",
+      "source": "traben/entity_texture_features/utils/UEntityTypes.class",
+      "sha256": "2b5ee87916a28b920dc363ee912babd3779156a3de951f1fdef861d6e20454e9",
+      "size": 624
+    },
+    {
+      "name": "traben/entity_texture_features/utils/URenderTypeToVertexConsumer.class",
+      "source": "traben/entity_texture_features/utils/URenderTypeToVertexConsumer.class",
+      "sha256": "797038258cb203bd0f2a4d4bb7d7cfe52d54dc9c06764e6fef9e975c84922ac7",
+      "size": 926
+    },
+    {
+      "name": "traben/entity_texture_features/utils/UScreen.class",
+      "source": "traben/entity_texture_features/utils/UScreen.class",
+      "sha256": "9538c8619907a7a9e3cb9d09878d3de34d6ebc2558fd31064832a9b3f97705e9",
+      "size": 809
+    },
+    {
+      "name": "traben/tconfig/",
+      "source": "traben/tconfig/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/tconfig/TConfig$NoGUI.class",
+      "source": "traben/tconfig/TConfig$NoGUI.class",
+      "sha256": "c702230d280bd121064cf531f6c7b31995eadc82354da215e4c14b634482a233",
+      "size": 666
+    },
+    {
+      "name": "traben/tconfig/TConfig.class",
+      "source": "traben/tconfig/TConfig.class",
+      "sha256": "124f9dd11afcc9bb76bac9c35a498e5c51d6d35f96eab21aea132b53038b1e43",
+      "size": 587
+    },
+    {
+      "name": "traben/tconfig/TConfigHandler.class",
+      "source": "traben/tconfig/TConfigHandler.class",
+      "sha256": "79170dc54d65f3a00b2529a56f6610065958176fd89c2cc41b1ddba7306277b5",
+      "size": 6510
+    },
+    {
+      "name": "traben/tconfig/TConfigLog.class",
+      "source": "traben/tconfig/TConfigLog.class",
+      "sha256": "2a8631d1929bbaef57f54fdf7bde79191e1c6b7a7b425f14ea50d499be678f73",
+      "size": 1433
+    },
+    {
+      "name": "traben/tconfig/gui/",
+      "source": "traben/tconfig/gui/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigEntryListWidget$TConfigEntryForList.class",
+      "source": "traben/tconfig/gui/TConfigEntryListWidget$TConfigEntryForList.class",
+      "sha256": "ae9128ac933559fed4ac42865185bcf6b71b8497ded0687032994b098d97f903",
+      "size": 4560
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigEntryListWidget.class",
+      "source": "traben/tconfig/gui/TConfigEntryListWidget.class",
+      "sha256": "643bb559f839d58d63393b61c9c842f81bc56b4ba6f5aab4c333fdd93012ba8a",
+      "size": 4079
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigScreen.class",
+      "source": "traben/tconfig/gui/TConfigScreen.class",
+      "sha256": "7c650440d15ab978c24806ca3857feb3b6fc46f4bb46c3dc02f4e4f54c0042f3",
+      "size": 4461
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigScreenList$Align.class",
+      "source": "traben/tconfig/gui/TConfigScreenList$Align.class",
+      "sha256": "81bda5bc8d6dda63c4f0c8c2d14313bf9d1939b373ce3dba2f4ec901524076f5",
+      "size": 1333
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigScreenList$Renderable.class",
+      "source": "traben/tconfig/gui/TConfigScreenList$Renderable.class",
+      "sha256": "efce8a808a8fdd27ca9ab5f7584cbfe8ac34ac2dc2e1854b6bd1c44ce0354ebd",
+      "size": 322
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigScreenList.class",
+      "source": "traben/tconfig/gui/TConfigScreenList.class",
+      "sha256": "1127da898059f03b996b359e2e1a30b98b020d4b44de1296e786602cec1d8d6c",
+      "size": 7153
+    },
+    {
+      "name": "traben/tconfig/gui/TConfigScreenMain.class",
+      "source": "traben/tconfig/gui/TConfigScreenMain.class",
+      "sha256": "eeeb396acd5df66e4340211c2033e6d10aa78fa250c13a6e74e9a5ca751473da",
+      "size": 6445
+    },
+    {
+      "name": "traben/tconfig/gui/entries/",
+      "source": "traben/tconfig/gui/entries/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntry$Empty.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntry$Empty.class",
+      "sha256": "7c59986ce2e15e039662741d9707df0acf76982ccd6c56cf0de9aa2964ed7900",
+      "size": 988
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntry.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntry.class",
+      "sha256": "eebdacf547bca378e35b998ae3149dd02891180610ade0f59334e4d25c09e020",
+      "size": 2273
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryBoolean$BooleanButtonWidget.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryBoolean$BooleanButtonWidget.class",
+      "sha256": "652b40be8b1fb97ea3dde4441077f051a4bf071b8d0095ae5eee2df3423be7d6",
+      "size": 3480
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryBoolean$Type.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryBoolean$Type.class",
+      "sha256": "9b54b03bf30e5a07d46f5c06c4b7a807d85b68119f423365416d28fdba10cf9c",
+      "size": 2089
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryBoolean.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryBoolean.class",
+      "sha256": "dfe358a994285db472b24f576c480bbf1396ae67cd5946d50e2557c58b0e4d9e",
+      "size": 3706
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryCategory$CategoryButton.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryCategory$CategoryButton.class",
+      "sha256": "556c0a2dc27da52e2e07a82b95ee9337cbbaab39423a71bc7279932e84ced8e5",
+      "size": 3430
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryCategory$Empty.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryCategory$Empty.class",
+      "sha256": "191177bdcc392a7b70a5f5ca67faa6036b58deab053e2e699e6da1ee2483a376",
+      "size": 695
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryCategory.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryCategory.class",
+      "sha256": "4c88e02efff9dc4e1f81c2774b747756e0f9f04acb21297bcd5740aad61adf4c",
+      "size": 8340
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryCustomButton.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryCustomButton.class",
+      "sha256": "c4ca789c1384eb83ff04b4a561cd8cc4a4892f8bf276d54bbcd721326516f1bb",
+      "size": 2412
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryCustomScreenOpener.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryCustomScreenOpener.class",
+      "sha256": "4363c938245fa9adc127dca407c5aa3050e5f11e5402f990e89e04e912a6a987",
+      "size": 5905
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryEnumButton$EnumButtonWidget.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryEnumButton$EnumButtonWidget.class",
+      "sha256": "536e1b1011542a2bd82e50c210c9dff4636fbf30581d100f01fefbe7681ec65a",
+      "size": 5433
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryEnumButton.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryEnumButton.class",
+      "sha256": "d681c9d4b59e02c19a8afdadfd224c2a661e03f0fdbc2d5dd1626a0deb1436fe",
+      "size": 4851
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryEnumSlider$EnumSliderWidget.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryEnumSlider$EnumSliderWidget.class",
+      "sha256": "62559d9f6a7a9b98fa5af4dbc3560b5d52e91ce4bd31f4628788b4ba611b53a7",
+      "size": 4349
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryEnumSlider.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryEnumSlider.class",
+      "sha256": "5b882b97f08f4003665bffdb610b8fbb88f6d53a215810fbdc7507acf15382f5",
+      "size": 4851
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryInt$IntSliderWidget.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryInt$IntSliderWidget.class",
+      "sha256": "432f200a007e605b18956c175883e3a905983e7b189eafe84895616f2a553a02",
+      "size": 3786
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryInt.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryInt.class",
+      "sha256": "eea5eb0b5dc728ffe1ee77311eb490325ab1a1a7d526b1535bcaa227cf2e20be",
+      "size": 4420
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryNullSafe.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryNullSafe.class",
+      "sha256": "7e6f3973249375cc57689a2ec6680ca6e9e2338ab7cfd46bf44262b8fece0b2b",
+      "size": 1662
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryText$TextAlignment.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryText$TextAlignment.class",
+      "sha256": "b67bc1de25e7c35317d1ec065d6acc6f84cfa8dbb541d70b7c085f02f656a3ca",
+      "size": 1706
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryText$TwoLines.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryText$TwoLines.class",
+      "sha256": "1a6c82e3ff68db2949286f37fad509799f4175ef8da099d5fd60e941553c6e4e",
+      "size": 2699
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryText.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryText.class",
+      "sha256": "5837c113cff2234efbdd584fdf747c78be0ef33f176c49bb1442dcf9e8389e8a",
+      "size": 4455
+    },
+    {
+      "name": "traben/tconfig/gui/entries/TConfigEntryValue.class",
+      "source": "traben/tconfig/gui/entries/TConfigEntryValue.class",
+      "sha256": "55df90f1777538eae149784cbd332a5a58d09d980d0a062483b01ab717f978b0",
+      "size": 2647
+    },
+    {
+      "name": "entity_texture_features.mixins.json",
+      "source": "entity_texture_features.mixins.json",
+      "sha256": "cbd1378ddfbd854ef5c2415aee5c086e57d75c32e884a8b1df1cef9de6dacc65",
+      "size": 2911
+    },
+    {
+      "name": "entity_texture_features_15.accesswidener",
+      "source": "entity_texture_features_15.accesswidener",
+      "sha256": "0b7796e26e0cb519b6777d2f949693b335898c20bbe77c804fc0b4cb6ad80f11",
+      "size": 3312
+    },
+    {
+      "name": "fabric.mod.json",
+      "source": "fabric.mod.json",
+      "sha256": "adc2f14e149177ee71036f74f8aefe7158f2dda30ae6320021a25062d6854714",
+      "size": 1772
+    },
+    {
+      "name": "icon.png",
+      "source": "icon.png",
+      "sha256": "dbee86f827aecd0d71ebcf2235e1120a88451d53148e6b127024e9add21611d6",
+      "size": 17774
+    },
+    {
+      "name": "pack.mcmeta",
+      "source": "pack.mcmeta",
+      "sha256": "b8b33b659d81833ba89d28e599ac31bbec059cd03f2e6be88f8cab501c7de381",
+      "size": 75
+    },
+    {
+      "name": "assets/",
+      "source": "assets/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_features/",
+      "source": "assets/entity_features/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_features/textures/",
+      "source": "assets/entity_features/textures/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_features/textures/gui/",
+      "source": "assets/entity_features/textures/gui/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_features/textures/gui/settings.png",
+      "source": "assets/entity_features/textures/gui/settings.png",
+      "sha256": "f3241378c23b8b4f131e7d2a4ac9b418670f6897f13782310511f30ec4aec006",
+      "size": 4514
+    },
+    {
+      "name": "assets/entity_features/textures/gui/settings_focused.png",
+      "source": "assets/entity_features/textures/gui/settings_focused.png",
+      "sha256": "f51ae3b9b64bfa88dcf5cd8ede672942088ebdcf41c4c6a3cbefd15a99d0ab64",
+      "size": 4414
+    },
+    {
+      "name": "assets/entity_features/textures/gui/settings_unfocused.png",
+      "source": "assets/entity_features/textures/gui/settings_unfocused.png",
+      "sha256": "977d33c6659b2514bfd176df7e58fcaeb09fab8578abbda7cf11b0a0230c3d70",
+      "size": 4414
+    },
+    {
+      "name": "assets/entity_features/textures/gui/entity/",
+      "source": "assets/entity_features/textures/gui/entity/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_features/textures/gui/entity/e.png",
+      "source": "assets/entity_features/textures/gui/entity/e.png",
+      "sha256": "09751bcf0f4b05e573612ba335816e7394716e4d29d712d311d6daf4958b17fc",
+      "size": 4915
+    },
+    {
+      "name": "assets/entity_features/textures/gui/entity/f.png",
+      "source": "assets/entity_features/textures/gui/entity/f.png",
+      "sha256": "4a2fed70eb2539ea868dd40293669d6494d79fb9121c85960e492c40cdb20524",
+      "size": 4899
+    },
+    {
+      "name": "assets/entity_features/textures/gui/entity/t.png",
+      "source": "assets/entity_features/textures/gui/entity/t.png",
+      "sha256": "13052654ddb57d18410e9824838c13efea3708b0319b1442b0760367d1846da8",
+      "size": 4856
+    },
+    {
+      "name": "assets/entity_texture_features/",
+      "source": "assets/entity_texture_features/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_texture_features/lang/",
+      "source": "assets/entity_texture_features/lang/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_texture_features/lang/de_de.json",
+      "source": "assets/entity_texture_features/lang/de_de.json",
+      "sha256": "daa29a4acd4fc7dba4fd98ed3566fefea042d6410af02fd6993d71d688f17f11",
+      "size": 59195
+    },
+    {
+      "name": "assets/entity_texture_features/lang/en_pt.json",
+      "source": "assets/entity_texture_features/lang/en_pt.json",
+      "sha256": "8789877b3b5eb14911384ce45b7fe402f1d9fc7b4cad58c983d5a5ed780481be",
+      "size": 48648
+    },
+    {
+      "name": "assets/entity_texture_features/lang/en_ud.json",
+      "source": "assets/entity_texture_features/lang/en_ud.json",
+      "sha256": "c6a2ea0935597092cfd9d85c7df6c00daa83ab5d454aa9fff096a01e13824e5f",
+      "size": 74375
+    },
+    {
+      "name": "assets/entity_texture_features/lang/en_us.json",
+      "source": "assets/entity_texture_features/lang/en_us.json",
+      "sha256": "7b33135b8e0cadc5a2df8b40c6bc2fe4b918652a00578a530af9219bf2fef3b2",
+      "size": 53162
+    },
+    {
+      "name": "assets/entity_texture_features/lang/es_ar.json",
+      "source": "assets/entity_texture_features/lang/es_ar.json",
+      "sha256": "e6bf6aebde5dace3ba6f4536f7d274f5da95473d863e078417df96ed3323288c",
+      "size": 58755
+    },
+    {
+      "name": "assets/entity_texture_features/lang/es_mx.json",
+      "source": "assets/entity_texture_features/lang/es_mx.json",
+      "sha256": "29da123845efe7b31b0b56349f9c59fdc0e21796d7691b53ac28f8b404ad3bf5",
+      "size": 52098
+    },
+    {
+      "name": "assets/entity_texture_features/lang/et_ee.json",
+      "source": "assets/entity_texture_features/lang/et_ee.json",
+      "sha256": "2cf99658560f8075a1a27bfbdb327ac5a3e0c075fdde7428f6a96c46e96f0853",
+      "size": 48891
+    },
+    {
+      "name": "assets/entity_texture_features/lang/fr_fr.json",
+      "source": "assets/entity_texture_features/lang/fr_fr.json",
+      "sha256": "805aa8ca76764a4145d267e287cbad5d6572c9f02f16501f9d5e08af9b15ef56",
+      "size": 49703
+    },
+    {
+      "name": "assets/entity_texture_features/lang/pl_pl.json",
+      "source": "assets/entity_texture_features/lang/pl_pl.json",
+      "sha256": "0fcb52cb897a3d9b74730b15ba2856be3becfe081b9b906fabe609610e296973",
+      "size": 56558
+    },
+    {
+      "name": "assets/entity_texture_features/lang/pt_br.json",
+      "source": "assets/entity_texture_features/lang/pt_br.json",
+      "sha256": "e5a5850a9dba2a024da612699dfe8e0b78c4d6992e1c10a47e66b87af4b07e79",
+      "size": 50499
+    },
+    {
+      "name": "assets/entity_texture_features/lang/ru_ru.json",
+      "source": "assets/entity_texture_features/lang/ru_ru.json",
+      "sha256": "fd21868a6cae7257374d24be159c1a44f97883dc2bdf72aaa470ef21d8608c6f",
+      "size": 63220
+    },
+    {
+      "name": "assets/entity_texture_features/lang/uk_ua.json",
+      "source": "assets/entity_texture_features/lang/uk_ua.json",
+      "sha256": "9f8547be990e05ce5c32f68a30fdf5ebed32cbd4c43b9bff69acc1398c5b524e",
+      "size": 76875
+    },
+    {
+      "name": "assets/entity_texture_features/lang/vi_vn.json",
+      "source": "assets/entity_texture_features/lang/vi_vn.json",
+      "sha256": "2078a557f0c1a58f371ed3a115cc465991b55041efc7b7d70e931c595e608b2f",
+      "size": 60759
+    },
+    {
+      "name": "assets/entity_texture_features/lang/zh_cn.json",
+      "source": "assets/entity_texture_features/lang/zh_cn.json",
+      "sha256": "908546cdfd932d2e97fa82459a225a33a2bf3b0777cdc6a67cf188338a4ba63f",
+      "size": 37605
+    },
+    {
+      "name": "assets/entity_texture_features/lang/zh_tw.json",
+      "source": "assets/entity_texture_features/lang/zh_tw.json",
+      "sha256": "658ce8526eab381a9553f0cfca8472d5dc35f87aad9909e2a4b92b6b0153bc5f",
+      "size": 49529
+    },
+    {
+      "name": "assets/entity_texture_features/textures/",
+      "source": "assets/entity_texture_features/textures/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_texture_features/textures/skin_feature_orange_areas.png",
+      "source": "assets/entity_texture_features/textures/skin_feature_orange_areas.png",
+      "sha256": "9181f89ca19b6abce678763a9dbc17ee83fb177387357cda952e340416938ae4",
+      "size": 270
+    },
+    {
+      "name": "assets/entity_texture_features/textures/skin_feature_printout.png",
+      "source": "assets/entity_texture_features/textures/skin_feature_printout.png",
+      "sha256": "4a98c64daf61ab939b59173b04f974724e394131ba57e6c47dd4290320690a17",
+      "size": 265
+    },
+    {
+      "name": "assets/entity_texture_features/textures/skin_feature_remove.png",
+      "source": "assets/entity_texture_features/textures/skin_feature_remove.png",
+      "sha256": "354c9fe1e3ab9590e4a43864d074dd80ab8a180dca22e9d11b8ef6eaea39a6d4",
+      "size": 139
+    },
+    {
+      "name": "assets/entity_texture_features/textures/skin_feature_small_eyes.png",
+      "source": "assets/entity_texture_features/textures/skin_feature_small_eyes.png",
+      "sha256": "8100dc503039b9ad0e39a70d6485d2dcba869397de49cb1eb4ad50261728f9fe",
+      "size": 278
+    },
+    {
+      "name": "assets/entity_texture_features/textures/skin_feature_whole_face.png",
+      "source": "assets/entity_texture_features/textures/skin_feature_whole_face.png",
+      "sha256": "1eb04c5c2578187337ebb6b9eea90038d51bb521cf1aeca5bc454a96e64853a7",
+      "size": 292
+    },
+    {
+      "name": "assets/entity_texture_features/textures/gui/",
+      "source": "assets/entity_texture_features/textures/gui/",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "name": "assets/entity_texture_features/textures/gui/etf.png",
+      "source": "assets/entity_texture_features/textures/gui/etf.png",
+      "sha256": "71e63e1960a1c886d90637cf9b6127d8a3a121cf7b56f2909009bad8e8d8962a",
+      "size": 304
+    },
+    {
+      "name": "assets/entity_texture_features/textures/gui/icon.png",
+      "source": "assets/entity_texture_features/textures/gui/icon.png",
+      "sha256": "dbee86f827aecd0d71ebcf2235e1120a88451d53148e6b127024e9add21611d6",
+      "size": 17774
+    },
+    {
+      "name": "assets/entity_texture_features/textures/gui/logo.png",
+      "source": "assets/entity_texture_features/textures/gui/logo.png",
+      "sha256": "540d6dfd8b0f396b6c8f37e137c21d25da2f1518beb4165b9e8488ddb7c18609",
+      "size": 53349
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFFrameNbtCache$Shared.class",
+      "source": null,
+      "sha256": "3889344745438cd4b1984c28aaf715bd1397b076bbc1b6dd47a56b8ffb6fd749",
+      "size": 1796,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUASAoAAgADBwAEDAAFAAYBABBqYXZhL2xhbmcvT2JqZWN0AQAGPGluaXQ+AQADKClWCQAIAAkHAAoMAAsADAEARXRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZGcmFtZU5idENhY2hlJFNoYXJlZAEAB2NvbXB1dGUBAB1MamF2YS91dGlsL2Z1bmN0aW9uL1N1cHBsaWVyOwkACAAODAAPABABAAVvd25lcgEAEkxqYXZhL2xhbmcvT2JqZWN0OwkAEgATBwAUDAAVABYBAD50cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRVRGRnJhbWVOYnRDYWNoZQEADHdpbmRvd1RocmVhZAEAEkxqYXZhL2xhbmcvVGhyZWFkOwoAGAAZBwAaDAAbABwBABBqYXZhL2xhbmcvVGhyZWFkAQANY3VycmVudFRocmVhZAEAFCgpTGphdmEvbGFuZy9UaHJlYWQ7CwAeAB8HACAMACEAIgEAG2phdmEvdXRpbC9mdW5jdGlvbi9TdXBwbGllcgEAA2dldAEAFCgpTGphdmEvbGFuZy9PYmplY3Q7BwAkAQAdbmV0L21pbmVjcmFmdC9uYnQvQ29tcG91bmRUYWcJABIAJgwAJwAoAQAFRlJBTUUBABtMamF2YS91dGlsL0lkZW50aXR5SGFzaE1hcDsKACoAKwcALAwAIQAtAQAZamF2YS91dGlsL0lkZW50aXR5SGFzaE1hcAEAJihMamF2YS9sYW5nL09iamVjdDspTGphdmEvbGFuZy9PYmplY3Q7CgAqAC8MADAAMQEAA3B1dAEAOChMamF2YS9sYW5nL09iamVjdDtMamF2YS9sYW5nL09iamVjdDspTGphdmEvbGFuZy9PYmplY3Q7CgAIADMMACEANAEAISgpTG5ldC9taW5lY3JhZnQvbmJ0L0NvbXBvdW5kVGFnOwEACVNpZ25hdHVyZQEAPkxqYXZhL3V0aWwvZnVuY3Rpb24vU3VwcGxpZXI8TG5ldC9taW5lY3JhZnQvbmJ0L0NvbXBvdW5kVGFnOz47AQAyKExqYXZhL3V0aWwvZnVuY3Rpb24vU3VwcGxpZXI7TGphdmEvbGFuZy9PYmplY3Q7KVYBAARDb2RlAQAPTGluZU51bWJlclRhYmxlAQASTG9jYWxWYXJpYWJsZVRhYmxlAQAEdGhpcwEAR0x0cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRVRGRnJhbWVOYnRDYWNoZSRTaGFyZWQ7AQAWTG9jYWxWYXJpYWJsZVR5cGVUYWJsZQEAUyhMamF2YS91dGlsL2Z1bmN0aW9uL1N1cHBsaWVyPExuZXQvbWluZWNyYWZ0L25idC9Db21wb3VuZFRhZzs+O0xqYXZhL2xhbmcvT2JqZWN0OylWAQADdGFnAQAfTG5ldC9taW5lY3JhZnQvbmJ0L0NvbXBvdW5kVGFnOwEADVN0YWNrTWFwVGFibGUBAFBMamF2YS9sYW5nL09iamVjdDtMamF2YS91dGlsL2Z1bmN0aW9uL1N1cHBsaWVyPExuZXQvbWluZWNyYWZ0L25idC9Db21wb3VuZFRhZzs+OwEAClNvdXJjZUZpbGUBABVFVEZGcmFtZU5idENhY2hlLmphdmEBAAhOZXN0SG9zdAEADElubmVyQ2xhc3NlcwEABlNoYXJlZAAwAAgAAgABAB4AAgASAAsADAABADUAAAACADYAEgAPABAAAAADAAAABQA3AAIAOAAAAGsAAgADAAAADyq3AAEqK7UAByostQANsQAAAAMAOQAAABIABAAAAC0ABAAuAAkALwAOADAAOgAAACAAAwAAAA8AOwA8AAAAAAAPAAsADAABAAAADwAPABAAAgA9AAAADAABAAAADwALADYAAQA1AAAAAgA+AAEAIQA0AAEAOAAAAKcAAwACAAAAULIAEbgAF6UAECq0AAe5AB0BAMAAI7CyACUqtAANtgApwAAjTCvHACkqtAAHuQAdAQDAACNMK8YAGLIAEbgAF6YAD7IAJSq0AA0rtgAuVyuwAAAAAwA5AAAAGgAGAAAANAAWADUAJAA2ACgANwA1ADgATgA6ADoAAAAWAAIAAABQADsAPAAAACQALAA/AEAAAQBBAAAACQACFvwANwcAIxBBACEAIgABADgAAAAvAAEAAQAAAAUqtgAysAAAAAIAOQAAAAYAAQAAACkAOgAAAAwAAQAAAAUAOwA8AAAABAA1AAAAAgBCAEMAAAACAEQARQAAAAIAEgBGAAAACgABAAgAEgBHABo="
+        }
+      ]
+    },
+    {
+      "name": "traben/entity_texture_features/features/state/ETFFrameNbtCache.class",
+      "source": null,
+      "sha256": "237b65c376f151db3c72cbdc519e685ef140ab0ff5304b998fddb2092c358991",
+      "size": 2125,
+      "operations": [
+        {
+          "insert": "yv66vgAAAEUARQoAAgADBwAEDAAFAAYBABBqYXZhL2xhbmcvT2JqZWN0AQAGPGluaXQ+AQADKClWCQAIAAkHAAoMAAsADAEAPnRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZGcmFtZU5idENhY2hlAQAFRlJBTUUBABtMamF2YS91dGlsL0lkZW50aXR5SGFzaE1hcDsKAA4ADwcAEAwAEQAGAQAZamF2YS91dGlsL0lkZW50aXR5SGFzaE1hcAEABWNsZWFyCgATABQHABUMABYAFwEAEGphdmEvbGFuZy9UaHJlYWQBAA1jdXJyZW50VGhyZWFkAQAUKClMamF2YS9sYW5nL1RocmVhZDsJAAgAGQwAGgAbAQAMd2luZG93VGhyZWFkAQASTGphdmEvbGFuZy9UaHJlYWQ7CwAdAB4HAB8MACAAIQEAQnRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZFbnRpdHlSZW5kZXJTdGF0ZQEAFmNhY2hlRW50aXR5TkJURm9yU3RhdGUBAE4oTGphdmEvdXRpbC9VVUlEO0xqYXZhL3V0aWwvZnVuY3Rpb24vU3VwcGxpZXI7KUxuZXQvbWluZWNyYWZ0L25idC9Db21wb3VuZFRhZzsHACMBAEV0cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRVRGRnJhbWVOYnRDYWNoZSRTaGFyZWQKACIAJQwABQAmAQAyKExqYXZhL3V0aWwvZnVuY3Rpb24vU3VwcGxpZXI7TGphdmEvbGFuZy9PYmplY3Q7KVYKAA4AAwEACVNpZ25hdHVyZQEATkxqYXZhL3V0aWwvSWRlbnRpdHlIYXNoTWFwPExqYXZhL2xhbmcvT2JqZWN0O0xuZXQvbWluZWNyYWZ0L25idC9Db21wb3VuZFRhZzs+OwEABENvZGUBAA9MaW5lTnVtYmVyVGFibGUBABJMb2NhbFZhcmlhYmxlVGFibGUBAAR0aGlzAQBATHRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZGcmFtZU5idENhY2hlOwEACmJlZ2luRnJhbWUBAAhlbmRGcmFtZQEABWNhY2hlAQCkKEx0cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRVRGRW50aXR5UmVuZGVyU3RhdGU7TGphdmEvdXRpbC9VVUlEO0xqYXZhL3V0aWwvZnVuY3Rpb24vU3VwcGxpZXI7TGphdmEvbGFuZy9PYmplY3Q7KUxuZXQvbWluZWNyYWZ0L25idC9Db21wb3VuZFRhZzsBAAVzdGF0ZQEAREx0cmFiZW4vZW50aXR5X3RleHR1cmVfZmVhdHVyZXMvZmVhdHVyZXMvc3RhdGUvRVRGRW50aXR5UmVuZGVyU3RhdGU7AQAEdXVpZAEAEExqYXZhL3V0aWwvVVVJRDsBAAdjb21wdXRlAQAdTGphdmEvdXRpbC9mdW5jdGlvbi9TdXBwbGllcjsBAAVvd25lcgEAEkxqYXZhL2xhbmcvT2JqZWN0OwEAFkxvY2FsVmFyaWFibGVUeXBlVGFibGUBAD5MamF2YS91dGlsL2Z1bmN0aW9uL1N1cHBsaWVyPExuZXQvbWluZWNyYWZ0L25idC9Db21wb3VuZFRhZzs+OwEADVN0YWNrTWFwVGFibGUBAMUoTHRyYWJlbi9lbnRpdHlfdGV4dHVyZV9mZWF0dXJlcy9mZWF0dXJlcy9zdGF0ZS9FVEZFbnRpdHlSZW5kZXJTdGF0ZTtMamF2YS91dGlsL1VVSUQ7TGphdmEvdXRpbC9mdW5jdGlvbi9TdXBwbGllcjxMbmV0L21pbmVjcmFmdC9uYnQvQ29tcG91bmRUYWc7PjtMamF2YS9sYW5nL09iamVjdDspTG5ldC9taW5lY3JhZnQvbmJ0L0NvbXBvdW5kVGFnOwEACDxjbGluaXQ+AQAKU291cmNlRmlsZQEAFUVURkZyYW1lTmJ0Q2FjaGUuamF2YQEAC05lc3RNZW1iZXJzAQAMSW5uZXJDbGFzc2VzAQAGU2hhcmVkADEACAACAAAAAgAaAAsADAABACgAAAACACkACgAaABsAAAAFAAIABQAGAAEAKgAAAC8AAQABAAAABSq3AAGxAAAAAgArAAAABgABAAAAEgAsAAAADAABAAAABQAtAC4AAAAJAC8ABgABACoAAAAtAAEAAAAAAA2yAAe2AA24ABKzABixAAAAAQArAAAADgADAAAAGAAGABkADAAaAAkAMAAGAAEAKgAAACsAAQAAAAAACwGzABiyAAe2AA2xAAAAAQArAAAADgADAAAAHQAEAB4ACgAfAAkAMQAyAAIAKgAAAJMABgAEAAAAJ7IAGLgAEqYABy3HAAwqKyy5ABwDALAqK7sAIlksLbcAJLkAHAMAsAAAAAQAKwAAAA4AAwAAACMADQAkABYAJgAsAAAAKgAEAAAAJwAzADQAAAAAACcANQA2AAEAAAAnADcAOAACAAAAJwA5ADoAAwA7AAAADAABAAAAJwA3ADwAAgA9AAAABAACDQgAKAAAAAIAPgAIAD8ABgABACoAAAArAAIAAAAAAA+7AA5ZtwAnswAHAbMAGLEAAAABACsAAAAKAAIAAAAUAAoAFQADAEAAAAACAEEAQgAAAAQAAQAiAEMAAAAKAAEAIgAIAEQAGg=="
+        }
+      ]
+    }
+  ]
+}

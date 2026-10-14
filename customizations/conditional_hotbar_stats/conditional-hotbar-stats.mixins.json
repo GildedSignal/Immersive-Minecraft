@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "mcperf.hotbar.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["HudMixin"],
+  "injectors": {"defaultRequire": 1}
+}

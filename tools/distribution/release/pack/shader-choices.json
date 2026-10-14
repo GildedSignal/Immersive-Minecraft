@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "automaticDimensionSwitching": false,
+  "choices": [
+    {
+      "label": "Sundial",
+      "file": "Sundial Lite v1.1.0 (no mob shadows, gpu-opt).zip",
+      "mood": "Default: blocks and water"
+    },
+    {
+      "label": "Photon",
+      "file": "photon_v1.3b.zip",
+      "authorUrl": "https://modrinth.com/shader/photon-shader",
+      "version": "v1.3b",
+      "mood": "Alternative atmosphere; performance varies"
+    },
+    {
+      "label": "Solas",
+      "file": "Solas Shader V3.7b.zip",
+      "authorUrl": "https://modrinth.com/shader/solas-shader",
+      "version": "3.7b",
+      "mood": "Alternative atmosphere; performance varies"
+    }
+  ]
+}

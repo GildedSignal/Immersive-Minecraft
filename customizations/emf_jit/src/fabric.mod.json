@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "emf_jit",
+  "version": "1.0.0",
+  "name": "EMF JIT Fix",
+  "description": "Splits Entity Model Features' generated animation methods (EMF_ASM_Parsed_*.eval) below HotSpot's 8000-byte huge-method limit so they are JIT-compiled instead of interpreted. Bit-identical results. Disable with -Demfjit=false.",
+  "authors": ["Julien Laurent (local build)"],
+  "license": "LGPL-3.0",
+  "environment": "client",
+  "mixins": ["emf_jit.mixins.json"],
+  "depends": { "fabricloader": ">=0.16", "entity_model_features": ">=3.3.10" }
+}

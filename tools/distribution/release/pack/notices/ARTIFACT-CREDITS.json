@@ -1,0 +1,2216 @@
+[
+  {
+    "file": "mods/AdvancementPlaques-26.2-fabric-1.7.2.jar",
+    "name": "Advancement Plaques",
+    "license": {
+      "id": "CC-BY-NC-ND-4.0",
+      "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/9NM0dXub",
+    "source": "https://github.com/AHilyard/AdvancementPlaques/"
+  },
+  {
+    "file": "mods/AmbientEnvironment-fabric-26.2-26.2.1.jar",
+    "name": "Ambient Environment",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/DyTvM1dv",
+    "source": "https://github.com/jaredlll08/Ambiance"
+  },
+  {
+    "file": "mods/animatica-0.6.3+26.2.jar",
+    "name": "Animatica Refabricated",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/xEyZuswh",
+    "source": "https://github.com/coredex-source/AnimaticaRefabricated"
+  },
+  {
+    "file": "mods/appleskin-fabric-mc26.2-3.0.10.jar",
+    "name": "AppleSkin",
+    "license": {
+      "id": "Unlicense",
+      "name": "The Unlicense",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/EsAfCjCV",
+    "source": "https://github.com/squeek502/AppleSkin"
+  },
+  {
+    "file": "mods/architectury-fabric-21.1.8.jar",
+    "name": "Architectury API",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/lhGA9TYQ",
+    "source": "https://github.com/architectury/architectury"
+  },
+  {
+    "file": "mods/atmosfera-2.7.2+mc26.2.jar",
+    "name": "Atmosfera",
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/28G1xpgF",
+    "source": "https://github.com/Haven-King/Atmosfera"
+  },
+  {
+    "file": "mods/atmospheric-fauna-0.5.1+26.2.jar",
+    "name": "Atmospheric Fauna",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/yd14I2wN",
+    "source": "https://github.com/RealNmS/Atmospheric-Fauna"
+  },
+  {
+    "file": "mods/AttributeFix-fabric-MC26.2-26.2.0.1.jar",
+    "name": "AttributeFix",
+    "license": {
+      "id": "LGPL-2.1-only",
+      "name": "GNU Lesser General Public License v2.1 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/lOOpEntO",
+    "source": "https://github.com/Darkhax-Minecraft/AttributeFix"
+  },
+  {
+    "file": "mods/audition-2.0.0+mc26.2.jar",
+    "name": "Audition",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/HMeGkqZ7",
+    "source": null
+  },
+  {
+    "file": "mods/autohud-9.0+26.2-fabric.jar",
+    "name": "Auto HUD",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/temczoTQ",
+    "source": "https://github.com/Crendgrim/AutoHUD"
+  },
+  {
+    "file": "mods/AutoThirdPerson-1.0.0+26.x.jar",
+    "name": "Auto Third Person",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/RkEQpwRo",
+    "source": null
+  },
+  {
+    "file": "mods/BadOptimizations-2.4.1-26.2-fabric.jar",
+    "name": "BadOptimizations",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/g96Z4WVZ",
+    "source": "https://github.com/ItsThosea/BadOpitmizations"
+  },
+  {
+    "file": "mods/baguettelib-26.2-Fabric-2.0.5.jar",
+    "name": "BaguetteLib",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/OfKzpbRU",
+    "source": null
+  },
+  {
+    "file": "mods/bathymetry-1.0.2+26.2+fabric.jar",
+    "name": "Bathymetry",
+    "license": {
+      "id": "CC-BY-ND-4.0",
+      "name": "Creative Commons Attribution No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/jn3yCCDl",
+    "source": "https://github.com/ZipeStudio/Bathymetry"
+  },
+  {
+    "file": "mods/better-snow-coverage-0.4.2+mc26.2.jar",
+    "name": "Better Snow Coverage",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/hnruzXAw",
+    "source": "https://tangled.org/tobinio.dev/better-snow-coverage/"
+  },
+  {
+    "file": "mods/better_climbing-fabric-6.jar",
+    "name": "Better Climbing",
+    "license": {
+      "id": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ZucWZEBV",
+    "source": "https://github.com/artemisSystem/better-climbing"
+  },
+  {
+    "file": "mods/BetterAdvancements-Fabric-26.2-0.6.0.72.jar",
+    "name": "Better Advancements",
+    "license": {
+      "id": "LicenseRef-Dont-Be-a-Jerk",
+      "name": "",
+      "url": "https://github.com/way2muchnoise/BetterAdvancements/blob/master/LICENSE.md"
+    },
+    "project": "https://modrinth.com/project/Q2OqKxDG",
+    "source": "https://github.com/way2muchnoise/BetterAdvancements"
+  },
+  {
+    "file": "mods/BetterF3-19.0.0-Fabric-26.2.jar",
+    "name": "BetterF3",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/8shC1gFX",
+    "source": "https://github.com/TreyRuffy/BetterF3"
+  },
+  {
+    "file": "mods/BetterGrassify-1.8.7+fabric.26.2-perf.jar",
+    "name": "BetterGrassify",
+    "license": "Apache-2.0",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/betterstats-5.5.6+fn-26.2.jar",
+    "name": "Better Statistics Screen",
+    "license": {
+      "id": "LicenseRef-Better-Statistics-Screen-License",
+      "name": "",
+      "url": "https://github.com/TheCSDev/betterstats/blob/main/LICENSE.md"
+    },
+    "project": "https://modrinth.com/project/n6PXGAoM",
+    "source": "https://github.com/TheCSDev/betterstats"
+  },
+  {
+    "file": "mods/bigwater-1.2.0-fabric+mc26.2.jar",
+    "name": "Big Water",
+    "license": {
+      "id": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/8DnPmuty",
+    "source": "https://github.com/Tectato/BigWater"
+  },
+  {
+    "file": "mods/blur-fabric-6.3.1+26.2.jar",
+    "name": "Blur+",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/NK39zBp2",
+    "source": "https://github.com/Motschen/Blur"
+  },
+  {
+    "file": "mods/boatiview-fabric-0.0.9-26.2.jar",
+    "name": "Boat Item View",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": "https://github.com/50ap5ud5/BoatItemView/blob/1.21.x-multiloader/LICENSE"
+    },
+    "project": "https://modrinth.com/project/BdKIyOLe",
+    "source": "https://github.com/50ap5ud5/BoatItemView"
+  },
+  {
+    "file": "mods/c2me-fabric-mc26.2-0.4.2-alpha.0.43.jar",
+    "name": "Concurrent Chunk Management Engine (Fabric)",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/VSNURh3q",
+    "source": "https://github.com/RelativityMC/C2ME-fabric"
+  },
+  {
+    "file": "mods/CameraOverhaul-v2.1.1-fabric+mc[26.1-plus]-downgrade.jar",
+    "name": "Camera Overhaul",
+    "license": {
+      "id": "GPL-3.0-or-later",
+      "name": "GNU General Public License v3.0 or later",
+      "url": "https://github.com/Mirsario/Minecraft-CameraOverhaul/blob/dev/LICENSE.md"
+    },
+    "project": "https://modrinth.com/project/m0oRwcZx",
+    "source": "https://github.com/Mirsario/Minecraft-CameraOverhaul"
+  },
+  {
+    "file": "mods/cave_dust-3.3.0+26.2-fabric.jar",
+    "name": "Cave Dust Rethinking",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/7pdlDpFR",
+    "source": "https://github.com/Toffiks/cave_dust_rethinking"
+  },
+  {
+    "file": "mods/celestia-1.2.2-26.2.jar",
+    "name": "Celestia: Shooting Stars",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/wNm4ZRCd",
+    "source": null
+  },
+  {
+    "file": "mods/chat_heads-1.2.8-fabric-26.1.jar",
+    "name": "Chat Heads",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Wb5oqrBJ",
+    "source": "https://github.com/dzwdz/chat_heads"
+  },
+  {
+    "file": "mods/chatanimation-fabric-1.3.0+mc26.2.jar",
+    "name": "Chat Animation [Smooth Chat]",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/DnNYdJsx",
+    "source": "https://github.com/Ezzenix/ChatAnimation"
+  },
+  {
+    "file": "mods/cherishedworlds-fabric-17.0.0+26.2.jar",
+    "name": "Cherished Worlds",
+    "license": {
+      "id": "LGPL-3.0-or-later",
+      "name": "GNU Lesser General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/3azQ6p0W",
+    "source": "https://github.com/illusivesoulworks/cherishedworlds/"
+  },
+  {
+    "file": "mods/Chunky-Fabric-1.5.3.jar",
+    "name": "Chunky",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/fALzjamp",
+    "source": "https://github.com/pop4959/Chunky"
+  },
+  {
+    "file": "mods/cicada-lib-0.15.2+26.2.jar",
+    "name": "CICADA",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/IwCkru1D",
+    "source": "https://codeberg.org/enjarai/cicada-lib"
+  },
+  {
+    "file": "mods/citresewn-continuation-1.2.2-fork.13+26.2.jar",
+    "name": "CIT Resewn Continuation",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/8auYYPlH",
+    "source": "https://github.com/EthanVisagie/CIT-Resewn-Continuation-1.21.11"
+  },
+  {
+    "file": "mods/clickthrough-plus-3.6.5+26.1.2-fabric.jar",
+    "name": "ClickThrough Plus",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/fJi8nm80",
+    "source": "https://github.com/cassiancc/ClickThrough-Plus"
+  },
+  {
+    "file": "mods/clientsort-fabric-3.103.2+26.2.jar",
+    "name": "Client Sort",
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/K0AkAin6",
+    "source": "https://github.com/TerminalMC/ClientSort"
+  },
+  {
+    "file": "mods/cloth-config-26.2.155.jar",
+    "name": "Cloth Config API",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/9s6osm5g",
+    "source": "https://github.com/shedaniel/ClothConfig/"
+  },
+  {
+    "file": "mods/Clumps-fabric-26.2-26.2.1.jar",
+    "name": "Clumps",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Wnxd13zP",
+    "source": "https://github.com/jaredlll08/Clumps"
+  },
+  {
+    "file": "mods/collective-26.2.0-8.39.jar",
+    "name": "Collective",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/e0M1UDsY",
+    "source": "https://github.com/Serilum/Collective"
+  },
+  {
+    "file": "mods/conditional-hotbar-stats-1.0.0+26.2.jar",
+    "name": "Conditional Hotbar Stats",
+    "license": "MIT",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/continuity-3.0.1+26.2.jar",
+    "name": "Continuity",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/1IjD5062",
+    "source": "https://github.com/PepperCode1/Continuity"
+  },
+  {
+    "file": "mods/coolrain-1.4.0-26.2.jar",
+    "name": "Cool Rain",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/iDyqnQLT",
+    "source": "https://github.com/Jaiz15/CoolRain"
+  },
+  {
+    "file": "mods/cosmos-1.0.3-26.2.jar",
+    "name": "Cosmos",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": "https://github.com/HollowedWanderer/Cosmos/blob/master/LICENSE"
+    },
+    "project": "https://modrinth.com/project/Kl7Cpa5P",
+    "source": "https://github.com/HollowedWanderer/Cosmos"
+  },
+  {
+    "file": "mods/cosycritters-0.3.3+26.2-fabric.jar",
+    "name": "Cosy Critters & Creepy Crawlies",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/61PI8Hzj",
+    "source": "https://github.com/PigCart/cosy-critters"
+  },
+  {
+    "file": "mods/CreativeCore_FABRIC_v2.14.16_mc26.2.jar",
+    "name": "CreativeCore",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/OsZiaDHq",
+    "source": "https://github.com/CreativeMD/CreativeCore"
+  },
+  {
+    "file": "mods/debugify-26.2.0.0.jar",
+    "name": "Debugify",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/QwxR6Gcd",
+    "source": "https://github.com/isXander/Debugify/"
+  },
+  {
+    "file": "mods/dense-flowers-0.3.0+mc26.2.jar",
+    "name": "Dense Flowers",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Ud3A1Fat",
+    "source": "https://tangled.org/tobinio.dev/dense-flowers/"
+  },
+  {
+    "file": "mods/doubledoors-26.2.0-7.2.jar",
+    "name": "Double Doors",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/JrvR9OHr",
+    "source": "https://github.com/Serilum/Double-Doors"
+  },
+  {
+    "file": "mods/durabilityalert-1.0.0.jar",
+    "name": "Durability Alert",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/5IVNFUlY",
+    "source": null
+  },
+  {
+    "file": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
+    "name": "Dynamic FPS",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/LQ3K71Q1",
+    "source": "https://github.com/juliand665/Dynamic-FPS"
+  },
+  {
+    "file": "mods/dynamiccrosshair-9.14+26.2-fabric.jar",
+    "name": "Dynamic Crosshair",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ZcR9weSm",
+    "source": "https://github.com/Crendgrim/DynamicCrosshair"
+  },
+  {
+    "file": "mods/effectual-fabric-1.4.1-26.2.jar",
+    "name": "Effectual",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/OoF97Pto",
+    "source": "https://github.com/iMeeTake/Effectual"
+  },
+  {
+    "file": "mods/eg_particle_interactions-0.10.2+26.2-fabric.jar",
+    "name": "Particle Interactions",
+    "license": {
+      "id": "CC-BY-NC-4.0",
+      "name": "Creative Commons Attribution Non Commercial 4.0 International",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1"
+    },
+    "project": "https://modrinth.com/project/xFCYuAs8",
+    "source": "https://github.com/Enchanted-Games/block-place-particles"
+  },
+  {
+    "file": "mods/emf_compat_core_26.2_2.0.0.jar",
+    "name": "EMF Compat: Core",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/hbGct5uU",
+    "source": "https://github.com/victorkozhokin/emf-compat"
+  },
+  {
+    "file": "mods/emf_compat_not_enough_animations_26.2_1.2.0.jar",
+    "name": "EMF Compat: Not Enough Animations",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/IGCrWfL7",
+    "source": "https://github.com/victorkozhokin/emf-compat"
+  },
+  {
+    "file": "mods/emf_jit-1.0.0+26.2.jar",
+    "name": "EMF JIT Fix",
+    "license": "LGPL-3.0",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/enchanted_fishing_line-1.0.0-fabric-26.2.jar",
+    "name": "Enchanted Fishing Line",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/FtXZNeim",
+    "source": ""
+  },
+  {
+    "file": "mods/EnhancedVisuals_FABRIC_v1.8.30_mc26.2.jar",
+    "name": "EnhancedVisuals",
+    "license": {
+      "id": "LGPL-2.1-only",
+      "name": "GNU Lesser General Public License v2.1 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/KjL0jE2w",
+    "source": "https://github.com/CreativeMD/EnhancedVisuals"
+  },
+  {
+    "file": "mods/entity_model_features-3.3.10-26.2-fabric.jar",
+    "name": "[EMF] Entity Model Features",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/4I1XuqiY",
+    "source": "https://github.com/Traben-0/Entity_Model_Features"
+  },
+  {
+    "file": "mods/entity_sound_features-0.8.2-26.1-fabric.jar",
+    "name": "[ESF] Entity Sound Features",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/IMuO8COj",
+    "source": "https://github.com/Traben-0/entity_sound_features"
+  },
+  {
+    "file": "mods/entity_texture_features-7.2.5-26.2-fabric-perf.jar",
+    "name": "Entity Texture Features",
+    "license": "LGPL-3.0",
+    "project": null,
+    "source": "https://github.com/Traben-0/Entity_Texture_Features"
+  },
+  {
+    "file": "mods/entityculling-fabric-1.10.5-mc26.2.jar",
+    "name": "Entity Culling",
+    "license": {
+      "id": "LicenseRef-tr7zw-Protective-License",
+      "name": "",
+      "url": "https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling"
+    },
+    "project": "https://modrinth.com/project/NNAgCjsB",
+    "source": "https://github.com/tr7zw/EntityCulling"
+  },
+  {
+    "file": "mods/Explorify v1.6.5.mod.jar",
+    "name": "Explorify",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/HSfsxuTo",
+    "source": null
+  },
+  {
+    "file": "mods/fabric-api-0.160.0+26.2.jar",
+    "name": "Fabric API",
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/P7dR8mSH",
+    "source": "https://github.com/FabricMC/fabric"
+  },
+  {
+    "file": "mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+    "name": "Fabric Language Kotlin",
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Ha28R6CL",
+    "source": "https://github.com/FabricMC/fabric-language-kotlin/"
+  },
+  {
+    "file": "mods/fallingleaves-2.0.7+26.1.jar",
+    "name": "Falling Leaves",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/WhbRG4iK",
+    "source": "https://github.com/Fourmisain/fallingleaves"
+  },
+  {
+    "file": "mods/fast-ip-ping-v1.0.11-mc26.1.2.jar",
+    "name": "Fast IP Ping",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/9mtu0sUO",
+    "source": "https://github.com/Fallen-Breath/fast-ip-ping"
+  },
+  {
+    "file": "mods/ferritecore-9.0.0-fabric.jar",
+    "name": "FerriteCore",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/uXXizFIs",
+    "source": "https://github.com/malte0811/FerriteCore"
+  },
+  {
+    "file": "mods/fieldguide-1.21.4+26.2-fabric.jar",
+    "name": "Field Guide",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": "https://github.com/evanbones/Field-Guide"
+    },
+    "project": "https://modrinth.com/project/72RRCWM6",
+    "source": "https://github.com/evanbones/Field-Guide"
+  },
+  {
+    "file": "mods/firefly-fabric-26.2-1.0.3-26.2.jar",
+    "name": "Better FireFlies",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/WpcP0H59",
+    "source": "https://github.com/At0m712/Better-FireFlies"
+  },
+  {
+    "file": "mods/firstperson-fabric-2.7.2-mc26.2.jar",
+    "name": "First-person Model",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/H5XMjpHi",
+    "source": "https://github.com/tr7zw/FirstPersonModel/"
+  },
+  {
+    "file": "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar",
+    "name": "Forge Config API Port",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ohNO6lps",
+    "source": "https://github.com/Fuzss/forgeconfigapiport"
+  },
+  {
+    "file": "mods/fwa+26.2-1.2.37.jar",
+    "name": "Fancy World Animations [FWA]",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/IAzUFvS6",
+    "source": "https://github.com/maDU59/FancyWorldAnimations"
+  },
+  {
+    "file": "mods/fzzy_config-0.7.6+26.2.jar",
+    "name": "Fzzy Config",
+    "license": {
+      "id": "LicenseRef-TDL-M",
+      "name": "",
+      "url": "https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified"
+    },
+    "project": "https://modrinth.com/project/hYykXjDp",
+    "source": "https://github.com/fzzyhmstrs/fconfig"
+  },
+  {
+    "file": "mods/hear_the_wind-0.2.0+26.2-fabric.jar",
+    "name": "Hear the Wind",
+    "license": {
+      "id": "AGPL-3.0-or-later",
+      "name": "GNU Affero General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/VXq8DhOP",
+    "source": "https://codeberg.org/oggvik/hear-the-wind-mc"
+  },
+  {
+    "file": "mods/Iceberg-26.2-fabric-1.4.2.1.jar",
+    "name": "Iceberg",
+    "license": {
+      "id": "CC-BY-NC-ND-4.0",
+      "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/5faXoLqX",
+    "source": "https://github.com/AHilyard/Iceberg/"
+  },
+  {
+    "file": "mods/ImmediatelyFast-Fabric-1.16.4+26.2.jar",
+    "name": "ImmediatelyFast",
+    "license": {
+      "id": "LGPL-3.0-or-later",
+      "name": "GNU Lesser General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/5ZwdcRci",
+    "source": "https://github.com/RaphiMC/ImmediatelyFast"
+  },
+  {
+    "file": "mods/immersive-flight-camera-1.0.0+26.2.jar",
+    "name": "Immersive Flight Camera",
+    "license": "MIT",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/immersive-hotbar-1.2.2-26.2.jar",
+    "name": "Immersive Hotbar",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/hsPB5xMD",
+    "source": "https://github.com/DerpDerpling/Interactive-Hotbar"
+  },
+  {
+    "file": "mods/immersive-storms-1.7.3+26.2-perf2.jar",
+    "name": "Immersive Storms",
+    "license": "LGPL-3.0",
+    "project": null,
+    "source": "https://github.com/TheDeathlyCow/immersive-storms"
+  },
+  {
+    "file": "mods/immersive-wiki-0.1.0+26.2.jar",
+    "name": "Immersive Wiki Fieldbook",
+    "license": "MIT",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/immersiveoverlays-1.8.5+26.2-fabric.jar",
+    "name": "Immersive Overlays",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/PKoLkD98",
+    "source": "https://github.com/cassiancc/Immersive-Overlays"
+  },
+  {
+    "file": "mods/Incendium_26.2_v5.5.1.jar",
+    "name": "Incendium Legacy",
+    "license": {
+      "id": "LicenseRef-Stardust-Labs-License",
+      "name": "",
+      "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+    },
+    "project": "https://modrinth.com/project/ZVzW5oNS",
+    "source": "https://github.com/Stardust-Labs-MC/Incendium"
+  },
+  {
+    "file": "mods/incendium_translation_fix_26.2_1.0.6.jar",
+    "name": "Incendium Translation Fix",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/NPWDZBNG",
+    "source": null
+  },
+  {
+    "file": "mods/interactivestuff-0.7.0-26.2.jar",
+    "name": "InteractiveStuff",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/KDfqMm8K",
+    "source": "https://github.com/omardotcontent/InteractiveStuff"
+  },
+  {
+    "file": "mods/InvMove-0.9.5+26.2-Fabric.jar",
+    "name": "InvMove",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/REfW2AEX",
+    "source": "https://github.com/PieKing1215/InvMove"
+  },
+  {
+    "file": "mods/iris-fabric-1.11.2+mc26.2.jar",
+    "name": "Iris Shaders",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/YL57xq9U",
+    "source": "https://github.com/IrisShaders/Iris"
+  },
+  {
+    "file": "mods/iris_translucent_order-1.0.0+26.2.jar",
+    "name": "Iris Translucent Order Fix",
+    "license": "LGPL-3.0",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/IrisSearch-1.8.0-fabric.jar",
+    "name": "Iris & Oculus Search",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/bkAgg84v",
+    "source": "https://github.com/SpacEagle17/IrisSearch"
+  },
+  {
+    "file": "mods/item_descriptions-2.8.5+26.2-fabric.jar",
+    "name": "Item Descriptions",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/UaizcMKP",
+    "source": "https://github.com/cassiancc/Item-Descriptions"
+  },
+  {
+    "file": "mods/jamlib-fabric-2.3.1+26.2.x.jar",
+    "name": "JamLib",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/IYY9Siz8",
+    "source": "https://github.com/JamCoreModding/jam-lib"
+  },
+  {
+    "file": "mods/ji-afk-cinematic-26.1-26.2-2.3.1.jar",
+    "name": "Ji AFK Cinematic",
+    "license": {
+      "id": "LicenseRef-Ji-Mods-Source-License",
+      "name": "",
+      "url": "https://github.com/jioryII/Ji-AFK-Cinematic/blob/main/LICENSE"
+    },
+    "project": "https://modrinth.com/project/NYveE6yC",
+    "source": "https://github.com/jioryII/Ji-AFK-Cinematic"
+  },
+  {
+    "file": "mods/journeymap-fabric-26.2-6.0.8.jar",
+    "name": "JourneyMap",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/lfHFW1mp",
+    "source": "https://github.com/TeamJM/journeymap"
+  },
+  {
+    "file": "mods/journeymap-webmap-fabric-26.2-1.0.13.jar",
+    "name": "JourneyMap  Web Map",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/YaZ1fUTg",
+    "source": "https://github.com/TeamJM/journeymap-webmap"
+  },
+  {
+    "file": "mods/keepthatmusic-1.0.1+26.2.jar",
+    "name": "Keep That Music",
+    "license": {
+      "id": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/5ybsVotd",
+    "source": "https://github.com/DarkAndBlue/KeepThatMusic"
+  },
+  {
+    "file": "mods/krypton-0.3.1.jar",
+    "name": "Krypton",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/fQEb0iXm",
+    "source": "https://github.com/astei/krypton"
+  },
+  {
+    "file": "mods/lambdynamiclights-4.12.4+26.2.jar",
+    "name": "LambDynamicLights - Dynamic Lights",
+    "license": {
+      "id": "LicenseRef-Lambda-License",
+      "name": "",
+      "url": "https://github.com/LambdAurora/LambDynamicLights/blob/1.21.5/LICENSE"
+    },
+    "project": "https://modrinth.com/project/yBW8D80W",
+    "source": "https://github.com/LambdAurora/LambDynamicLights"
+  },
+  {
+    "file": "mods/leawind_third_person-3.0.3-beta+fabric-26.2.jar",
+    "name": "Leawind's Third Person",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": "https://github.com/Leawind/Third-Person?tab=MIT-1-ov-file"
+    },
+    "project": "https://modrinth.com/project/S3D3QF0M",
+    "source": "https://github.com/Leawind/Third-Person"
+  },
+  {
+    "file": "mods/LegendaryTooltips-26.2-fabric-1.6.2.1.jar",
+    "name": "Legendary Tooltips",
+    "license": {
+      "id": "CC-BY-NC-ND-4.0",
+      "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/atHH8NyV",
+    "source": "https://github.com/AHilyard/LegendaryTooltips/"
+  },
+  {
+    "file": "mods/libIPN-fabric-26.2-6.8.3.jar",
+    "name": "libIPN",
+    "license": {
+      "id": "AGPL-3.0-or-later",
+      "name": "GNU Affero General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/onSQdWhM",
+    "source": "https://github.com/blackd/libIPN"
+  },
+  {
+    "file": "mods/litematica-fabric-26.2-0.28.8-fencefix.jar",
+    "name": "Litematica",
+    "license": "LGPLv3",
+    "project": null,
+    "source": "https://github.com/maruohon/litematica"
+  },
+  {
+    "file": "mods/lithium-fabric-0.25.3+mc26.2.jar",
+    "name": "Lithium",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/gvQqBUqZ",
+    "source": "https://github.com/caffeinemc/lithium-fabric"
+  },
+  {
+    "file": "mods/lithostitched-1.8.0+beta6-fabric-26.2.jar",
+    "name": "Lithostitched",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/XaDC71GB",
+    "source": "https://github.com/Apollounknowndev/lithostitched/"
+  },
+  {
+    "file": "mods/lod-server-support-fabric-0.14.0+26.2.jar",
+    "name": "LOD Server Support",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": "https://raw.githubusercontent.com/VoX/lod-server-support/refs/heads/main/LICENSE"
+    },
+    "project": "https://modrinth.com/project/lKiXKLvv",
+    "source": "https://github.com/VoX/lod-server-support"
+  },
+  {
+    "file": "mods/make_bubbles_pop-0.3.4-fabric-mc26.2.x.jar",
+    "name": "Make Bubbles Pop",
+    "license": {
+      "id": "LicenseRef-Custom-License",
+      "name": "",
+      "url": "https://github.com/Tschipcraft/make_bubbles_pop/blob/master/LICENSE"
+    },
+    "project": "https://modrinth.com/project/gPCdW0Wr",
+    "source": "https://github.com/Tschipcraft/fabric_make_bubbles_pop_mod"
+  },
+  {
+    "file": "mods/malilib-fabric-26.2-0.29.6.jar",
+    "name": "MaLiLib",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/GcWjdA9I",
+    "source": "https://github.com/maruohon/malilib/"
+  },
+  {
+    "file": "mods/mapstitch-fabric-1.1.3+26.2.jar",
+    "name": "MapStitch",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/etdHQJ0B",
+    "source": "https://github.com/pajicadvance/mapstitch"
+  },
+  {
+    "file": "mods/mc2_interactivefoliage-1.3.0-fabric+26.2.jar",
+    "name": "Interactive Foliage",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ba5MV2CF",
+    "source": "https://github.com/Kart0/mc2-interactivefoliage/tree/main"
+  },
+  {
+    "file": "mods/midnightlib-fabric-1.9.3+26.2.jar",
+    "name": "MidnightLib",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/codAaoxh",
+    "source": "https://github.com/TeamMidnightDust/MidnightLib"
+  },
+  {
+    "file": "mods/modmenu-20.0.1.jar",
+    "name": "Mod Menu",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/mOgUt4GM",
+    "source": "https://github.com/TerraformersMC/ModMenu"
+  },
+  {
+    "file": "mods/moreculling-fabric-26.2-1.8.1.jar",
+    "name": "More Culling",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/51shyZVL",
+    "source": "https://github.com/fxmorin/moreculling"
+  },
+  {
+    "file": "mods/MossyLib-1.5.0+26.2+fabric.jar",
+    "name": "MossyLib",
+    "license": {
+      "id": "CC-BY-ND-4.0",
+      "name": "Creative Commons Attribution No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ffLDUGbm",
+    "source": "https://github.com/LopyMine/MossyLib"
+  },
+  {
+    "file": "mods/MouseTweaks-fabric-mc26.2-2.31.jar",
+    "name": "Mouse Tweaks",
+    "license": {
+      "id": "BSD-3-Clause",
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/aC3cM3Vq",
+    "source": "https://github.com/YaLTeR/MouseTweaks"
+  },
+  {
+    "file": "mods/mru-1.0.33+26.2-fabric.jar",
+    "name": "MRU",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/SNVQ2c0g",
+    "source": "https://github.com/IMB11-Mods/JavaEditionMods/tree/main/mru"
+  },
+  {
+    "file": "mods/nautilus_studio-26.2-1.10.4-fabric.jar",
+    "name": "Nautilus Studio - Packs Editor IDE",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/zRIA8Bvc",
+    "source": "https://github.com/MehVahdJukaar/pack_editor"
+  },
+  {
+    "file": "mods/notenoughanimations-fabric-1.12.4-mc26.2.jar",
+    "name": "Not Enough Animations",
+    "license": {
+      "id": "LicenseRef-tr7zw-Protective-License",
+      "name": "",
+      "url": "https://github.com/tr7zw/NotEnoughAnimations/blob/main/LICENSE"
+    },
+    "project": "https://modrinth.com/project/MPCX6s5C",
+    "source": "https://github.com/tr7zw/NotEnoughAnimations"
+  },
+  {
+    "file": "mods/Nullscape_26.2_v1.2.20.jar",
+    "name": "Nullscape",
+    "license": {
+      "id": "LicenseRef-Stardust-Labs-License",
+      "name": "",
+      "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+    },
+    "project": "https://modrinth.com/project/LPjGiSO4",
+    "source": "https://github.com/Stardust-Labs-MC/Nullscape"
+  },
+  {
+    "file": "mods/ok_zoomer-18.0.0-beta.2.jar",
+    "name": "Ok Zoomer - It's Zoom!",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/aXf2OSFU",
+    "source": "https://github.com/Up-Mods/OkZoomer"
+  },
+  {
+    "file": "mods/paper-channel-compat-1.0.0+26.2.jar",
+    "name": "Paper Channel Compatibility",
+    "license": "MIT",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/particle_core-0.3.3+26.2-perf-async-pr2.jar",
+    "name": "Particle Core",
+    "license": "MIT License",
+    "project": null,
+    "source": "https://github.com/fzzyhmstrs/pc"
+  },
+  {
+    "file": "mods/ParticleEffects-1.5.0+26.2+fabric.jar",
+    "name": "Particle Effects",
+    "license": {
+      "id": "CC-BY-ND-4.0",
+      "name": "Creative Commons Attribution No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/PLAGcSFJ",
+    "source": "https://github.com/LopyMine/Particle-Effects"
+  },
+  {
+    "file": "mods/particlerain-4.0.0-beta.11+26.2-fabric-perf2.jar",
+    "name": "Particle Rain",
+    "license": "MIT",
+    "project": null,
+    "source": "https://github.com/PigCart/particle-rain"
+  },
+  {
+    "file": "mods/particular-26.2-Fabric-1.5.7.jar",
+    "name": "Particular ✨ Reforged",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/pYFUU6cq",
+    "source": "https://github.com/Leclowndu93150/Particular"
+  },
+  {
+    "file": "mods/perspective_api-1.5.0-beta+fabric-26.2.jar",
+    "name": "Perspective API",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": "https://github.com/Leawind/Perspective-API?tab=MIT-1-ov-file"
+    },
+    "project": "https://modrinth.com/project/LIqveQm1",
+    "source": "https://github.com/Leawind/Perspective-API"
+  },
+  {
+    "file": "mods/physics-mod-3.2.4-mc-26.2-fabric.jar",
+    "name": "Physics Mod",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Xy8aRQKS",
+    "source": null
+  },
+  {
+    "file": "mods/pickupanimations-fabric-1.0.jar",
+    "name": "Pickup Animations: Subtle, Tiny, Satisfying Inventory Item QoL",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/53yE3Oq7",
+    "source": "https://github.com/Additional-Mods/pickupanimations"
+  },
+  {
+    "file": "mods/PickUpNotifier-v26.2.0-mc26.2.x-Fabric.jar",
+    "name": "Pick Up Notifier",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ZX66K16c",
+    "source": "https://github.com/Fuzss/pickupnotifier"
+  },
+  {
+    "file": "mods/placeholder-api-3.1.0-beta.1+26.2.jar",
+    "name": "Text Placeholder API",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/eXts2L7r",
+    "source": "https://github.com/Patbox/TextPlaceholderAPI"
+  },
+  {
+    "file": "mods/PlayerAnimationLibMerged-1.2.6+mc.26.2.jar",
+    "name": "Player Animation Library",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ha1mEyJS",
+    "source": "https://github.com/ZigyTheBird/PlayerAnimationLibrary"
+  },
+  {
+    "file": "mods/polytone-26.2-6.5.1-fabric.jar",
+    "name": "Polytone",
+    "license": {
+      "id": "GPL-3.0-or-later",
+      "name": "GNU General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/3qAYkBMB",
+    "source": "https://github.com/MehVahdJukaar/polytone"
+  },
+  {
+    "file": "mods/PresenceFootsteps-1.13.3+26.2.jar",
+    "name": "Presence Footsteps",
+    "license": {
+      "id": "LicenseRef-Polyform-Shield-1.0",
+      "name": "",
+      "url": "https://polyformproject.org/licenses/shield/1.0.0"
+    },
+    "project": "https://modrinth.com/project/rcTfTZr3",
+    "source": "https://github.com/Sollace/Presence-Footsteps"
+  },
+  {
+    "file": "mods/PrickleMC-fabric-MC26.2-26.2.0.3.jar",
+    "name": "Prickle",
+    "license": {
+      "id": "LGPL-2.1-only",
+      "name": "GNU Lesser General Public License v2.1 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/aaRl8GiW",
+    "source": "https://github.com/Darkhax-Minecraft/PrickleMC"
+  },
+  {
+    "file": "mods/Prism-26.2-fabric-1.1.2.jar",
+    "name": "Prism",
+    "license": {
+      "id": "CC-BY-NC-ND-4.0",
+      "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/1OE8wbN0",
+    "source": "https://github.com/AHilyard/Prism/"
+  },
+  {
+    "file": "mods/puddleflood-1.1.5+26.2-fabric.jar",
+    "name": "Puddles & Floods",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/xeRVd78z",
+    "source": "https://github.com/PigCart/puddles-floods"
+  },
+  {
+    "file": "mods/PuzzlesLib-v26.2.3-mc26.2.x-Fabric.jar",
+    "name": "Puzzles Lib",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/QAGBst4M",
+    "source": "https://github.com/Fuzss/puzzleslib"
+  },
+  {
+    "file": "mods/raised-fabric-26.2-5.1.2.jar",
+    "name": "Raised",
+    "license": {
+      "id": "LGPL-3.0-or-later",
+      "name": "GNU Lesser General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/nCQRBEiR",
+    "source": "https://github.com/yurisuika/Raised"
+  },
+  {
+    "file": "mods/reeses-sodium-options-fabric-2.2.3+mc26.2.jar",
+    "name": "Reese's Sodium Options",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Bh37bMuy",
+    "source": "https://github.com/FlashyReese/reeses-sodium-options"
+  },
+  {
+    "file": "mods/ResourcefulConfig-5.0.0.jar",
+    "name": "Resourceful Config",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/M1953qlQ",
+    "source": "https://github.com/Team-Resourceful/Resourceful-Config"
+  },
+  {
+    "file": "mods/rightclickharvest-fabric-4.6.2+26.2.x.jar",
+    "name": "RightClickHarvest",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Cnejf5xM",
+    "source": "https://github.com/JamCoreModding/RightClickHarvest"
+  },
+  {
+    "file": "mods/Ripple-1.2.3-26.2-perf2.jar",
+    "name": "Ripple",
+    "license": "ARR",
+    "project": null,
+    "source": ""
+  },
+  {
+    "file": "mods/rsls-1.2.2.jar",
+    "name": "Raise Sound Limit Simplified",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/SKW62Pht",
+    "source": "https://github.com/ishland/raise-sound-limit-simplified"
+  },
+  {
+    "file": "mods/ScalableLux-fabric-0.3.0-alpha.0.3-all.jar",
+    "name": "ScalableLux",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Ps1zyz6x",
+    "source": "https://github.com/RelativityMC/ScalableLux"
+  },
+  {
+    "file": "mods/scholar-fabric-26.2-1.2.9.jar",
+    "name": "Scholar",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/fX4dIQCo",
+    "source": "https://github.com/mortuusars/Scholar"
+  },
+  {
+    "file": "mods/screenshot_viewer-1.3.6-fabric-mc26.2.jar",
+    "name": "Screenshot Viewer",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/laNoi025",
+    "source": "https://github.com/LGatodu47/ScreenshotViewer"
+  },
+  {
+    "file": "mods/shulkerboxtooltip-fabric-5.4.0+26.2.jar",
+    "name": "Shulker Box Tooltip",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/2M01OLQq",
+    "source": "https://github.com/MisterPeModder/ShulkerBoxTooltip"
+  },
+  {
+    "file": "mods/simple-atlas-1.2.0-(26.2.x).jar",
+    "name": "Simple Atlas",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/X7V504X8",
+    "source": "https://github.com/RubberToe-06/simple_atlas"
+  },
+  {
+    "file": "mods/skinlayers3d-fabric-1.11.2-mc26.2.jar",
+    "name": "3D Skin Layers",
+    "license": {
+      "id": "LicenseRef-tr7zw-Protective-License",
+      "name": "",
+      "url": "https://github.com/tr7zw/3d-Skin-Layers/blob/1.17/LICENSE"
+    },
+    "project": "https://modrinth.com/project/zV5r3pPn",
+    "source": "https://github.com/tr7zw/3d-skin-layers"
+  },
+  {
+    "file": "mods/SnowUnderTrees-2.7.6+26.1.jar",
+    "name": "Snow Under Trees (Fabric)",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/XVnUIUAQ",
+    "source": "https://github.com/IMB11-Mods/SnowUnderTrees"
+  },
+  {
+    "file": "mods/sodium-extra-fabric-0.9.3+mc26.2.jar",
+    "name": "Sodium Extra",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/PtjYWJkn",
+    "source": "https://github.com/FlashyReese/sodium-extra-fabric"
+  },
+  {
+    "file": "mods/sodium-fabric-0.9.1+mc26.2.jar",
+    "name": "Sodium",
+    "license": {
+      "id": "LicenseRef-Polyform-Shield-1.0.0",
+      "name": "",
+      "url": "https://github.com/CaffeineMC/sodium/blob/dev/LICENSE.md"
+    },
+    "project": "https://modrinth.com/project/AANobbMI",
+    "source": "https://github.com/CaffeineMC/sodium"
+  },
+  {
+    "file": "mods/softimprints-fabric-26.2-2.8.0-perf.jar",
+    "name": "Soft Imprints",
+    "license": "MIT",
+    "project": null,
+    "source": "https://github.com/0Templ/SoftImprints"
+  },
+  {
+    "file": "mods/sound_physics_perfected-1.17.5+26.1-fabric-racefix.jar",
+    "name": "Sound Physics Perfected",
+    "license": "MIT",
+    "project": null,
+    "source": "https://github.com/FalseMSP/SoundPhysicsPerfected"
+  },
+  {
+    "file": "mods/soundcontroller-fabric-1.4.0-mc26.2.jar",
+    "name": "Sound Controller",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/uY9zbflw",
+    "source": "https://github.com/BVengo/sound-controller"
+  },
+  {
+    "file": "mods/sounds-2.5.1+edge+26.2-fabric.jar",
+    "name": "Sounds",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ZouiUX7t",
+    "source": "https://github.com/IMB11-Mods/JavaEditionMods/tree/main/sounds"
+  },
+  {
+    "file": "mods/spark-1.10.187-fabric.jar",
+    "name": "spark",
+    "license": {
+      "id": "GPL-3.0-only",
+      "name": "GNU General Public License v3.0 only",
+      "url": "https://github.com/lucko/spark/blob/master/LICENSE.txt"
+    },
+    "project": "https://modrinth.com/project/l6YH9Als",
+    "source": "https://github.com/lucko/spark"
+  },
+  {
+    "file": "mods/spawn-animations-compats-17.0.jar",
+    "name": "Spawn Animations Compats",
+    "license": {
+      "id": "LicenseRef-Fyoncle-Custom-License",
+      "name": "",
+      "url": "https://github.com/Fyoncle/spawnanimations-compats/blob/main/LICENSE"
+    },
+    "project": "https://modrinth.com/project/ofDka6PS",
+    "source": "https://github.com/Fyoncle/spawnanimations-compats"
+  },
+  {
+    "file": "mods/spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar",
+    "name": "Spawn Animations",
+    "license": {
+      "id": "LicenseRef-Custom-License",
+      "name": "",
+      "url": "https://github.com/Tschipcraft/spawnanimations/blob/master/LICENSE"
+    },
+    "project": "https://modrinth.com/project/zrzYrlm0",
+    "source": "https://github.com/Tschipcraft/spawnanimations"
+  },
+  {
+    "file": "mods/status-effect-bars-1.0.12.jar",
+    "name": "Status Effect Bars",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/x02cBj9Y",
+    "source": "https://github.com/A5b84/status-effect-bars"
+  },
+  {
+    "file": "mods/stormiespiders-fabric-26.2-3.3.0.jar",
+    "name": "Stormie's Spiders",
+    "license": {
+      "id": "LGPL-2.1-or-later",
+      "name": "GNU Lesser General Public License v2.1 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/3dsI6Hle",
+    "source": "https://github.com/demistorm/Stormies-Spiders"
+  },
+  {
+    "file": "mods/StreamsReflowing-26.2-fabric-2.13.5.jar",
+    "name": "Streams Reflowing",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/oLS8HdJ1",
+    "source": null
+  },
+  {
+    "file": "mods/Structory_26.2_v1.3.7.jar",
+    "name": "Structory",
+    "license": {
+      "id": "LicenseRef-Stardust-Labs-License",
+      "name": "",
+      "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+    },
+    "project": "https://modrinth.com/project/aKCwCJlY",
+    "source": "https://github.com/Stardust-Labs-MC/Structory"
+  },
+  {
+    "file": "mods/Structory_Towers_26.2_v1.0.17.jar",
+    "name": "Structory: Towers",
+    "license": {
+      "id": "LicenseRef-Stardust-Labs-License",
+      "name": "",
+      "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+    },
+    "project": "https://modrinth.com/project/j3FONRYr",
+    "source": "https://github.com/Stardust-Labs-MC/Structory-Towers"
+  },
+  {
+    "file": "mods/structure_layout_optimizer-1.1.4+26.1-fabric.jar",
+    "name": "Structure Layout Optimizer",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/ayPU0OHc",
+    "source": "https://github.com/TelepathicGrunt/StructureLayoutOptimizer"
+  },
+  {
+    "file": "mods/SubtleEffects-fabric-26.2-1.14.3.jar",
+    "name": "Subtle Effects",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/4q8UOK1d",
+    "source": "https://github.com/MincraftEinstein/SubtleEffects"
+  },
+  {
+    "file": "mods/sway-2.4.4-fabric+26.2.jar",
+    "name": "SWAY API",
+    "license": {
+      "id": "CC-BY-NC-SA-4.0",
+      "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International",
+      "url": "https://github.com/RazorPlay01/CustomPlayerAnimation/blob/stonecutter/LICENSE-CC-BY-NC-SA-4.0"
+    },
+    "project": "https://modrinth.com/project/Gj6Yce3v",
+    "source": "https://github.com/RazorPlay01/SWAY"
+  },
+  {
+    "file": "mods/swinginglanterns-fabric-26.2-1.5.2.jar",
+    "name": "Swinging Lanterns",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/3IOcW74j",
+    "source": "https://github.com/Rilith/SwingingLanterns"
+  },
+  {
+    "file": "mods/swirling_smoke-fabric-26.2-1.0.0-perf.jar",
+    "name": "Swirling Smoke",
+    "license": "All Rights Reserved",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/talking-heads-1.1.3+26.2+fabric.jar",
+    "name": "Talking Heads",
+    "license": {
+      "id": "CC-BY-ND-4.0",
+      "name": "Creative Commons Attribution No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/Os35nfkh",
+    "source": "https://github.com/ZipeStudio/TalkingHeads"
+  },
+  {
+    "file": "mods/tcdcommons-5.5.6+fn-26.2.jar",
+    "name": "TCDCommons API",
+    "license": {
+      "id": "LicenseRef-TCDCommons-API-License",
+      "name": "",
+      "url": "https://github.com/TheCSDev/tcdcommons/blob/main/LICENSE.md"
+    },
+    "project": "https://modrinth.com/project/Eldc1g37",
+    "source": "https://github.com/TheCSDev/tcdcommons"
+  },
+  {
+    "file": "mods/tectonic-3.0.26-fabric-26.2.jar",
+    "name": "Tectonic",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/lWDHr9jE",
+    "source": "https://github.com/Apollounknowndev/tectonic"
+  },
+  {
+    "file": "mods/Terralith_26.2_v2.6.4.jar",
+    "name": "Terralith",
+    "license": {
+      "id": "LicenseRef-Stardust-Labs-License",
+      "name": "",
+      "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+    },
+    "project": "https://modrinth.com/project/8oi3bsk5",
+    "source": "https://github.com/Stardust-Labs-MC/Terralith"
+  },
+  {
+    "file": "mods/tlib-fabric-1.5.0-26.2.jar",
+    "name": "TLib",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/sBn7rVvc",
+    "source": "https://github.com/iMeeTake/TLib"
+  },
+  {
+    "file": "mods/ultimate-biome-blend-26.2-2.1.0-fabric-perf.jar",
+    "name": "Ultimate Biome Blend",
+    "license": null,
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/visuality-0.7.14+26.2.jar",
+    "name": "Visuality",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/rI0hvYcd",
+    "source": "https://github.com/PinkGoosik/visuality"
+  },
+  {
+    "file": "mods/VisualWorkbench-v26.2.1-mc26.2.x-Fabric.jar",
+    "name": "Visual Workbench",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/kfqD1JRw",
+    "source": "https://github.com/Fuzss/visualworkbench"
+  },
+  {
+    "file": "mods/voicechat-fabric-2.6.22+26.2.jar",
+    "name": "Simple Voice Chat",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/9eGKb6K1",
+    "source": "https://github.com/henkelmax/simple-voice-chat"
+  },
+  {
+    "file": "mods/Voxy World Gen V2-fabric-26.2-2.4.3.jar",
+    "name": "Voxy WorldGen",
+    "license": {
+      "id": "LicenseRef-iSeeEthan-Custom-License",
+      "name": "",
+      "url": "https://github.com/iSeeEthan/voxy_worldgen_v2/blob/main/LICENSE"
+    },
+    "project": "https://modrinth.com/project/xT0lnNE9",
+    "source": "https://github.com/iSeeEthan/voxy_worldgen_v2"
+  },
+  {
+    "file": "mods/voxy-0.2.19-beta-perf.jar",
+    "name": "Voxy",
+    "license": "All-Rights-Reserved",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/voxy-extra-0.2.6.jar",
+    "name": "Voxy Extra",
+    "license": {
+      "id": "LGPL-3.0-only",
+      "name": "GNU Lesser General Public License v3.0 only",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/znQnhrkQ",
+    "source": "https://github.com/ImGRUI/voxy-extra"
+  },
+  {
+    "file": "mods/waveycapes-fabric-1.11.1-mc26.2.jar",
+    "name": "Wavey Capes",
+    "license": {
+      "id": "LicenseRef-tr7zw-Protective-License",
+      "name": "",
+      "url": "https://github.com/tr7zw/WaveyCapes/blob/1.18/LICENSE"
+    },
+    "project": "https://modrinth.com/project/kYuIpRLv",
+    "source": "https://github.com/tr7zw/WaveyCapes"
+  },
+  {
+    "file": "mods/weaponmaster_ydm-fabric-26.2-4.4.4.jar",
+    "name": "YDM's Weapon Master",
+    "license": {
+      "id": "CC0-1.0",
+      "name": "Creative Commons Zero v1.0 Universal",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/qi1sj2da",
+    "source": null
+  },
+  {
+    "file": "mods/wintery-atmosphere-2.0.0-perf3.jar",
+    "name": "Wintery Atmosphere",
+    "license": "MIT",
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "mods/worn_path-fabric-1.6.1+26.2-dev-shadow.jar",
+    "name": "Worn Path",
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/3XWY8ZZP",
+    "source": "https://github.com/edward3h/worn-path"
+  },
+  {
+    "file": "mods/yet_another_config_lib_v3-3.9.6+26.2-fabric.jar",
+    "name": "YetAnotherConfigLib (YACL)",
+    "license": {
+      "id": "LGPL-3.0-or-later",
+      "name": "GNU Lesser General Public License v3.0 or later",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/1eAoo2KR",
+    "source": "https://github.com/isXander/YetAnotherConfigLib"
+  },
+  {
+    "file": "mods/zconfig-1.0.0+26.x.jar",
+    "name": "ZConfig",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": "https://codeberg.org/ZenXArch/ZConfig/src/branch/dev/LICENSE"
+    },
+    "project": "https://modrinth.com/project/4qmvXRB9",
+    "source": "https://codeberg.org/ZenXArch/FastNoise"
+  },
+  {
+    "file": "mods/zfastnoise-1.1.0-beta.6+26.2.jar",
+    "name": "Fast Noise",
+    "license": {
+      "id": "MPL-2.0",
+      "name": "Mozilla Public License 2.0",
+      "url": "https://codeberg.org/ZenXArch/FastNoise/src/branch/dev/LICENSE"
+    },
+    "project": "https://modrinth.com/project/OnlVIpq5",
+    "source": "https://codeberg.org/ZenXArch/FastNoise"
+  },
+  {
+    "file": "resourcepacks/3D Harness x Fresh Animations.zip",
+    "name": "3D Harnesses x Fresh Animations",
+    "license": {
+      "id": "CC-BY-SA-4.0",
+      "name": "Creative Commons Attribution Share Alike 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/1OR06fW9",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Better Lanterns v1.3.2 - 26.2.zip",
+    "name": "Better Lanterns",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/PGGrfcvL",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Blockier Goat Horn v1.2.zip",
+    "name": "(Bee's) Blockier Goat Horn",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/cTm36Ih9",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Bushy pink petals, wildflowers  leaf litter.zip",
+    "name": "Bushy pink petals, wildflowers & leaf litter",
+    "license": {
+      "id": "Apache-2.0",
+      "name": "Apache License 2.0",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/IVU3SHSl",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/enchant-icons-26.2-v1.3.zip",
+    "name": "Enchant Icons",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/6vhHOIKw",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/FA+All_Extensions-v1.9.2.zip",
+    "name": "Fresh Animations: Extensions",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/YAVTU8mK",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/FA+Player-v1.1.zip",
+    "name": "Fresh Animations: Player Extension",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/TAIMVZCL",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Faithful 64x - Release 14.zip",
+    "name": "Faithful 64x",
+    "license": {
+      "id": "LicenseRef-Faithful-Resource-Pack-License",
+      "name": "",
+      "url": "https://faithfulpack.net/license"
+    },
+    "project": "https://modrinth.com/project/r4GILswZ",
+    "source": "https://github.com/Faithful-Resource-Pack/Faithful-Java-64x"
+  },
+  {
+    "file": "resourcepacks/Faithful-Health-Hunger-26.2.zip",
+    "name": "Faithful-Health-Hunger-26.2.zip",
+    "license": null,
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "resourcepacks/FaithfulPBR_64x_26.2.zip",
+    "name": "FaithfulPBR_64x_26.2.zip",
+    "license": null,
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Fancy Crops v1.3.zip",
+    "name": "(Bee's) Fancy Crops",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/UGEVQ6t9",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Flight-Rocket-Colors-64x-26.2-v1.zip",
+    "name": "Flight-Rocket-Colors-64x-26.2-v1.zip",
+    "license": null,
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Flowering Crops (26.2).zip",
+    "name": "Flowering Crops",
+    "license": {
+      "id": "MIT",
+      "name": "MIT License",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/8KFdcxdj",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/FreshAnimations_v1.10.5.zip",
+    "name": "Fresh Animations",
+    "license": {
+      "id": "LicenseRef-See-Terms-of-Use-in-Description",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/50dA9Sha",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/MickeyJoesFlowers.zip",
+    "name": "Mickey Joe's Flowers!",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/JfivfXs9",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/rainbows-foliage-polytone-edition-v2.0.zip",
+    "name": "rainbow's foliage: polytone",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/bY2CaVIh",
+    "source": "https://github.com/PoeticRainbow/rainbows-foliage"
+  },
+  {
+    "file": "resourcepacks/Re-covered.zip",
+    "name": "Enchanted Books: Re-covered",
+    "license": {
+      "id": "CC-BY-NC-ND-4.0",
+      "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/6gN7YVi7",
+    "source": "https://github.com/carl-classic/Re-covered"
+  },
+  {
+    "file": "resourcepacks/Recolourful Containers 3.1.4 (1.19.4+).zip",
+    "name": "Recolourful Containers GUI + HUD",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/lewweaHO",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/Theone's Eating Animation Pack v1.0.zip",
+    "name": "Theone's Eating Animation Pack",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/OhzX8kDf",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/VanillaTweaks-Quieter-Happy-Ghasts-MC26.2.zip",
+    "name": "VanillaTweaks-Quieter-Happy-Ghasts-MC26.2.zip",
+    "license": null,
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "resourcepacks/§3Fresh §bFlower Pots Rotated.zip",
+    "name": "Fresh Flower Pots: Rotated",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/BrcYkHFu",
+    "source": null
+  },
+  {
+    "file": "resourcepacks/§3Fresh §bFlower Pots.zip",
+    "name": "Fresh Flower Pots",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/project/CmEN0T1m",
+    "source": null
+  },
+  {
+    "file": "shaderpacks/Sundial Lite v1.1.0 (no mob shadows, gpu-opt).zip",
+    "name": "Sundial Lite v1.1.0 (no mob shadows, gpu-opt).zip",
+    "license": null,
+    "project": null,
+    "source": null
+  },
+  {
+    "file": "shaderpacks/photon_v1.3b.zip",
+    "name": "Photon Shaders",
+    "license": {
+      "id": "LicenseRef-",
+      "name": "",
+      "url": "https://github.com/sixthsurge/photon/blob/main/LICENSE"
+    },
+    "project": "https://modrinth.com/shader/photon-shader",
+    "source": "https://github.com/sixthsurge/photon"
+  },
+  {
+    "file": "shaderpacks/Solas Shader V3.7b.zip",
+    "name": "Solas Shader",
+    "license": {
+      "id": "LicenseRef-All-Rights-Reserved",
+      "name": "",
+      "url": null
+    },
+    "project": "https://modrinth.com/shader/solas-shader",
+    "source": "https://github.com/Septonious/Solas-Shader"
+  }
+]

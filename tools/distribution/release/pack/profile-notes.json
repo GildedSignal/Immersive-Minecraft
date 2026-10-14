@@ -1,0 +1,137 @@
+{
+  "defaultNewInstall": "vanilla",
+  "legacyExistingInstall": "full",
+  "worldDataVersion": 4903,
+  "vanillaMods": 153,
+  "excluded": [
+    {
+      "id": "attributefix",
+      "name": "AttributeFix"
+    },
+    {
+      "id": "baguettelib",
+      "name": "BaguetteLib"
+    },
+    {
+      "id": "celestia",
+      "name": "celestia"
+    },
+    {
+      "id": "doubledoors",
+      "name": "Double Doors"
+    },
+    {
+      "id": "enhancedvisuals",
+      "name": "EnhancedVisuals"
+    },
+    {
+      "id": "explorify",
+      "name": "Explorify"
+    },
+    {
+      "id": "fieldguide",
+      "name": "Field Guide"
+    },
+    {
+      "id": "immersive-storms",
+      "name": "Immersive Storms"
+    },
+    {
+      "id": "incendium",
+      "name": "Incendium"
+    },
+    {
+      "id": "incendium_translation_fix",
+      "name": "Incendium Translation Fix"
+    },
+    {
+      "id": "lithostitched",
+      "name": "Lithostitched"
+    },
+    {
+      "id": "mapstitch",
+      "name": "MapStitch"
+    },
+    {
+      "id": "nullscape",
+      "name": "Nullscape"
+    },
+    {
+      "id": "particular",
+      "name": "Particular Reforged"
+    },
+    {
+      "id": "puddleflood",
+      "name": "Puddles & Floods"
+    },
+    {
+      "id": "rightclickharvest",
+      "name": "Right Click Harvest"
+    },
+    {
+      "id": "scholar",
+      "name": "Scholar"
+    },
+    {
+      "id": "simple-atlas",
+      "name": "Simple Atlas"
+    },
+    {
+      "id": "snowundertrees",
+      "name": "Snow Under Trees"
+    },
+    {
+      "id": "mr_spawn_animationscompats",
+      "name": "Spawn Animations Compats"
+    },
+    {
+      "id": "spawnanimations",
+      "name": "Spawn Animations"
+    },
+    {
+      "id": "stormiespiders",
+      "name": "Stormie's Spiders"
+    },
+    {
+      "id": "streamsreflowing",
+      "name": "StreamsReflowing"
+    },
+    {
+      "id": "structory",
+      "name": "Structory"
+    },
+    {
+      "id": "structory_towers",
+      "name": "Structory: Towers"
+    },
+    {
+      "id": "tectonic",
+      "name": "Tectonic"
+    },
+    {
+      "id": "terralith",
+      "name": "Terralith"
+    },
+    {
+      "id": "visualworkbench",
+      "name": "Visual Workbench"
+    },
+    {
+      "id": "voxyworldgenv2",
+      "name": "Voxy World Gen V2"
+    },
+    {
+      "id": "wintery-atmosphere",
+      "name": "Wintery Atmosphere"
+    },
+    {
+      "id": "worn_path",
+      "name": "Worn Path"
+    },
+    {
+      "id": "zfastnoise",
+      "name": "Fast Noise"
+    }
+  ],
+  "principle": "Separate instance/save roots. Import copies; do not convert/remove mods from full-profile saves."
+}

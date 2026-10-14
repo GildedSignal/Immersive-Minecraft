@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "iris_translucent_order",
+  "version": "1.0.0",
+  "name": "Iris Translucent Order Fix",
+  "description": "Backport of IrisShaders/Iris PR #3151 for Iris 1.11.2+mc26.2: when the shader pack does not set separateEntityDraws, translucent features (piglins, players, item-frame maps, sign text...) are drawn before deferred like before 26.1. Fixes see-through entities/maps with Sundial Lite (GeForceLegend/Sundial-Lite#24). Disable with -Diristranslucentorder=false.",
+  "authors": ["Julien Laurent (local build)"],
+  "license": "LGPL-3.0",
+  "environment": "client",
+  "mixins": ["iris_translucent_order.mixins.json"],
+  "depends": { "fabricloader": ">=0.16", "minecraft": "26.2", "iris": ">=1.11.0 <1.12" }
+}
