@@ -4,6 +4,7 @@ import com.evandev.fieldguide.client.progress.ProgressManager;
 import com.evandev.fieldguide.client.gui.screens.BookScreen;
 import com.evandev.fieldguide.client.gui.screens.FieldGuideJournalScreen;
 import mcperf.compat.LocalJournal;
+import mcperf.compat.LocalGuide;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
@@ -18,6 +19,7 @@ public abstract class FieldGuideProgressMixin {
     @Inject(method={"onWorldLoad", "onWorldUnload"}, at=@At("HEAD"))
     private void resetLocalJournal(CallbackInfo ci) {
         LocalJournal.reset();
+        LocalGuide.reset();
         BookScreen.lastOpenedScreen=null;
         FieldGuideJournalScreen.lastOpenedJournalPage=0;
     }

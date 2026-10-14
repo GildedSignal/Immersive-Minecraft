@@ -2,7 +2,7 @@
 
 Minecraft Java **26.2**, Fabric **0.19.5**, with a Windows launcher, two modpack profiles, custom client addons and compatibility patches.
 
-This repository contains the launcher and preparation engine source, the exact downloadable modpack manifests and settings recipes, editable customizations, licensing notices, and tests. Release **2026.10.14.1** adds workstation UI, Interactive Stuff sound-thread and Field Guide journal repairs.
+This repository contains the launcher and preparation engine source, the exact downloadable modpack manifests and settings recipes, editable customizations, licensing notices, and tests. Release **2026.10.14.2** adds local Field Guide discovery, chest audio and shutdown fixes, Enderman atlas repair and a Streams Reflowing update, alongside the workstation UI and Interactive Stuff callback repairs.
 
 - [Download and player guide](https://immersive-minecraft-friends.fr-brainforge.chatgpt.site)
 - [Browse every included mod](https://immersive-minecraft-friends.fr-brainforge.chatgpt.site/mods/)
@@ -12,10 +12,9 @@ This repository contains the launcher and preparation engine source, the exact d
 - [Vanilla protection manifest](tools/distribution/release/pack/manifest-vanilla.json)
 - [Editable addon and patch sources](customizations)
 - [Performance patch sources](performance-patches)
-- [Latest compatibility repairs](tools/three-bug-fixes/README.md)
-- [Expanded UI coverage, comparisons and validation](docs/compatibility-validation.md)
+- [Latest compatibility repairs and validation details](tools/three-bug-fixes/README.md)
 
-The full profile includes gameplay/content mods. Vanilla protection uses a separate save directory and a subset intended for vanilla worlds/servers. Discovery features such as Field Guide creature scanning need their server mod. On servers without Field Guide, the compatibility addon provides a personal journal saved on the player's computer. Neither profile guarantees a particular FPS.
+The full profile includes gameplay/content mods. Vanilla protection uses a separate save directory and a subset intended for vanilla worlds/servers. Field Guide creature scanning and personal journals now work locally when Field Guide is absent from the server. Local discoveries and notes are private and persist per player/server; compatible Field Guide servers keep upstream synchronization. Custom server loot tables, datapacks and rewards still depend on server-provided information. Neither profile guarantees a particular FPS.
 
 The launcher downloads Prism Launcher unchanged, then downloads third-party mods and packs from their recorded author URLs with hash verification. Local archive recipes reconstruct the reviewed customizations. Microsoft/Minecraft sign-in requires each player's own Java Edition account. Worlds, account data, saved servers, credentials and private gameplay logs are excluded from this repository.
 
@@ -40,9 +39,9 @@ The Windows source also includes native tests for launch detection, window suppr
 
 ## Latest repairs
 
-The 26.2 Recolourful text shader now uses the existing texture corner markers, removing reproduced repeating/triangular animation strips on Ender Chest, anvil and stonecutter probes while preserving animations. Interactive Stuff's sound callbacks are dispatched on Minecraft's thread, preserving C2ME's safety checks and the binding metadata cache. Field Guide opens an editable local journal when the server does not support its journal protocol; notes are scoped per player/server and backed up locally.
+The 26.2 Recolourful text shader uses existing texture corner markers, removing reproduced repeating/triangular animation strips while preserving animations. All 68 marker textures were audited with 136 native batching/tooltip captures. Interactive Stuff callbacks execute on Minecraft's thread; the actual held-sculk script now plays its clicking sound from a worker callback without the unsafe-random exception. Field Guide's local fallback loads 177 entries and supports native scans, entry notes and journals with private persistence.
 
-The repairs pass 22 sound-dispatch/journal-persistence assertions and native UI/journal checks with Faithful, Iris, Sodium, ImmediatelyFast and Scholar. A sculk-sensor gameplay confirmation remains pending. The separately recorded shutdown-watchdog issue is not claimed resolved by the sound callback fix. The linked public download site can lag this repository until the author publishes the new snapshot.
+The repairs pass 36 dispatch/storage assertions. Native single/double/Ender chest tests pass 21 clear paths and 21 wall controls, retaining obstruction muffling and the 320-ray/12-bounce reverb settings. Sound Physics worker pools shut down on client exit. Enderman body UVs now match the active Fresh Extensions atlas; native before/after corpse captures confirm the missing body surfaces are opaque. A 25-pig death test reaches the existing 16-corpse cap with vanilla overflow and zero budget-helper failures. Streams Reflowing 2.14.4 includes its author's unsafe-terrain-read fixes. Standalone launcher checks verify 212 full / 180 protected artifacts and preserved player preferences. Natural audible comparisons, live launcher feedback, server tick evidence and the 180 FPS target remain pending. The linked public download site can lag this repository until the author publishes the snapshot.
 
 ## Licensing
 

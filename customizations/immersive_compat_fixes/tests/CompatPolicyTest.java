@@ -1,5 +1,6 @@
 import mcperf.compat.SoundDispatch;
 import mcperf.compat.JournalStore;
+import mcperf.compat.GuideStore;
 import java.nio.file.*;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
@@ -26,6 +27,19 @@ public final class CompatPolicyTest {
             check(next.equals(JournalStore.load(first)));
         }
         Files.writeString(other,"{invalid"); try {JournalStore.load(other);throw new AssertionError();}catch(Exception expected){checks++;}check(Files.readString(other).equals("{invalid"));
-        System.out.println(checks+" sound dispatch and journal persistence assertions passed");
+        Path guide=root.resolve("progress.json");
+        var discovery=new GuideStore.Progress(1,List.of("entity:minecraft/pig"),List.of("entity:minecraft/pig"),Map.of("entity:minecraft/pig",123L),Map.of("entity:minecraft/pig",42L),Map.of("entity:minecraft/pig","Café 🐷"),Map.of("entity:minecraft/pig","My personal observation"),Map.of());
+        check(GuideStore.load(guide)==null);GuideStore.save(guide,discovery);check(discovery.equals(GuideStore.load(guide)));
+        var renamed=new GuideStore.Progress(1,discovery.unlocked(),discovery.seen(),discovery.times(),discovery.gameTimes(),Map.of("entity:minecraft/pig","Camp pig"),discovery.descriptions(),discovery.variants());
+        GuideStore.save(guide,renamed);check(renamed.equals(GuideStore.load(guide)));check(discovery.equals(GuideStore.load(guide.resolveSibling("progress.json.bak"))));
+        for(var bad:List.of(new GuideStore.Progress(2,List.of(),List.of(),Map.of(),Map.of(),Map.of(),Map.of(),Map.of()),
+            new GuideStore.Progress(1,List.of("x".repeat(513)),List.of(),Map.of(),Map.of(),Map.of(),Map.of(),Map.of()),
+            new GuideStore.Progress(1,Collections.nCopies(8193,"x"),List.of(),Map.of(),Map.of(),Map.of(),Map.of(),Map.of()),
+            new GuideStore.Progress(1,List.of(),List.of(),Map.of(),Map.of(),Map.of(),Map.of("x","x".repeat(8193)),Map.of()))) {
+            try {GuideStore.save(guide,bad);throw new AssertionError("Accepted invalid progress");}catch(IllegalArgumentException expected){checks++;}
+            check(renamed.equals(GuideStore.load(guide)));
+        }
+        Files.writeString(guide,"{invalid");try{GuideStore.load(guide);throw new AssertionError();}catch(Exception expected){checks++;}check(Files.readString(guide).equals("{invalid"));
+        System.out.println(checks+" sound dispatch, journal and discovery persistence assertions passed");
     }
 }

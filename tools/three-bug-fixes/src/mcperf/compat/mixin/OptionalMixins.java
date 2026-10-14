@@ -9,7 +9,7 @@ import java.util.Set;
 
 public final class OptionalMixins implements IMixinConfigPlugin {
     public boolean shouldApplyMixin(String target, String mixin) {
-        return FabricLoader.getInstance().isModLoaded(mixin.contains("Interactive") ? "interactivestuff" : "fieldguide");
+        return FabricLoader.getInstance().isModLoaded(mixin.contains("Interactive") ? "interactivestuff" : mixin.contains("SoundPhysics")?"sound_physics_perfected":"fieldguide");
     }
     public void onLoad(String p) {}
     public String getRefMapperConfig() { return null; }
@@ -17,7 +17,8 @@ public final class OptionalMixins implements IMixinConfigPlugin {
     public List<String> getMixins() {
         var result=new java.util.ArrayList<String>();
         if(FabricLoader.getInstance().isModLoaded("interactivestuff")) result.add("InteractiveSoundMixin");
-        if(FabricLoader.getInstance().isModLoaded("fieldguide")) result.addAll(List.of("FieldGuideOpenMixin","FieldGuideProgressMixin","FieldGuideProgressAccess"));
+        if(FabricLoader.getInstance().isModLoaded("sound_physics_perfected")) result.add("SoundPhysicsChestMixin");
+        if(FabricLoader.getInstance().isModLoaded("fieldguide")) result.addAll(List.of("FieldGuideOpenMixin","FieldGuideProgressMixin","FieldGuideProgressAccess","FieldGuideScanAccess","FieldGuideNetworkMixin","FieldGuideTickMixin"));
         return result;
     }
     public void preApply(String target, ClassNode node, String mixin, IMixinInfo info) {}

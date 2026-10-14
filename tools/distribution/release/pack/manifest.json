@@ -2,7 +2,7 @@
   "schema": 1,
   "id": "immersive-minecraft",
   "name": "Immersive Minecraft",
-  "version": "2026.10.14.1",
+  "version": "2026.10.14.2",
   "minecraft": "26.2",
   "fabric": "0.19.5",
   "releaseReady": true,
@@ -790,14 +790,14 @@
     },
     {
       "path": "mods/physics-mod-3.2.4-mc-26.2-fabric.jar",
-      "size": 122082083,
-      "sha256": "3757d241afad2a34f380809c52338cee9cff9c0127d0bcfd10becfd512dbfa3d",
+      "size": 122090235,
+      "sha256": "fbe40f546dc11019fd9d5a797d98372ef69691820c67605a6961329a0273a71d",
       "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/NmnAHHdB/physics-mod-3.2.4-mc-26.2-fabric.jar",
       "patch": {
         "sha256": "423801027870ad8f3309d52d2ceb5f09cee42dee1f8c9cec31b11a0d136ed6b4",
         "size": 89489160,
         "recipe": "customizations/physics-mod-3.2.4-mc-26.2-fabric.jar.json",
-        "recipeSha256": "3cb7095a28a0e5db26b7e489b166c8f844003abd05399aae54dde30b558b105d"
+        "recipeSha256": "c5e443b64dc3ce967c30b8e96df6458e84db7258e66af6b595b766120b8a5bf1"
       }
     },
     {
@@ -1023,10 +1023,10 @@
       "url": "https://cdn.modrinth.com/data/3dsI6Hle/versions/Q2wUcZmZ/stormiespiders-fabric-26.2-3.3.0.jar"
     },
     {
-      "path": "mods/StreamsReflowing-26.2-fabric-2.13.5.jar",
-      "size": 2716034,
-      "sha256": "10b5a971c16307b7b15b2eee4dd94092b21c147d9e3c43a3704b27675db942a7",
-      "url": "https://cdn.modrinth.com/data/oLS8HdJ1/versions/A5i79RsE/StreamsReflowing-26.2-fabric-2.13.5.jar"
+      "path": "mods/StreamsReflowing-26.2-fabric-2.14.4.jar",
+      "sha256": "631db954a8299d389308bb5e474b48e13e715676d078e5c8e3b8c7711aba4fed",
+      "size": 2857387,
+      "url": "https://cdn.modrinth.com/data/oLS8HdJ1/versions/2AFr1CZW/StreamsReflowing-26.2-fabric-2.14.4.jar"
     },
     {
       "path": "mods/Structory_26.2_v1.3.7.jar",
@@ -1379,10 +1379,10 @@
       }
     },
     {
-      "path": "mods/immersive-compat-fixes-1.0.0+26.2.jar",
-      "sha256": "f5c2d24e59a9622ed5fbbe3d798f8977005438a2edc575ed068efc640c7b509a",
-      "size": 15029,
-      "payload": "payload/mods/immersive-compat-fixes-1.0.0+26.2.jar"
+      "path": "mods/immersive-compat-fixes-1.1.0+26.2.jar",
+      "sha256": "4e3cb506cf5094429d8df2d318c2c498cda8e07b55ea9a816297b9b8080bdab8",
+      "size": 28257,
+      "payload": "payload/mods/immersive-compat-fixes-1.1.0+26.2.jar"
     }
   ],
   "options": {
@@ -1462,7 +1462,7 @@
     "firstRun": "Language/theme/Java/memory configured before Prism; authentication remains mandatory",
     "optionsFormat": "Minecraft 26.2 options version 4903 prevents legacy key conversion on a fresh migration.",
     "gameplayPatches": "110 native binding behavior assertions per version; 146 container pairing/equality assertions; actual loaded chest pair/floor verified. Rain volume restored to mod default 0.2. Audible chest/rain confirmation and controlled frame-time A/B remain pending.",
-    "compatibilityFixes": "One Recolourful 26.2 shader define; all other pack entries unchanged; native before/after render with Faithful, Iris and ImmediatelyFast. Main-thread Interactive Stuff sound callbacks; stale queued work discarded on script reload/session change. Local Field Guide journal fallback on servers without journal support; notes remain private and server discovery requires server mod."
+    "compatibilityFixes": "Recolourful red-channel GUI markers; 68 textures and 136 native captures. Interactive held-sculk worker callback plays on Minecraft thread. Field Guide local fallback loads 177 entries; native scan, entry notes and seen state survive reconnect with zero outbound personal-progress packets. 36 persistence/dispatch assertions. Single/double/Ender chest native gain grid: 21 clear paths and 21 wall controls. Sound Physics executors stopped on exit. Enderman guarded body-only atlas remap: 168 UV corners, zero helper failures; frozen test corpse rendered opaque. Streams Reflowing 2.14.4 author fixes unsafe terrain reads; no warnings in copied-world runs. Natural audible comparisons, farm saturation and 180 FPS remain pending."
   },
   "modIds": [
     "advancementplaques",

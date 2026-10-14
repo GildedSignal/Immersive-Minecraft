@@ -54,15 +54,6 @@
     "localEditBytes": 21939
   },
   {
-    "path": "mods/physics-mod-3.2.4-mc-26.2-fabric.jar",
-    "originalUrl": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/NmnAHHdB/physics-mod-3.2.4-mc-26.2-fabric.jar",
-    "originalSha256": "423801027870ad8f3309d52d2ceb5f09cee42dee1f8c9cec31b11a0d136ed6b4",
-    "installedSha256": "7b9e6bd17f626847cf921490ed484ae0cacf8d0926fac487af8dd2c45576acd7",
-    "reconstructedSha256": "3757d241afad2a34f380809c52338cee9cff9c0127d0bcfd10becfd512dbfa3d",
-    "entryContentsIdentical": true,
-    "localEditBytes": 120516
-  },
-  {
     "path": "mods/Ripple-1.2.3-26.2-perf2.jar",
     "originalUrl": "https://cdn.modrinth.com/data/5hOgUfig/versions/FUG1A2Eh/Ripple-1.2.3-26.2.jar",
     "originalSha256": "523cd243312fe1ec00306f9b0978bb61e1e71f2f6f7c813c613f904ca8563a2e",
@@ -153,5 +144,14 @@
       "26.1-26.2/assets/minecraft/shaders/core/text.vsh"
     ],
     "edit": "Enable existing USE_RED_CHANNEL code for texture corner markers; no textures modified"
+  },
+  {
+    "path": "mods/physics-mod-3.2.4-mc-26.2-fabric.jar",
+    "originalUrl": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/NmnAHHdB/physics-mod-3.2.4-mc-26.2-fabric.jar",
+    "originalSha256": "423801027870ad8f3309d52d2ceb5f09cee42dee1f8c9cec31b11a0d136ed6b4",
+    "installedSha256": "253934a20d2654776015afe5369ced411df61df269dc3376d681087b51b30028",
+    "reconstructedSha256": "fbe40f546dc11019fd9d5a797d98372ef69691820c67605a6961329a0273a71d",
+    "entryContentsIdentical": true,
+    "edit": "Preserve budget V2, add exact Fresh Extensions Enderman body atlas guard/remap; eyes and other models unchanged"
   }
 ]

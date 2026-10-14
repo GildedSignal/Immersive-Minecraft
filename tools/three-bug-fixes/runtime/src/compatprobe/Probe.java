@@ -52,7 +52,11 @@ public final class Probe implements ClientModInitializer {
                         else {FieldGuideClient.openDefaultScreen();log("Default Field Guide screen: "+mc.gui.screen().getClass().getSimpleName());}
                     });
                 } else if(phase==uiPhases+1) {
-                    if(fixed)typeJournal(mc);
+                    if(fixed) {
+                        testLocalDiscovery(mc);
+                        mc.gui.setScreen(new FieldGuideJournalScreen(null,0));
+                        typeJournal(mc);
+                    }
                     capture(mc,"field-guide.png",()->phase=uiPhases+2);
                 } else if(phase==uiPhases+2) {
                     if(fixed) {
@@ -62,6 +66,7 @@ public final class Probe implements ClientModInitializer {
                         ProgressManager.getInstance().onWorldUnload();ProgressManager.getInstance().onWorldLoad();
                         FieldGuideClient.openDefaultScreen();
                         if(!manager.getJournalPages().getFirst().content.equals(text))throw new AssertionError("Journal did not survive reload");
+                        mc.gui.setScreen(new FieldGuideJournalScreen(null,0));
                         log("Native click, Ctrl+A, typing, local save, world unload/load and reopen passed.");
                         phase=uiPhases+3;entered=System.nanoTime();return;
                     }
@@ -71,6 +76,19 @@ public final class Probe implements ClientModInitializer {
                 }
             } catch(Throwable e) {log("FAIL: "+e);e.printStackTrace();phase=9;mc.stop();}
         });
+    }
+    private void testLocalDiscovery(Minecraft mc) {
+        if(ClientFieldGuideManager.getCategories().size()<3)throw new AssertionError("Local categories absent");
+        var pig=net.minecraft.world.entity.EntityTypes.PIG;
+        var entry=ClientFieldGuideManager.getEntryId(pig);
+        com.evandev.fieldguide.platform.Services.NETWORK.sendToServer(new com.evandev.fieldguide.network.ScanUnlockPacket(entry,"",entry,null,0));
+        if(!ClientFieldGuideManager.isUnlocked(pig))throw new AssertionError("Personal scan did not unlock pig");
+        ClientFieldGuideManager.setCustomDescription(pig,"My personal pig observation");
+        ClientFieldGuideManager.markAsSeen(pig);
+        ProgressManager.getInstance().onWorldUnload();ProgressManager.getInstance().onWorldLoad();FieldGuideClient.openDefaultScreen();
+        if(!ClientFieldGuideManager.isUnlocked(pig))throw new AssertionError("Personal discovery did not survive reconnect");
+        if(!ClientFieldGuideManager.getEntryDescription(pig).contains("My personal pig observation"))throw new AssertionError("Entry notes did not persist");
+        log("Local categories="+ClientFieldGuideManager.getCategories().size()+" entries="+ClientFieldGuideManager.getValidEntries().size()+"; native scan request, unlock, entry notes, seen state and reconnect persistence passed without a server connection.");
     }
     private void typeJournal(Minecraft mc) {
         if(!(mc.gui.screen() instanceof FieldGuideJournalScreen))throw new AssertionError("Fallback journal absent");

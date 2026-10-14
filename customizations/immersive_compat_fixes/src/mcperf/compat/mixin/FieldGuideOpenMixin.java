@@ -4,6 +4,8 @@ import com.evandev.fieldguide.client.FieldGuideClient;
 import com.evandev.fieldguide.client.gui.screens.FieldGuideJournalScreen;
 import com.evandev.fieldguide.client.gui.screens.BookScreen;
 import mcperf.compat.LocalJournal;
+import mcperf.compat.LocalGuide;
+import com.evandev.fieldguide.client.gui.screens.FieldGuideCategoryScreen;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
@@ -16,7 +18,7 @@ public abstract class FieldGuideOpenMixin {
     private static void openLocalJournal(CallbackInfo ci) {
         if (!LocalJournal.serverSupportsJournal()) {
             LocalJournal.load();
-            Minecraft.getInstance().gui.setScreen(new FieldGuideJournalScreen(null,0));
+            Minecraft.getInstance().gui.setScreen(LocalGuide.ensure() ? new FieldGuideCategoryScreen() : new FieldGuideJournalScreen(null,0));
             ci.cancel();
         }
     }

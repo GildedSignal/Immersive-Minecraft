@@ -18,7 +18,9 @@ with zipfile.ZipFile(mods/'compat-runtime-probe.jar','w',zipfile.ZIP_DEFLATED) a
  z.writestr('probe.mixins.json',json.dumps({'required':True,'package':'compatprobe.mixin','compatibilityLevel':'JAVA_25','client':['HiddenWindowMixin'],'injectors':{'defaultRequire':1}}))
 for pattern in ['fabric-api-*','fieldguide-*','scholar-*','ForgeConfigAPIPort-*','forgeconfigapiport-*','interactivestuff-*','iris-fabric-*','sodium-fabric-*','ImmediatelyFast-*']:
  for p in (G/'mods').glob(pattern):shutil.copy2(p,mods/p.name)
-if fixed:shutil.copy2(B/'immersive-compat-fixes-1.0.0+26.2.jar',mods)
+if fixed:
+ for p in mods.glob('immersive-compat-fixes-*.jar'):p.unlink()
+ shutil.copy2(B/'immersive-compat-fixes-1.1.0+26.2.jar',mods)
 packs=game/'resourcepacks';packs.mkdir(exist_ok=True);selected=['vanilla']
 for name in ['Faithful 64x - Release 14.zip','Recolourful Containers 3.1.4 (1.19.4+).zip','Faithful-Health-Hunger-26.2.zip']:
  shutil.copy2(B/'Recolourful-26.2-corner-fixed.zip' if fixed and name.startswith('Recolourful') else G/'resourcepacks'/name,packs/name);selected.append('file/'+name)
